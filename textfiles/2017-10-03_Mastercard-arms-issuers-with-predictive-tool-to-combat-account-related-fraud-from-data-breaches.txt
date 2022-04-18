@@ -1,0 +1,24 @@
+## Title: Mastercard arms issuers with predictive tool to combat account related fraud from data breaches
+## Section: Financial News
+## Date: 3 October 2017 12:00 am
+
+Mastercard arms issuers with predictive tool to combat account related fraud from data breaches
+
+
+	
+
+
+
+ 
+
+With speed being a critical factor in fighting fraud, Mastercard announced the launch of Early Detection System.
+
+
+This new service provides issuers with a unique advanced alert for cards and accounts at a heightened risk of fraudulent use based on their exposure in security incidents or data breaches.
+The business of stolen data is in the news daily and thieves are getting faster every day. Just last month, 143 million identities were reported as compromised in one data breach, and it can take as little as nine minutes for stolen data posted to the dark web to be used. Knowing that not all compromised accounts will be used fraudulently, and every second counts, Mastercard developed Early Detection System to help financial institutions take action faster, thus preempting more serious attacks.
+
+
+Using Mastercard network insights, predictive capabilities and a combination of internal and external data sources, Early Detection System determines if a card or account is at risk and sends an alert to the issuer with a quantification of the level of risk. The issuer then uses the level of risk to more accurately prioritize what action to take - from monitoring transactions more closely to proactively issuing a replacement card. “Knowledge is power, and this service helps issuers act significantly faster and with greater precision to stop potential fraud before it occurs,” said Mastercard Enterprise Risk and Security President Ajay Bhalla. “Our issuers can now proactively target the fraudulent activity resulting from previously breached or hacked data, helping them reduce costs and maintain the best possible cardholder experience.”  Early Detection System is available to issuers globally and captures all types of fraud across all transaction channels. The system identifies everything from active criminal trading of account data, to identification of cards being tested prior to being used for fraud, to account data that appears at-risk but without sufficient evidence to declare an Account Data Compromise event. This provides issuers with alerts on a much broader set of at-risk accounts potentially six to 18 months ahead of traditional alerts.
+ 
+
+		

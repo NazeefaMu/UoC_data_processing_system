@@ -1,0 +1,15 @@
+## Title: Mother-child communication in plants
+## Supertitle: 
+## Section: T&C
+## Date: Tuesday, July 31, 2018 - 01:00
+
+Mother-child communication in plants
+
+Turns out, there is mother-child communication in plants.
+An international team led by the Freiburg plant biologist Prof. Dr. Thomas Laux has shown that mother plants guide the development of their embryos using the hormone auxin. When embryos develop inside their mother, their well-being depends on the nurture provided by the maternal tissue. Mutations in the maternal tissue may result in defective embryo development.
+In seed-bearing plants such as grains, the embryos develop in unison with the surrounding tissue of the mother plant. Laux and colleagues, therefore, put forward that there must be a form of communication between the mother plant and the embryo that guides the early stages of development after fertilization.
+Auxin is used by plants to control a variety of processes ranging from organ development to defense against pathogenic microbes. The Freiburg biologists have shown that embryo development is disturbed when the production of auxin by the maternal cells is blocked.
+However, artificial activation of auxin biosynthesis in the embryo cells, which are normally unable to produce this hormone in early stages of development, allowed the embryos to develop normally without a maternal auxin supply.
+Since they made similar observations in maize, the researchers speculate that the mechanism they discovered may be widespread in plant species. This finding could also contribute to the optimization of biotechnological plant propagation. In the future, this result might help breeders grow plants that are more resilient in the face of environmental challenges.
+The full findings are present in the journal- Nature Plants.
+The Scientist

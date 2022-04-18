@@ -1,0 +1,40 @@
+## Title: Fortunaglobal introduces Affluence Soft Token to enhance digital security for banking
+## Section: Financial News
+## Date: 14 November 2017 12:59 am
+
+Fortunaglobal introduces Affluence Soft Token to enhance digital security for banking
+
+
+	
+
+Colombo-based Fortunaglobal (Pvt.) Ltd, a leader in omni-channel banking software solutions for Sri Lanka’s Fintech sector has started rolling out its software token solution to local banks.
+
+
+Offering up a higher level of security that is time based, this solution is a better option when compared to the more expensive hardware tokens.
+
+
+Part of Fortunaglobal’s Affluence omni-channel banking and financial services platform, which is widely recognized as being the benchmark for Sri Lanka’s Fintech sector, the Affluence Soft Token is a software-based security token that generates an One Time Password (OTP).
+
+
+For banks and financial institutions that are looking to introduce additional layers of security, especially for overseas clients who significantly benefit from a short-lived OTP via SMS, this solution offers a great relief from a major pain point. Further, easy integration, via standard APIs, with any third party solution is an added advantage. Importantly, the solution works seamlessly with any bank’s existing Internet Banking or Mobile Banking solution.
+
+
+A replacement for hardware tokens, this solution provides a distinct OTP for each activity, from a shared secret key that is unique to the mobile application installed on one’s smart device.  Affluence Soft Tokens add even greater levels of security to Affluence-based banking transactions since, even if an user’s traditional password is stolen or compromised, attackers cannot gain access without the OTP, which changes after a set period of time.
+
+
+The benefits of the Affluence Soft Token also include its flexibility and ease of use, while also being very cost effective in comparison to the more expensive hardware tokens. An OTP can also be generated offline, without the requirement of any sort of network coverage.
+
+
+Further, the Affluence Soft Token also offers numerous other features, from secure transactions with two factor authentications, to allowing end-users to securely generate the OTP from their desired mobile device, as well as giving them the option to revoke and re-activate Soft Tokens using the same simple activation process. It even provides enhanced compatibility with a wide range of mobile devices.
+
+
+Commenting on the launch, Fortunaglobal CEO Suren Kohombange said: “Not only is our Affluence Soft Token solution cost effective compared to more expensive hardware tokens, it also offers greater security. At the same time, it continues to be flexible and simple to use. All the hallmarks of a revolutionary product that can help banks and financial service companies immeasurably.”
+
+
+Fortunaglobal’s Affluence suite of B2B and B2C digital banking solutions currently provides next generation services via an omni-channel platform that fast tracks and evolves the delivery of banking and financial services, while at the same time simplifying them for banking staff and 
+end-consumers.
+
+ 
+ 
+
+		

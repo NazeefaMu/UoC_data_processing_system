@@ -1,0 +1,50 @@
+## Title: ‘Mastercard Developers’ launch accelerates pace of commerce innovation
+## Section: Financial News
+## Date: 30 September 2016 12:00 am
+
+‘Mastercard Developers’ launch accelerates pace of commerce innovation
+
+
+	
+
+Mastercard makes it even easier for developers to create next-generation commerce solutions with the launch of Mastercard Developers.
+
+
+This single gateway enables Mastercard partners to access a diverse range of application programming interfaces (APIs) across payments, data and security. The platform also includes a ‘New and Experimental’ API category that enables partners to test new technologies and applications.
+
+
+The experimental APIs, developed at the company’s eight R&D Labs around the world, will help partners build, scale and enable payments on new platforms. At the same time, they will have a foundation to explore payments integration into new categories such as augmented reality, virtual reality and the Internet of Things.  
+
+
+“We see Mastercard Developers as empowering our customers, partners and their developers in their efforts to innovate and grow their own businesses,” said Mastercard Senior Vice President APIs Oran Cummins. 
+
+
+“The new platform will serve as a key way to integrate Mastercard technology and services into their digital solutions in an easy and cost-effective way. And, consumers will benefit from the simpler, faster and safer experiences driven by these efforts.” Partners now have access to more than 25 Mastercard APIs– including key services like Masterpass and Mastercard Digital Enablement Services– in a format they can more easily connect to and integrate with. Included in this is a new API that has been developed to maximize financial inclusion efforts. The Mastercard Aid Network helps to streamline aid distribution, even in the absence of telecommunications infrastructure, while providing more transparency to humanitarian organisations and non-profits.
+
+ The new Mastercard Developers provides a streamlined experience and clear, developer-friendly documentation with APIs supported by software development kits (SDKs), developer tools and sample code for the top six programming languages. The platform has been growing and has seen a 400 percent increase in usage in the past year.
+
+Key APIs in Mastercard Developers
+
+Payment
+Masterpass: A digital payment service that simplifies the shopping experience. It allows consumers to pay with any payment card, anywhere, with any device.
+Mastercard Digital Enablement Services (MDES): Provides services around the tokenization of MasterCard card numbers for increased payment security.
+Mastercard Send: Can send P2P, disbursement and remittances transactions to almost any debit account, often within seconds.
+Data services
+Market insights: Provides access to trend and sales data at industry and micro-sector levels far earlier than government or other industry sources.
+Retail location insights: Offers insights to commercial real estate about the monthly performance of retail locations to help evaluate acquisitions, optimize rents and validate conclusions.
+Media measurement: Measures the impact of digital media campaigns on online and offline sales.
+Security
+Fraud scoring for merchants: Allows a merchant or its fraud solution provider to obtain a transaction score ranging from 000 to 999 – the higher the score, the higher the likelihood of fraud.
+MATCH: Helps acquirers identify potentially high-risk merchants before entering to a merchant agreement.
+Assurance IQ: Provides a confidence level for a user’s digital identity, which can then be used to determine if a further form of authentication is suggested.
+Experimental
+Bot Commerce: Provides bot integration with commerce platforms to enable commerce functionalities and Masterpass integration.
+Qkr! with Masterpass:  A mobile payments platform that enables consumers to order and pay for goods and services from their smart device.
+Mastercard Vending: Helps to easily connect your mobile app to our vending platform –enables customers buy directly in-app.
+Financial inclusion
+MC aid network: An end-to-end, non-financial service designed to streamline aid distribution even in the absence of telecommunications infrastructure.
+
+ 
+ 
+
+		

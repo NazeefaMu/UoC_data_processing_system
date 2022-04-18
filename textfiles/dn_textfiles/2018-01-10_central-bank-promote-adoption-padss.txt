@@ -1,0 +1,14 @@
+## Title: Central Bank to promote adoption of PADSS
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, January 10, 2018 - 01:00
+
+Central Bank to promote adoption of PADSS
+
+The Central Bank is taking steps not only to strengthen the cyber security of the Central Bank but also to ensure that the core systems of banks and other financial institutions are also rigorously safeguarded as cyber security is a threat to the stability and credibility of our financial sector.
+“In this regard, the Central Bank is promoting the adoption of the Payment Application Data Security Standard (PADSS) for payment applications that may come into operation in the future. We will mandate real-time SMS/e-mail alerts for transactions made through debit/credit cards, internet banking and mobile phone based banking,” Governor Central Bank, Indrajit Coomaraswamy said at the launch of the 2018 Road Map.
+With a view to strengthening the financial intelligence environment, we will continue to coordinate with the stakeholders to develop Anti-Money Laundering and Countering the Financing of Terrorism (AML/CFT) policies to implement the Financial Action Task Force (FATF) recommendations more effectively. Actions will be taken to amend/repeal Financial Transactions Reporting Act No 6 of 2006 (FTRA) and Prevention of Money Laundering Act, No. 05 of 2006 (PMLA) in line with international recommendations. “We will also facilitate and coordinate with stakeholders to amend the Mutual Assistance in Criminal Matters Act (MACMA), NGO Act and Trust Ordinance.”
+Two-factor authentication will be adopted for Point of Sales (POS) transactions, internet banking as well as all on-line and mobile third-party fund transfers.
+“The Central Bank is in the process of acquiring a dynamic state of the art Real Time Gross Settlement (RTGS) system for facilitating and monitoring of real time large value fund transfers for the participating institutions.”
+In order to safeguard customers and the financial system as a whole and to ensure smooth operations of mobile phone based e-money systems, the Central Bank will continue its on-site and off-site supervision of these systems.
+To enable a secure channel for e-commerce trading and internet payment gateways, the Central Bank, as the regulator, will continuously monitor and provide guidance in the form of standards for e-commerce trading service providers in order to safeguard the interests of the general public. 

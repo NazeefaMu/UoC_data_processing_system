@@ -1,0 +1,15 @@
+## Title: NEAT recognition for Virtusa
+## Supertitle: 
+## Section: Finance
+## Date: Tuesday, August 7, 2018 - 01:00
+
+NEAT recognition for Virtusa
+
+Virtusa Corporation (NASDAQ GS:VRTU), a global provider of digital engineering and IT outsourcing services that accelerate business outcomes for its clients, announced it has been recognized in NelsonHall’s vendor evaluation and assessment (NEAT) report as a Leader in Digital Banking Services. 
+NelsonHall, a global business process services and IT services research and analysis firm, recognized Virtusa as a Leader for its ability to meet future client requirements and deliver immediate benefits, its retail banking capabilities, leadership in new banking models and focus on professional services.
+The NEAT report evaluates the capabilities of 15 providers of digital banking services and identifies the best performing vendors overall, with a specific focus on SaaS/BPS, professional services, retail banking, capital markets, and on supporting new digital banking models. Vendors are identified in one of four categories: Leaders, High Achievers, Innovators and Major Players.
+“We’re dedicated to utilizing our digital banking capabilities to help clients achieve exceptional customer experiences and operational excellence through innovative business solutions,” said Madhuri Bhuyan, senior vice president and Head of Global Banking Practice at Virtusa.
+ “We’re proud to be recognized by NelsonHall in its inaugural NEAT report for Digital Banking Services, and the recognition reinforces our credentials as a go-to partner for helping our clients build the bank of the future. We’re committed to providing the leading-edge technologies and solutions required for our clients to stay ahead of the digital curve.”
+Virtusa’s Digital Banking Services include strategy and design; customer experience; mobile, digital lifestyle banking and IoT; digital marketing, data, analytics and AI; and cloud and microservices. 
+ The company’s xTech Labs help global banks experiment with new business models and enable them to quickly build minimum viable products (MVPs).
+Virtusa has developed over 60 best in class customer journeys, 300 plus APIs/microservices, partnerships with more than 40 FinTechs as well as an Open Innovation Platform, which is a unique solution accelerator that helps our clients accelerate their digital banking transformation.

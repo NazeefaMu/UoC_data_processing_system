@@ -1,0 +1,17 @@
+## Title: PCI-DSS compliance to end outstanding credit card settlements via SLIPS
+## Supertitle: 
+## Section: Finance
+## Date: Friday, July 7, 2017 - 01:00
+
+PCI-DSS compliance to end outstanding credit card settlements via SLIPS
+
+LankaClear (Pvt) Ltd, the operator of Sri Lanka’s National Payment Network announced that due to a Payment Card Industry, Data Security Standard (PCI-DSS) compliance requirement payments towards outstanding credit card settlements would not be facilitated via Sri Lanka Interbank Payment System (SLIPS) from July 1, 2017.
+SLIPS is a same day batch mode payment system operated by LankaClear that facilitated a majority of the payment transactions towards credit card settlements up to now.
+However, LankaClear, in its effort to increase customer convenience and provide an uninterrupted service, has ensured that the same facility is available via LankaPay CEFTS Real Time Payment system. CEFTS is an on-line real time payment system that facilitates customers to initiate payment transactions 24X7 from one bank or non-banking finance institution connected to CEFTS to another utilizing multiple channels available such as Internet banking, mobile banking, ATMs or even over the counter.
+Channa de Silva, CEO LankaClear, said, “We are the first and the only entity in the country to have obtained the PCI-DSS certification, which we received in January 2017.”
+This standard is an internationally recognized and widely accepted set of policies and procedures intended to ensure the security of card transactions and protect cardholders against misuse of their personal information.
+“These changes are effected as a concerted effort by LankaClear to bring Sri Lanka’s entire payment industry into international standards,” he said.
+He said that they have informed all Sri Lankan banks and non-banking institutions who are members of LankaPay network about this impending change way back in October 2016 and instructed them to get their systems ready by 31st March 2017.
+“However, since certain banks requested more time for development on their side we further extended this deadline until 30th June 2017.”
+As of July 1, 2017, five banks, namely Hatton National Bank, National Development Bank, Nations Trust Bank, Sampath Bank and Seylan Bank have enabled credit card holders of their banks to make payments towards settlement of their outstanding via CEFTS.
+“LankaClear has requested all other banks to adhere to the above compliance requirements and the relevant banks will inform the card holders when their systems are ready to accept real time credit card settlement payments via CEFTS.” he further stated.

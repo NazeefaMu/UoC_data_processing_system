@@ -1,0 +1,12 @@
+## Title: Uganda strengthens border security with Gemalto Visa Management System
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, January 19, 2017 - 01:00
+
+Uganda strengthens border security with Gemalto Visa Management System
+
+Gemalto, the world leader in digital security, is supplying Uganda’s Directorate of Citizenship and Immigration Control (DCIC) with its CoesysVisa Management that combines swift issuance of all visas and permits with biometric enrolment upon arrival.
+Gemalto is supporting the new solution with integration, deployment, maintenance and training for Ugandan immigration officers. The new scheme allows the authorities to manage the entire visa life cycle from application to issuance. It will help the country achieve its goals to facilitate travel, enhance national security and protect a traveler’s identity against theft.
+This turnkey solution incorporates a convenient online portal to apply for visas and permits at any time prior to travel. Legitimate visitors receive their Electronic Travel Authorization (ETA) by email.
+Upon arrival in Uganda, visitors get their visas after ETA check, verification of passports and the collection of their biometric data (fingerprints) to uniquely match travellers to the documents they are presenting.
+Gemalto’s solution includes a link to an integrated control list from local and international sources and alert system to detect and manage undesirable applicants. It also creates a centralized traveller database secured by an Automatic Fingerprint Identification System (AFIS) to share, search and match electronic fingerprints accessible by authorities all over the country. Identification System (AFIS) to share, search and match electronic fingerprints accessible by authorities all over the country.   

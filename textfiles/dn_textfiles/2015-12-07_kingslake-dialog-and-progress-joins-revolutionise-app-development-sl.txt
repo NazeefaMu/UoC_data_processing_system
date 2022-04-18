@@ -1,0 +1,19 @@
+## Title: Kingslake, Dialog and Progress joins to revolutionise App development in SL
+## Supertitle: 
+## Section: Finance
+## Date: Monday, December 7, 2015 - 01:00
+
+Kingslake, Dialog and Progress joins to revolutionise App development in SL
+
+A seminar themed 'Developing Agile Business Applications - Are You Ready?' was conducted by Kingslake, Dialog and Progress recently before a large gathering of CEO's and CIO's from diverse industry segments at Waters Edge, Battaramulla.
+Due to rapidly changing market conditions, business leaders face the challenge of implementing innovative strategies quickly to achieve success.
+The seminar focused on modern application development to fulfill this need.
+Speaking on today's agile applications S Dharmavasan, Chairman of Kingslake explained that consumers access services using a plethora of devices, with an 'I want it now!' mentality.
+Striving to meet such targets, businesses need to adapt and evolve with the current environment by iterating their customer facing software applications on a daily basis.
+As such, business leaders need to understand that a one-size-fits-all approach does not work.
+To stay ahead of competition businesses need to develop high quality software by embracing agile application development.
+As agile processes are highly collaborative, iterative and focused on rapid and repeatable delivery of software, the benefits of "going agile" far outweigh the costs.
+Further elaborating on this Benjamin Wong, Channels Director APJ, Progress, spoke on how Progress enables businesses to rapidly develop and deliver applications that deliver customer value with its portfolio of technology solutions for application development and deployment, PaaS, Business Rules Management (BRMS), content management and digital experience and data connectivity and integration.
+Kingslake's CTO Damian Fernando gave the audience an in-depth insight into building apps on many different agile development platforms.
+SmartApps.lk, a cloud-based platform enables Rapid Application Development (RAD) and deployment of Software as a Service (SaaS) applications accessible from both mobile and web (www.smartapps.lk).
+Venura Mendis, General Manager Products and Service Innovation - Dialog Axiata expressed his views on Dialog's role in the AppDev Ecosystem in Sri Lanka with Ideamart, the next generation of smart applications and how Dialog engages with the wider community to drive innovation. 

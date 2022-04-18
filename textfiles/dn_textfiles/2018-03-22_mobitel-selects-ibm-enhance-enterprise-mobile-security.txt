@@ -1,0 +1,17 @@
+## Title: Mobitel selects IBM to enhance enterprise mobile security
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, March 22, 2018 - 01:00
+
+Mobitel selects IBM to enhance enterprise mobile security
+
+Mobitel, Sri Lanka’s National Mobile Service Provider, has announced a collaboration with IBM to enhance enterprise mobile security in Sri Lanka. Mobitel will offer enterprise customers IBM MaaS360 with Watson, a comprehensive mobile management solution that allows businesses to fully embrace mobile technology securely and quickly scale deployments throughout their organization.
+IBM MaaS360 with Watson combines Unified Endpoint Management (UEM) and the integration of augmented intelligence and cognitive technology to provide a higher level of management functionality and far more effective security capabilities.
+It enables businesses to keep network resources and business assets more secure while still providing freedom to users on a platform that manages and protects devices and things (smartphones, tablets, laptops, desktops, wearables and IoT); people and identity (authentication, authorization, Single Sign On, secure use access); and apps and content.
+The collaboration will enhance Mobitel’s position in the local mobile service market and provide a stronger range of enterprise-grade Mobile Management solutions for their customers.
+IBM MaaS360 with Watson provides a wide range of containerization options for mobile security that enable corporate and personal information to be separated.
+This gives customers the flexibility of tiered and layered mobile security to address their varied end-user needs and IT security requirements across users, devices, content and apps. IBM MaaS360 is available as a SaaS offering with options for multiple OS support – Android, iOS and Windows.
+Mobitel is committed to nurturing and promoting growth of businesses.
+Equipped with the latest technology, Mobitel’s goal is to enable the target population to access enterprise solutions that would help them increase their efficiency, productivity and re-engineer processes.
+Mobitel Business Solutions (MBS) is a dedicated division of Mobitel formulated to cater the corporate clients with unique ICT solutions embraced with mobile technologies to realize their fullest business potential. MBS could be contacted through the hotline 0711 717171 or email [email protected]k
+ 

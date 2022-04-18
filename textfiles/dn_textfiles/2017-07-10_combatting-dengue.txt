@@ -1,0 +1,55 @@
+## Title: Combatting dengue
+## Supertitle: 
+## Section: Features
+## Date: Monday, July 10, 2017 - 01:00
+
+Combatting dengue
+
+Dengue is a viral infection transmitted by the bite of an infected mosquito. There are four closely related but antigenically different serotypes of the virus that can cause dengue (DEN1, DEN 2, DEN 3, DEN 4).Dengue has a wide spectrum of infection outcome (asymptomatic to symptomatic). Symptomatic illness can vary from undifferentiated fever (viral syndrome), dengue fever (DF), dengue haemorrhagic fever (DHF) and dengue with unusual manifestations. DF and DHF comprise the bulk of symptomatic illness while unusual dengue is a rare entity (usually <1%).
+* Dengue Fever (DF) - marked by an onset of sudden high fever, severe headache, pain behind the eyes, and pain in muscles and joints. Some may also have a rash and varying degree of bleeding from various parts of the body (including nose, mouth and gums or skin bruising).
+* Dengue Haemorrhagic Fever (DHF) - is a more severe form, seen only in a small proportion of those infected. DHF is a stereotypic illness characterized by 3 phases; febrile phase with high continuous fever usually lasting for less than 7 days; critical phase (plasma leaking) lasting 1-2 days usually apparent when fever comes down, leading to shock if not detected and treated early; convalescence phase lasting 2-5 days with improvement of appetite, bradycardia (slow heart rate), convalescent rash (white patches in red background), often accompanied by generalized itching (more intense in palms and soles), and diuresis (increase urine output).
+Patients should seek medical advice in the presence of following features particularly when fever settles:
+* Severe vomiting
+* Abdominal pain
+* Increase thrust
+* Drowsiness and excessive sleepiness
+* Refusing to eat or drink
+* Abnormal bleeding manifestations - eg: heavy menstrual bleeding or menstruation starting earlier than usual
+If the following features are present seek medical attention immediately:
+* Cold clammy skin and extremities
+* Restless and irritability
+* Skin mottling
+* Decreased/no urine output
+* Behaviour changes - confusion or using foul language
+Early detection of Dengue illness
+Early identification and management of Dengue illness can minimize morbidity and mortality. In the present hyper-endemic setting in Sri Lanka, Dengue illness (Dengue Fever - DF /Dengue Haemorrhagic Fever - DHF) is considered in the differential diagnosis of patients presenting with acute onset of fever with headache, retro-orbital pain, myalgia, arthralgia, rash (diffuse, erythematous, macular), haemorrhagic manifestation (petechiae, positive tourniquet test), Leukopenia (<5000/mm3), Platelet count =150,000/mm3 and rising Haematocrit of 5-10%.
+Sometimes Dengue patients may present with atypical manifestations like respiratory symptoms such as cough, rhinitis or Injected pharynx and gastro-intestinal symptoms such as constipation, colicky abdominal pain, diarrhoea or vomiting without the classical clinical presentation described above.
+If a patient with high fever is seen with flushed face/extremities (diffuse blanching erythema in adults) and a positive tourniquet test (even with a normal platelet count) with leukopenia (WBC <5000 /mm3) without any focus of infection, it is very likely that the patient is having Dengue illness.
+In any patient who presents with shock (particularly afebrile at presentation with cold extremities and tachycardia with low volume pulse and hypotension) consider Dengue Shock as a likely diagnosis.
+Detection of NS1 antigen from blood is novel laboratory diagnostic test for dengue during early febrile phase. However, NS1 only implies that the person is having dengue illness and it does not help in differentiating DF from DHF.
+Therefore, NS1 test may be useful in situations where early clinical diagnosis is doubtful.
+Value of Full Blood Count (FBC/CBC)
+OPD level:
+* FBC is mandatory on all fever patients - from day 3 onwards
+* Special patient categories - FBC on day 1 or first day of visit/contact (Pregnancy, Infancy, elderly, those with co-morbidities, etc.)
+* FBC daily from day 3 if platelet (plt) count =150,000/ mm3
+* FBC twice daily when plt count =150,000/ mm3 (admission to hospital based on clinical judgment, warning signs and social reasons)
+* Admit all patients with platelet count =100,000/ mm3
+Inward level
+* For any patient admitted to hospital on or before day 3 of illness same criteria of performing FBC as in OPD level is applicable unless and otherwise more frequent counts are requested by the clinician.
+Important Advice for Ambulatory Care Patients (OPD level):
+* First contact doctors should ensure adequate oral fluid intake.
+* In adults around 2500 ml for 24 hours (if the body weight is less than 50kg fluids given as 50ml/kg for 24hours or 2ml/kg/hr) is recommended during Febrile Phase (before admission to hospital).
+In children calculation of maintenance fluid is as follows:
+M (Maintenance)=100ml/kg for first 10 kg
++50ml/kg for next 10 kg
++20ml/kg for balance weight
+Patients/parents should be asked to return immediately for review if any of the following occur on/beyond day three:
+* Clinical deterioration with settling of fever
+* Inability to tolerate oral fluid
+* Severe abdominal pain
+* Cold and clammy extremities
+* Lethargy or irritability/restlessness
+* Bleeding tendency including inter-menstrual bleeding or menorrhagia
+* Not passing urine for more than 6 hours.
+- Health Minsitry Dengue control unit

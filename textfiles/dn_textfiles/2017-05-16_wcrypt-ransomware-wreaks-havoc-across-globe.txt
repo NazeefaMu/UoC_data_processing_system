@@ -1,0 +1,15 @@
+## Title: WCrypt ransomware wreaks havoc across the globe
+## Supertitle: 
+## Section: Finance
+## Date: Tuesday, May 16, 2017 - 01:00
+
+WCrypt ransomware wreaks havoc across the globe
+
+Over 57,000 users ‘stranded’ across 74 countries unable to access their information. The Computer Society of Sri Lanka (CSSL), the apex body for IT professionals in Sri Lanka wishes to alert the public about the newest ransomware to hit the cyberspace, WCrypt, which continues to infect computers across the globe.
+The malware’s name is WCry, but analysts were also using variants such as WannaCry, WanaCrypt0r, WannaCrypt, or Wana Decrypt0r.
+Experts claim the fast-moving wave of cyber-attacks across the globe maybe the result of exploitation of a security flaw exposed in documents leaked from the US National Security Agency.
+Ransomware is malicious software (malware) which locks a user’s files making them inaccessible unless a (usually large) payment is made to the hackers. Although exact figures are not known, the ransom demanded from each infected computer is estimated to range from USD 300 to USD 600.
+Whilst the exact list of victims is not known, the National Health Service in the United Kingdom, Spanish telecommunications service provider, Telefonica and Russia’s Interior Ministry have issued statements that they have been infected by the malware.
+“It has a ‘hunter’ module, which seeks out PCs on internal networks,” U.K.-based security architect Kevin Beaumont told CNN . “So, for example, if your laptop is infected and you went to a coffee shop, it would spread to PCs at the coffee shop. From there, to other companies”.
+The virus is estimated to be spreading at a rate of ‘5 million emails per hour’, primarily targeting computers with Microsoft Windows operating systems. Microsoft has released an official statement informing users to ensure their operating systems have been updated with the Microsoft Patch MS17-010, specifically developed to address this attack. Latest reports claim that the spreading of the malware has been stopped, after a cyber-security analyst accidentally came across a solution. However, this should not be considered a ‘green-light’ and users should continue to exhibit the same level of awareness and follow security best practices as before.
+The Computer Society of Sri Lanka (CSSL) advices users to keep their operating systems and anti-virus software updated with the latest patches and definitions. Users should also refrain from opening suspicious emails, especially if they contain attachments as well as from clicking on unknown web links. Users are also strongly advised to take complete backups of their computers as it is the easiest method of recovering files in the unfortunate event that a computer is infected. 

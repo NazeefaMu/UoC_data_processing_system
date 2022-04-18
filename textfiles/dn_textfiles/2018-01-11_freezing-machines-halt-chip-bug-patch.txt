@@ -1,0 +1,21 @@
+## Title: Freezing machines halt chip bug patch
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, January 11, 2018 - 01:00
+
+Freezing machines halt chip bug patch
+
+Microsoft has halted some patches for the Meltdown and Spectre chip bugs after AMD customers complained that the software updates froze their machines.
+The flaw in computer chips affects billions of PCs, smartphones and tablets around the world.
+Specific fixes for the bugs on Windows 10, Windows 8.1 and Windows 7 had caused some machines to suffer blue-screen errors, Microsoft said.
+In a blogpost, it said it was working with AMD to resolve the issue.
+Microsoft said that it would resume fixes “as soon as possible”.
+“To prevent AMD customers from getting into an unbootable state, Microsoft will temporarily pause sending the following Windows operating system updates to devices with impacted AMD processors at this time,” Microsoft said in the post.
+It added that some AMD chipsets “do not conform with the documentation previously provided to Microsoft”.
+AMD had previously said that the Meltdown bug did not affect it and that issues with Spectre could be resolved with software updates.
+“AMD is aware of an issue with some older generation processors following installation of a Microsoft security update that was published over the weekend,” it said in a fresh statement
+“AMD and Microsoft have been working on an update to resolve the issue and expect it to begin rolling out again for those impacted shortly.”
+The discovery of two major flaws in computer chips have forced Apple, Microsoft and Google to rush out fixes for devices and operating systems.
+Meltdown is currently thought to primarily affect most Intel processors manufactured since 1995, while Spectre affects chips made by a variety of manufacturers including Intel, AMD and ARM.
+In a keynote address at the CES technology conference in Las Vegas, Intel's chief executive Brian Krzaich said 90% of its processors and products from the last five years would be patched “within a week”.
+Most experts agree that patching Spectre is going to be harder and take longer. (BBC)

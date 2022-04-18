@@ -1,0 +1,14 @@
+## Title: The ‘Engineering Nexus’ hosts meetup
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 9, 2018 - 01:00
+
+The ‘Engineering Nexus’ hosts meetup
+
+The inaugural Engineering Nexus meetup was hosted at the Sysco LABS engineering centre recently, marking the launch of another initiative to help grow and develop the software engineering and technology development practice in Sri Lanka.
+Unlike other meetups, the Engineering Nexus intends to solve tech problems by bringing together ideas and methodologies from different disciplines within tech organizations together.
+Therefore, the three speakers who addressed the audience Anjana Chandrapala, IVS Security Lead at Virtusa (Pvt) Ltd, Roshan Razik, Director Hosting Operations, at Pearson Lanka (Pvt) Ltd and Hasitha Liyanage, Snr. Director Technology & Architecture at Sysco LABS (Pvt) Ltd all specialized in different areas but came together to discuss the problem of Engineering Productivity.
+Speaking on the event, Hasitha Liyanage said, “I spoke on using data as a tool to help you to be more productive by making smarter decisions about what work you should focus on. It was really interesting as a software architect to be able to share my viewpoint on the subject of Engineering Productivity because that is a subject that is usually the focus area of Quality Engineering, but that is the power of the Engineering Nexus. I think the Nexus has great potential and I really want to encourage other tech leaders in the industry to join and collaborate on future events.”
+As the recent launch of the ‘Island of Ingenuity’ brand for Sri Lanka’s Knowledge Solutions industries illustrates, the nation’s tech sector is on the rise and there is abundant scope and insight available in the industry.
+Discussing his experience speaking at the Nexus, Anjana Chandrapala highlighted three key principles to adhere by, in order to optimize the traditional software development process to make it capable of delivering solutions to a consumer driven, fast paced market. “First, reduce waste by eliminating unwanted efforts during the life-cycle and by applying best practices such as defect prevention mechanisms. Second, focus efforts on what matters the most by utilizing scientific measures such as pair-wise algorithm. And finally, automate throughout the life cycle to get redundant jobs done faster, which leaves you room for creativity and quality.”
+Roshan Razik shared the challenges of managing and supporting large business critical platforms and infrastructure at Pearson and the Continual Service and Operational improvement initiatives employed to overcome them for increased productivity. “There are three facets to our approach; persistent productivity, continual improvement, and innovation.”

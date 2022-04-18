@@ -1,0 +1,86 @@
+## Title: Risk management in banks  – A collaborative function
+## Section: Financial News
+## Date: 19 December 2017 12:01 am
+
+Risk management in banks  – A collaborative function
+
+
+	
+
+The digital transformation in the banking system in Sri Lanka is fast making inroads to compete with emerging financial intermediaries. The availability of differentiated qualitative services to customers akin to the new-age tech-savvy consumer aspirations is a sign of intense competition. In the process, the efficiency of banks is intertwined with the safety of the digital banking infrastructure.
+
+
+One of the most important functions of the financial system in any economy is to ensure safety, security and efficiency in the payment and settlement system. The banks in Sri Lanka too have fast geared up to provide adequate digital infrastructure for ensuring an efficient payment and settlement system comparable to the global standards. 
+
+
+While the banks and regulators are constantly engaged in providing the right digital infrastructure, the surge in the payment network is exposing the system to greater risk linked to technology. In the process of digital emancipation, digital risk is prominently on the radar of banks, which they need to manage on an ongoing basis. 
+
+
+Risk management is a journey and not a destination, as it keeps unfolding with its own nuances. As a result, the banks have begun to engage cyber space experts to ensure the safety of modes of electronic payment systems. But protection levels have to be well-aligned to surge in usage and growth of the customer base. 
+
+Challenge of scale
+
+
+With the proliferation of online transactions, torrents of operational data are getting generated exposing the systems to systemic risks. It is vulnerable to intrusions and cyber frauds. The lifestyle changes and banking habits have led to massive increase in the scale of banking operations. Even small payments are routed through the system that adds to the volumes. 
+
+
+The regulatory objective is to ensure the robustness of the payment and settlement gateways where financial intermediaries are made to follow the standards and specifications in protecting the electronic channels. But risk management, particularly where the customer interface is involved, is not within the purview of banks and regulators alone. They need the well-integrated constructive support of the stakeholders. 
+
+Collaborative function
+
+
+The risk management in banks in the digital era is turning out to be a collaborative and collective function of all stakeholders. More importantly, the role of banks, government, regulators, vendors, service providers, outsourcing agencies, if any, and customers assumes much more significance. There could be other agencies in the value chain in risk management. 
+
+
+It requires a whole lot of diligent efforts on the part of banks to impart digital literacy among the users, particularly when financial inclusion is taking banking to the hinterland in a big way. The diversity of the customer base is posing yet another big challenge. 
+
+
+The cooperation of each stakeholder in shaping the digital ecosystem in banks is important. There has also to be a coordinating link. The regulators play a great role in bringing the stakeholders together in managing risks. A consistent research in identifying the security gaps and pin pointing operational loopholes and sharing the informing on findings can reinforce the risk management system. It is also important to draw the global cue in reinforcing the systemic controls. 
+
+Protection to digital infrastructure
+
+
+The banks have developed robust protection to the electronic payment system with spill-proof fire walls and appropriate payment authentication systems. Yet, providing safety continues to be important to infuse confidence among the user community. The customers, vendors, merchant establishments and banks have to work together to keep the fraudsters at bay.
+
+
+The cyberspace is always vulnerable but unless the identity system is compromised, the chances of breach are rare. The customers using the payment network at shops and online payment systems have to be sensitive towards the likely risks. The look-alike websites, technically known as spoofing, have to be cautiously avoided.
+
+
+The telephonic enquiries of fraudsters posing as bankers asking for details of login ID and password should never be responded. The SMS services now largely provided by Sri Lankan banks should be subscribed even if they are priced. 
+
+Vulnerability to cyber frauds
+
+
+The regulators always make it clear that the genuine customers will be protected against the loss of funds on account of cyber frauds if the incident is brought to the knowledge of banks well in time. The customers should always check their transactions and remain alert towards the operations reflected in their active accounts. They need to be an aggressive partner in quickly identifying any lapse in cyber security. 
+
+
+The banking system is susceptible to cyber-crime that encompasses any illegal activity that occurs in the virtual world of cyberspace. Bank branches have to be sensitive towards such weaknesses and make efforts to insulate systems. Internet crime is becoming more common in the banking online space. Unless customer education is imparted constantly, the welfare of users cannot be ensured. 
+
+Risk mitigation strategies
+
+
+As part of risk mitigation, besides ensuring the safety of the systems and building robustness in systemic controls, data protection is important. Banks globally have the systems of building a disaster recovery site located in a different geography away from central data warehouse to ensure the availability of a fallback mechanism.
+
+
+Despite the robustness of data protection at the data centre, if for any reason, there is a virus attack or hacking incident, banks should not be exposed to disruption. Banks have to develop robust data back up as a risk mitigation strategy. The offsite data preservation is a common strategy among all financial intermediaries.
+
+
+Even if there is no adverse incident, banks should run mock system checks by switching over from main data centres to disaster recovery sites once in a while to test its efficacy. It is intended not to compromise the sanctity of data protection at institutional level. 
+
+Risk mitigation – A cultural shift 
+
+
+Banks have to forge an alliance with the line management to percolate risk sensitivity to customers at grass root levels and impart awareness to bring a cultural shift towards risk management. Over a period of time, banks should work in a way that all stakeholders aggressively become partners in managing the bank’s digital risk. Soliciting cooperation of stakeholders should be seamlessly integrated with the functioning of the bank. 
+
+
+An ecosystem has to be created whereby the stakeholders begin to feel the responsibility to manage risk and ward off cyber threats. While protecting the present volumes of data, banks should prepare themselves for future growth in business volumes and data load. 
+
+
+The greater level of interconnectedness among lines of business requires vigilance against manifestation of digital risk. In the context of the impending shape of technology-led banking system in increasingly dense digital economy, the pillars of stakeholders have to work in unison to keep the customers well-protected from the vagaries of risks. 
+
+ 
+
+ (Dr. K. Srinivasa Rao is Director, National Institute of Banking Studies and Corporate Management (NIBSCOM), Noida, India. The views are his own)
+ 
+
+		

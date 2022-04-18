@@ -1,0 +1,25 @@
+## Title: WannaCry detected in Sri Lanka: CERT|CC
+## Section: Breaking News
+## Date: 17 May 2017 01:10 pm
+
+WannaCry detected in Sri Lanka: CERT|CC
+
+
+	
+
+The recent worldwide cyber attack ‘ransomware’ virus, known as WannaCry, has been detected in Sri Lanka, Computer Emergency Readiness Team | Co-ordination Center (CERT|CC) said.
+
+Speaking to Daily Mirror CERT|CC Senior Information Security Engineer Roshan Chandraguptha said they had received a complaint yesterday regarding a computer in an institution in Colombo which had been infected with the ransomware virus.
+
+He said the infected computer had not been updated nor did it include an updated virus guard. However, the CERT team had managed to clean the virus from the computer and restore the system with an update.
+
+Mr. Chandraguptha said that none of the other computers had been affected by the virus as the operating system had been updated. The institution had also taken the precaution of backing up its data as a security measure.
+
+International media claimed that 99 countries were affected by WannaCry, including China and Russia with India being the third worst country to be affected by the virus.  
+
+Among the worst affected was UK’s National Health Service (NHS) and Spain’s Telefonica, along with a number of businesses around the world. BBC reported that atleast 40 NHS organisations were affected by the ransomware, causing hospitals to close and operations to be canceled.
+
+Previous reports stated that Sri Lanka had not been affected by WannaCry. (Chathuranga Pradeep)
+ 
+
+		

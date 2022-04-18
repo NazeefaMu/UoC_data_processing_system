@@ -1,0 +1,19 @@
+## Title: New primary issuance system for Treasury bonds
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, July 27, 2017 - 01:00
+
+New primary issuance system for Treasury bonds
+
+The Central Bank of Sri Lanka will introduce a new primary issuance system for Treasury bonds (T-bonds).
+Effective today, the new system replaces the existing fully auction based issuance system for T-bonds that has been in practice since February 2015.
+The main purpose of introducing the new system is to further enhance the efficiency and transparency of the domestic borrowings of the Government. The new system is more structured and includes regular monthly T-bond auctions. Each monthly auction offers two T-bond series of different maturities and tenures of the series are expected to match the resource availability in the market.
+Issuance under each series takes effect in three or less sequential phases depending on the outcome of each preceding phase.
+Phase I explores issuance of the entire announced volume in a competitive multiple price auction system through reasonable market bids. However, in the event of any under allocation at Phase I, the Phase II opens for voluntary, volume based bidding.
+Issuance under Phase II is made at Weighted Average Yield Rate (WAYR) determined at Phase I and is limited to any under allocation at Phase I vis-a-vis the offered amount. If oversubscribed, Public Debt Department issuance at Phase II takes effect proportionate to performance of auction participants at Phase I.
+All Primary Dealers (PDs) and other authorized participants at primary issuances are eligible for submission of bids under Phase II.
+At Phase III, any under allocation at Phase I and Phase II, if any, is issued on a mandatory basis at WAYR only among PDs. However, execution of Phase III will only be limited to instances where accepting 60 per cent of the offered amount in minimum at Phase I.
+Issuance at Phase III to any PD is inversely proportionate to its ratio of success at Phase I and Phase II.
+In addition, a new performance review mechanism will be introduced to assess the effective participation of PDs.
+Meanwhile, in order to improve the investment planning of PDs and investors at large, a quarterly T-bond auction calendar will be published in the Central Bank of Sri Lanka website in advance. 
+ 

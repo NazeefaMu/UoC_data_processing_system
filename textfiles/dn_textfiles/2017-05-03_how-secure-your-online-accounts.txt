@@ -1,0 +1,29 @@
+## Title: How to secure your online accounts
+## Supertitle: 
+## Section: Features
+## Date: Wednesday, May 3, 2017 - 01:00
+
+How to secure your online accounts
+
+Every once in a while, an app like Unroll.me pops into the spotlight to remind us that we all tend to authorize a lot of apps to access our email and social media accounts without much thought. Sometimes, as in the case of Unroll.me, those apps get busy selling off our data. Now’s a good time to audit any other third-party apps you’ve given access to your accounts.
+A lot of web apps these days request access to another account. Sometimes that’s because they’re adding something to that service, other times it’s simply because of a service called OAuth, which grants an app access to an account using a token. Either way, the whole point of the system is that you can instantly revoke access away from the third-party app with just a few clicks. This makes it easy to audit and get rid of any of those random apps you try for a day and then forget about. If you don’t remember an app, an app is free and you don’t understand the business model, or it just doesn’t sound familiar, it’s a good idea to ditch it. So, with that, let’s go ahead and give ourselves a good old fashioned audit.
+Google
+Head to the Apps Connected to Your Account Page (Profile picture > My Accounts > Sign in & Security > Connected apps & sites > Manage apps). Click on the apps you want to revoke access from, click remove, then click Ok.
+Microsoft
+Head to the Apps page (Accounts > Privacy, then scroll down to Apps and Services). Click Edit next to the app you want to remove, then click Remove these permissions.
+Yahoo!
+Head to the Manage App and Website Connections page (Click your profile icon > Account Info > Recent Activity), then click Remove next to any apps you want to revoke access from.
+Bizarrely, Flickr has its own page for doing this, ridiculously called the App Garden. Head to The App Garden Page (Click your Profile > Settings > Sharing & Extending, then click Edit next to Account Links), then click “Revoke permission?” next to any apps you want to remove.
+AOL
+Head to the Site Permissions page (Login to MyAccount > Account Options > Manage Site Permissions), then click Remove for any apps you want to remove access from.
+Facebook
+Head to the App Page (Settings > Apps > App Settings > Show All), mouseover an application, then click the X icon to remove an app. Because this is Facebook, you’ll have to do this individually for each app, and the list tends to awkwardly rearrange itself each time you remove an app.
+Twitter
+Head to your Apps page (Profile picture > Settings and Privacy > Apps), then click Revoke Access on any apps you no longer want to access Twitter. For some reason, these apps will hang there for a few minutes allowing you to undo revoking access if you have a change of heart.
+Instagram
+Head to your Authorized Applications page (Click the gear icon > Authorized Apps from the web app, you can’t do this in the mobile app for some reason). Click the Revoke Access button on any apps you want to remove.
+LinkedIn
+Head to the Permitted Services section (Profile > Account > Partners and Third Parties) and click Revoke next to any services you want to remove. Chances are that most of these will look a little weird to you because they’re bizarrely named job application sites like iCIMS or Greenhouse.
+Dropbox
+Head to your Apps Linked page (Profile Icon > Settings > Security). At the bottom of the page, you’ll see a list of all the apps you’ve granted access to Dropbox. Click the X next to each one then Uninstall to remove it.
+This was my own personal worse offender on this list, as there was a good 20 or so apps that I’d never bothered to remove here.

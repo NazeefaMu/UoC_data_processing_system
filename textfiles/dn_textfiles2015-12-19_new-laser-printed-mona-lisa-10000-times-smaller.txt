@@ -1,0 +1,25 @@
+## Title: New laser-printed Mona Lisa 10,000 times smaller
+## Supertitle: 
+## Section: World
+## Date: Saturday, December 19, 2015 - 21:00
+
+New laser-printed Mona Lisa 10,000 times smaller
+
+ 
+UK: Scientists have successfully printed a microscopic version of Leonardo da Vinci's Mona Lisa, which is 10,000 times smaller than the original painting, using a revolutionary new laser printing technology.
+A nanotechnology breakthrough from Technical University of Denmark (DTU) revolutionises laser printing technology, allowing one to print high-resolution data and colour images in unprecedented quality and microscopic dimensions.
+The laser technology allows printing in a resolution of 127,000 dots per inch (DPI). In comparison, weekly or monthly magazines are printed in a resolution equivalent to 300 DPI.
+Using the new technology, researchers have reproduced a colour image of Mona Lisa which is less than one pixel on a smartphone display.
+The version is 50 micrometres long or about 10,000 times smaller than the original Mona Lisa in the Louvre in Paris.
+Printing the microscopic images requires a special nanoscale-structured surface, researchers said.
+The structure consists of rows with small columns with a diameter of merely 100 nanometres each. This structured surface is then covered by 20 nanometres of aluminium.
+As a laser pulse is transmitted from nanocolumn to another, it is heated locally, after which it melts and is deformed.
+The temperature can reach up to 1,500 degrees Celsius, but only for a few nanoseconds, preventing the extreme heat from spreading.
+The intensity of the laser beam determines which colours are printed on the surface, since the extent of column deformation decides which colour is reflected.
+Low-intensity laser pulses lead to a minor deformation of the nanocolumn, resulting in blue and purple colour tone reflections.
+Strong laser pulses create a drastic deformation, which gives the reflection from the nanocolumn an orange and yellow colour tone.
+"Every time you make a slight change to the column geometry, you change the way it absorbs light. The light which is not absorbed is the colour that our eyes see," said N Asger Mortensen, professor at DTU.
+"If the column absorbs all the blue light, for example, the red light will remain, making the surface appear red," Mortensen said.
+"It will be possible to save data invisible to the naked eye. This includes serial numbers or bar codes of products and other information," said Anders Kristensen, from DTU.
+"The technology can also be used to combat fraud and forgery, as the products will be labelled in way that makes them very difficult to reproduce," Kristensen said. The technology can also be used on a larger scale to personify products such as mobile phones with unique decorations, names, etc.
+- AFP 

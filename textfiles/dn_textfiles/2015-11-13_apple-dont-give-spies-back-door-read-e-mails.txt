@@ -1,0 +1,19 @@
+## Title: Apple: Don't give spies back door to read e-mails
+## Supertitle: 
+## Section: World
+## Date: Friday, November 13, 2015 - 01:00
+
+Apple: Don't give spies back door to read e-mails
+
+UK: Plans to give intelligence agencies a back door to reading people's emails would fail to halt terrorists while making it easier for criminals to hack ordinary consumers, the boss of Apple has warned.
+Policies that undermine data encryption would be bound to backfire, creating opportunities for hackers to steal people's private information and even commit acts of terrorism by seizing control of trains and other key infrastructure, he said.
+Tim Cook, chief executive of Apple, the world's most profitable company, warned in an exclusive interview with The Daily Telegraph that "any back door is a back door for everyone. Everybody wants to crack down on terrorists. Everybody wants to be secure. The question is how. Opening a back door can have very dire consequences."
+He said that preventing law-abiding companies from making sure that data was properly protected would not deter criminals, who would find other ways of communicating without the authorities finding out. But it would harm consumers, who are already under unprecedented attack from hackers.
+"It's not the case that encryption is a rare thing that only two or three rich companies own and you can regulate them in some way. Encryption is widely available. If you halt or weaken encryption, the people that you hurt are not the folk that want to do bad things. It's the good people. The other people know where to go."
+Cook made the comments ahead of Britain's proposed Investigatory Powers Bill, spearheaded by Theresa May, the Home Secretary. The bill, dubbed the Snoopers' Charter by opponents, would not ban encryption but would force tech firms and service providers to help police or spy agencies hack customers' smartphones or computers if requested through a warrant.
+Civil liberty campaigners fear the Bill could be used to demand that firms terminate the strongest form of "end to end" encryption, used by Apple, Facebook and others, which ensures that nobody apart from the sender and recipient can access the information.
+Mr Cook, who unlike many tech executives is a leading privacy advocate, said: "We don't think people want us to read their messages. We don't feel we have the right to read their emails. We believe very strongly in end-to-end encryption and no back doors."
+He said that experts in "cryptology and other people with deep knowledge of technology" agreed with his stance, which he said was not motivated by any financial gain. Even those with no interest in privacy should oppose any measures that would force companies to make communications less secure. Weakening encryption would pose a grave security risk, he said.
+He added: "To protect people who use any products, you have to encrypt. You can just look around and see all the data breaches that are going on. These things are becoming more frequent."
+He raised the prospect of cyber criminals and cyber terrorists hacking into the IT systems that control infrastructure and transport systems, with potentially devastating effects. He added that data and identity theft not only jeopardised people's financial security, but affected psychology and health.
+- THE DAILY TELEGRAPH 

@@ -1,0 +1,15 @@
+## Title: MillenniumIT implements Oracle Sales Cloud for Capital Alliance
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, September 21, 2017 - 01:00
+
+MillenniumIT implements Oracle Sales Cloud for Capital Alliance
+
+MillenniumIT, a Platinum level partner in the Oracle Partner Network (OPN) recently implemented Oracle Sales Cloud, a customer relationship management solution with master data management capabilities for Capital Alliance Holdings Limited (CAL).
+CAL is a pioneer investment banker and primary dealer with the Central Bank of Sri Lanka.
+The implementation allows all subsidiaries of CAL, Capital Alliance Treasury, Unit Trust Management, Equity (Capital Markets) and Corporate Finance Business the agility to downstream trading and transactional information across their business platforms.
+The solution is designed to enhance productivity and predictability through intuitive forecasting, improve collaboration within the sales teams, streamline partner relationship management through a simplified portal, optimise sales performance through automated processes and integrate customer data management in real time.
+Oracle Sales Cloud was selected to help optimise CAL’s sales efficiency, assist their team with insightful and collaborative selling, and facilitate the team's aggressive pipeline creation while further enabling the sales force at CAL with the mobility of real time automation to update vital data on-the-go.
+Additionally, master data management has provided the organisation with a comprehensive platform that delivers consolidated, consistent, and authoritative master data while providing a single channel for customer on boarding, enhancing the customer and client business relationship and overall experience.
+Capital Alliance Managing Director Ajith Fernando said:“Thanks to Oracle Sales Cloud we have managed to centralise our customer on boarding process and streamline our compliance, ‘Know Your Customer’ validations and approvals for all our downstream trading and transactional platforms." MillenniumIT Managing Director Faiq Faaiz said, “We are extremely happy to be the first in Sri Lanka to implement Oracle Sales Cloud for one of the country’s leading investment banks. This solution will undoubtedly enhance their customer relationships and give them an added advantage in their day-to-day financial summaries.”
+Oracle Sri Lanka Head of Applications Chandita Samaranayake said, “In today’s dynamic sales environment, it is important to be able to meet your customer’s expectation quickly. Oracle Sales Cloud can give CAL the completive edge to stay ahead of the competition by empowering their sales teams with fast, easy and modern tools.”

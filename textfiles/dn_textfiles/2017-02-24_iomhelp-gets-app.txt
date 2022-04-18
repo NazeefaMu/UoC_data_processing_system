@@ -1,0 +1,12 @@
+## Title: iOMHelp gets APP
+## Supertitle: 
+## Section: Finance
+## Date: Friday, February 24, 2017 - 01:00
+
+iOMHelp gets APP
+
+Since the early 90’s iOM has been in a league of their own when it came to (software) post implementation support.
+iOM used what was then known as a Customer Service Reporting (CSR) module to log customer requests, questions or issues. This was at a time when none of the tier one ERP solutions carried a solution such as this.
+In the year 2000, the second generation of this solution evolved as iOMHelp (www.iomhelp.com) which was a 24x7 web based helpdesk that allowed any of iOM’s customers worldwide to access customer support. Today iOMHelp has evolved into being a mobile APP in keeping with the latest technology and user experience.
+Once a request is logged in either via the APP or the website, it is routed to the appropriate engineer in the support team based on the closest regional support desk. The system also enables customers to track the status of a query and also allows iOM to analyse the type of query and solutions.
+Therefore, apps are becoming the dominant form of digital interaction. Business users in today's world are onthe move and using mobile application platforms to get there. Whether they use mobile phones, tabletsor other smart mobile devices - they have all the information they need. That's why mobile Apps are so important as well as relevant in today's business environment.

@@ -1,0 +1,19 @@
+## Title: JKOA launches SAP Hybris Cloud for service
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, August 17, 2017 - 01:00
+
+JKOA launches SAP Hybris Cloud for service
+
+Leading office automation solutions provider John Keells Office Automation (JKOA) launched the SAP Hybris Cloud for Service customer support module recently at its Colombo headquarters.
+The module is the result of an agreement signed between JKOA and SAP Hybris in a move that will significantly enhance the JKOA customer experience by enabling real-time interaction between clients and after-sales service providers.
+The launch was attended by senior management from JKOA, SGIT (JKOA’s strategic SAP partner) and Itellegence (JKOA’s implementation partner).
+SAP Hybris Cloud for Service has been recognized globally for its functionality, user-friendliness and reporting mechanisms. With this portal, JKOA is opening up its customer support operations to the end user who then has the ability to engage in real time with the seller for the services they require.
+This self-service system equips the JKOA customer with the right tools they need to manage their requests, while also allowing them to track repair status and other information on their product, eliminating the usual wait times and dependency on call centers.
+“Customers want convenience and reliability because their daily business operations depend on the functionality of these products and that’s exactly what the SAP system is enabling,” noted Malik Edwin, Head of Marketing and Business Development JKOA/ AVP John Keells Group. “We have been looking for means to enhance their user experience and this certainly addresses a gap in the market. It’s also a very effective way for our service providers to extend their services from anywhere in the island.”
+The system tracks availability of field engineers based on territory and assigns the closest engineer to the customer, thereby reducing wait time. Automated billing will also ensure that the job is completed quickly. For the customer, the system will include an automated breakdown assignment option, on-field estimates, repair tracking systems and social media integration.
+This social media integration will allow customers to track jobs, provide feedback and monitor progress in real time with remarkable ease.
+In addition, the system is integrated with advanced software such as Paper Cut for solutions and preventive maintenance, leading to the lowest down time on machines. The app developed as part of the system can create onsite estimates, and provide immediate real-time access to inventory with immediate customer approvals and repairs.
+JKOA has already tested the SAP Hybris Cloud for Service customer support module and recorded significant improvements in efficiency and effectively. “We were pleased to note that the system delivers on all its promises,” said Mr Malik Edwin. “We have no doubt that the launch of this system will revolutionize the landscape for after-sales services in Sri Lanka.”
+JKOA is a fully owned subsidiary of John Keells Holdings PLC, a leading conglomerate in Sri Lanka. 
+ 

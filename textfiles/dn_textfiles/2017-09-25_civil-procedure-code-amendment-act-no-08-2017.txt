@@ -1,0 +1,104 @@
+## Title: Civil Procedure Code (Amendment) Act No. 08 of 2017
+## Supertitle: 
+## Section: Local
+## Date: Monday, September 25, 2017 - 01:00
+
+Civil Procedure Code (Amendment) Act No. 08 of 2017
+
+1. The Civil Procedure Code introduced on August 1, 1890, has seen several amendments and the latest amendment has been introduced by the Civil Procedure Code (Amendment)Act No. 08 of 2017with a view to advance the civil litigation procedure that meets the current needs.
+2. The prime objective of the new Act can be viewed as follows;
+a. Expeditious litigation process
+b. Simplification of administrative procedure
+c. Enhance efficiency
+d. Reduce delay
+e. Inexpensive disposal of actions
+3. An important feature in the new Amendment to the Civil Procedure code is that it has introduced both procedural and administrative changes which are important for practicing counsels and instructing attorneys, as well as to judges.
+4. Salient areas of focus
+· Appointment of registered attorneys
+· Service of summons
+· Pre-trial proceedings
+· Consolidation of action
+· Substitution process
+5. Appointment of registered attorney
+I. The previous Section 27 has been repealed and the introductory provision requires that;
+• Proxy must be filed in the format of (Form No 7) of the First schedule. (The same provision in the previous section has been imported )27(1)(a))
+• In addition to the address of the registered attorney, at which service of any process can be served, the electronic mail address (if any) should also be included in terms of the new Act. (27(1)(b) and (c))
+II. Section 27 (2) (a) requires that where a party is a natural person a memorandum must be submitted nominating a legal representative to carry out a case upon the death of the party.
+• The memorandum must be in the form set out in Form No. 7A of the First Schedule set out in the new Act.
+• The repealed Section 393will apply in regards to the nomination of legal representatives in filing the memorandum.
+III. Revocation of proxy is set out under Section 27 (3), thus the appointment of a registered attorney will be in force until;
+a. Revoked by the client in writing by his own motion, with leave of Court and after notice to the registered attorney, signed by the client.
+b. Revoked by the registered attorney.
+The right of the registered attorney to revoke proxy is a new concept which has been introduced to the legal system. Thus, the registered attorney can revoke the proxy;
+i. in writing signed by the client and filed in Court; or
+ii. with leave of the court having given thirty days’ notice to the client.
+c. Where the client dies or upon the death or incapacity of the registered attorney; or
+d. Where all proceedings in the action are ended and judgment satisfied so far as regards the client
+The ambiguity in the previous section has been cured through specifying the procedure as to the instances where the registered attorney and/or client may revoke a proxy.
+6. Service of summons and notice
+I. Section 29 has been amended and the existing section has been re-numbered as Section 29 (1) which sets out that, any process served on the Registered attorney, or left at the office or residence of such Attorney is presumed to be duly communicated to the party.
+II. With the insertion of Section 29 (2), Service of any process, notice or document in the address of the registered attorney
+and sent to the electronic mail address, given under section 27(1) is also deemed as sufficient delivery to the party.
+• However, it is important to note that, mere fact of sending service/notice to the mail address does not constitute delivery, and hence service on the given address is imperative and service to the E-mail address is an additional requirement.III. Service to the address in the memorandum is sufficient notice to the nominee
+7. Pre-trial procedure
+I. Immediately after Chapter X, a new Chapter XA has been introduced. The said chapter can be viewed as an important feature which has been introduced to the legal framework.
+II. In terms of section 79(A);
+a. forthwith on the expiration of the time allowed for the filing of the answer; or
+b. where a replication is permitted, on the last day of the time allowed for the filing of that replication, whether it is filed or not;
+a date after 3 weeks and before 2 months must be fixed for the pre-trial. (79A(1)) and all parties must have notice. (79A(2))• Although the section 79A(1) specifically refers to ‘time allowed for the filing of the answer,’ the said section must be read in conjunction with Section 84 of the Civil Procedure Code which facilitates a subsequent date for filing of an answer
+III. Section 80 has been repealed and accordingly the new section requires that, after completing the pre-trial process, on a calling date, to fix the date of trial of the action in the trial Court, the Court will appoint a date for trial and give notice of costs of service.
+IV. 80A (1) sets out that no application for pre-trial steps is allowed once the matter is fixed for trial, except upon the permission of Court, where Court is satisfied that a grave and irremediable injustice would be caused if such steps are not permitted.
+• framing Issues is a duty of the judge conducting the pre-trial hearing, no amendment can be made at the trial, unless in special circumstances where the court is satisfied that if it is not allowed it would cause manifest injustice.V. Section 93 of the enactment, dealing with amendment of pleadings
+to be conducted on the date 'first fixed for Pre-Trial.'
+Immediately after Chapter XVII of the principal enactment, a Chapter XVIIA has been brought in.
+Chapter XVIIA of the pre-trial
+VI. Admissions and issues in the pre-trial process
+• In terms of section 142 A, 14 days before the pre-trial date, written issues and admissions should be filed in the court registry with notices to other party
+• However, in terms of section 142B of the Civil Procedure Code, (subject to the provisions of section 142A),the Judge conducting the Pre-Trial hearing may either on his own motion or on the application of any party and for sufficient cause shown, advance or postpone the date fixed for the pre-trial hearing.
+VII. Time period
+• Section 142B sets out that pre-trial proceedings should be concluded within three months from the date of commencement of the hearing. If the judge is prevented from completing within three months, such reasons should be recorded and pre-trial proceedings should be completed within a period not exceeding one month.
+• The Act specifically sets out that no adjournment in excess of four weeks may be granted, unless in exceptional circumstances.VIII. The default under pre-trial
+If any party,
+(a) fails to diligently prosecute his or her case; or(b) fails to appear on the day fixed for the pre-trial hearing or on any other day to which it is adjourned, the Judge conducting the pre-trial hearing may, taking into consideration all appropriate circumstances,
+i. proceed to dispose of the action in one of the methods specified in Chapter XII (sections 84 to 90) of this Code; or
+ii. make such other order as he may think fit.
+(In the event, the Judge conducting the pre-trial hearing proceeds to dispose of the action adopting any one of the methods specified in Chapter XII, the provisions of that Chapter, shall mutatis mutandis apply to and in relation to such proceedings)IX. 142D sets out the power of the pre-trial judge,
+Thus, the pre-trial hearing has the
+power to question the parties or call upon them to state their respective cases with a view to–
+(a) ascertaining jurisdictional issues;
+(b) elucidating the matters in dispute;
+(c) obtaining admissions of facts and of documents;
+(d) consolidating two or more pending cases;
+(e) identifying the number of witnesses based on admissibility and relevancy inclusive of expert witnesses;
+(f) appointing a court Expert;
+(g) assisting the parties to arrive at an adjustment, settlement, compromise or other agreement, with regard to the matter in issue in such action and may, suggest terms of settlement which in his view is reasonable, having regard to all the circumstances of the case;
+(h) ascertaining and recording any other matters which would be helpful in the speedy disposal of the action and
+(i) to take all steps and make all such orders as may appear to him to be necessary or desirable, for the expeditious and inexpensive disposal of the action. X. pre-trial judge can also make orders;
+• Regarding a question of fact determined by a written report from a person with special independent knowledge of the fact
+• Issue a commissions (under Chapter XXIX) or order the appointment of an independent expert to inquire into and report on a question of fact or opinion
+• Order to issue certified copies of documents in the custody of public authorities
+(Public Office, Public Corporation, Provincial Council or any Local Authority)XI. Section 142F sets out the matters that should be recorded by the Judge who is conducting the Pre-trial hearing,
+Accordingly, the judge conducting the pre-trial hearing shall record a. the admissions by parties;
+• of facts,
+• documents or
+• contents of documents;b. the agreement of the parties with regard to any matter;
+c. the agreement of parties to accept abide by;
+i. any decision of the pre-trial judge
+as may be agreed upon between the parties and entering of judgment in accordance with such decision.
+• the Judge should also read out and explain the effect of such agreement to the parties and record the fact that the parties do understand the contents of such agreement and the effect thereof and the parties are required to sign the agreement
+ii. any decision of the pre-trial judge on any or all issues of fact or law and entering of the judgment in accordance;
+However, it must be noted that an agreement between parties is a pre-request in entering of judgment by the pre-trial judge under the aforesaid section.
+d. any agreement of the parties:-• with regard to the mode of proof of any fact or document;
+• as to the number of witnesses to be called;
+• to consolidate two or more pending actions;e. withdrawal of actions; and
+f. adjustment, settlement or compromise of actions• Thus the Act has clearly set out the provisions for agreements between parties with a view of expediting proceedings.
+XII. In the pre-trial hearing a judge, in determining issues must take into consideration;
+• proposed admissions and issues
+• pleadings,
+• interrogatories and;
+• any agreement. (142G)
+XIII. In terms of section 142H, a pre-trial judge can call witnesses to give evidence or produce a document where;
+• In his opinion the issues cannot be correctly framed;
+- without the examination of some persons not present at the pre-trial proceedings.
+- or without the inspection of some documents not produced in the action
+To be continued next week...

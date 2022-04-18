@@ -1,0 +1,18 @@
+## Title: Next generation anti-ransomware Crypto Guard Technology comes to Sri Lanka
+## Supertitle: 
+## Section: Finance
+## Date: Tuesday, May 2, 2017 - 01:00
+
+Next generation anti-ransomware Crypto Guard Technology comes to Sri Lanka
+
+The next-generation anti-ransom ware Crypto Guard technology is now available with its Sophos Server Protection products in Sri Lanka.
+With this optimization, Sophos Server Protection now has signature-less detection capabilities to combat ransomware - similar to Sophos Intercept X for endpoints. In September 2016, Sophos launched Sophos Intercept X with Crypto Guard, which stops the spontaneous encryption of data by ransomware within seconds of detection.
+By adding Crypto Guard to server security, Sophos is closing a critical gap by preventing ransom ware attacks that could come in through rogue, guest or remote access users or other weaknesses in a company’s network.
+For example, if a company allows bring-your-own-laptopson the network, remote access for employees or is victimized by an insider cyber threat, servers become highly susceptible to ransomware. Additionally, network shares on servers are high-value targetsas they contain proprietary financials, personally identifiable information and other key data, and should be protected as such.
+“Servers are the lifeblood of any organization as they contain majority of business-critical data and intellectual property, and run business critical applications which makes them so appealing for attackers with financial or disruption driven goals. It is therefore, very important for any business to keep their servers secure, available, and performing at optimum levels,” said Sunil sharma, vice president – sales, India & SAARC at sophos. 
+Sophos has also expanded Synchronized Security by adding Sophos Security Heartbeat capabilities to Sophos Central Server Protection Advanced. By adding Security Heartbeat to servers,an IT administratorcan nowleverage Sophos XG Firewall to automatically isolate infected servers and endpoints to identify and respond to the source of compromises faster.
+Sophos Server Protection products with CryptoGuard capabilities now includes Central Server Protection Advanced on the cloud-based Sophos Central platform and Sophos Server Protection Enterprise, which is managed with a traditional on-premise console.
+“Protection for servers is especially critical for our customers who allow remote desktop connections or have weak desktop credentials, which is a known vulnerability for ransomware attacks.
+Even our customers who have put every safeguard in placecould still havean exposed server,due to that one rogue laptop someoneconnects into the network. Just one click on a tainted email could encrypt every file with ransomware.”
+“At Lifeways, our userslog into servers to accesstheir email and websites, so we definitely need a solution that prevents ransomware. Already, we use Sophos Central Server Protection Advanced for approximately 100 servers,” said Andy Pitcher, group infrastructure manager at Lifeways, a Sophos customer in London, England. “ Lifeways has been hit by ransomware in the pastand it was not fun. The attack came in through an end point and hit the serveras well. We were able to restore quickly, but our business did come to a halt for a while.
+Sophos Server Protection and Sophos Intercept X are critical defenses for us, and we plan to use them throughout our entire estate.”

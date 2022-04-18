@@ -1,0 +1,13 @@
+## Title: IBM to acquire software company Red Hat for us $34 bn.
+## Supertitle: 
+## Section: Finance
+## Date: Tuesday, October 30, 2018 - 01:00
+
+IBM to acquire software company Red Hat for us $34 bn.
+
+IBM Corp said it had agreed to acquire U.S. software company Red Hat Inc for $34 billion, including debt, as it seeks to diversify its technology hardware and consulting business into higher-margin products and services.
+The transaction is by far IBM’s biggest acquisition. It underscores IBM chief executive Ginni Rometty’s efforts to expand the company’s subscription-based software offerings, as it faces slowing software sales and waning demand for mainframe servers.
+“The acquisition of Red Hat is a game-changer ... IBM will become the world’s No. 1 hybrid cloud provider, offering companies the only open cloud solution that will unlock the full value of the cloud for their businesses,” Rometty said in a statement.
+IBM, which has a market capitalization of $114 billion, will pay $190 per share in cash for Red Hat, a 62 percent premium to Friday’s closing share price.
+Founded in 1993, Red Hat specializes in Linux operating systems, the most popular type of open-source software, which was developed as an alternative to proprietary software made by Microsoft Corp.
+Headquartered in Raleigh, North Carolina, Red Hat charges fees to its corporate customers for custom features, maintenance and technical support, offering IBM a lucrative source of subscription revenue. (chinadaily.com)

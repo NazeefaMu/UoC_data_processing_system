@@ -1,0 +1,17 @@
+## Title: Microimage HCM named top 25 HR tech providers in APAC
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, March 21, 2018 - 01:00
+
+Microimage HCM named top 25 HR tech providers in APAC
+
+Microimage HCM, the provider of global digital HR solution HCM Cloud, has been named as one of the top 25tech providers in the HR space across the APAC region for 2018. The ranking is published by APAC CIO Outlook Magazine on an annual basis.
+Harsha Purasinghe, Founder and CEO of Microimage HCM, said, “Today organizations are facing new challenges due to rapid technology disruption. A new tech-savvy workforce is emerging and business and HR leaders need to cater to this increased pace of business expectations, needs and demands. HCM Cloud delivers a compelling digital talent management experience to all stakeholders enabling true digital transformation. We are of course delighted to be included in this respected ranking alongside other technology solution providers in the APAC region.”
+Microimage first launched HCM Cloud as a SaaS (Software-As-A-Service) offering in 2016,following a comprehensive re-engineering of its existing HR platform to leverage all the advantages of cloud, social, mobile and analytics that have become a growing part of working life in the digital economy.
+An enterprise-grade HR solution delivered with a modern consumer-grade user experience, HCM Cloud provides talent insights for timely and accurate decision-making and native mobile apps for iOS/Android to empower a mobile-first workforce.
+The platform also helps enhance employee engagement with collaboration, social and feedback capabilities.
+Country specific legislative and language localizations are supported with seamless integration capabilities to other third party systems via secure APIs. Users are also able to stay current via “Mia”, a virtual HR assistant, powered by BoT technology for 24x7 employee HR assistance.
+HCM Cloud is powered by secure, scalable and stable Microsoft Azure cloud and is currently deployed in the UK, Asia and Australia Azure Data Centers.
+There are plans to deploy HCM Cloud to other key Azure data centers across the world as Microimage scales up distribution globally.
+Founded in the mid-1990’s by a group of high school students as a Start-up, today Microimage has become a global human capital management software solutions provider with operations spanning various geographies. In Asia Pacific, where business leaders are taking a very proactive approach to people management, Microimage holds a strong presence and aims to become a leader in the mid-market HCM solutions space globally.
+HCM Cloud was recently selectedby Microsoft Corporation as one of the showcase solutions for the new industry zone at its APAC Technology Centre in Singapore. Here, organisations can experience hands-on how HCM Cloud helps improve engagement and significantly increase service delivery. C-level executives can also explore how talent analytics and smart search capabilities will allow them to take timely and accurate talent management decisions. Also Microimage is a global co-sell ready ISV partner of Microsoft Corporation.

@@ -1,0 +1,27 @@
+## Title: Amazon Go: Meet the World’s Most Advanced Shopping Technology
+## Section: Technology - Main
+## Date: 6 December 2016 10:18 am
+
+Amazon Go: Meet the World’s Most Advanced Shopping Technology
+
+
+	
+
+
+
+Amazon Go is a new kind of store with no checkout required that means you take the products you want, and go! No lines, no checkout. (No, seriously.)
+
+Amazon created the world’s most advanced shopping technology so you never have to wait in line. They call this shopping technology as “Just Walk Out Shopping” experience.
+
+Consumers simply use the Amazon Go app to enter the store, take the products they want, and go! No checkout lines or anything. 
+
+This checkout-free shopping experience is made possible by the same types of technologies used in self-driving cars: computer vision, sensor fusion, and deep learning. 
+
+“Just Walk Out” technology automatically detects when products are taken from or returned to the shelves and keeps track of them in a virtual cart. When you’re done shopping, you can just leave the store. Shortly after, Amazon will charge your Amazon account and send you a receipt. That’s super neat.
+
+
+
+Amazon unveiled a video about the new physical store that uses the Just Walk Out technology. The new shop will sell a mix of "grocery essentials" and ready-made meals. It is confirmed that the first store will be open in Seattle on early 2017, where Amazon is headquartered.
+ 
+
+		

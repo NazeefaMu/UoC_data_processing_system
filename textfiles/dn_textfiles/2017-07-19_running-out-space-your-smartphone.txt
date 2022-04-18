@@ -1,0 +1,22 @@
+## Title: Running out of space on your smartphone?
+## Supertitle: 
+## Section: Features
+## Date: Wednesday, July 19, 2017 - 01:00
+
+Running out of space on your smartphone?
+
+Smartphones store so much data that it can be difficult finding somewhere to save it all! Gone are the days of storing your contacts and some low-resolution photos - now we have apps, games and large files to download, and storage space is running out.
+If you find yourself running out of available storage on your phone, here are a few ways of freeing up some valuable megabytes. Click on the link below that matches your smartphone.
+Expand your memory
+Most Android handsets have a memory card slot to expand your storage with a MicroSD card. Likewise, many Windows handsets also take a memory card. Unfortunately, if you're an iPhone user this is one area where you'll miss out – your iPhone memory can't be expanded with any type of memory card.
+If your phone does have a MicroSD slot, you could add as much as a whopping 256 gigabytes of extra space, depending on the specifications of your smartphone.
+It's important to note that, for the most part, older Android smartphones can only use the microSD card for photos, videos and other media files. Some apps can be installed to a microSD card, but most will still install to your phone's memory. This means that if you need more space for apps, then a memory card may not provide a solution – but it could indirectly fix the problem by giving you somewhere else to store all your media files. Newer versions of Android (Marshmallow and Nougat), have a software feature called Adoptable Storage which fixes the problem, but whether your phone has it depends on the manufacturer - for example, the Samsung Galaxy S7 and S7 Edge don't support the Adoptable Storage feature by default.
+Things are a bit simpler with Windows Phones, which treat the microSD card as an extension of the internal memory - letting you install apps and games to your memory card without a hitch.
+iPhone users are unlikely to get microSD support for their smartphones in the future – but you could consider items like the Leef iBridge external memory device. As Apple don't officially support expandable memory, gadgets like this do have their limitations and it's not as seamless as using a memory card would be – but depending on what you need, it may provide a way to move photos and videos away from your iPhone's storage, freeing up space for more apps and games.
+Delete your unused apps
+With literally hundreds of thousands of apps available across different handsets, you may quickly end up filling your phone with a huge selection of games, apps and widgets you never use! Browsing through your phone every so often and removing the apps you haven't used for a while is a great way of freeing additional space on your smartphone.
+If you’ve purchased some of these apps, fear not. All purchases are managed by the account linked to your handset, whether that's an Apple ID, Gmail account or Windows account. If you want to install a particular app again at a later date, as long as you're signed in with your original account, you can simply download it again without being charged.
+Back up your camera pictures
+If you use your smartphone to take a lot of pictures, it's a good idea to back them up to your computer every now and again. Not only will this prevent you from losing any photographs if anything happens to your phone, but it also gives you the opportunity to delete them from your phone and free up some space.
+Nowadays, most phones will have some kind of cloud service that allows you to back up your photos to online storage. From there, it's usually fairly easy to transfer them across to your hard drive – and even if you don't use whatever service your manufacturer provides, there are plenty of third-party options like Dropbox.
+There's also the old-school way of connecting your phone up to your computer with a cable: most computers will automatically detect the phone as a camera and give you the option to sync your pictures. Your manufacturer may also have a dedicated software suite that you can install on your computer – however, these aren't always essential. - Geek Squad

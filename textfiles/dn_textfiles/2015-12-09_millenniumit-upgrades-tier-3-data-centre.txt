@@ -1,0 +1,11 @@
+## Title: MillenniumIT upgrades to Tier 3 Data Centre
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, December 9, 2015 - 01:00
+
+MillenniumIT upgrades to Tier 3 Data Centre
+
+MillenniumIT, has become Sri Lanka's first private company to upgrade to a Tier 3 data centre.
+The new data centre offers state-of-the-art technology and adheres to the Uptime Institute's Tier 3 data centre build standards, including equipment that is dual-powered and fully compatible within the topology of the site's architecture, with multiple independent distribution paths.
+With over 3,000 square feet of pressured under raised floor, and with more than 25 kilometres of copper cable and 5 kilometres of fibre optic cable linking over 80 racks with LED lighting and motion sensors, the MillenniumIT data centre is currently the largest privately held server facility in Sri Lanka. The data centre offers complete redundancy in power, HVAC, networking connectivity and security. The climate system is built with precision dual mode air conditioning via both chilled water and compressor systems, hot/cold aisle containment and controlled fresh air intake to conserve energy and lower cooling costs. The data centre is also equipped with a comprehensive detection system for water, heat, chemical and optical smoke and gas, as well as a state-of-the-art fire suppression and exhaust system.
+Mack Gill, CEO, MillenniumIT said: “This is Sri Lanka's first such private tier 3 data centre and we are delighted to be the first local company to reach this goal. Our data centre is now more efficient and safer than ever before. As a global leader in innovative trading technology, it's imperative that we stay ahead of the curve to ensure the best possible service is delivered to our numerous clients around the world, and here at home.” 

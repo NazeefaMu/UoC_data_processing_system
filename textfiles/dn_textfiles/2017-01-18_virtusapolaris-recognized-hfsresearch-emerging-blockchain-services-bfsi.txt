@@ -1,0 +1,10 @@
+## Title: VirtusaPolaris recognized by HfSResearch for emerging blockchain services in BFSI
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, January 18, 2017 - 01:00
+
+VirtusaPolaris recognized by HfSResearch for emerging blockchain services in BFSI
+
+VirtusaPolaris, the market-facing brand of Virtusa Corporation and Polaris Consulting & Services, Ltd., and a leading worldwide provider of information technology (IT) consulting and outsourcing services, announced that the company has been recognized by analyst firm HfSResearch in its Blueprint Report for its emerging blockchain services in Banking, Financial Services and Insurance (BFSI).
+VirtusaPolaris has developed leading blockchain capabilities in its financial services practice, focusing within its FinTech Lab on developing solutions like over-the-counter (OTC) derivatives, remittances, cash management, payments sandbox, and blockchain sandbox. “As the technology and capabilities of blockchain continue to develop, banking, financial services and insurance organizations must fully commit to innovation and digital transformation to keep up with this growing market segment,” said Samir Dhir, president, Banking & Financial Services, VirtusaPolaris.
+“VirtusaPolaris is moving forward in its exploration of blockchain on both the innovation and the execution aspects,” said Christine Ferrusi Ross, research vice president, Strategy and Product Development. The company marries that business view with technical aspects like the library it’s building for extracting blockchain tokens using wallet keys and for messaging.”

@@ -1,0 +1,145 @@
+## Title: Learning Process and Western Science
+## Section: Opinion
+## Date: 14 August 2018 12:02 am
+
+Learning Process and Western Science
+
+
+	
+
+Abduction is guessing of an “explanation” (reason) of an observed property of the members of a population
+	Western Science scientists who want to ‘explain’ nature adopt the trial and error method in arriving at ‘axioms’
+ 
+
+People and animals learn by trial and error if left to themselves. It is revealed by experiments done with mice when they are left to find their way through a mesh with blocks and openings. They try one path; if they do not succeed they try another path and so on until they find their way out. Children left on their own follow the same method of trial and error.
+
+
+In Western Science scientists who want to ‘explain’ nature adopt the same method in arriving at ‘axioms’ that ‘explain’ observations with respect to a property of the members of the population.
+
+
+This method is known as abduction after the American Philosopher and Logician Charles Sanders Peirce (1839 -1914). Abduction, though in the earlier formulations of Peirce had similarities with induction, is entirely different from induction.
+
+
+In abduction, in order to explain a set of observations a hypothesis, an ‘axiom’ is guessed.
+
+
+If the ‘axiom’ does not lead up to the set of observations, then the particular ‘axiom’ is dropped and a different ‘axiom’ is introduced.
+
+
+The process is repeated until a satisfactory ‘axiom’ is obtained. The ‘axiom’ if satisfactory, is sometimes called a theory. This is what happens in abduction but it has to be elaborated in comparison with induction and deduction. It has to be emphasized that satisfactory does not mean true or correct.
+
+
+We shall first discuss briefly deduction, induction and abduction.
+
+Deduction
+
+
+In deduction, there are definitions, ‘axioms’ and rules of inference in a given population. We restrict ourselves to the use of the word inference only with respect to deduction.
+
+
+Depending on the population, we identify either concrete deductions or abstract deductions. The population has to be identified first, followed with definitions and ‘axioms’.
+
+
+Consider first, a concrete example. Let the population be a box of toys. It has to be understood that box, colour, white and toy have been defined in a larger context, in a larger population. Consider the property of colour of the toys. Let us begin with the ‘axiom’ ‘All toys are white’.
+
+
+Deductions are made using rules of inference. The rules of inference, as shown above, are arrived at by induction. It has to be emphasized that the ‘axioms’ are mere statements unless they had been deduced in a different context.
+
+
+In any event, the very first ‘axioms’ are not deduced, and are mere statements. Thus, reasoning alone leads us nowhere, though many people have a kind of faith in the process. These people do not believe in God, afterlife, but believe in reason. Can they show that reason is not a belief?
+
+
+We shall consider two deductions one in a finite population and the other in an infinite population.
+
+
+The syllogism is a rule of inference obtained by induction. If the objects in a population have the same property, then we know that any object of the population must have that property.
+
+
+It can be generalized as, if all M is P, all S is M, then all S are P. Applying this syllogism to the toys in the box we deduce that since all toys are white, and if some toys are selected from the bag, then the selected toys are white.
+
+ 
+
+
+Deductions are made using rules of inference. The rules of inference, as shown above, are arrived at by induction. It has to be emphasized that the ‘axioms’ are mere statements unless they had been deduced in a different context
+
+
+
+Let us now consider the case of the population of straight lines. This is a population of the infinite number of members. Then starting with some of the definitions and axioms and theorems in Euclidean Geometry, and the rule of inference if a+b=a+c, then b=c, it can be shown that when any two straight lines intersect each other the alternate angles are equal. (It is easy to see that the rule of inference if a+b=a+c, then b=c, is also obtained by induction).
+
+
+In deduction whether in a population of a finite number of members or of infinite members one starts with definitions and ‘axioms’ and conclusions are arrived at using rules of inference.
+
+Induction
+
+
+Induction, as mentioned before, is a generalization of a property of a sample(s) of members of the population to the entire population.
+
+
+When the population is finite it is called concrete induction, whereas, when the population is infinite it is called abstract induction. The result of induction could be tested by considering members of the population, other than in the sample(s).
+
+
+Suppose we take a box of toys and select a few members and find them to be white. Then by induction, we may say that all the toys in the box are white. If we come across even one toy in the box, which is not white, then our statement obtained from induction becomes invalid.
+
+
+Thus, induction can also be taken as a test for the statement arrived at. Though this is a population of finite members by considering the more famous examples such as all swans are white or all crows are black, we can say abstract induction can be considered as a test as well.
+
+Abduction
+
+
+The abduction was introduced by American philosopher and mathematician Charles Sanders Pierce, though at first, he himself could not see the difference between abduction and induction. Abduction is guessing of an “explanation” (reason) of an observed property of the members of a population.
+
+
+Let us consider the case of falling apples. One has to give a reason for the falling of the apples. One could say that there is an affinity for the apples to fall to the earth, with heavy apples having a strong affinity. However, apples come down with the same acceleration, and one gives up one’s guess. Newton comes and guesses something else, which happens to work, maybe under certain conditions. Newton’s guess is taken as the “reason” for the falling of the apples.
+
+ 
+
+
+
+ 
+
+
+Western Science very much concerned with observations
+	But observations of the multiverse are beyond the capacity of scientists
+
+
+ 
+
+ 
+
+Induction and Abduction in Western Science
+
+
+Abduction is relevant to Western science as it is the method that is used in arriving at ‘axioms’ that explain generalized observations through induction.
+We may call it the ‘scientific method’ if such a description is needed.
+
+
+However, in Western science, there are two stages. In the first stage observations and induction take place in that order, and in the second stage abduction and observations take place in that order. Having said that it has to be emphasized that in the first stage the observations are dependent on theory or one’s beliefs and that the observations could have been proceeded by thoughts.
+
+
+There are neither observations independent of conceptions, nor perceptions without conceptions and the idea of perceptions without conceptions stem again from the dualities in Western Chinthanaya.
+
+
+In Western science, it is said that the observations are important, but in Cosmology and modern Theoretical Physics the ideas are considered to be supreme.
+The symmetry of theories, Mathematical consistency and beauty whatever they mean, have become very important. 
+
+
+It is as if the Universes or Multiverses have been created Mathematically, and one may be inclined to think that God is a Mathematician, assuming that God exists.
+Western science is very much concerned with observations but observations of the multiverse are beyond the capacity of the scientists.
+
+
+It is only an idea, and Mathematics is all about ideas arrived at by induction or by construction. Axioms in Euclidean Geometry have been arrived at by induction, while those of Non- Euclidean Geometry are constructions.
+
+
+What I mean by Mathematics, is what is sometimes known as Pure Mathematics, excluding anything that goes as Applied Mathematics.
+
+
+However, this does not mean that ideas exist independent of observations when sensory perceptible conceptions are considered.
+
+
+In the second stage, we said that abductions and observations took place in that order. The guesses are made to explain the generalized observations from the first stage, and having made guesses or ‘axioms’ observations are usually carried out in order to arrive at an “axiom” that works.
+
+
+The word ‘usually’ has been used as it is not the case with multiverses and string theory. 
+ 
+
+		

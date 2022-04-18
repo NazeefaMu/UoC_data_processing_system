@@ -1,0 +1,13 @@
+## Title: ComBank introduces SL’s first chip and PIN debit card
+## Supertitle: 
+## Section: Finance
+## Date: Friday, July 28, 2017 - 01:00
+
+ComBank introduces SL’s first chip and PIN debit card
+
+The Commercial Bank of Ceylon has introduced Mastercard debit cards with chip and PIN technology for the first time in Sri Lanka.
+These cards replace the existing Maestro debit cards with magnetic strips. The new chip and PIN debit card will minimise the possibility of fraudulent transactions at point-of-sale (POS) due to the PIN requirement, the Bank said.
+This technology renders the new Mastercard debit cards smart and significantly increases the security level of the card when transacting.
+“Commercial Bank always believes in introducing technology that matters to customers. In this day and age, security is a primary concern of customers and this new card will ensure more secure purchases not only locally, but also when they are overseas,” Commercial Bank’s Deputy General Manager Marketing Hasrath Munasinghe said.
+Cardholders will receive their personal identification numbers (PIN) via SMS to registered mobile numbers when branches issue the card. Cardholders simply enter their PINs at POS machines to authorise transactions.
+The Mastercard debit card with chip and PIN technology is deemed risk averse since it requires the card holder to authenticate each EMV transaction using a PIN, or use an OTP (one time password) for e-commerce transactions. It does not support contactless transactions and cannot be used at e-commerce sites which do not support 3D secure technology, or at POS terminals which do not support PIN, the Bank said.

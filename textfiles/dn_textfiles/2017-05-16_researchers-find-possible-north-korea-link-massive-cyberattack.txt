@@ -1,0 +1,29 @@
+## Title: Researchers find possible North Korea link to massive cyberattack
+## Supertitle: 
+## Section: World
+## Date: Tuesday, May 16, 2017 - 04:15
+
+Researchers find possible North Korea link to massive cyberattack
+
+ 
+It's unclear who is responsible for the global cyberattack that targeted around 300,000 machines in 150 countries. Businesses are still reeling from the fallout, and government agencies around the world are investigating.
+Security researchers have documented similarities between the WannaCry code and malware created by Lazarus group, a hacking operation that has been linked to North Korea. The code similarities were discovered by Google researcher Neel Mehta on Monday. Google declined to comment.
+The security firm Symantec also found links between Lazarus and WannaCry. It discovered early versions of WannaCry on systems that had been compromised by the Lazarus group's tools. These versions were different than the ransomware that spread on Friday. It is unclear whether the Lazarus group put the ransomware on those systems, or someone else did.
+"We have not yet been able to confirm the Lazarus tools deployed WannaCry on these systems," a Symantec spokesperson said in a statement to CNNTech. "While these connections exist, they so far only represent weak connections. We are continuing to investigate for stronger connections."
+Kaspersky Lab, a security company, has also published the similarities. The Lazarus group was linked to the 2014 hack of Sony Pictures and attacks on banks around the world.
+The latest observations are still a long way from determining whether North Korean hackers were behind the recent global cyberattack, but they demonstrate how researchers go about finding who is to blame. One way is to investigate the code and compare it to samples that known hackers have used in the past.
+According to Amanda Rousseau, malware researcher at security firm Endgame, it's difficult to catch cybercriminals. Further, it will be hard to find patient zero, or the first victim that kicked off the spread of the virus.
+The WannaCry ransomware took computers hostage by encrypting their files and requiring payment to unlock them. It leveraged a Windows vulnerability leaked in a trove of hacking tools believed to belong to the NSA. The ransomware mostly affects businesses and large organizations that use a Windows tool that enables file-sharing.
+Microsoft released a patch for the vulnerability in March.
+Rousseau says the malware code indicates there are at least two different parties responsible for it because there are two pieces of the attack that are coded differently. The ransomware itself was not hard to reverse engineer, she said, and indicates that a less experienced person wrote it.
+Multiple government agencies are committed to tracking down the perpetrators.
+Finding out who is responsible is called "attribution." And it is very hard to do. Researchers look for certain identifiable pieces of code or clues on how it was executed, such as text strings or site registrations. But there are tools that hackers use to throw investigators off their tracks. Often, malware code is publicly available, or it can be purchased on digital black markets.
+According to Michael Flossman, researcher at security firm Lookout, examining the victims can help narrow down the perpetrators -- but in the case of WannaCry, hundreds of thousands of machines were affected and there weren't a ton of similarities in who was hit.
+The hackers responsible have not received much in return for their efforts. While the ransomware took down hospitals and critical infrastructure, it's made less than $60,000 in ransom. Security researchers and government agencies have advised businesses not to pay the ransom.
+Researchers are piecing together where WannaCry came from, and some insight into how hackers used the leaked Microsoft vulnerabilities could be found on the dark web.
+The dark web is like a second layer of the internet beyond what average people use every day. It can only be accessed via the Tor browser, which gives users a cloak of anonymity and makes it impossible for anyone else to see their activity.
+Cybersecurity firm CYR3CON collects information from dark web sites and uses it to understand cybersecurity threats. In mid-April, the firm identified a conversation on a popular Russian forum that discussed using the leaked NSA exploits to launch ransomware attacks against hospitals.
+"The thing most interesting was a conversation that mentioned the specific Windows exploit," Paulo Shakarian, cofounder and CEO of CYR3CON, told CNNTech. "It mentioned there were tens of thousands of systems that could be targeted, and many of them were in the medical industry."
+Though there were many dark web conversations around the tools after they were released in April, this specific thread talked about a ransomware attack strikingly similar to WannaCry.
+It's impossible to know who posted it, and it is not evidence that people who participated in the thread were responsible. But law enforcement and researchers can use this information to see what future attacks might look like so companies and users can defend themselves against hacks.
+"It can give insight into what malicious hackers are looking to target, what tools they will use, and what is the established expertise," Shakarian said.

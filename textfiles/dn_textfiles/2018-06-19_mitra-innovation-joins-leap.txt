@@ -1,0 +1,18 @@
+## Title: Mitra Innovation joins with Leap in
+## Supertitle: 
+## Section: Finance
+## Date: Tuesday, June 19, 2018 - 01:00
+
+Mitra Innovation joins with Leap in
+
+Mitra Innovation, one of the fastest growing tech innovators in the cloud integration and product incubation markets - recently partnered with Leap in! as they prepare to launch an innovative platform to the disability sector in Australia.
+The Australian government is investing heavily to improve the lives of people with disabilities, rolling out a new approach to funding under the banner of the National Disability Insurance Scheme (NDIS).
+The scheme is designed to support the independence, social and economic participation of people with disability, and give them choice and control in how they achieve reasonable and necessary life goals.
+Leap in! is a disruptive not-for-profit startup that assists people with disabilities and their ‘crew’ - families, friends and support workers, to navigate the new scheme.
+The Leap in! app provides a simple and accessible way for its users to prepare for the scheme, then manage their budgets and access supports. The platform also connects providers into the ecosystem to make it simpler for them to deliver and claim for services.
+Mitra Innovation will assist Leap in! to keep evolving their product to transform lives for the better. As a strategic partner responsible for platform architecture, platform roadmap, development and deployment, Mitra Innovation works closely with the ambitious Australian-based Leap in! to launch their business in 2018.
+Jane Sheehy - CTO of Leap in! – said, “We are excited about the partnership with Mitra Innovation. We have big plans, so we need a partner who shares our passion for our mission, agile innovation and technical excellence. As a not-for- profit we need to make every dollar count. Mitra Innovation ticks all those boxes, and we are excited about how they will help us develop a more inclusive society in Australia.”
+Ashok Suppiah, CEO of Mitra Innovation – said, “Working with Leap in! is definitely a satisfying project for our team. As a team we enjoy new challenges every day.
+With Leap in! we take on the challenge of making life easier for people with a disability and - using the latest in technology - we meet and exceed user expectations.”
+Mitra Innovation helps smart entrepreneurs, enterprises and public service organisations to accelerate innovative ideas into amazing global businesses or solutions, through product incubation, digital transformation, and integration services.
+“We are specialists in product incubation, digital transformation, and Cloud-to- Cloud Systems integration, with expert skills in WSO2 and AWS technologies.”

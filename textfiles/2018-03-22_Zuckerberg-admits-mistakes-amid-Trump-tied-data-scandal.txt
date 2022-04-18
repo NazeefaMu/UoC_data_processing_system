@@ -1,0 +1,55 @@
+## Title: Zuckerberg admits 'mistakes' amid Trump-tied data scandal
+## Section: Breaking News
+## Date: 22 March 2018 10:10 am
+
+Zuckerberg admits 'mistakes' amid Trump-tied data scandal
+
+
+	
+
+Facebook honcho Mark Zuckerberg offered to testify before Congress over the Cambridge Analytica scandal as he apologized for the first time for allowing personal data to be misused in the lead up to the 2016 presidential election, the New York Daily News reported today.
+
+After five days of silence, Zuckerberg appeared on CNN on Wednesday night and addressed the scandal by saying, “So this was a major breach of trust, and I’m really sorry that this happened.”
+
+“You know, we have a basic responsibility to protect people's data. And if we can't do that, then we don't deserve to have the opportunity to serve people. So our responsibility now is to make sure that this doesn't happen again,” he added.
+
+Facebook has been embroiled in scandal since it was revealed Friday that the Trump campaign-connected data-mining firm Cambridge Analytica improperly accessed personal information on more than 50 million users.
+
+ The British-based company used the information to create complex algorithms that could have influenced Americans to vote for candidate Donald Trump. Those explosive revelations were exacerbated after Cambridge Analytica CEO Alexander Nix was caught on video telling an undercover Channel 4 reporter that his company "informed all the strategy" of President Trump's campaign, including "all the research, all the data, all the analytics, all the targeting."
+
+Authorities in both the U.S. and England have questioned how Facebook could have allowed this to happen.
+
+After Sen. Dianne Feinstein and other members of Congress called for Zuckerberg to testify, he said, “So the short answer is, is I'm happy to if it's the right thing to do. Facebook testifies in Congress regularly on a number of topics, some high-profile, and some not.”
+
+“And our objective is always to provide Congress...to have the most information that they can,” he added.
+
+ Zuckerberg also admitted in a lengthy statement on Wednesday that the company found out in 2015 that a Moldavian scientist named Aleksandr Kogan had shared a large amount of personal data with Cambridge Analytica that he had obtained through a quiz app.
+
+"It is against our policies for developers to share data without people's consent, so we immediately banned Kogan's app from our platform, and demanded that Kogan and Cambridge Analytica formally certify that they had deleted all improperly acquired data," Zuckerberg said.
+
+But, as revealed last week, Cambridge Analytica did not delete a large chunk of the data, which was subsequently used for the company's Trump-connected election work.
+
+Zuckerberg admitted Facebook made mistakes and could have done more to make sure the data was actually deleted. He pledged to take a number of steps in upcoming weeks to beef up the social media platform's privacy, including auditing all apps that have had access to large amounts of personal data.
+
+Zuckerberg also promised that developers will be blocked from accessing personal data if it's been more than three months since the users last went on their apps.
+
+"I'm responsible for what happens on our platform," Zuckerberg said. "While this specific issue involving Cambridge Analytica should no longer happen with new apps today, that doesn't change what happened in the past."
+
+CNN correspondent Laurie Segall also confronted Zuckerberg about Facebook’s impact on the 2016 elections but he avoided a direct answer and said, “Oh, that’s hard….It’s really hard for me to have a full assessment of that” before listing a number of “different forces at play.”
+
+ “If you told me in 2004 when I was getting started with Facebook that a big part of my responsibility today would be to help protect the integrity of elections against interference by other governments, you know, I wouldn't have really believed that was going to be something that I would have to work on 14 years later,” he said.
+
+Russian troll farms utilized Facebook, along with other social media platforms, to create divisive content and targeted ads that reached millions of Americans ahead of the 2016 elections.
+
+When asked whether Facebook should be regulated, Zuckerberg suggested he was open to the possibility and turned the conversation to online advertisements.
+
+“I’m actually not sure we shouldn’t be regulated,” Zuckerberg said Wednesday.
+
+“If you look at how much regulation there is around advertising on TV, in print, you know, it's just not clear why there should be less on the internet. You should have the same level of transparency required,” Zuckerberg said.
+
+“People should know who is buying the ads they see on Facebook, and you should be able to go to any page and see all the ads people are running to different audiences,” he added.
+
+Facebook has seen its stocks plummet even though it quickly banned Cambridge Analytica from its platforms after news of the personal data misuse first surfaced.
+ 
+
+		

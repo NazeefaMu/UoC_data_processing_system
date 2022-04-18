@@ -1,0 +1,14 @@
+## Title: Google’s voice typing tech adds Sinhala and Tamil
+## Supertitle: 
+## Section: World
+## Date: Tuesday, August 15, 2017 - 10:30
+
+Google’s voice typing tech adds Sinhala and Tamil
+
+ 
+Google is expanding its speech recognition capabilities to support dozens of new languages, particularly those in emerging markets in India and Africa, the company announced this morning.
+The company says with the update, it’s adding 30 languages and locales around the world, bringing the total supported to 119.
+The update includes  21 languages including Sinhala and Tamil.
+The new speech recognition will be initially supported in Gboard for Android and Voice Search. U.S. English speakers, meanwhile, can now use voice dictation to express themselves using emojis, too.
+The new languages are also available today in the Cloud Speech API, which already supported 89 languages, and is used in a number of third-party voice and video applications, like transcription services, speech analytics applications, IVR applications, and more.
+The full list of new languages includes: Amharic (Ethiopia), Armenian (Armenia),Azerbaijani (Azerbaijani),Bengali (Bangladesh, India),English (Ghana, Kenya, Nigeria, Tanzania),Georgian (Georgia),Gujarati (India),Javanese (Indonesia),Kannada (India),Khmer (Cambodian),Lao (Laos),Latvian (Latvia),Malayalam (India),Marathi (India),Nepali (Nepal),Sinhala (Sri Lanka),Sundanese (Indonesia),Swahili (Tanzania, Kenya),Tamil (India, Singapore, Sri Lanka, Malaysia),Telugu (India),Urdu (Pakistan, India).p

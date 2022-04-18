@@ -1,0 +1,20 @@
+## Title: SLIIT students showcases innovative  talents at INSYS 2017
+## Supertitle: 
+## Section: Finance
+## Date: Friday, January 12, 2018 - 01:00
+
+SLIIT students showcases innovative  talents at INSYS 2017
+
+  Five innovative teams of students at SLIIT participated at INSYS 2017, a one day symposium that gave them the opportunity to showcase their skills and they all clinched merit awards at the event. 
+INSYS 2017 brought together academics and researchers from local and overseas universities as well as local industrial experts to a common forum to publicize their latest research findings and exchange views and ideas under the theme of Innovations for Sustainable Future. The symposium was organized by the Office of Research & Innovation Services (ORIS), Sri Lanka Technological Campus (SLTC), Padukka.   
+Internationally renowned professors and a prominent industrialist were among the keynote speakers who enlightened the audience with cutting edge technological advancements in electrical and communication engineering. 
+Among the topics discussed was the readiness of Sri Lankan industry in adapting these technologies.   
+Two technical sessions at the symposium focused on Communication Engineering, Dynamics Systems, Modelling and Controls and Robotics. A workshop was held on emerging Technologies in Mobile Communications for local engineers with an exhibition of innovative product development by school students and engineering undergraduates at which the SLIIT students scored with their innovations. Over one hundred local and international researches, academics and industrialist participated in the symposium.  
+One team from SLIIT submitted a design for an automatic pet feeder to provide both food and water to pets even when the pet owner is not available at home to do it. 
+This pet feeder is an IOT device controlled by an app which the owner can use to dictate the time and amount of meals that their pets will consume. 
+The participating students were Nisal Sugathapala, Deelaka Pitagampolage, Piyumal Heiyanthuduwa, Tharindu De Alwis and Kavin Wanigaratne.   
+Another SLIIT team submitted a coin based mobile charging device to charge mobile phones and tablets in public places. The participating students were Niran Gunasekera, Charith Wijayawardane, Madushan Athapaththu, Sandal Ruhunuge and Vinushi Bulastinghala.  
+The third SLIIT team that won a Merit award submitted a Power Saving Iron that had the ability to prevent power loss when the iron is idle while plugged to a power outlet. Team members at SLIIT, D.M.S.V.O.S Dissanayake, V.K.K De Mel, G.A.N Jayaratne, W.M.P.R Weerakoon and D Dewapura were guided by Madhawa Herath.  
+Another ‘out of the box’ innovation that won a merit was a touch sensor pen which notifies the user with a vibration when the grip is loosened or lost due to lack of concentration. The pen was an apt solution for students who had difficulty in maintaining concentration and staying awake during exhausting lecture hours, meetings, conferences, night time personal study hours and working hours. Students who contributed to the project were V.P.S. Bandara, W.T.K.C. Perera, M.W.A.D.J.P. Wijesooriya, W.A. Thamasha Rasangi and R.H. Kumarage.   
+One merit award winning SLIIT team considered the rising number of dengue patients and devised a system to improve their fluid management which is the main treatment done in hospitals to treat the illness.  
+All the above products were supervised by Madhawa Herath under the design and process module conducted during the first year. Prof. Lalith Gamage, Vice Chancellor and CEO of SLIIT said, “It gives us great pride that our students are able to showcase their talents and win awards at technical events such as this. This amply proves that the learning opportunities at SLIIT will open pathways that will sustain and strengthen their future careers.”  

@@ -1,0 +1,30 @@
+## Title: ComBank enhances corporate website with assistive technology for differently-abled persons
+## Section: Financial News
+## Date: 19 September 2017 12:00 am
+
+ComBank enhances corporate website with assistive technology for differently-abled persons
+
+
+	
+
+The Commercial Bank of Ceylon has broken new ground in enhancing access for differently-abled persons by enriching its corporate website with special assistive technologies for users with visual disabilities, hearing impairments, physical disabilities and age-related conditions.
+
+
+Designed to comply with Web Content Accessibility Guidelines (WCAG) 2.0 developed by the World Wide Web Consortium (W3C), Commercial Bank’s recently revampedcorporate web sitemakes it easier for users with visual, auditory and physical difficulties to access information on the Bank.
+The website is optimised for speech recognition and screen reading for users with visual as well as physical disabilities, provides supplemental highlighting of content and visual notification for users with hearing impairments and improves accessibility for those with other disabilities.
+
+
+“As the largest private bank in the country,we are committed to enhancing access to information and services to the widest possible spectrum of consumers,” Commercial Bank Managing Director/CEO Jegan Durairatnam said. “We have ensured that a significant portion of our branches and ATMs have convenient access for differently-abled customers and we are now looking at web access, and the difficulties posed for people with physical and visual difficulties.”
+
+
+The website has Voiceover on the latest version of iOS and OS X, TalkBack on the latest versions of Android and the latest version of NVDA on Windows. The content has been optimised to be compatible with the latest and the most popular assistive tools for differently-abled users. 
+The website can be accessed through desktop and laptop computers and mobile devices with Android, iOS, Windows (8, 7, Vista and XP) and MacOS X operating systems.
+
+
+Web Content Accessibility Guidelines (WCAG) 2.0 defines how to make web content more accessible to people with disabilities. It is based on the four principles that provide the foundation for Web accessibility: perceivable, operable, understandable, and robust.
+
+
+The only Sri Lankan bank to be ranked among the Top 1000 banks of the world for seven years consecutively, Commercial Bank operates a network of 256 branches and 695 ATMs in Sri Lanka. The Bank won 10 major international awards in 2016 and has over the years won multiple awards as Sri Lanka’s Best Bank, Best Trade Bank, Strongest Bank and Most Respected Bank from a number of local and international institutions and publications.  It has also been adjudged one of Sri Lanka’s 10 best corporate citizens by the Ceylon Chamber of Commerce for several years.
+ 
+
+		

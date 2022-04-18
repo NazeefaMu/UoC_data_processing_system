@@ -1,0 +1,19 @@
+## Title: How am I feeling? Ask my house
+## Supertitle: 
+## Section: Features
+## Date: Monday, January 29, 2018 - 01:00
+
+How am I feeling? Ask my house
+
+Someday a health checkup may be as easy as switching on the living room light.
+In early 2016, researchers from Kyoto University’s Center of Innovation and Panasonic Corporation developed a radar-based device that could instantaneously and accurately measure the body’s vital signals - and now they’ve made it even better.
+The sensor combined a radar with signal analysis algorithms to measure how the body moves as the heart beats. Body movements vary considerably, so the software filters isolate just the heart’s minute motions.
+“Measuring respiration and heart rate - without attaching cumbersome wires to the body - will greatly benefit modern medicine and home healthcare,” explains Toru Sato, lead researcher and Kyoto University professor of communications and computer engineering.
+“Moreover, it will reduce stress by not subjecting the individual to a feeling of being monitored.”
+While the original technology showed promise, there was a major problem: the prototype was the size of a microwave oven. To improve prospects for implementation, the group shifted their focus toward refining the device.
+“After extensive testing we achieved great improvements,” continues Sato. “The device now utilizes the 79 GHz frequency band, instead of the previous 60 GHz. We also incorporated CMOS semiconductors. As a result, range and resolution improved, and it’s now only about one tenth the size - as big as a smoke detector.”
+Moreover, because of the new frequency band, the sensor can now measure the heart rates of multiple individuals in the same room, separated by as little as 7.5 cm (about 3 inches).
+The team hopes that the improved specs will allow such sensors to be installed in a variety of household appliances - such as lighting - to safely monitor the vitals of residents.
+“This technology holds great promise for the future development of devices to monitor health remotely,” concludes Sato.
+“We are currently considering test sites for observing the multiple applications of our sensor.”
+Science Daily 

@@ -1,0 +1,35 @@
+## Title: Hacking of Health Ministry website: Experts launch probe
+## Section: Breaking News
+## Date: 5 January 2017 06:18 am
+
+Hacking of Health Ministry website: Experts launch probe
+
+
+	
+
+A comprehensive technical investigation is being carried out by the National Centre for Cyber Security into the hacking of the website of the Ministry of Healthcare, Nutrition and Indigenous Medicine on Tuesday night.
+
+A senior official of the Sri Lanka CERT-CC (Computer Emergency Readiness Team – Coordinating Centre) told Daily Mirror that they were working on the problem after receiving the initial data from the Ministry.
+
+He said there were at least four ways in which the website could have been hacked due to shortcomings in the way the website was maintained.
+
+If the operating system of the server of a website is poor or has lapses a hacker could get into the system.
+
+If there are weaknesses in the design of the website, a hacker to break into the site. Finally if there are shortcomings in the tools or software used to create the website, it could be hacked.
+
+Misplacing a password or a breach of security by a person or group updating the website could give an opportunity for someone to hack the site, he said.
+
+The specialists are investigating the manner in which the breach had been made and they may arrive at the solution today.
+
+The expert said anyone with access to the Internet within or outside the country could be the culprit. He said it could be the handiwork of a local genius or of the foreign group called the Muslim Cyber Army (MCA) which was supposed to be responsible according to the claim on the site,
+
+He said ministry officials have given orders to keep the website offline until the fault was corrected.
+
+The hackers claimed to be from the MCA, an Indonesian extremist group, on the website to which searchers were directed. They used an Arabic phrase placed below an armed jihadist style logo which gave the phrase's English translation as: Noble Life or Martyrdom.
+
+The experts have not yet discovered whether the hacking was by the MCA as claimed, or by a local who wanted to mislead the investigators. (Kurulu Koojana Kariyakarawana)
+
+
+ 
+
+		

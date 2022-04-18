@@ -1,0 +1,17 @@
+## Title: Microsoft, Intel unveiles  new research  from Techaisle
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, November 8, 2018 - 01:00
+
+Microsoft, Intel unveiles  new research  from Techaisle
+
+Microsoft and Intel recently unveiled new research from Techaisle, a leading global SMB IT market research and analyst organization, which highlighted the opportunities that Asia Pacific’s SMBs have by upgrading to modern devices at work.
+The study, which surveyed 2,156 SMB organizations across Asia Pacific, found that the cost of keeping a PC more than four years old is US$2,736 per device—enough to replace the ageing hardware with two or more new PCs.
+The study also revealed that a PC older than four years old is also 2.7 times more likely to undergo repairs, resulting in loss in productivity. 85% of larger SMBs, with more than 500 employees, have PCs that are older than four years, compared to 60% in smaller SMBs employing less than 100 employees.
+“PCs are the productive engines for most SMBs in the region, where organizations rely heavily on their devices for their day-to-day tasks. However, 7 in 10 SMBs surveyed have PCs that are older than four years, which significantly increases maintenance costs,” said Bradley Hopkinson, Vice President, Consumer and Devices Sales, Asia, Microsoft. “With budget constraints being the number one IT challenge among SMBs today, business leaders should seek to adopt a device modernization strategy so that they can maintain costs, while safeguarding their organization from newer digital risks.”
+The new study revealed that in the last year alone, as high as 67% of SMBs may have experienced PC security and data theft breaches, with only 15% of them actually reporting these attacks.
+“SMBs constitute 98% of enterprises in the Asia Pacific region, and employ half of the workforce in the region yet many of them still have PCs older than four years old. We believe that by having them move to a modern PC powered by an Intel Core processor, they can unlock greater productivity for their business while reducing IT management time and costs,” said Santhosh Viswanathan, Managing Director, Sales and Marketing Group, Asia Pacific Japan Territory, Intel.
+Respondents in the study identified their top business priorities as increasing profitability, business growth and improving workforce productivity. The study highlighted that SMBs are looking at IT as a response to address their business issues. The top IT priorities included investing in PCs, cloud solutions and security solutions.
+SMBs have an opportunity to improve their overall operations with modern devices. For those who have already made the move to newer PCs, the study revealed that:
+“With a modern PC powered by Windows 10, SMBs can be assured of up-to-date security updates, powered by cloud intelligence that proactively protects their businesses,”stated Hasitha Abeywardena, Country Manager, Microsoft Sri Lanka and Maldives.
+“By reducing the potential risk of cyber threats with a modern PC, SMBs can definitely improve their productivity and avoid downtime.”

@@ -1,0 +1,13 @@
+## Title: AGATHON wins ICT awards
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, September 26, 2018 - 01:00
+
+AGATHON wins ICT awards
+
+A five member team of Cyber Security enthusiasts AGATHON won several awards from the recently concluded ICT events.
+The team members consists of Angelo Ruwantha Bandara (final year student of BSc (Hons) in Information Technology and he is occupied as an Information Security Analyst at KPMG Sri Lanka) Shalinda Weerasinghe, ( final year student of BSc (Hons) in Information Technology - Cyber Security and is working as an Information Security Analyst at KPMG) Nithushan Francis (final year student of BSc (Hons) in Information Technology - Cyber Security) Nandun Thilina Bandara - final year student of BSc (Hons) in Information Technology - Software Engineering and Ishan yapa (final year studentof BSc (Hons) in Information Technology - Software engineering).
+The team said their interest in the field of information security was developed after seeing many security breaches in financial, non financial organizations and health sectors. “We were also attracted by CTFs events that are usually hosted at information security conferences, including the various other events. These events consist of a series of challenges that vary from each event.”
+CTF events are usually timed, and the points are totaled once the time has expired. The winning player / team will be the one that solved the most challenges and thus secured the highest score.
+The events won by the tAGATHON’ includes, the 2017 “HackIT” Inter-University Hackathon organized by Garnes Labs being the winner from among 45 universities.
+“In addition ‘AGATHON’ is also the only team to win the SLIIT Codefest CTF Challenge for three consecutive years in 2015, 2016 and 2017. They also emerged winners from 35 teams at the NIBM Cyberfest 2018 CTF Challenge.”

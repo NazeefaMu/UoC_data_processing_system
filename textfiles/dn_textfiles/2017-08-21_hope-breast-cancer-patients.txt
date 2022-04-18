@@ -1,0 +1,26 @@
+## Title: Hope for breast cancer patients
+## Supertitle: 
+## Section: Features
+## Date: Monday, August 21, 2017 - 01:00
+
+Hope for breast cancer patients
+
+A new scanning technique could predict whether breast cancer is likely to spread into the lungs, research suggests. Scientists hope the innovative technique could allow doctors to intensively treat tumours before they start to expand. The research by UK scientists is still at an early stage, and so far has only been proven to work in mice.
+But if it can be replicated in humans it would dramatically improve the prognosis of those diagnosed with breast cancer. Tumours in the breast are relatively easy to treat, because they can be simply removed with surgery or targeted with chemotherapy or radiotherapy.
+But when the cancer spreads to another part of the body - a process known as metastasis - it is much harder to treat.
+Most deaths from cancer are caused by secondary tumours, which in breast cancer usually appear in the lungs, the liver or the bones.
+Scientists at King's College London think the new imaging technique will allow them to identify women whose cancer is likely to spread into their lungs, allowing them to use intensive treatments earlier to stop the spread.
+What did they find?
+The researchers discovered specific immune cells, called 'myeloid-derived suppressor cells' or MDSCs, start to accumulate in high levels in the lungs before the cancer spreads. These cells suppress the local immune system and promote the formation of new blood vessels, paving the way for the cancer to spread. The King's team developed a radioactive 'tracer' molecule which detects these MDSC cells using a 3D gamma-ray scanner.
+The tracer is injected into the patient, binds onto the MDSC cells, and shows up on the scanner.
+The team, whose work is published in the Theranostics journal, found in tests on mice that they could spot the MDSC cells well before any lung tumours became visible.
+Further research is needed
+Researcher Dr Fabian Flores-Borja said: 'By combining cell biology and imaging techniques, we have established a method to predict, at an early time-point during tumour development, whether tumour invasion will occur. 'We envision this technique being used to help select patients for either further surveillance or intensified therapy, as well as aiding cancer research. 'The development of a test that is able to identify an increased risk of metastasis soon after a patient is diagnosed with breast cancer, would be very useful in helping choose the best treatment for patients.'
+Breast cancer: The facts
+Breast cancer is the most common cancer among British women, with more than 55,000 diagnosed each year.
+The vast majority of these women - 78 per cent - survive for at least a decade after receiving their diagnosis.
+But the cancer still kills 11,400 women a year, virtually all of them after tumours spread outside the breast.
+The findings are 'exciting'
+Baroness Delyth Morgan, Chief Executive at Breast Cancer Now, which helped fund the study, added: 'While more research is needed before this could be tested in patients, the prospect of a hospital scan which could predict whether breast cancer will spread to the lungs is incredibly exciting.
+'More immediately, this study brings a brand-new method to the table that will help researchers unpick how the immune system is involved in the spread of breast cancer. Finding ways to predict and halt the spread of the disease will be crucial if we are to finally stop people dying from it.
+'This is a promising step towards being able to use 3D imaging to help offer more personalised therapy. Ultimately, anything that could provide patients and their doctors with a more accurate picture of whether their breast cancer may spread will help us tailor treatments to stop this from happening.' http://www.dailymail.co.uk

@@ -1,0 +1,14 @@
+## Title: Engineered model of  Diabetes
+## Supertitle: 
+## Section: Features
+## Date: Wednesday, April 4, 2018 - 01:00
+
+Engineered model of  Diabetes
+
+Arya Keerthi Kumarasena was diagnosed as having Type 2 Diabetes 38 years ago. Since then he faced several known complications of the disease which included retinopathy, bilateral cataract, coronary artery disease with triple vessel involvement and severe peripheral vascular disease with multiple near complete blocks with calcium deposition. Kumarasena was also subjected to many treatments in Sri Lanka and abroad such as LASER surgery, cataract surgery, coronary bypass surgery and stenting of the leg arteries.
+Kumarasena is a Chartered Electrical and Electronics Engineer and a Chartered IT Professional. Plus, he is a vegetarian and has adopted a dietary habit recommended for better meditation practice. The meals have been restricted to morning hours which are not in keeping with the accepted guidelines of more frequent smaller meals. Kumarasena has developed cow’s milk allergy which complicated the situation further.
+Over time, the Engineer felt information acquired by him will be useful to many readers and considered publishing his findings and thoughts. However, he warns that the writing is flavoured with Engineering and IT, though it does not mean that he does not appreciate the broad knowledge and the guidelines provided by medical profession. The model used by an average practitioner is unlikely to cover certain cases due to some complications, which prevail in the domain of the total medical profession.
+Similar to the procedure adopted to use certain software with known bugs with workaround (practice adopted to avoid the known problem by achieving the result in a different manner) rather tahn writing each and every application, a patient has to manage the health consulting available practitioners.
+Titled as An Engineer’s Experience of and Views on Diabetes, the book is based on the information and knowledge derived from several fields. Kumarasena has attempted to explain the relationships among the results of the different observations using simple models.
+Some people may feel that they are too basic and not adequate. Kumarasena invites them to enhance and improve the models by introducing additional parameters. If the concepts are further elaborated to cover a wider scope, the end result will become more useful. 
+ 

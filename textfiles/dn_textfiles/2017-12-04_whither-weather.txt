@@ -1,0 +1,36 @@
+## Title: Whither weather
+## Supertitle: 
+## Section: Features
+## Date: Monday, December 4, 2017 - 01:00
+
+Whither weather
+
+In 2015, a paper in Nature titled “The Quiet Revolution of Numerical Weather Prediction” noted that, in the past forty years, the accuracy of three- to ten-day forecasts has been increasing by about one day per decade. “Today’s six-day forecast is as accurate as the five-day forecast ten years ago,” the authors, led by Peter Bauer, a scientist with the European Centre for Medium-Range Weather Forecasts, noted. The growth and path of Hurricane Sandy, in October of 2012, were accurately predicted eight days in advance, and both the 2010 Russian heat wave and the 2013, U.S. cold spell were foretold at least a week ahead of time.
+Last Tuesday, much was made of the fact that a satellite map of rainfall estimates in the Houston area required two new colours to represent the tremendous amount of rain—between forty and sixty inches—that was expected. But no less astonishing, in the end, was the map’s pinpoint accuracy.
+Followers of the Weather Channel or the NHCs Twitter feed have grown accustomed to consuming visual data—those rainfall maps are the output of NASA’s Global Precipitation Measurement mission. Among the dozens of Earth-observing satellites, belonging to various nations, are several used exclusively for weather forecasting. These include four geostationary satellites, GOES-13 through GOES-16, which sit high above Earth and monitor the planet as it rotates below. Five more orbits the poles every ninety minutes, monitoring a fresh north-south swath of Earth with each passage.
+“The ability to accurately predict the wind speed of mid-ocean hurricanes comes, in part, from the Cyclone Global Navigation Satellite System, or CYGNSS, an array of eight small satellites launched last year by NASA. These detect the signals sent between GPS satellites and measure how they are scattered off the ocean—a proxy for surface roughness and, by extension, wind speeds.
+All this data is fed into forecasting models of staggering power and elegance. They essentially divide the atmosphere into millions of cubes, several miles on a side, each filled with a wealth of known data—temperature, humidity, wind speed, and more. Then the laws of physics are set loose, and changes in the atmosphere are simulated in three dimensions.
+For a long time, the US model, known as the Global Forecast System, was the top of the line, but it is increasingly being surpassed by the European Centre’s higher-resolution model, based in Reading, England. (The European model accurately forecast the final landfall for Sandy, while the GFS was off by several miles.) “It’s almost like a CAT scan of the atmosphere,” Mass said.
+New weather forecast system makes predictions faster and more accurate
+Weather forecasting agencies around the world are constantly developing new systems to produce ever more accurate forecasts, capable of capturing fast-moving, often chaotic and localised weather events. But this means bigger models and even bigger computing capacity. Denmark launched a world-first weather forecast system that can provide more accurate forecasts by the hour, using just a fraction of the computing power of conventional models in June this year.
+Scientists at the Danish Meteorological Institute (DMI) have a new forecasting providing more precise weather forecasts, updated every hour while using a fraction of the computing power typically required by such systems.
+The new setup offers several advantages over traditional forecasting systems. One is that more frequent updates should make their short-term forecasts more accurate.
+The hourly updates use the latest observations from satellite data and data from across DMIs observational network of weather stations and radars and should avoid sudden changes from one forecast to the next after each update.
+In 2016, DMI launched a new supercomputer, based in Iceland, where it saves energy by running on geothermal power.
+Another improvement is that the new system can forecast conditions for every 2.5 square kilometres, which should help them to capture localised events. The previous system produced meteorological data for every 5.5 square kilometres.
+Global interest in new system
+Other countries are watching to see how much of an improvement the new setup offers.
+Inger-LiseFrogner from the Department of Research and Development at the Norwegian Meteorological Institute describes this type of approach as “state of the art and in line with what other institutes are running and developing.”
+The national meteorological agencies in the Nordics plan to establish a joint forecasting consortium in 2022. The plan is to have one common forecasting system in operation by then.
+The new model system
+It is based on two existing forecast systems known as HARMONIE and HIRLAM. It runs on a 2.5 square kilometres resolution and is updated every hour. It produces a 24-member ensemble forecast, which means 24 possible scenarios for the weather over the next two days. The meteorologists then produce a forecast based on the probability of what the weather is likely to be doing at a certain place and certain time. This is called probabilistic forecasting.
+Uses existing model with a new layer of statistics
+The new setup is comprised of two existing models, which are run multiple times to produce a so-called ensemble forecast--essentially lots of slightly different individual weather forecasts that can all be analysed all at once.
+This produces an ensemble of possible weather scenarios for a certain location at a certain time in the future, which the forecasters then use to calculate the probability of heavy rain or bright sunshine, for example.
+Running more ensembles at regular intervals allows forecasters to see a greater spread of results that are updated as often as possible with up to date observations from weather stations, satellites, and radar networks.
+Internet of Things brings new era of weather forecasting
+Two years ago, Schneider Electric began selling remote monitoring stations aimed at agriculture that measure atmospheric and ground conditions such as soil moisture. There are now 4,000 of these systems deployed.
+That data, when combined with government and private sources of weather data, is used to help develop forecasts that update every hour and help farmers “make a better tactical decision” about when to apply pesticides, water and fertilizer, said Ron Sznaider, senior vice president of Schneider’s cloud service.
+The idea “is to mitigate the risk of weather,” said Sznaider.
+There are plenty of challenges ahead. Increasing amounts of sensor data also means “trying to capture the physics correctly” at those finer resolutions, said Mahoney. The feedback from urban environments, lakes, rivers, streams and many other conditions all influence micro-climates. “Those physical interrelationships matter,” he said.
+For now, weather forecasters aren’t routinely using a cell phone or vehicle data “but that’s coming,” said Mahoney, who said that over the next few years, research will result in methods and techniques to take advantage of those data sources. 

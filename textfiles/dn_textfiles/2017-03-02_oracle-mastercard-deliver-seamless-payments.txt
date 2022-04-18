@@ -1,0 +1,17 @@
+## Title: Oracle, Mastercard to deliver seamless payments
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, March 2, 2017 - 01:00
+
+Oracle, Mastercard to deliver seamless payments
+
+Mastercard announced a global partnership with Oracle that is designed to deliver a streamlined digital payment experience to the retail and hospitality industries at the Mobile World Congress.
+The partnership will initially focus on three needs for restaurants, hotels and retail stores:
+* In-Store Experience – Oracle and Mastercard will partner to develop and scale enhanced in-store payment experiences including Qkr! with Masterpass. This is a mobile app that enables consumers to seamlessly order and pay for goods and services via their smart phone without having to wait in line or for a restaurant server. This integration will make transactions simple, convenient and secure and remove friction for the customer.
+ 
+* Operational Efficiencies – Rather than develop and implement separate payments solutions for their in-store and online operations, retailers can benefit from a fully-integrated digital payment and fraud prevention offering through Mastercard Payment Gateway Services.
+ 
+* Cross-Channel Consistency – The integration of Masterpass, the digital payment service from Mastercard, into Oracle products allows retailers to provide a seamless check-out experience across different channels.
+Mastercard and Oracle are already working with joint partners such as wagamama, Carluccio’s, Young and Co.s Brewery and Geronimo Pubs. They are using Qkr to let their customers order additional items during meals, pay at the table when they are ready and split the bill with others.
+In 2017, Mastercard will expand the Qkr platform to six additional markets – Brazil, Canada, Ireland, Singapore, South Africa and the United States – to seamlessly pay for fees, supplies and excursions at schools, and make payments at gas stations, parking, sports arenas, and unattended retail such as vending machines.
+Commenting on the announcement, Chris Fendley, SVP Merchant Development, Mastercard, said, “With close to 80 percent of consumers using technology at some point along their shopping journey, Mastercard is committed to unlocking omni-channel commerce for every device and delivering convenient experiences to users at-home, in-stores and on-the-go. Building on the success of our joint initiatives with Oracle in the UK, we can help retailers and hospitality providers connect with their customers in more engaging ways while enabling them to grow their businesses with scale, speed and security.”

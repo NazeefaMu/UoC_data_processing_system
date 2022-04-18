@@ -1,0 +1,35 @@
+## Title: Vehicle prices up from Monday
+## Section: Breaking News
+## Date: 22 November 2015 07:28 am
+
+Vehicle prices up from Monday
+
+
+	
+
+
+	The unit rate for vehicles through the budget proposal and the new valuation system that introduced recently would increase the prices of vehicles by Rs. 200,000 up to Rs. 2.5 million, the Vehicle Importers Association of Lanka (VIAL) said today.
+	A new valuation system was introduced recently taking full option manufacturers price as the tax base.
+	Finance Minister Ravi Karunanayake said presenting the budget, to further strengthen this process of collecting the payable taxes said that the unit rate of excise duty for the vehicles on the basis of cubic centimeters and duties on the percentage basis on certain vehicles would be revised.
+	VIAL Chairman Indika Sampath Merenchige said with those introductions, the tax on electric vehicles had also been increased from 5 % to 50 % and therefore duty would increase on electric vehicles such as ‘Leaf’ by around Rs. 2.5 million.
+	“The import tax on 1000cc vehicles has been increased from 50 % to 70 % and therefore vehicles such as ‘Wagon R’ would increase by around Rs 400,000 and Maruti prices would increase by Rs. 250,000, he said.
+	“The tax on hybrid vehicles has been increased to 10 per cent and thereafter Aqua vehicle would increase around Rs. 500,000 to 600,000 while Prius would increase by around Rs.700,000”, he said.
+	Mr. Merenchige said the tax rate on vans had been increased from 85% to 150% and price on vans would increase of by around Rs.2.5 million.
+	He said the new prices would come into effect on Monday (23).
+	Meanwhile, 2016 budget has reduced excise duty to 2.5 percent for the vehicles which are run entirely on Solar, Hydrogen or Helium.
+	A vehicle import fee to obtain a Vehicle Entitlement Certificate for each vehicle was also introduced and therefore Rs. 2,000 per motor cycle and three wheeler, Rs.15,000 for a motor car and Rs.10,000 per vehicle for all other vehicles would have to pay as fee.(DS)
+	 
+
+
+	 
+(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));
+	
+		
+			
+				Vehicle prices up from MondayRead more : http://www.dailymirror.lk/96385/vehicle-prices-up-from-monday
+			Posted by Daily Mirror on Sunday, 22 November 2015
+	
+
+ 
+
+		

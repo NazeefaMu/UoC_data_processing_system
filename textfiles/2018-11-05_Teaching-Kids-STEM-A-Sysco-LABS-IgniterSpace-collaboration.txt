@@ -1,0 +1,45 @@
+## Title: Teaching Kids STEM: A Sysco LABS, IgniterSpace collaboration
+## Section: Press Releases
+## Date: 5 November 2018 11:29 am
+
+Teaching Kids STEM: A Sysco LABS, IgniterSpace collaboration
+
+
+	
+
+
+
+Sysco LABS, in collaboration with IgniterSpace and Sri Lanka Association of Software and Service Companies (SLASSCOM), held a workshop with children from the Maharagama Boys Home to introduce them to STEM education.
+
+Sysco LABS sought to teach the fundamentals of engineering to the kids and help build a foundation from which they could explore their engineering creativity. For this project, Sysco LABS partnered with IgniterSpace, a leader in STEM education, and SLASSCOM, who provided the laptops for the session.
+
+“The untapped potential in kids is enormous. Depending on how they are guided during the early phases of their lives, they could become the innovators of the future,” said Sysco LABS’ Vice President and General Manager, Rasika Karunatilake. “These kids at the Maharagama Boys Home are no different. They just need to be given the right exposure to bring out their ingenuity.”
+
+The program was split into three main sections: building a glider, coding to create a small game and building a generator.
+
+Building a glider
+
+The first session, which involved building a glider, was conducted by two mentors from Sysco LABS, Harsha Wijendra and Isuru Samaranayake. First, the kids were taught about the basics of aerodynamics, center of gravity and how pressure works using everyday examples. Once the kids had a basic understanding of these concepts, they started to build a glider using materials such as cardboard, A4 sheets and medium-sized BBQ sticks. With minimal guidance, they were soon able to build near-perfect gliders.
+
+“Each of the kids were unique and they all showed talent,” said Samaranayake, a software engineering intern. “They were all keen to learn something they didn’t know. I wish them all the very best for their future.”
+
+
+
+Coding
+
+The coding session was conducted by mentors Udeni Jayawardhane, Vibodha Balalla, Rashali de Mel and Piyumi Sudusinghe. The kids had to learn the basics of coding and using that knowledge, they had to build a simple game. The kids learned programing concepts such as how to keep an object continuously moving, how to respond to keyboard events, how to detect the collision of two objects and how to use variables. The mentors each took charge of a group and coached the kids on the basics of programming.
+
+“Teaching someone to code for the first time is pretty difficult but the kids here made my task easy by grabbing the concepts of coding quickly,” said Sudusinghe, a software engineering intern. “They were quite inquisitive, asking plenty of questions and approached the task in front of them like playing a game. Watching their progress and seeing them completing their tasks made me happy.”
+
+Building a generator
+
+The final session tackled how to build a small generator powered by a 1W LED using two CDs, three marmite bottles lids, a small popsicle stick, a round stick, a wooden board, a wooden cube, rubber bands, 12V motor, a female-female jumper cable, 1W LED and a straw.
+
+Thiwanka Wimalasuriya and Dhananjaya Wimalasekera explained how the concept of a belt transmission works and how a dynamo works. Using this knowledge, the kids began their task of building a generator. After about 40 minutes of work, Wimalasuriya and Wimalasekera spotted the first flicker of light from a bulb. The kid that had built it was beaming with pride. Not long after, more and more lights began to flicker on.
+
+“The boys were curious to learn. Every child asked different kinds of questions, showing how differently each of them understood the concepts,” said Sysco LABS Senior Quality Engineer Wimalasekera. “Watching them tackle the task was a brand-new experience for me, one of my best days at work.”
+
+ 
+ 
+
+		

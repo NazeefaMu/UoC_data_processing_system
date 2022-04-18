@@ -1,0 +1,25 @@
+## Title: CERT|CC cautions Viber, WhatsApp, IMO users
+## Section: Breaking News
+## Date: 11 October 2017 08:26 am
+
+CERT|CC cautions Viber, WhatsApp, IMO users
+
+
+	
+
+The Computer Emergency Readiness Team (CERT|CC) said yesterday it had received several complaints from mobile phone users claiming that their phone numbers had used to create fake smartphone messaging applications.
+
+CERT|CC Chief Information Security Engineer Roshan Chandragupta told Daily Mirror mobile users have received calls from people requesting to send them verification codes for applications such as Viber, WhatsApp and imo.
+
+The people who create these fake accounts enter the phone numbers of other mobile users and later call them asking them for verification codes that have been inadvertently sent to them.
+
+“Users should be vigilant when receiving calls requesting verification codes for Viber, WhatsApp and imo. Most of the callers politely tell users that they had entered the users’ mobile numbers accidentally and as such were unable to receive the verification codes,” Mr. Chandragupta said.
+
+He said that these fake accounts were used for many reasons and CERT|CC ask mobile uses to remain cautious when receiving requests for Viber, WhatsApp and imo account verification codes.
+
+CERT|CC also advised mobile phone users to create fresh Viber, WhatsApp and imo accounts and deactivate the fake accounts by installing a fresh copy of the application on their smartphones with new verification codes.
+
+Mr. Chandragupta also said they had received more than 2,000 complaints about fake Facebook accounts and 80 per cent of them were connected to uploaded fake profile pictures. (Chaturanga Pradeep)
+ 
+
+		

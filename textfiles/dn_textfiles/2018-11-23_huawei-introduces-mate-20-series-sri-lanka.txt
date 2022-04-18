@@ -1,0 +1,15 @@
+## Title: HUAWEI Introduces Mate 20 Series in Sri Lanka
+## Supertitle: 
+## Section: Finance
+## Date: Friday, November 23, 2018 - 01:00
+
+HUAWEI Introduces Mate 20 Series in Sri Lanka
+
+HUAWEI introduced the world’s first 7 Nano meter process; Kirin 980 to Sri Lanka at an exclusive preview held recently at the Huawei Head Office in World Trade Center, Colombo.
+Commenting on the occasion, Peter Liuyi, Country Head Huawei Device Sri Lanka added, “Leading the trend as usual, just within a few months of launching the nova3 series, HUAWEI recently launched the Mate 20 series in London with the Kirin 980, a high performance mobile AI chipset fabricated on a 7nm process. This chipset is the world’s first dual NPU design, and the world’s first chip to support LTE Cat.21, providing users with impressive mobile performance. The Huawei Mate 20 series is the first product series to bring this innovation. The Huawei Mate 20 series has already inspired the international market, and we believe that Sri Lankans will be excited to use the Mate 20 series due to its best-in-class performance, efficiency and connectivity features. ”
+With this introduction of 7nm technology to the Kirin 980, the chipset performs with improved processor speed by approximately 20 percent and consume approximately 40 percent less power compared to the 10nm Chipset. The efficient performance of the chipset is driven by the faster switching transistors and the power efficiency is complimented with these features, due to lower resistance and a lower requirement of current for switching the transistors. To add to the many benefits of a denser chip, due to the less power the chip generates, less heat will be generated from the device. Alternatively, a smaller chip can enable the designers to embed more exciting new features such as AI processors, ISPs and DSPs, and flaunt its features. So introducing the latest 7nm Chipset has enabled the designers to give users an efficient, power saving and smooth experience integrated with improved and exciting features.
+In addition, The Kirin 980 integrates 6.9 billion transistors in an area of less than 1 square centimeter which is a 1.6x fold increase in density to empower better performance. The Kirin 980 also includes the world’s first commercial use GPU Mali-G76 MP10 with an improvement in performance of 46%. The LPDDR4X memory operates at speeds up to 2133 MHz. The fourth-generation ISP utilizes a multi-pass noise reduction to capture quality images and preserve important details. This ISP also has a dedicated video pipeline to effectively improve video clarity and reduce shooting delays by 33%.
+Huawei has made over 50 million smartphone shipments in 2018 with a strong number 2 position in the global smartphone market.
+In Sri Lanka, HUAWEI has succeeded in securing the number one position in Smartphone sales according to GfK reports.
+And Poised as the most preferred Smartphone brand among Sri Lankan consumers, HUAWEI aims to enhance the lifestyle of all consumers by offering the best quality state of the art smart phones at an attractive price.
+ 

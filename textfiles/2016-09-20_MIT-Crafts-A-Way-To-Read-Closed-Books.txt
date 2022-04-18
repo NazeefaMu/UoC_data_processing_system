@@ -1,0 +1,35 @@
+## Title: MIT Crafts A Way To Read Closed Books
+## Section: Technology - Main
+## Date: 20 September 2016 03:30 pm
+
+MIT Crafts A Way To Read Closed Books
+
+
+	
+
+
+
+Is it possible to read a book without ever opening it? Well, the answer is yes. 
+
+Researchers at MIT and Georgia Tech built a prototype imaging system that can read individual pages in a stack of papers. It’s an early demonstration.
+
+And as the technology improves, it could someday give, say, museum curators, another tool to study ancient, fragile books they wouldn’t dare open.
+
+According to MIT news, to peer through stacks of paper, the system relies on terahertz radiation, which is a frequency band of electromagnetic radiation that falls between microwaves and infrared light. 
+
+Terahertz imaging systems emit short bursts of radiation that can penetrate a variety of materials. Substances such as water, plastics, gases and biofuels absorb specific terahertz frequencies, which makes it easy to identify them.
+
+NASA used the technique to inspect foam insulation structures on its shuttle fleet, and it’s the same technology used in full body scanners at the airport. 
+
+Researchers used a standard terahertz camera to blast radiation at a stack of 20 papers with a single letter printed on each, and a sensor detected the reflected radiation. 
+
+
+
+So far, the system can penetrate and interpret the top nine pages in a stack of 20 — the signal looses energy the deeper it goes, resulting to too much noise. But as the relatively young technology improves, it’ll be able to dive deeper.
+
+The very fact that it's a possibility is exciting, however. Historians could read books that they're too afraid to touch in the first place without worrying about wear and tear.
+
+With this news, it doesn't mean you'll be reading fragile manuscripts any time soon. But hopefully the system will get improvements by the time. Future is bright as we’ll be able to read closed books. 
+ 
+
+		

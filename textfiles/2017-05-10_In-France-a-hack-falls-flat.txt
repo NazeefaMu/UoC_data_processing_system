@@ -1,0 +1,61 @@
+## Title: In France, a hack falls flat
+## Section: International
+## Date: 10 May 2017 12:00 am
+
+In France, a hack falls flat
+
+
+	
+
+
+
+ 
+
+By Isaac Stanley-Becker, Ellen Nakashima (c) 2017, The Washington Post ·· May 09, 2017 -   
+PARIS - It was an 11th-hour surprise that seemed to offer final proof of how closely this weekend’s critical French election mirrored the high-stakes American contest last fall.   
+
+
+And yet the reaction couldn’t have been more different.  
+
+ 
+A centrist candidate who embraced globalization was facing off against a populist, anti-immigrant firebrand who spoke warmly of Russia. Terrorism was at the forefront of the discussion. Voter distrust ran high.   
+
+
+And then, minutes before the close of campaigning Friday night, the campaign team of Emmanuel Macron -an independent running under the banner of his brand-new “En Marche!” (Onward!) party- announced that its internal communications had been compromised and scattered across social media.   
+
+“Intervening in the last hour of the official campaign, this operation is obviously a democratic destabilization, as has already been seen in the United States during the last presidential campaign,” Macron’s staff said Friday night, minutes before the start of a strict curfew on campaigning, which made further public response off-limits.   
+
+
+The announcement was all too familiar for those who had watched as embarrassing internal communications from Hillary Clinton’s presidential campaign seeped onto the Internet last summer, much to the delight of her opponent, Donald Trump, who won an upset victory in November. The correspondence, which included discussion of the Democrat’s private email server and the assessment of her own aides that her instincts could be “terrible,” became one of the tools Republicans used to disparage Clinton.
+
+  
+In France, few people even knew what was in the Macron team’s emails. The blanket ban on campaigning meant that far-right candidate Marine Le Pen and her National Front couldn’t mention them, though a deputy leader of her party did tweet early Saturday, “Will #Macronleaks teach us something that investigative journalism has deliberately killed?”   
+
+
+The answer was no. Most media chose to heed a request from the France’s electoral commission not to reproduce the emails’ contents. Le Monde, the major French daily, said in a statement that it had seen part of the documents but would not publish their details before the election, due to the volume of the dump and because the release had “the clear goal of harming the validity of the ballot.”   
+
+
+The paper’s editor, Jerome Fénoglio, said in an interview that the documents would have been leaked earlier if they had contained damaging information. As it was, he said, “the best hope was to make noise.”   
+
+
+He said the response of the media in France carried lessons for journalists elsewhere, including those in the United States who rushed to reproduce pre-election leaks without thoroughly investigating their origins.    “Hiding information is not the same thing as refusing to be manipulated by those who diffuse the information,” Fénoglio said.   Voters, meanwhile, mostly waved away the news, saying their decision came down to more consequential matters. And they backed Macron by a wide margin, 66 to 34 percent, handing him a decisive victory over Le Pen.   
+
+
+“The release is not important to me,” said Michèle Monnery, 74, after casting her vote for Macron in Laon, a small city in the north. “What matters to me is stopping Le Pen.”   
+
+
+Analysts immediately presumed the intrusion was designed to prop up Le Pen in the final stretch of a bruising campaign that had the power to dictate the future of an integrated Europe. They refrained, initially, from assigning blame for the hack, although experts concluded that its propagation began in the United States with a cluster of Twitter accounts run by members of a far-right movement whose aim is a whites-only state.   Now multiple research firms have linked the hacks to those that compromised the Democratic National Committee last year - links suggesting that Russian intelligence services accused of interfering in the American election may have sought to do the same in France. The finding was made last month, after the first round of voting, by Trend Micro, a Tokyo-based cybersecurity firm that fingered Russian hackers, known variously as Pawn Storm, APT28 and Fancy Bear. Recent analysis by Flashpoint Intel in New York came to the same conclusion, namely that the French hack “appears to be linked to the Russian state-sponsored campaign by APT28.”
+
+  
+Trend Micro, which has been tracking the Russian cyberthreat for years, briefed U.S., French, British and German government officials on a dramatic escalation of the Russians’ hacking campaign in the spring of 2015, said Tom Kellermann, who was the firm’s chief cybersecurity officer until last year.   
+“The Russians had taken the gloves off,” he said, including by calling on cybercriminals - or what he called “the dons of the cybercriminal community - to act as their Rottweilers.”   
+
+
+The campaign was being carried out by hackers working for the GRU, the military spy agency, under numerous monikers. PawnStorm, as Trend Micro calls the group, uses cybercriminals in part to distance its activities from the Russian government.   
+
+ 
+
+ 
+ 
+
+		

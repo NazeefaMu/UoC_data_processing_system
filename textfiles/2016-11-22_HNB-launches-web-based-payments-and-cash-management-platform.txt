@@ -1,0 +1,55 @@
+## Title: HNB launches web-based payments  and cash management platform
+## Section: Financial News
+## Date: 22 November 2016 12:00 am
+
+HNB launches web-based payments  and cash management platform
+
+
+	
+
+ 
+
+
+
+ 
+
+ 
+
+ Sri Lanka’s leading private sector bank, HNB announced the launch of its new web-based, fully-integrated payments and cash management (PCM) platform – HNB Online, a comprehensive new online banking portal featuring robust functionalities capable of meeting the needs of any corporate - large 
+or small. 
+Designed and developed to be highly scalable, the new portal allows corporates complete and secure access to their portfolio of HNB accounts and facilities, at any time, from 
+any location. 
+First local bank to offer fully-integrated electronic PCM 
+Until recently, the offering of a fully integrated electronic banking portal to top tier corporates to better manage their payments and cash management was a captive business of the multinational banks. What is noteworthy is that with the launch of HNB Online, HNB now enters this market as the first local bank to support corporates in this important business sphere. HNB Online is designed to allow corporates comprehensive real time control over their day to day management of collections, payments and liquidity investments whilst also supporting in-depth performance capabilities that can easily be integrated into any Enterprise Resource Planning (ERP) system such as SAP and Oracle, in order to deliver a total banking solution for enterprise-level clients.
+ “From its inception, HNB has always sought to carve out market leadership positions through investment in the state of the art services and technology innovation. In more recent years in particular, the Bank has worked   aggressively develop and refine its product depth and service offering, both from a human resource perspective as well as from the adoption of breakthrough technologies. Our new Payments and Cash Management platform - HNB Online, represents the latest and most bold step in this long journey and we are confident that its unprecedented functionalities and capabilities will revolutionize the experience of banking in Sri Lanka and permanently raise the bar for customer expectations of integrated banking systems,” HNB’s  Ruwan Manatunga, DGM Corporate Banking said. 
+ From real-time information on account balances and cash flow status to automated fully integrated payments and collections, HNB’s Payments and Cash Management system comes with a far-reaching suite of product features that can be scaled to meet the needs of any corporate, from a vibrant new start-up to a diversified conglomerate. 
+Migrating from traditional 
+manual payments
+Sandun Hapugoda, Head of Payments and Cash Management, further elaborated that the portal is rich with many functionalities that includes migrating manual paper based cheque and pay order payments to electronic-based processing, as well as supporting electronic fund transfers such as Sri Lanka Interbank Payments (SLIPS), Common Electronic Fund Transfer System (CEFTS) and Real-Time Gross Payments (RTGP) etc, as template based transactions or as bulk payments through file upload or direct ERP integration. 
+With the use of HNB’s electronic fund transfer product suite, corporates are capable of experiencing reduced processing costs and improved workflow efficiencies whilst been able to initiate transactions through a highly secure environment. HNB Online also allows corporates to maintain complex authorization matrixes as well as schedule payments to be effected at a future date.
+With HNB Online, corporates now have the ability to outsource to the Bank the processing of paper based payment instruments such as cheques, pay orders, dividends to the extent of printing these instruments with signatures and dispatching them to beneficiaries, thus benefiting with time and cost saving. Additionally, an array of MI reports are available for ease of reconciliation.
+Compatibility to receive data files 
+in any format and initiate transaction alerts
+Another key feature of HNB Online is the ability of the system to accept any file format of a corporate without the company having to incur any additional cost to change their corporate ERP system to be compatible to upload files to HNB’s platform. The system also initiates automated alerts to the beneficiaries as well as authorizes transactions confirming the completion of transactions effected.
+ Real-time reconciliation of collections and receivables
+The platform further supports a fully-integrated collections solution through Electronic Data Interchange (EDI) and Electronic Invoice Presentment & Payments (EIPP) that provides capabilities for streamlining collections and receivable reconciliation. These features provide significant value to corporates that have a large daily collection volume from multiple sources. 
+With the EDI solution, the bank makes available and extends to corporates HNB’s full 250 branch network along with 400 plus  ATMs and cash deposit machines  as collection points. Collection transactions from across the Bank’s delivery channels are processed by the EDI system and updated real-time with the corporate’s ERP account receivable module. This automation of real time reconciliation of collection transactions help eliminate manual reconciliation requirements and as a result Corporates are now able to leverage on this system to fasten time critical business processes. That is the release or dispatch products and services immediately upon the realtime update of collections and reconciliation of accounts receivables.
+HNB also further extends the EDI collection solution to corporates by partnering with third party service providers to collect physical cash and cheques from designated collection points.
+ Electronic platform to support distributor and supplier financing
+Additionally, the distributor and supplier financing capabilities of HNB Online also provide an electronic platform for corporates to integrate their entire supply value chain and the effective management of receivables leading to improved Day Sales Outstanding (DSO). 
+The improved efficiency and enhanced visibility allows corporates to conduct more accurate forecasting – helping to lower the overall cost of doing business while also potentially strengthening supplier and customer relationships.
+Executing paperless int’l trade transactions
+HNB Online’s trade platform further supports the execution of paperless trade transactions from LC opening, bill presentment and trade financing. This eliminates the need of manually completing documentation and provides a speedier service to execute trade transactions.
+Multi-level security matrix
+Parallel to the development of its comprehensive list of online services, HNB has also channeled extensive resources towards securing its online banking portal. 
+HNB Online features multiple security features and dual authentication protocols that can be seamlessly linked into existing customer file formats and multi-level authorization matrixes.  With access to comprehensive MI reports, detailed corporate financial transaction history and audit trail, HNB Online also supports management teams the ability to improve decision-making and create process efficiencies.
+World class banking experiences 
+To conclude, Ruwan Manatunga commented that “HNB aims to position its Payments and Cash Management Platform as the very pinnacle of integrated technology-led banking services. 
+The portal empowers corporates with complete flexibility to fully integrate and automate collections , payments and liquidity investments with real time reconciliations and updates with the additional benefit of having access to HNB’s island wide footprint of customer centers and electronic delivery channels.  HNB’s investment in this state of the art platform technology is a further affirmation of the Bank’s continued desire to provide world class corporate banking services to its large and valued customer base.”
+
+ 
+
+ 
+ 
+
+		

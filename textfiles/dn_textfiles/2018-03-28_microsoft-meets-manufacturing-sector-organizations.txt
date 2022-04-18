@@ -1,0 +1,19 @@
+## Title: Microsoft meets manufacturing  sector organizations
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, March 28, 2018 - 01:00
+
+Microsoft meets manufacturing  sector organizations
+
+Microsoft revealed how rapid advances in emerging technologies have created new ways to turn data into iterative insights at a recent C-level conference titled “Manufacturing in the Digital Era”. The event, which took place at Cinnamon Grand Colombo, revealed how data and the advent of connected devices and platforms are driving the persistent digitization of manufacturing.
+“The pace of digital transformation is accelerating, and we expect by 2021, at least 60 percent of Asia Pacific's GDP will be derived from digital products or services. This will have a positive and measurable impact on Sri Lanka’s manufacturing sector,” said Hasitha Abeywardene, Country Manager for Microsoft Sri Lanka and Maldives.
+From quantitative to qualitative data, the concept of ‘data’ plays a critical role in today’s current trend of automation. And no one knows this better than manufacturers. Not only do they use data to make thoughtful business decisions, but they also use it to streamline their processes.
+
+Chandrima Rodrigo, Head of IT, Ceylon Biscuits Limited; Samath Fernando, CIO, Hirdaramani Group; Dean Shaw, Industry Solutions Director, Microsoft APAC
+Dean Shaw, Industry Solutions Director for the Asia Pacific Region, delivered a key note on manufacturing in the digital era or how manufacturers were leveraging cloud computing, augmented reality, artificial intelligence and IoT. According to Shaw, integrating such technologies has helped manufacturers like Rolls-Royce and Deschutes Brewery identify new revenue streams and extract deep insights from data to optimize business outcomes and best practices.
+With emerging technologies starting to enter the manufacturing mainstream, organizations must establish new metrics and realign organization structures to utilize the sheer volume and velocity of data. Last year, Hirdaramani Group deployed an internal QMS system built by Microsoft partner H One, to digitize data collection and improve the end-to-end quality of apparel using Microsoft Azure and Power BI.
+Microsoft partners at the event then showcased their own industry solutions to help manufacturing organizations in their transformation journeys.
+A representative from nCinga presented an industrial IoT based solution developed on Microsoft Azure called nFactory to assist decisions makers with actionable insights by capturing events in real time and contextually streaming it via Power BI.
+Similarly, JustAnalytics showcased its ability to integrate unstructured and structured data for agile data discovery using customizable Power BI dashboards, while Microimage showcased how HCM Cloud is helping manufacturing organizations manage their largest asset—people.
+The event concluded with a panel discussion featuring CIO of Hirdaramani, Samath Fernando and Ceylon Biscuits Limited Head of IT Chandrima Rodrigo, initiating a conversation over the benefits—predictive-analytics, machine learning, and a view related content feature—Microsoft Azure and Power BI have across multiple manufacturing segments and how manufacturing leaders can prepare themselves given the importance of data in the digital era.
+ 

@@ -1,0 +1,84 @@
+## Title: Knowing your blood report
+## Section: Medicine
+## Date: 21 September 2018 11:47 am
+
+Knowing your blood report
+
+
+	
+
+
+
+ 
+
+Blood tests have become such an integral part of disease diagnosis and treatment process that when you go to a doctor, more often than not, you are asked to obtain a blood report related to your condition. That’s why we decided to bring you a series of articles to provide information regarding blood tests; ordered commonly. Dr. K.A.C. Wickramaratne, Consultant Haematologist, Senior Lecturer in Pathology, Faculty of Medicine, University of Ruhuna, answers our queries in this week’s edition of Health Capsule with regard to blood tests.   
+
+
+ “I strongly recommend the interpretation of any laboratory test to be done by the requesting clinician”, stresses Dr. Wickramartne. He explains that this process should be followed because despite the findings can be considered normal it can sometimes be a clue to a disease. Therefore, getting test reports interpreted by any person other than the one who requested it is of serious concern and should be avoided for the safety of the patients. Also, each laboratory test should ideally be requested by a doctor following a thorough history and a physical examination of the patient, so that only the relevant lab tests are requested. A Full Blood Count, the most commonly requested haematology test globally, is the topic discussed in this week’s edition of Health Capsule.   
+
+ 
+
+What is FBC?
+Full Blood Count (FBC) or Complete Blood Count (CBC) is a very useful test for the diagnosis of diverse conditions. Full or complete is a relative term as newer machines come with more and more added parameters with unique advantages in diagnosis. Even though it bears simple three letters FBC, it is a battery of tests with diverse information of blood cells. Nowadays, the test is done using fully automated analyzers.To understand what FBC is, we should know first what is analysed in this test. Blood can be separated into a liquid part plasma and solid – formed elements cells. FBC analyzes these cells.   
+
+
+Red blood cells (erythrocytes), white blood cells (leucocytes) and platelets (thrombocytes) are analyzed in machines mainly to show how much of these cells are present per unit volume of blood. In addition, it gives some qualitative parametres such as changes in cell size, presence of abnormal cells, and presence of young or immature cells and even predicts the possibility of presence of some unique diseases such as Dengue fever in some cases.   
+
+ 
+
+How do I prepare for a FBC?
+A blood sample for a FBC can be given at any time of the day. It is collected as a random sample. However, early morning is ideal for any test. But changes throughout the day are subtle and are therefore of no concern. However, physical exertion, some drugs (such as prednisolone), smoking etc can affect FBC results, so are worth notifying your doctor when he is interpreting the results. It is better to give the sample after about 20 min rest if you were walking briskly.   
+
+
+Blood collection is best performed without a tourniquet. If a tourniquet is applied it should be applied immediately before venipuncture and removed within a minute. Blood from a vein, rather than from an artery is taken, as is the case with many tests. The sample will be perfect if venipuncture is neat, if the blood is drawn in to a syringe without much effort and without any bubbles, if the correct volume is filled into the tube; where a special agent to keep the blood from clotting, is pre-added, and mixed gently by 5-6 inversions. Samples, when transported and stored at temperatures between 21 – 27 0 C, can be analysed even after 48 hours to obtain accurate FBC results.   
+
+ 
+
+What is the information that can be garnered from a FBC? 
+Results of the lab test and clinical manifestations of the disease should always be analysed together.
+
+ 
+
+Red cell parametres 
+These include Haemoglobin concentration (Hb - amount of oxygen carrying pigment) and red cell count (RBC or RCC) per unit volume of blood and haematocrit (HCT) or packed red cell volume (PCV) a measure of total red cell volume per unit volume of blood as a percentage]. 
+Normal values (or more accurately the reference values) of these parametres vary between different age groups, sexes and during certain physiological states such as pregnancy. So it should be interpreted with correct reference range for age, sex and physiological status. Higher values than upper limit is called polycythemia. It is a group of disorders needing further investigations. Values below the lower limit is called anaemia. It is a manifestation of a disease, thus should be investigated. 
+
+ 
+Mean corpuscular volume (MCV) is a measure of red cell size and it is very important to understand the type of anaemia. When it is high it can be vitamin B12 or folate deficiency. When it is low it can be iron deficiency or thalassaemia. Mean Corpuscular Haemoglobin (MCH) is a measure of Hb content in red cells and lower values can be indicative of iron deficiency or thalassaemia.These are only a few examples of the vast amount of information that can be collected from red cell parameters. 
+
+ 
+
+White blood cell parameters
+These include total white cell count (WBC) per unit volume of blood and absolute and relative percentages of each white cell subtype [we call it differential count (DC)]. Higher or lower total number of white cells and changes in DC can indicate infections or even serious diseases such as blood cancer. The variations in DC could be indicative of simple viral infection or bacterial infections such as leptospirosis, pneumonia or urine infection. Even allergic conditions, parasitic diseases such as filariasis, can subject DC to unique changes.The WBC count and DC can change with physical exertion, smoking or some drugs such as prednisolone. Therefore, these factors should be taken into account when interpreting WBC parameters as well.   
+
+ 
+
+Platelets   
+Platelets are needed for stoppage of bleeding when we have wounds. The number of platelets per unit volume of blood is platelet count. Lower and higher values indicate diseases and can endanger life by spontaneous bleeding within the body or by “clot” formation in brain etc respectively. Platelet parametres available in automated FBC give clues on progression of platelet disorders.   
+
+ 
+
+Can we compare FBC results of different laboratories?
+The comparison of results between different laboratories cannot be done and should be discouraged unless the laboratories use similar machines and similar procedures. We call it standardisation and is yet to be established in Sri Lanka. When monitoring of FBC is needed with regard to a patient, it has to be done from the same laboratory throughout the monitoring process. Looking for any accreditation status ISO 15189 or CAP would give additional security or trust on quality or the reliability of what you receive as the FBC report. The presence of consultants to supervise and presence of qualified MLTs in a medical clinical laboratory is very important. 
+
+ 
+
+ Is it good to get FBC done as a routine on our own?
+As we have previously mentioned, any test when requested, should have a purpose and should be interpreted by a qualified doctor.   It has to be linked with symptoms, signs, age, sex, physiological status etc.  Just reading counts and comparing it with references given is inadequate and can mislead. This can happen when patients try to get reports interpreted by laboratory personnel or blood collection officials (phlebotomists). In a laboratory haematologists or pathologists, doctors or consultants related to laboratory medicine with relevant training can interpret FBC parameters. Other laboratory personnel are not qualified and competent to interpret these within the clinical context.  Unless clinician recommends and educates you to monitor your counts, obtaining random counts and getting them interpreted by an unqualified person is therefore inadvisable.   
+
+ 
+
+Can FBC results be erroneous?
+Yes. In any part of the world even with strict quality control, random errors are possible, but rare. Accredited laboratories try to control all potential errors. Most of the errors associated with FBC are due to errors in the sample collection and processing before analysis. If we elaborate a little on this, a traumatic venipuncture, froth formation (air bubbling inside syringe), pushing blood into the tube through a needle, vigorous shaking of tube with blood, exposure of blood to very high temperatures and marked delays in analysis all can affect FBC parameters adversely. Frequently falsely low platelets counts are seen due to these errors.   
+
+
+To generate accurate results, all the FBC machines should be properly installed, calibrated and maintained as per the manufacturer’s instructions. Quality control should be available for daily runs as well as external quality assurance at regular intervals. The availability of external and internal quality is not sufficient unless they monitor, review and act on results of quality control. Qualified, trained and competent laboratory personnel are therefore mandatory.  
+
+
+As for the possibility of a laboratory to perform any other test from the same sample, the answer would be ‘yes’. Commonly a sample collected for FBC can be used to perform blood picture, ESR, malaria or any other blood parasites examination, HbA1c (a test useful to monitor diabetes), blood grouping, reticulocyte count and Hb electrophoresis etc.   
+
+
+In a nutshell, FBC is a battery of investigations giving clues on how healthy your blood cells are. When used wisely it gives a large amount of information for the clinician for proper diagnosis and care. Quality of FBC results depend on many factors and collection errors are the most important. Remember not to rely on ‘interpreters’ of FBC (or any other test report) for your health. It should be done by a qualified doctor. When you select a laboratory for FBC (or any other test) accreditation status, presence of qualified team including presence of Haematologists to supervise are good points to remember.   
+ 
+
+		

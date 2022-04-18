@@ -1,0 +1,30 @@
+## Title: Cambridge Analytica: Facebook data-harvest firm to shut
+## Supertitle: 
+## Section: World
+## Date: Thursday, May 3, 2018 - 09:47
+
+Cambridge Analytica: Facebook data-harvest firm to shut
+
+ 
+Cambridge Analytica, the political consultancy at the centre of the Facebook data-sharing scandal, is shutting down.
+The firm was accused of improperly obtaining personal information on behalf of political clients.
+According to Facebook, data about up to 87 million of its members was harvested by a quiz app and then passed on to the political consultancy.
+The social network said its own probe into the matter would continue.
+"This doesn't change our commitment and determination to understand exactly what happened and make sure it doesn't happen again," said a spokesman.
+"We are continuing with our investigation in cooperation with the relevant authorities."
+What are the accusations against Cambridge Analytica?
+The company has been accused of using the personal data of millions of Facebook users to sway the outcome of the US 2016 presidential election and the UK Brexit referendum.
+In March, Channel 4 aired undercover footage of Cambridge Analytica's CEO, Alexander Nix, giving examples of how the firm could swing elections around the world with underhand tactics such as smear campaigns and honey traps.
+The UK-based company, which denies any wrongdoing, has an extensive record of working abroad on many election campaigns, including in Italy, Kenya and Nigeria.
+Why does it is say it is shutting?
+Clarence Mitchell, a spokesman for Cambridge Analytica, referred the BBC to a statement on the firm's website.
+"Over the past several months, Cambridge Analytica has been the subject of numerous unfounded accusations and, despite the company's efforts to correct the record, has been vilified for activities that are not only legal, but also widely accepted as a standard component of online advertising in both the political and commercial arenas," it said.
+"Despite Cambridge Analytica's unwavering confidence that its employees have acted ethically and lawfully... the siege of media coverage has driven away virtually all of the company's customers and suppliers.
+"As a result, it has been determined that it is no longer viable to continue operating the business."
+The statement added that its parent company SCL Elections was also commencing bankruptcy proceedings.
+The sting in the tail
+When the news of Cambridge Analytica's demise broke here at Facebook's F8 developer conference, it is safe to say few tears were shed.
+The scandal over data misuse has been a crisis not just for Facebook but for the thousands of external developers whose access to data has been curbed in response to the affair.
+But if they were tempted to celebrate there was a sting in the tail in the political consultancy's statement. It claimed that what it did was not only legal but was standard practice in the world of online advertising.
+That rang true to some people in this world and there may be more evidence of such practices as Facebook continues its audit of apps.
+Cambridge Analytica may be gone but as more stones are lifted there may be more unpleasant surprises to come about the use and misuse of personal data.

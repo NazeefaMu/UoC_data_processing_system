@@ -1,0 +1,46 @@
+## Title: Seylan Bank introduces mobile app; relaunches Internet banking platform
+## Section: Financial News
+## Date: 30 November 2016 12:00 am
+
+Seylan Bank introduces mobile app; relaunches Internet banking platform
+
+
+	
+
+Seylan Bank has continually reiterated its leadership in the digital and social media fronts by understanding the customers’ needs and introducing innovativeness. The bank recently relaunched its retail Internet banking portal and its mobile banking app with new features beneficial for its customers. Seylan Bank Senior Deputy General Manager Operations Nimal Tillekeratne speaks about the bank’s initiatives on the digital front.
+
+What steps has the bank taken internally in its systems to cater to the needs of tech-driven customers?
+
+
+It begins with the vision of the bank as far as the electronic channels are concerned. The bank is deliberately and dedicatedly trying to bring self-service convenience to its customers in banking transactions. One avenue we see is empowering them in the Internet banking options more and more so that people need not physically come to the branches to do the routine transactions. We pioneered the Internet banking facility in 2001. Initially, I think just as many other banks, we didn’t grasp the real future and potential around digital banking. The main idea back then was to keep the customers away from queuing in front of the counters. Later on, between 2008 and 2010, banks started looking to Internet banking as a tool to empower customers and to get the customers to self-service channels. 
+This realization came late as most of us were used to the brick and mortar banking systems and preferred having the customers at the branches and having a casual chat as the preferred way of cross selling. The customer behaviour is such today, they want things done as fast as possible and they want most of services at their fingertips. They are not even interested in the desktop versions of Internet banking anymore, but prefer the tabs and mobile apps. Internet banking is not something which we can introduce without backend support. Hence, we have invested heavily in backend technology to offer a best-in-class Internet application to our valued customers.
+
+What are the new features of the relaunched Internet banking platform and mobile app?
+
+
+With the earlier Internet banking portal, we required the customers to come to the branch to open subsequent accounts. With the new facility, customers can create their own savings and fixed deposit accounts online. That is one significant step towards our promise of customer convenience. Also, customers can apply/obtain loans and disburse through their current/savings accounts themselves and create payment schedules, instant transfers within or to other banks on their own. We will also have the capability to deliver ‘cash just in time’ feature very soon. That being said, even with the new add-ons, I still feel there is more room to develop.
+
+How does the app/Internet banking add value to one’s daily routine?
+
+
+Our Internet banking facility and the app work 24 hours a day, seven days a week. We are the first bank to accept cash through CDM (cash deposit machine) 24x7 as well. We have a contact centre which attends to any issues related to Internet banking. The most common problem faced by customers is forgetting passwords. When you realized you cannot remember the password, when you want to make a payment, it could be a very bad feeling. Our call centre is geared to immediately reactivate the account securely in no time. Also, the customers can pay their utility bills, schedule transfers and pay their credit card bills through our Internet banking system and mobile app.
+What are the unique features of the Seylan app that differentiates it from other banks’ apps?
+The ability to create one’s own loan account is a unique feature we have. We will also introduce online self on boarding capability very soon, keeping all regulatory requirements in mind.
+
+How secure is Internet banking and mobile app?
+
+
+We practise two factor authentications that secure the user against identity theft: by triggering one-time passwords for transactions over a particular limit and for self-administration options.
+How is the compatibility of the app and Internet banking facility in different devices and operating systems?
+Internet banking can be accessed through Google Chrome, Internet Explorer, Mozilla Firefox, Opera and Safari. The app is compatible with Android and iOS but not yet with Windows. We are working on this and look forward to making it available via Windows as well. Customers can visit the App/Play stores and download the app without any hassle.
+
+What are the future plans on the digital front for the bank?
+
+
+We have a very high focus as to what and where we want to be in the digital banking universe.
+Apart from the retail Internet banking product, we have a corporate digital channel that offers options like any other bank. New basic additions would be the customs payments, EPF and other government payments.
+However, we want to bring out something very versatile but simple to use application to which will be a game changer in this sphere. In this effort, our focus would be SMEs because we see the next generation of the ownership of SMEs is highly educated with a vision for their business, obviously tech-savvy and wanting to make a name in their respective business fields. Recently, I went through a paper article describing the visioning of such a company wanting to be within the first 100 companies in Sri Lanka. This is indeed a great way of positioning your business. We developed the new version of our corporate Internet frontend having this new generation of such visionary companies in mind.
+We want all our customers to be part of the relaunched retail Internet banking system. Some customers may feel it’s too technical but we would like to invite them to experience how easy and convenient its usage. 
+ 
+
+		

@@ -1,0 +1,33 @@
+## Title: Decline  in published data on higher education with the advances in computer technology
+## Section: News Features
+## Date: 31 January 2018 01:13 am
+
+Decline  in published data on higher education with the advances in computer technology
+
+
+	
+
+
+
+The University Grants Commission (UGC) as the apex body on university education commenced publishing statistical hand books from the inception to enable the Commission to make evidence based decisions.   
+
+The first handbook was published in 1981 with Prof RA Roy as the Statistical Consultant under the guidance of Dr FSCP Kalpage as the Chairman. It covered data on finance , students , Teaching staff and non-teaching staff. Student data for 5 years pertaining to GCE A level examinations from 1975 to 1979 was included. The data covered the attempt at entry , ethnicity , district etc. They were prepared manually using tally marks in the absence of computers.  
+
+The second hand book (SHB) was published in 1982. FORTRAN IV computer language had been used to analyse the admission data using the computers at the Colombo university. The data covered the academic ability ( entry attempt, marks obtained at the AL examination, category district, merit and under privileged ) and socio demographic and economic background (sex, age, parents occupation, income, ethnicity etc.) of students.  
+
+In mid 1980s the computer information techonology council (CINTEC ) under the direction of Prof V K Samaranayake purchased the SAS package with multiple license to enable several organizations to get the benefit. The CINTEC conducted training programmes too. The UGC made use of this facility which expedited the preparation of admission information of students.  
+
+Subsequently the SPSS software package was utilized for the analysis of data   Dr Sarath Amunugama was the chief guest at the inauguration of the International Conference on “Statistics for Good Governance” held on December 28, 2017 at Hotel Taj. He elaborated on the use of computers with punch cards at the inception and the subsequent advances in computer technology. He further stated that countries in the world can be classified as developing and developed countries whereby the difference is that developing countries do not adequately make use of statistical information.” 
+
+The availability of published statistical data has declined over the years. The 1997 SHB had 22 tables on student admissions whereas the SHB 2016 had 5 tables. Entry attempt, aggregate marks at the GCE A Level examination, academic performance in university examinations, socio economic and demographic information which was published earlier had not been included.   
+
+The introduction of free education provided an opportunity for students with academic ability from low income families to pursue university education. Hence the entrants socio economic background is necessary to estimate their need for financial support.  
+
+A student has to obtain high grades such as A or B at the GCE A Level examination to study bio science in the Colombo university. Hence the past performance of students entering universities is a necessity to arrive at the minimum qualification for admission to professional courses in either medicine or engineering in private universities.  
+
+Parents income is not taken into consideration in admission to Government schools Thus students who had enjoyed free education with government funds from high income families will be at an advantage to continue their education in private universities. This may cause dissatisfaction among the students from low income families in the same class even though they are equipped with higher grades at the same the GCE A Level examination.  
+
+Dr. Dhanapali Kottahachchi     
+ 
+
+		

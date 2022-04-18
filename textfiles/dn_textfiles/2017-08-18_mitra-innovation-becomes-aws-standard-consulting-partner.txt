@@ -1,0 +1,15 @@
+## Title: Mitra Innovation becomes AWS  standard consulting partner
+## Supertitle: 
+## Section: Finance
+## Date: Friday, August 18, 2017 - 01:00
+
+Mitra Innovation becomes AWS  standard consulting partner
+
+Sri Lankan-UK based company Mitra Innovation specialising in Cloud integration, digital transformation and product incubation has become a Standard Consulting Partner for Amazon Web Services (AWS). 
+Currently, there are only three companies in Sri Lanka, who are AWS partners. Mitra Innovation is very proud to be one of these companies.
+The status means that AWS has officially recognised Mitra Innovation as a trusted Consulting Partner for clients and agencies utilising – and needing help with the AWS Platform.
+AWS, the most progressive vendors in the Cloud-based Infrastructure as a Service (IaaS) market, regularly assesses professional services firms to identify potential Consulting Partners who can help customers to design, architect, build, migrate and manage their workloads and applications on AWS.
+Consulting Partners include System Integrators, Strategic Consultancies, Agencies, Managed Service Providers and Value Added Resellers. Mitra Innovation is very pleased with the certification, as it means their team of highly qualified architects and engineers have now been recognised as capable of delivering high-value, high-quality services on the AWS platform, ranging from solutions including application development, big data, analytics, machine learning and the Internet of Things.
+The certification also means Mitra Innovation can look forward to working on more AWS based projects in the coming months.
+Commenting on the achievement, CTO and Chief Architect of Mitra Innovation, SudarakaJayashanka, said: “The accreditation provides our customers with the confidence to know that their projects are developed with the right Mitra Innovation people in place, with the correct AWS certifications, and a commitment to adhere to AWS’s best-in-class standards and practices.”
+Mitra Innovation worked hard for the accreditation. It is a great achievement.

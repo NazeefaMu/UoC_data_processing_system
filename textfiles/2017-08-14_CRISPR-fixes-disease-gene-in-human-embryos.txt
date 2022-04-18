@@ -1,0 +1,32 @@
+## Title: CRISPR fixes disease gene in human embryos
+## Section: Medicine
+## Date: 14 August 2017 12:27 pm
+
+CRISPR fixes disease gene in human embryos
+
+
+	
+
+
+
+ 
+
+Scientists have used gene-editing tool CRISPR-Cas9 to fix a DNA mutation responsible for a common inherited disease -- successfully replacing a gene in defective embryos that can cause 
+heart failure.
+
+
+The researchers targeted a mutation in a gene called MYBPC3. Such mutations cause the heart muscle to thicken -- a condition known as hypertrophic cardiomyopathy that is the leading cause of sudden death in young athletes. The mutation is dominant, meaning if one parent has a mutated copy, there is a 50 percent chance of passing the disease to children.
+
+
+The study, published in the journal Nature, used sperm from a man with hypertrophic cardiomyopathy and eggs from 12 healthy women, from which the researchers created fertilised eggs. By injecting CRISPR-Cas9, which works as genetic scissors, they were able to snip out the mutated DNA sequence of the male MYBPC3 gene.
+
+
+The male gene then copied the perfect sequence from the female gene. Out of 58 embryos, 42 emerged mutation-free. The method was not perfect, however, as the remaining 16 embryos had unwanted additions or deletions of DNA.
+
+
+Potentially, CRISPR gene editing could apply to any of more than 10,000 conditions caused by inherited mutations -- including breast and ovarian cancer linked to BRCA mutations, as well as diseases like Huntington’s, Tay-Sachs, beta thalassemia, and even sickle cell anaemia, cystic fibrosis or some cases of early-onset Alzheimer’s. -August 3, 2017
+
+ 
+ 
+
+		

@@ -1,0 +1,17 @@
+## Title: SAT announces partnership  with Carbon Black
+## Supertitle: 
+## Section: Finance
+## Date: Friday, August 11, 2017 - 01:00
+
+SAT announces partnership  with Carbon Black
+
+South Asian Technologies (SAT), a leading distributor of ICT products, announced its appointment as a National Value Added Distributor for Carbon Black, the leader in next-generation endpoint security.
+Carbon Black offers the most complete endpoint security platform to defend against advanced threats targeting endpoints and servers.
+The partnership strengthens Carbon Blacks reach into the enterprise-IT market in Sri Lanka and facilitates sustained engagement with new partners in larger cities and high-growth regions.
+Carbon Black is the leading provider of a next-generation endpoint-security platform designed to enable organisations to stop the most attacks, see every threat, close security gaps, and evolve their defenses. The Cb Endpoint Security Platform helps organisations of all sizes replace legacy antivirus technology, lock down systems, and arm incident response teams with advanced tools to proactively hunt down threats.
+Today, Carbon Black has approximately 3,000 worldwide customers, including 30 of the Fortune 100 and protects more than 9 million global endpoints.
+“This partnership with Carbon Black will help us and our partners diversify our portfolio, and help address the next-generation endpoint security needs of the diverse businesses in the country,” said Sanjaya Padmaperuma - CEO, South Asian Technologies.
+SAT focuses on distribution of ICT products for leading security, network and storage providers in Sri Lanka. It engages in a multi-layered software distribution and has holistically expanded its role from logistics of distribution to training, market development, product positioning, taking the product gospel direct to the customer and partner network building initiatives. SAT has operations in Sri Lanka, Bangladesh, Maldives and Nepal and has a partner network of over 150 companies.
+“Carbon Black is incredibly excited to be partnering with SAT to help protect organisations across South Asia. Daily, these organisations are facing increasingly sophisticated cyberattacks, and it is clear that a new defensive approach is required. SAT’s strong customer relationships and information security expertise make them the ideal partner for Carbon Black across South Asia”, said Kane Lightowler, Managing Director Asia Pacific and Japan at Carbon Black.
+Lightowler added that Carbon Black’s partnership with SAT aims to help address key business functions in the market by increasing security, reducing operational costs and improving compliance. Leading managed security service providers (MSSPs) and incident response (IR) companies have made Carbon Black a core component of their detection and response services.With this partnership with SAT, Carbon Black aims to diversify and tap the growing enterprise IT market in Sri Lanka.
+ 

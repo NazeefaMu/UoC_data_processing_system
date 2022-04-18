@@ -1,0 +1,41 @@
+## Title: SLT Forays into Cloud based Data Virtualization and enables ‘Analytics as a Service’
+## Section: Press Releases
+## Date: 16 April 2018 09:17 am
+
+SLT Forays into Cloud based Data Virtualization and enables ‘Analytics as a Service’
+
+
+	
+
+Raj Thangiah, Consultant, dataWerks GmbH, Tony Andris, Chief Technology Officer, dataWerks GmbH exchanging the agreement with Kiththi Perera, Chief Commercial Officer of SLT, M.I. Deen, GM/Enterprise Solution of SLT, Janaka Abeysinghe, GM/Enterprise & Government Business of SLT
+
+ 
+
+.- Customers to benefit from SLT’s service expertise combined with leading edge tech from ‘datawerks’
+
+- Customers to gain access to real time data in half the time and half the cost, as compared to legacy data warehousing and data lake solutions 
+
+ 
+
+Sri Lanka Telecom (SLT), country’s world class enterprise solutions provider and the licensed national backbone network operator has joined hands with dataWerks GmbH, an innovative data virtualization solutions provider that offers a radically new approach to delivering real time business insights to business organizations. The solution will be offered on ‘Akaza’ SLT’s cloud platform. SLT’s cloud based Data Virtualization and Analytics Service will enable real time big data analytics and Business Intelligence (BI) Solutions for enterprises in Sri Lanka. 
+
+ 
+
+“As customer data environments get more and more complex, and with increased competitive pressure, the need for real time big data analytics and Business Intelligence will assume new importance for any enterprise.” said M.I. Deen, GM-Enterprise Solution of SLT.  Adding further he said, “Being the National ICT solutions provider, SLT is highly focused to offer the best data management solutions in a cloud environment to enterprise customers”.
+
+ 
+
+With this partnership, SLT business customers will be able to virtualize their entire data set, no matter the number or types of data source, and enable real time data access to business intelligence tools and other applications. This new ‘data mashup’ technology will allow users to quickly combine and correlate data from different systems whether held as structured or unstructured data. Integrated insights can be quickly generated and delivered via multiple platforms, at half the cost and half the time when compared to legacy data warehousing technology.
+
+ 
+
+“What is truly ground breaking about this service from SLT, is that enterprises no longer have to invest large sums of money on hardware and infrastructure  upfront and then wait several months until an IT project is completed. SLT enterprise customers can elect to securely virtualize their entire data set and have this ready to go within weeks.” said Tony Andris, CTO of dataWerks.  Adding further that “SLT’s willingness and ability to innovate with new service offerings will greatly benefit enterprises in Sri Lanka. SLT will be the first to market with data virtualization solutions in the region. Any enterprise that is looking into Data Warehouse or Data Lakes projects to gain a holistic view across all their data sources should look no further and get in touch with SLT”. 
+
+ 
+
+SLT will also provide 24/7 support and service assurance to help maintain all customer networks.
+
+SLT data virtualization and analytics solutions are aimed at equipping local enterprises with the full range of ICT solutions to help succeed in the global arena. Speed, connectivity and security are key demands businesses make and SLT’s wide portfolio of services is perfectly poised to meet and exceed these expectations. SLT’s rich portfolio of flexible hosting solutions offers businesses the assurance that their mission critical communication infrastructure is safe under SLT’s expertise.
+ 
+
+		

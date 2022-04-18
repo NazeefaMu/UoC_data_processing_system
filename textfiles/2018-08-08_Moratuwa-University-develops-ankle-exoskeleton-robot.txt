@@ -1,0 +1,59 @@
+## Title: Moratuwa University develops ankle exoskeleton robot
+## Section: News Features
+## Date: 8 August 2018 12:00 am
+
+Moratuwa University develops ankle exoskeleton robot
+
+
+	
+
+
+
+Amashi Weerasingha, Kasun Harshana and Kesara Withanage
+
+ 
+
+Three students attached to the Bionics Laboratory of Department of Mechanical Engineering, University of Moratuwa have developed an ankle exoskeleton robot. Named “C-JAE”, the robot is a wearable device which is able to carry out robotic rehabilitation and/or to provide locomotion assistance for human having mobility impairments. It combines human intelligence with mechanism to perform human ankle motions.   
+
+ 
+
+ 
+
+
+‘C-JAE’, the robot is a wearable device which is able to carry out robotic rehabilitation and/or to provide locomotion assistance for human having mobility impairment
+
+
+
+ 
+
+
+		C-JAE robot is a blessing for individuals with weaker ankle
+		The project has been carried out by final year undergraduates from the Department of Mechanical Engineering Amashi Weerasingha, Kasun Harshana and Kesara Withanage. It is supervised by Prof. Ruwan Gopura who is currently the youngest professor in Engineering in Sri Lanka and Head, Department of Mechanical Engineering, Engineer Pubudu Ranaweera, the senior lecturer attached to the Department of Mechanical Engineering, University of Moratuwa.
+
+Prof. Ruwan Gopura following said “According to statistics around the globe, elderly populations have exceeded 10% of the total population. On the other hand, people who are suffering from neurological or muscular disorders have increased steadily. The medical industry has shown a growing interest in the use of exoskeleton robots to alleviate health care issues arising from locomotion difficulties. Considering all those facts the Department of Mechanical Engineering of the University of Moratuwa contribute their knowledge to address this issue and serve the society.   
+
+C-JAE is derived from the terms ‘Compatible Joint Ankle Exoskeleton’, meaning articulated robotic ankle exoskeleton with compatible joint axes to generate human ankle motions.The mechanism and drive units are placed anterior to foot and shank segments. C-JAE supports all three DOF at the ankle joint using novel mechanism, while ensuring joint axes mapping for full ranges of motion. It means, with the intention of maximizing user compatibility and performance, the proposed mechanism has compatible joint axes for each DOF.   
+
+ 
+
+
+“According to statistics around the globe, elderly populations have exceeded 10% of the total population. On the other hand, people who are suffering from neurological or muscular disorders have increased steadily and exoskeleton robots provide health care issues arising from locomotion difficulties
+
+
+ 
+
+C-JAE weighs 2.6 kg without the battery pack, which is comparably light weight and user friendly than the existent devices. 
+
+ 
+
+
+
+C-JAE weighs 2.6 kg without battery pack which is comparably light weight and user friendly
+	 
+	It supports all three DOF at the ankle joint
+
+
+The novel feature of the C-JAE is its ability to comply with functional and ergonomic requirements of human ankle joint. In the initial stage the feasibility and performance of the C-JAE was evaluated using healthy male subjects, in the first stage of development. In the second stage, rehabilitation capability will be clinically tested with suitable patients’’   
+ 
+
+		

@@ -1,0 +1,21 @@
+## Title: 5 things: I learned living with just a smartphone for two weeks
+## Supertitle: 
+## Section: Features
+## Date: Wednesday, June 7, 2017 - 01:00
+
+5 things: I learned living with just a smartphone for two weeks
+
+I recently returned from a 12-day vacation in Peru and, because I was going to be moving around a lot, I decided to brave the trip with just my iPhone 6 Plus. No laptop. No tablet. And only the lowest-level smartphone.
+As it turned out, I did pretty well. Since this was a vacation, I wasn’t planning on doing any real work, just monitoring email to make sure nothing important was blowing up back home, and passing along urgent (and semi-urgent) emails that couldn’t wait for my return.
+Along the way, I learned a few things that I wanted to pass along.
+When you have only one device, make it a phablet
+I’ve written about phablets a lot, and spending a couple weeks living with a single device only reinforced my conviction that this is the ideal form factor for multiple use cases. It may not always be ideal, but my iPhone 6 Plus was small enough to take with me everywhere, and big enough to entertain me with videos and ebooks during downtime.
+Power, not cell service, is the biggest limiting factor
+When you’re relying on a single device, the search for power can become all consuming. There are two reasons for this. First, if you’re using only one device, that device will churn through battery life faster than if you were spreading your work among multiple devices. Second, if that device runs out of juice, you’re completely shut down. Fortunately, phablets can carry bigger batteries than regular smartphones, so they often last longer between charges.
+You don’t really need cellular data to use maps
+If you don’t have cellular roaming, you can download the maps you need when you have Wi-Fi access and still use your device when you head out to navigate a new city. Just make sure you get the map info for everywhere you’ll be going before you lose your Wi-Fi connection—that blue dot doesn’t do much good on a blank gray background.
+Data goes quickly
+When you’re doing everything on a single device, the data usage adds up pretty quickly. It makes sense to limit what apps can access cellular data, and keep data roaming turned off except when you really need it. If you don’t stay on top of things, your phone can download a lot of data when you’re not even trying.
+Attachments are not your friend
+While most modern smartphones do a good job with email, attachments can burn through data fast, and may not be formatted for easy viewing. There are plenty of apps designed to help with viewing and editing various formats, but working with attachments remains a hassle, and is sometimes a deal breaker. I found I left almost everything involving an attachment until I had access to a bigger device.
+- www.networkworld.com

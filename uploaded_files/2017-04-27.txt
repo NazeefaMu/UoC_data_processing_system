@@ -1,0 +1,554 @@
+## Title: Achievement marred by lack of opportunity
+## Section: News Features
+## Date: 27 April 2017 12:22 am
+Achievement marred by lack of opportunity
+	
+Typically the words ?technological innovation? and ?Sri Lanka? are not coupled very often. It?s a common misconception among us that all technological innovations and mechanisms come from overseas. Visiting the Moratuwa University as they prepare for their upcoming EXMO Exhibition, the ?was exposed to the brilliance of the final year undergraduates who displayed their projects with pride showing us that there are Sri Lankans who are futuristic, out-of-the-box thinkers. From an established motor car to a plastic recycle project to a life saving drone, the undergraduates have shown us that our little island nation has a promising future in terms of development of technology. ??
+The University of Moratuwa, Faculty of Engineering, presents EXMO 2017 which will take place on the 28th and 29th of April 2017 after 7 years, at the University premises. Being the largest and leading faculty of the University, it has been known to create brilliant alumni spreading the reputation of Sri Lanka worldwide with their amazing intellectual capabilities throughout the course of time. ??
+Upon visiting the university and meeting teams with their respective exhibits, the ?learned that the road to this exhibition has not been easy. The undergraduates presented their exhibits, showing us the innovative and futuristic nature of the minds of those who attended the University. It was an eye opener to their brilliance as well as the barriers they faced when it came to funding and the future plans of their projects. ??
+EXMO 2017 is yet another effort taken by the University to enhance the knowledge of school students, industry and general public on the fields of engineering and technology through the conduct of educational demonstrations and awareness sessions. It will also help bridge the gap between the University and the corporate sector. The exhibition will feature the final year research projects which explores new dimensions of engineering and technology. ??
+Life Saving Drones??Team ?Insaaf Ismath, Janith Kalpana
+The partners in this exhibit stated, ?Using this drone you can save the lives of people faster than a normal life saver could. 80% of the time the drone can reach the person faster. In the world around 1.3 million people die because they can?t be reached on time and our drone solves this problem. It is an autonomous drone that can be controlled manually and also has life-saving gear. At the moment we have these rings on the side that the person can hold on to, so that the person has a fighting chance until the life saver arrives.? ??
+They further stated that most of the funds came from themselves and from competitions that they?ve won. ?As a team we have won 3rd place in the Uva Wellassa Battlebot challenge and 1st place in the Mora Ventures 1.0.? ??
+?Funding is an issue because it?s a hardware intensive project so we have to spend on the parts. The major problem is that drones are a new concept to Sri Lanka and it?s difficult to find a good environment to support it and fund it. What we see is that Sri Lanka is very reluctant for new technology. In addition to this we have to consider the taxation in the country. Around 20%-30% of our funds go for taxes. It would be great if there was some mechanism to reduce the taxation on start ups and companies to help them develop their products. Another problem we face here is the fact that the electronic industry in Sri Lanka is very small and there is no scope in the country, which pushes people who are interested in robotics to pursue it elsewhere. We hope to create an environment in Sri Lanka where people will be able to work on their interests within the country in order to develop our economy and the country,? they added. ??
+?This exhibition gives exposure to our projects and shows people that we are capable of being innovative and futuristic.? ??
+?
+I-belt Team ?Eranga de Silva, Hasala Sakvithi Rohanawansha and Peshan Sampath
+?The basic function of the I-belt is to help people with hearing disorder identify a word that a speaker addresses to them along with a sense of direction of sound through vibrational feedback. The I-belt which is a prototype, consists of vibrators fixed into the belt which can currently identify 5 words specifically along with the direction the sound comes from.? Eranga hopes to improve the I-belt further so that the I-belt can read an unlimited number of words in future. ??
+Another function of the I-belt is to alert the wearer of the belt of an emergency. The vibrators are set to a threshold level which responds to an emergency sound via feedback once the noise has exceeded the threshold level and alerts the wearer of danger so that he can get to safety or assess the environment for signs of danger. ??
+Eranga stated that the I-belt was built for the Asia pacific design competition for people with hearing disorder, which is annually organized by the IMechE, a UK based organization, which consisted of 3 stages. After successfully facing 2 stages, the team Mavisuru, made it to the final heats which was held on the 30th of April, 2016, at Auckland, New Zealand. Representing Moratuwa University, they were able to secure 1st place in the final heats. ??
+Nano Particle Size Analyser
+Team ?Ashen Anuradha, Anjana Ishan and Thisara Sandanuwan Project Supervisor: Dr. Shantha Amarasinghe, Senior Lecturer Materials Engineering Dept.
+?What happens in the nano particle size analyzer is that you can analyze the size of a dispersion of particles which is useful in determining various physical properties such as solubility, abrasion,hardness etc. which are important and taken into consideration in various fields such as ceramic ,aerospace ,cement ,pharmaceutical industries etc,? said Ashen Anuradha, ??
+?The analyser operates at nano scale but it is modifiable to micro meter or millimetre calliberations depending on the data that is required.
+It is done with a modular design,connecting it to a computer and through the computer a user can interact with the particle analyser and get the required data. ??Our final year projects are funded by the university. So our initial budget is around Rs50 000, however it only covers the labour cost. One barrier was that we had limitations in getting the best quality material due to funding limits. We want to try to develop quality control equipment for our local industry. Through this exhibition we hope to change the mindset of the people and show them that Sri Lanka does not have to get everything from abroad but can produce technology here itself,? he added. ??
+BrailleBand
+Team ?Achintha Iroshan, Charith Dushyantha Panangala, Wishwa Perera, Hareen Udayanath and Savindu Herath
+Achintha Iroshan, briefed on the product, ?BrailleBand?, ?It?s a haptic blind support wearable which enables passive reading of text messages through vibrations using the well known Braille language. Connectivity between the BrailleBand and the smart device is established using Bluetooth protocol and data can flow from the phone to the device. As in the Braille alphabet, BrailleBand consists of six nodes in three bands, two nodes per each band which are actuated to give the sense of touch corresponding to the characters which are being transferred from the phone to BrailleBand.? ??
+?Investment proves to be a challenge. We can?t sell sight, we can only donate it. So an ordinary business plan is not effective here. We are approaching a subsidized pricing strategy. We are looking for a donor or an investor whose focus should be the impact of the product and not quick money,? he added. ??
+They have also emerged victorious as champions in the events SS12 Asia Sri Lanka section competition and SS12 Asia. ??
+Achintha mentions the best way that they could improve their product is through the feedback of the public and is hopeful in meeting them to get more feedback on their product by assessing the quality of the product and its value in the greater good of the vision challenged community. ?
+?
+The D-MORA P1
+\Team ?SHARK members: Harshana Kelasha, Rajive Wisidagama, Chathura Semasinghe, Sajith Edirisinghe, Nushen Senevirathne, Sachithra Atapattu, Rukmal Danushka, Praneeth Weerathunga, Isuru Mudalige, Induwara Munasinghe, Amith Mudugamuwa, Buddhi Herath, Thushara Sandakalum, Kasun Harshana, Shameen Kamburugamuwa, Navoda Lakshan, Jaliya Chinthaka and Buddhika de Alwis supervised under Mr. Sasiranga de Silva, Lecturer of the Department of Mechanical Engineering.
+One of the exhibits, the pride of the Department of Mechanical Engineering is the D-Mora P1. Calling themselves team SHARK, the team created the race car D-MORA P1 under the project MORA FS, to take part in the most established motor sport competition for university undergraduates across the globe, Formula Student, UK, at the Silverstone circuit in 2016 being the first ever Sri Lankan team to take part in this grand event, organized by IMechE, Institute of Mechanical Engineers, allowing undergraduates to design a single seat racing car, build, test and race. Team SHARK, took part in last year?s racing event which hosted 134 teams from 33 different countries. ?Our department formed a team, designed and manufactured a car and presented it for 2016?s formula student. DIMO gave the full sponsorship? said one of the members of team SHARK.
+The team had to face many barriers during production of the D-MORA P1. ?Investment was basically the biggest barrier. Initially we started off selling tickets to the lecturers and teachers within the department to raise the basic funds. Then with the progress we made, the 2008 batch offered us Rs.90, 000. Later on the advanced engineering company sponsored us and we went on until the chassis with their sponsorship. Later through a publication of an article on the newspaper regarding our project, DIMO offered to sponsor us and since then, the full sponsorship has been given?
+by DIMO.? ??
+?They also gained the glory of winning three awards, the best individual driver award which was awarded to Induwara Munasinghe, best new comer - class 1 award and last but not least the dedication to formula student 2016 award which indeed adds a feather to team SHARK?s cap. ??
+Through the EXMO exhibition they hope to get recognition and globalize their product in society as they pointed out that their popularity is limited only to the field of racing and thus through this exhibition it gives them an opportunity to open up with the value of their product in society. As for their future goals, they hope to take part in the formula student annually with progressive improvements and bring glory to their University and country. ??
+Protective Garment Line?
+?By ?Gayan Lakmal
+?My exhibit is a line of garments made for agents who are off duty. The US is one of the main countries that combat terrorism with agents from their organizations such as the FBI and CIA. They only have uniforms when they?re are on duty and when off duty they have no garments that would prepare them for threatening situations, which is why I started this line of clothing. Our main target is the US,? said Gayan Lakmal. ??
+The clothing that he has prepared has various zips and hidden pockets in order to hide weaponry. He has used a special dye so that the garment changes colour according to the time of day. ?I used thermochromic dye, however the proper dye is photochromic dye which is very costly and most of it is funded by me. Most of the funds went in to my research. This will not be accessible in the open market and to be able to purchase and receive it proper identification needs to be shown.?
+?
+3D weaving technique
+Team ?Sandesha Weerasinghe, Vishmitha Osara, Ushan Senerath, and Sisuru Kalhara supervised under Professor Sandun Fernando.
+?3D weaving is just like 3D printing. 3D weaving can be used to make solid objects, like tubes, etc. What we made was a technique to produce a 3D woven fabric which is actually a 3D woven structure. The use of this technique seems promising as it can also be used in the fields of aeronautical engineering to replace metal parts with 3D woven materials and in medicine by using 3D woven blood vessels. So the scope is quite large,? said Sandesha Weerasinghe. ??
+The team of undergraduates has actually developed a sample fabric using the 3D weaving technique which they will also be show casing at the exhibition. ??
+??Our final year project was funded by the department?. Through EXMO, instead of just promoting their project, the team hopes to promote the textile industry as a whole, stating that ?the outlook on the textile industry that prevails in the country is not a good one and people are not fully aware of it. Textile industry is something beyond what we wear.Very big projects require a lot of time and funding. Facilities at the university are limited and should be shared with others. There is a challenge in managing time and resources.??
+?
+?Amplus? Digital Sinage Platform?
+Team ??Bit Masters? Lakmal Buddika Meegahapola, Chathusha Wijenayake, Madhawa Vidanapathirana, Chanaka Lakmal, Dinuka Salwathura, Charith Eranga
+According to Madhawa Vidanapathirana, Amplus is a digital sinage platform which is a small hardware device which can be plugged in to a digital display and is converted into a digital sinage system. ?The product has a camera which can detect the crowd and then it can give targeted advertisements. It can identify a person?s gender, emotion and give analytics on whether the ad is having the desired effect on the audience. Our target customers are advertisers, and small shop owners who have digital displays and TVs.? ??
+Madhawa further said that most of the funding they were able to get by taking part and winning competitions, one in particular being the 2015 Ideamart Mora Hack which was sponsored by Dialog, after which they were able to get help from them and use their showroom facilities. This helped them a great deal when taking part in the Microsoft Imagine Cup 2016 in which they emerged 2nd place in the World which is considered as the biggest ever victory by an undergraduate group from Sri Lanka at the world stage. ??
+Speaking of the difficulties faced he said, ?Our biggest concern was how to balance this with our academics and we also had to switch from another platform to this.? ??
+?There is a huge potential, because digital sinage is still booming. We are going to demonstrate our product at the exhibition. Right now we are in a better position because we are in our final year. So we can get more contacts and find more parties who can join us and help us,? he said ??
+Plastic Recycling Project?
+Team ?Hasitha Sanjeev, Dilini Yapa, Manoli Dissanayake?
+?Our project is about a recycle plant where we take plastic water bottles that people are throwing away and export them to India and get fabric in return,? said the team. ??
+?We took part in a competitions called Motor Ventures where we got through the first round. There are more parties who are interested in our product in the light of the recent waste management problems. We have also presented our ideas in a US aid project which is still in the consideration stages and we are yet to hear from them.? ? They further said that getting a good capital is difficult in Sri Lanka and that through this exhibition they hope to interest investors and show people what they are capable of making. ?Exhibition-wise we are getting a lot of support, however after the initiation stages finding support in Sri Lanka will be very difficult.? ??
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+ 
+		
+==============================
+## Title: Best hotel view  in EUROPE
+## Section: International
+## Date: 27 April 2017 10:33 am
+Best hotel view  in EUROPE
+	
+?
+Sipping cocktails on a roof terrace overlooking the Aegean, taking a dip in your own private plunge pool and enjoying a breakfast fit for a king or queen in the Greek sunshine - does it get any better than that?
+An island dramatically reshaped in the 16th century by a huge volcanic eruption. Its villages, fame for their white-washed buildings and azure blue rooftops, nestle on cliffs that form a half-ring around a submerge crater.?
+And Canaves Oia offers guests a view across this that must be one of the best in all of Europe. Santorini really is a special place.?
+Open-air swimming pools and sprawling five-star villas burrow into the clifftops and there are stunning views of the Aegean no matter which way you look.
+And It treats to the finest sunset one have ever seen.
+It is the luxurious five-star suite at Canaves Oia that makes time in Santorini extra-special.?
+With a bed so big and comfortable to the villa?s very own swim-up Jacuzzi pool?
+In fact, the only thing that makes you want to leave the plush surroundings of the villa every morning was the blazing Greek sunshine and the opportunity to kick back with some freshly-shaken cocktails on the resort?s roof-top terrace.
+Boasting an infinity pool and giant double-bed size sunloungers, you can be in heaven sipping mojitos while taking in the panoramic Aegean views.
+After tucking into a superb breakfast on the patio outside the bedroom. Delivered to the suite every morning, one can enjoy fresh eggs, homemade granola, American-style pancakes and infinite amounts of fresh tea and orange juice.?
+And it was the perfect opportunity to soak up the stunning views as the sun rose across the sea.
+I couldn?t get enough of the views - they are a world away from the sights many of us face on a daily basis in the London rat race.
+With pretty much guaranteed sunshine from April to October, the climate is ideal for sun seekers. And aside from sunbathing, life here doesn?t get much more stressful than exploring Greek cafes, boutique shops, candlelit restaurants and jazzy bars.
+Boat excursions here are a winner, too.?
+Sailing out on the calm Aegean with the sun beaming down on the face, it?s well worth venturing out onto the sea just to see the stunning backdrop of Santorini from the water.?
+Seeing the white-washed buildings and famous blue roofs while bobbing around miles out to sea was heavenly, as was the cold complementary beer we were offered to sip as we breezed around the island.?
+?
+ 
+		
+==============================
+## Title: Bollywood actor Vinod Khanna dies of cancer
+## Section: Breaking News
+## Date: 27 April 2017 03:13 pm
+Bollywood actor Vinod Khanna dies of cancer
+	
+One of India's most well-known Bollywood actors Vinod Khanna has died aged 70, his hospital has confirmed.
+Khanna, also an active politician, had been suffering from cancer and was admitted to hospital earlier this month as his illness became more serious.
+He acted in more than 100 Bollywood films and was widely seen as a counterfoil to the "angry young man" played by Amitabh Bachchan.
+He was elected to parliament four times and was once a junior foreign minister.
+Khanna began his career in 1968 and was a household name in India, particularly during the 1970s and eighties when he played the starring role in a number of Bollywood hits. (BBC)
+ 
+		
+==============================
+## Title: Cabinet approves expansion of Bus Lanes
+## Section: Breaking News
+## Date: 27 April 2017 02:07 am
+Cabinet approves expansion of Bus Lanes
+	
+The cabinet had approved the proposal made by Megapolis and Western Development Minister Patali Champika Ranawaka to expand the Priority Bus Lane concept further and to take action to attract the middle class to use public transport services.
+Cabinet co-spokesman Gayantha Karunathilaka told the weekly Cabinet Briefing that the Cabinet proposal had made to implement Bus Priority Lanes in Moratuwa-Ratmalana, Wellawatte-Kollupitiya on the Galle Road and from Parliament Junction to Rajagiriya, Borella, Maradana, Pettah and Colombo Fort along the Parliament Road.
+It also had proposed that the concept should be put into practice from roundabout in Chittampalam A. Gardiner Mawatha to Pettah, the Thummulla Junction to the Museum Junction and the Eye Hospital Roundabout to the Thummulla Junction during busy hours.
+The Cabinet proposal also suggested to promote importation of Low Floor air-conditioned buses through concessionary loan schemes, prepare a common ticketing system with electronic card payment facilities and to improve three-wheeler and taxi parking facilities.
+The Minister said Cabinet approval was granted as the pilot project implemented along the Parliament Road between 12 and 23 of March with the assistance of Korean International Cooperation Agency had showed positive outcome. (Ajith Siriwardana)
+ 
+		
+==============================
+## Title: Ceylinco Life retirement planning month begins on May 2
+## Section: Financial News
+## Date: 27 April 2017 12:00 am
+Ceylinco Life retirement planning month begins on May 2
+	
+The best time to start investing in retirement is at the commencement of employment, a new campaign to be launched by Ceylinco Life in May asserts.
+The life insurance leader?s 10th annual retirement planning month kicks off country-wide on 2nd May with the company?s entire sales force being tasked with generating wider awareness of the importance of retirement planning.
+Focussing on retirement readiness, the campaign poses the question ?Can you retire tomorrow?? and simplifies the perceived intricacies of investing for retirement with simple explanations, illustrations and examples.
+Some 4,000 members of the Ceylinco Life sales team will be deployed in door-to-door calling in cities and towns across Sri Lanka throughout May to take this message to the masses, the company said.
+They will be supported by media communications campaigns and will be armed with a thoughtfully prepared brochure that demystifies retirement planning. A series of promotional activities in selected locations is also planned. May has been Ceylinco Life?s designated retirement planning month since 2008, and every year, the sales team is tasked with focusing on this segment of business throughout the month. Ceylinco Life offers a range of retirement plans that offer a higher accumulation rate than most savings accounts. Returns from retirement plans are exempt from tax.
+Ceylinco Life retirement plans can even be purchased online by visiting the company?s website www.ceylincolife.com
+Ceylinco Life?s flexible retirement plans make it possible for saving for retirement to be commenced with as little as Rs 1,000, with payments made monthly, quarterly, half-yearly or annually for a term starting from five years.
+Sri Lanka?s life insurance market leader since 2004, Ceylinco life has close to a million lives covered by active policies. The company is acknowledged as the benchmark for innovation in the local insurance industry for its work in product research and development, customer service, professional development and corporate social responsibility.
+ 
+		
+==============================
+## Title: China launches first domestically built aircraft carrier
+## Section: International
+## Date: 27 April 2017 10:42 am
+China launches first domestically built aircraft carrier
+	
+?
+China has launched its first domestically designed and built aircraft carrier, state media said Wednesday, as the country seeks to transform its navy into a force capable of projecting power onto the high seas. ??
+Beijing has embarked on an extensive project to build a ?blue water? navy and modernise its two million-strong military, the world?s largest. ??
+The country?s rapidly expanding military might includes a range of maritime defence capabilities, a fleet of attack submarines, and highly sophisticated anti-aircraft systems that prevent enemy vessels from nearing its coast. ?Chinese President Xi Jinping has said that ?all must be done? to improve the country?s battle capacities so it can ?fight and win wars.? Adorned with colourful ribbons, the Type 001A ship ?transferred from dry dock into the water at a launch ceremony? in the northeastern port city of Dalian, according to official broadcaster CCTV. ??
+The ribbon-cutting was followed by the traditional breaking of a champagne bottle on the ship?s bow. ??
+China?s defence ministry has previously said the new carrier would displace 50,000 tonnes and use conventional rather than nuclear propulsion. ??
+It is expected to carry China?s indigenous J-15 aircraft, along with other planes. ??
+China is eager to show its strength in the South China Sea, where it insists on sovereignty over virtually all the resource-rich waters despite rival claims from its Southeast Asian neighbours. ??
+It has extensively reclaimed reefs and installed military and other facilities including airstrips on some outcrops, dismissing an international tribunal?s ruling last year that rejected China?s claims to the disputed areas. ??
+BEIJING AFP April26, 2017 ?
+?
+ 
+		
+==============================
+## Title: CHRISSY ALOYSIUS DEVOTED WIFE, MOTHER, PILLAR OF SOCIAL RESPONSIBILITY
+## Section: News Features
+## Date: 27 April 2017 01:13 am
+CHRISSY ALOYSIUS DEVOTED WIFE, MOTHER, PILLAR OF SOCIAL RESPONSIBILITY
+	
+I still haven?t recovered from my shock after hearing of the death of this truly wonderful person. She reached out to everyone she met and was brimming over with the milk of human kindness. I had known Denis, her husband since his student days, as a favourite student of my late father?s, who fondly called him ?Denis the Menace?! The romance between Denis and Chrissy began and blossomed during their student days when he was at the Medical College and she was an active member of the Student Christian movement at University. I first met and got to know Chrissy when she was the main organizer of childhood birthday parties of Sanjeev Gardiner, the son of Denis?s brother Cyril and Mavis. My children and I were always invited to these parties and it was Chrissy who organized everything and was the live wire. ?
+It was during the last few decades that I became close to Chrissy and got to know her well, which was to love her and appreciate all she did for others. Her main focus all through life was her husband Denis. Her life revolved around him and his interests. She worked beside him in his dispensary in Rathmalana, took an interest in his patients, talking to each one, comforting them and advising them. She valued old traditions and would serve Denis at every meal, only sitting down to eat with him after she had done so. They were together always, showing a lifetime of devotion which is rare to see today. It was through her interest in Denis?s work that she founded the Doctors? Wives Association in 1987. This not only helped doctors? wives in many parts of the country get to know each other and form unbreakable ties of friendship but it also helped them reach out to people and work together in unity for the underprivileged; reaching out to people in distress, in one form or another, in many areas.
+?One of their regular projects was giving schoolbooks to children at the beginning of each year. Another was the distribution of dry rations for Avurudhu. She organised many Health camps and eye camps where spectacles were given out to people. After the devastation and destruction of the Tsunami disaster, again she organized teams of doctors and their wives to visit these areas and help those affected in various ways. Each year, Chrissy was the main organizer of a grand event, a fellowship evening of dinner, dancing, competitions and entertainment for doctors wives, their husbands and guests. I was often her guest at these events and she never failed to include me in these and family dinners, when her children visited from overseas. The profits from the doctors? wives get-together and the sponsorship given by many well-known companies at her request were used for charity projects. She was an amateur playwright too and wrote many plays which were performed by doctors and their wives. Among doctors who showed their skill as actors were Denis, Dr. J.B. Peiris and Dr. Preethi Wijegoonewardene. One play I recall was an adaptation of Chekhov?s ?The Proposal?. ?
+She was an example and an inspiration to other doctors? wives and to women too, showing that one could be a housewife, mother, working woman and combine all this while reaching out to those who needed help as well. Her life was a mission of mercy to the underprivileged. She was propelled by a moral imperative to relieve suffering. Chrissy?s spiritual faith was a great source of strength to her in whatever she did and when facing loss and death. She never gave up when she lost a child many decades ago and more recently, her granddaughter. This did hit her badly but didn?t hinder her path through life in reaching out to the downtrodden and those in need, remaining the epitome of unruffled efficiency in carrying out her work for others in spite of her bereavement. Chrissy was a woman who was unafraid to commit herself to a project, to express and declare her views. She didn?t simply care about something, she cared desperately. Chrissy was a woman of rare substance, with high standards and the right priorities, who believed firmly and surely in Family, God, Scholarship and Music, adhered to a rigorous work ethic, considered charity an obligation and was an exceptionally loyal wife, mother, grandmother, sister-in- law, aunt and friend. She was the wind beneath the wings to her husband and family and an unfailing inspiration to us all. May she rest in peace. I?m sure she?ll be greeted in Heaven with the words ?Well done, thou good and faithful servant?. My heart grieves for a valued, loyal friend who was there for me through good times and bad. ??
+ 
+		
+==============================
+## Title: ComBank offers ?Flexi Plan? for high value credit card purchases
+## Section: Financial News
+## Date: 27 April 2017 12:00 am
+ComBank offers ?Flexi Plan? for high value credit card purchases
+	
+?
+The Commercial Bank of Ceylon now offers ?Flexi Plan?, an easy payment scheme for credit card holders who have been unable to convert their high value transactions into easy payment plans at the point of purchase.
+Any credit card transaction above Rs 25,000 may now be converted to an equated monthly instalment plan within a month of the transaction, at a nominal processing fee, the bank said.
+Intended to ease the repayment burden on cardholders, the Commercial Bank Flexi Plan is designed for the purchase of air tickets, electrical appliances and consumer products or for the payment of educational or medical bills.
+Cardholders who could not avail of the instalment plans available at a large number of merchant outlets, can make their purchases and thereafter call the designated hotline within 30 days and request a conversion to the Flexi Plan.
+The bank said that the existing credit limits of customers could also be enhanced subject to their credit rating for this purpose. Cardholders who wish to increase their credit limits in order to avail of aFlexi instalment plan suited to their current income levels and repayment capacity can make requests in advance via the same hotline.
+The fees applicable for such conversions are pegged to the duration of the instalment plan and start at 3 percent of the value of the purchase for repayment over three months. A fee of 5 percent applies to six month repayment, 8 percent for 12-month repayment and 12 percent for repayment in 24 monthly instalments.
+Commercial Bank?s cardholders are eligible for special benefits through ?Comdeals? ? a programme which provides value addition through discounts at a number of major retail outlets in the country and ?0% easy payment schemes for Credit Card holders. They are also eligible to participate in global promotions carried out by Visa and Mastercard and receive more benefits under ?ComBank Max Loyalty rewards.?
+ 
+		
+==============================
+## Title: DFCC takes banking transactions to customers? doorstep with Mobile Teller
+## Section: Financial News
+## Date: 27 April 2017 12:00 am
+DFCC takes banking transactions to customers? doorstep with Mobile Teller
+	
+?
+Sustaining its momentum to offer technology-backed convenience to customers, DFCC Bank re-launches ?Mobile Teller?, a digital banking service owned and operated by DFCC Bank and developed by SYNAPSYS.?
+This doorstep banking service is offered by a staff representative, who accepts real time cash deposits via a mobile device. This offers customers the option of completing cash deposits at their preferred location provided it?s within a 10 km radius from the branch that offers the service.?
+It?s simple to use and does not require any registration process apart from informing the bank branch of the requirement at a prearranged time. ?
+The Mobile Teller is operated via an app which is loaded on a bank owned mobile phone. The transaction is captured electronically and shared with the customer immediately. Besides this, the customer can also check account balances off this device with ease. The innovative service has already been deployed at DFCC?s Dambulla, Balangoda and Rathnapura branches, and now with the re-launch, is expected to be rapidly expanded across majority of the branch network. ? Commenting on the re-launch of this innovative digital service, Arjun Fernando, CEO, DFCC Bank said, ?The bank has re-launched the Mobile Teller service after considering the enhanced convenience it offers customers. We are a bank that understands the evolving needs of customers and seek ways of enabling them to conduct banking transactions at their doorsteps.?
+?The bank is continuously innovating new financial solutions in keeping with its core value of customer centricity and our main objective is to offer seamless convenience when we introduce or enhance products?
+and services.??
+ 
+		
+==============================
+## Title: Expect to fulfil President?s request: SF
+## Section: Breaking News
+## Date: 27 April 2017 08:21 pm
+Expect to fulfil President?s request: SF
+	
+Field Marshal Sarath Fonseka, who had been offered a position with the responsibility to execute essential services in case they were disrupted, said today that he expected to fulfil the request made by the President.
+Speaking to journalists at a New Year Festival held in Kelaniya, the minister said President Maithripala Sirisena instructed him to take responsibility in carrying out essential services when they were disrupted.
+?The President made the request at the last Cabinet meeting and it was approved. I told at that moment a discussion is needed to draft a mechanism to implement this programme. I realize the intentions of the President and expect to fulfil them. I will put the country first,? he said.
+At the Cabinet meeting, the President had asked the Minister if he was ready to take over the army to which Minister Fonseka had said ?No.? He had again rejected when he was offered a post of a ?security division head? by the President.
+?It is only then that the President invited me to take over the responsibility of carrying out duties when essential services were disrupted,? Minister Fonseka said.
+He also said trade unions should focus on the welfare of members without being henchmen of political elements with vested interests.
+?The government will never suppress the rights of trade unions. We will carry out our responsibilities while protecting the country?s democratic nature. We will not go for a military rule. There is no need to do so. There was such an administration in the past but we won?t do such things,? he said. (Lal S. Kumara)
+?
+ 
+		
+==============================
+## Title: Falling palm tree injures British tourist in Negombo
+## Section: Breaking News
+## Date: 27 April 2017 07:10 pm
+Falling palm tree injures British tourist in Negombo
+	
+A British tourist is suing a tour operator after a falling palm tree crushed her legs and left her feet 'going in different directions', the Daily Mail reported on Wednesday.
+Claire Saywell, 42, was relaxing at a four-star hotel in Negombo with her husband David when a 50ft tree fell across her sun-bed, shattering her legs.
+'I was dozing in the sun with my eyes closed and the next thing I knew I had this excruciating pain in my legs. I remember seeing the tree and screaming as the pain was nothing like I've ever experienced. My legs were bent down in a V shape where the sun lounger had broken. I will never get that vision out of my head. I thought my legs were gone,? she said.
+Mrs Saywell said the tree also hit another British tourist who suffered minor injuries, and it took 45 minutes for an ambulance to come to her aid.
+After being transferred to Colombo, she had titanium pins inserted in her legs in hospital where she spent 12 days before being flown home on a private jet.
+Mrs Saywell, who is now taking legal action, said she ended up with two broken legs, and suffers nightmares, flashbacks and a fear of going abroad.
+She said: 'Personally I would take down all of the palm trees around where people sunbathe to prevent this happening again. We've been offered a free holiday but I don't want to go back.'
+Larry Shaw, of law firm Slater and Gordon, which represents Mrs Saywell, said: 'It is crucial that holiday resorts and tour operators ensure trees are properly inspected and maintained to avoid incidents like this happening again.'
+ 
+		
+==============================
+## Title: First poll to be held this year should be LG election: Amaraweera
+## Section: Breaking News
+## Date: 27 April 2017 07:13 am
+First poll to be held this year should be LG election: Amaraweera
+	
+UPFA General Secretary Minister Mahinda Amaraweera said yesterday (26) the first election to be held this year would be the local government election and dismissed claims that there had been discussions within the SLFP about a referendum being held instead.
+This was revealed by the minister at a media briefing held yesterday (26) at the SLFP headquarters building located in Colombo 10.
+We definitely intend holding the local government election soon and this was stressed when Cabinet met on Monday (25).
+The disaster that occurred in Meethotamulla was a good wake-up call to the authorities and this has highlighted the need for public representatives to be ready to step in and work on behalf of the people at a time of crisis. Therefore we are ready to face a local government election soon and we, as the SLFP, would not want it to be postponed under any circumstances. So, we unequivocally state that we have not discussed or thought of holding a referendum or any other election other than a LG Poll, he said, adding that they had waited 1-1/2 years for the government to make the necessary changes to hold the local government elections under the new electoral system that had been introduced. (Ariyarathna Ranabahu)
+ 
+		
+==============================
+## Title: Former CJ Sripavan appointed to Commercial Bank board
+## Section: Breaking News
+## Date: 27 April 2017 06:08 pm
+Former CJ Sripavan appointed to Commercial Bank board
+	
+Former Chief Justice K. Sripavan has been appointed to the board of Sri Lanka?s largest private lender, Commercial Bank of Ceylon PLC, a stock exchange filing by the banks said.
+Sripavan?s appointment as a Non-Executive Independent Director comes into effect from
+April 26, 2017.
+Sripavan was appointed as Chief Justice in 2015 and held the office until March 2017.
+During this period, he functioned as Chairman of the Judicial Services Commission of Sri Lanka, Chairman of the Incorporated Council of Legal Education, Chairman of the Sri Lanka Judges? Institute and Chairman of the Superior Court Complex, Board of Management.
+He was enrolled as an attorney-at-law of Appeal Unit in Attorney General?s Department and handled a large volume of work both in the Appeal Court and in the Supreme Court including Bills and Fundamental Rights applications.
+Prior to the elevation to the Court of Appeal Bench, he functioned as the legal consultant for the National Savings Bank for two years.
+He was appointed a Judge of the Appeal Court in May 2002 and was elevated to the post of President of the Appeal Court in March 2007 by the then president. In March 2008, he was elevated to the Supreme Court Bench.
+ 
+		
+==============================
+## Title: French intelligence report says Assad forces behind April 4 sarin attack
+## Section: International
+## Date: 27 April 2017 10:38 am
+French intelligence report says Assad forces behind April 4 sarin attack
+	
+?
+French intelligence has concluded that forces loyal to Syrian President Bashar al-Assad carried out a sarin nerve gas attack on April 4 in northern Syria and that Assad or members of his inner circle ordered the strike, a declassified report showed.
+The chemical weapons attack on the town of Khan Sheikhoun killed scores of people, according to a war monitor, Syrian opposition groups and Western countries. It prompted the United States to launch a cruise missile strike on a Syrian air base, its first deliberate assault on the Assad government in the six-year-old conflict.
+Assad has said in two media interviews since April 4 that the evidence of a poison gas attack was false and denied his government had ever used chemical weapons.
+The six-page French document - drawn up by France?s military and foreign intelligence services and seen by said it reached its conclusion based on samples they had obtained from the impact strike on the ground and a blood sample from a victim.
+?We know, from a certain source, that the process of fabrication of the samples taken is typical of the method developed in Syrian laboratories,? Foreign Minister Jean-Marc Ayrault told reporters after presenting the findings to the cabinet.
+?This method is the signature of the regime and it is what enables us to establish the responsibility of the attack. We know because we kept samples from previous attacks that we were able to use for comparison.? Among the elements found in the samples were hexamine, a hallmark of sarin produced by the Syrian government, according to the report.
+REUTERS, 26th APRIL, 2017
+ 
+		
+==============================
+## Title: Govt. confident of regaining GSP+ by defeating EU Parliament motion
+## Section: Breaking News
+## Date: 27 April 2017 11:50 am
+Govt. confident of regaining GSP+ by defeating EU Parliament motion
+	
+Sri Lanka will regain the GSP+ concession by defeating the resolution submitted by a group in the European Parliament saying that the GSP+ should not be granted to Sri Lanka, Deputy Foreign Affairs Minister Harsha De Silva said today.
+When we contacted, Dr. De Silva, who is in Brussels, to prepare the ground work for the regain of GSP+, said he was optimistic that those supporting Sri Lanka will defeat the resolution with a comfortable majority.
+?We have enough numbers to defeat the resolution,? he told Daily Mirror.
+Dr. De Silva said the process for regaining this trade concession was moving ahead smoothly when some members of European Parliament submitted the resolution at the eleventh hour which opposes the granting of this facility to Sri Lanka.
+He said the move was unexpected but the Sri Lankan mission in Brussels immediately addressed this matter and clear any misconception among the members.
+?I personally spoke to them. I even spoke to those who submitted the resolution against us,? he said.
+The voting on granting the GSP+ facility to Sri Lanka is to be taken at the European Parliament around 3.00 pm (local time) today. (11.30 am in Brussels). (LP)
+ 
+		
+==============================
+## Title: Govt. furtively tries to back SAITM: GMOA
+## Section: Breaking News
+## Date: 27 April 2017 04:05 am
+Govt. furtively tries to back SAITM: GMOA
+	
+The Government Medical Officers? Association (GMOA) yesterday criticised the Government for holding a meeting to justify the South Asian Institute of Technology and Medicine (SAITM) and telecasting it via the electronic media.
+GMOA Secretary Dr. Naveen de Zoysa told a news conference that they had never witnessed such kind of discussion and added that the Government was attempting to give more validity to SAITM through such activities.
+?It is evident from these kinds of actions that the Government is trying to go ahead with SAITM as per its own will. Such a media discussion has not even held for the issue of Meethotamulla garbage dump,? he said.
+He said Ministers had also avoided several questions made by journalists and added that this discussion was held to resolve the issue and to continue the business.
+He said such an explanation on SAITM should be given by the heads of the institutes and not by Ministers.
+He also claimed that it was a shame to do such a discussion by Ministers on behalf of SAITM in order to justify its existence.
+?Health Minister Rajitha Senaratne, Higher Education Minister Lakshman Kiriella and Higher Education State Minister Mohan Lal Grero have participated in this discussion, despite their duty to be to protect State education as well as health services,? he said.
+He also condemned the Health Minister?s statement that there were better students in SAITM than in the Medical Faculty of the Colombo University.
+He also challenged the Ministers for an open discussion with members of the GMOA on the issue. (Kalathma Jayawardhane)
+?
+Video by Janaka
+ 
+		
+==============================
+## Title: GSP+: EU Parliament defeats anti-SL resolution
+## Section: Breaking News
+## Date: 27 April 2017 04:47 pm
+GSP+: EU Parliament defeats anti-SL resolution
+	
+The resolution submitted by a group of Members of the European Parliament (MEPs) saying that the GSP+ should not be granted to Sri Lanka, was defeated by an overwhelming majority of votes in the European Parliament in Belgium today.
+Speaking to the Daily Mirror from Brussels, Belgium, Deputy Foreign Affairs Minister Harsha De Silva said 436 members voted against the resolution while 119 voted in favour.
+?Twenty two members abstained from voting on the resolution. We are very happy and it?s all done now. All voting sessions are over. We successfully defeated the resolution which was presented against granting us the GSP+ tariff concession,? Dr. De Silva said.
+He said the next level of regaining GSP+ was the consent of the European Council of the Ministers which is a procedural step. ?We expect there will be no objection at the Council of Ministers. Once they give approval, a gazette will be issued making it the law,? he said.
+He said the process of regaining the concession will go through the Council of Ministers around May 11.
+The group of MEPs tabled the resolution in the European Parliament against granting the GSP+ tariff concession to Sri Lanka citing concerns over key issues like human rights.
+The resolution cited the report of the Office of the United Nations High Commissioner for Human Rights on Sri Lanka issued on February 10, 2017 has concluded that the measures taken by Sri Lanka since October 2015 have been ?inadequate to ensure real progress?, and the fulfilment of commitments has been "worryingly slow.? (Lahiru Pothmulla)
+ 
+		
+==============================
+## Title: GSP+ only under strict condition: MEPs to Commissioner
+## Section: Breaking News
+## Date: 27 April 2017 09:44 am
+GSP+ only under strict condition: MEPs to Commissioner
+	
+The two Members of the European Parliament (MEP) who visited Sri Lanka between April 10 and 12 to look into the possibility of Sri Lanka regaining GSP+, had recommended the European Commissioner on Trade Cecilia Malmstr?m to grant the concession only under the strict condition of Sri Lanka implementing pledges made with regard to labour rights.
+In a letter addressed to Ministers Kabir Hashim, John Seneviratne and Board of Investment (BOI) Chairman Upul Jayasuriya, the two members said they believe that serious reforms are urgently needed to improve labour rights.?
+The two MEPs; Anne-Marie Mineur and Lola Sanchez Caldentey, commended the government for ratifying all the UN, International Labour Organization (ILO) conventions on core human and labour rights.?
+However, they said they are worried about the enforcement of workers? right to join or form a union of their choosing, the right to collective bargaining and the right to strike.?
+?Also the fact that labour inspectors and union leaders cannot visit all working sites, in particular the Free Trade Zones, without advance notification, undermines the essence of inspections. Unions cannot currently access the courts for complaints of unfair labour practices and/or anti-union discrimination,? the MEPs said in their letter.?
+They said their findings during the visit confirm reports by the UN Human Rights Commissioner as well as the ILO Committee of Experts.?
+?Both institutions have also reported shortcomings on the enforcement of labour rights issues as well as other human rights issues, in particular the use of torture, the rights of minorities and the rights of LGBTI people. While not all of these issues were the focus of our mission, we fully support their purport,? the MEPs said.?
+Because of these facts, the duo said they have tabled a resolution to the plenary assembly of the European Parliament to be voted on by April 27, in which they object to the renewed entry into force of the GSP+ system.?
+In response to their findings, the MEPs said they equally detected a cooperative attitude and a willingness to address these concerns from the Sri Lankan government.?
+?Minister Kabir Hashim agreed to include trade unions in the monitoring mechanism of the GSP+ in case it would be granted. Minister John Seneviratne stated that 50% of the benefits of the GSP+ system should be shared by the workers,? they said.?
+Meanwhile, Mr. Jayasuriya has agreed to allow labour inspectors and labour leaders to freely enter any work place under the purview of the BOI, including the FTZs?
+?We are impressed by the decisiveness and the sense of entrepreneurship that we have encountered both in the labour unions and in the government. However, we see too little guarantees to ensure the successful implementation reforms. Therefore, we recommend to Commissioner Cecilia Malmstr?m that once these commitments have been implemented, and only under this strict condition, she does grant Sri Lanka GSP+,? the duo concluded in their letter.
+ 
+		
+==============================
+## Title: Harnessing nature?s glow of bioluminescent bacteria
+## Section: News Features
+## Date: 27 April 2017 01:12 am
+Harnessing nature?s glow of bioluminescent bacteria
+	
+Bioluminescence, the emission of light by living organisms, has always attracted the attention of scientists because of their inherent beauty and ease of detection. Like fireflies, there are different species of glow-in-the-dark bacteria as well. They are widely distributed, inhabiting terrestrial, freshwater and marine ecosystems.A recurring question among researchers in the past has been what the biological significance of bioluminescence is. And how does it happen? The purposes of bioluminescence include attracting prey, mates, driving away predators and even as a mode of communication. It happens via a series of chemical reactions occurring in living cells, as opposed to the absorption of photons as happens in fluorescence. ?
+While most species of luminescent bacteria live freely, the majority are found in nature, associated in symbiosis with host organisms. One example is the luminescent bacteria found in the esca of the anglerfish, the pouch which hangs from the fish?s head. This light pouch attracts prey. It is a mutualistic relationship where the fish in turn provide the necessary nutrients and a safe habitat for the bioluminescent bacteria living in its esca. ?During the American Civil War, there were reports of soldiers who developed glowing wounds. Those who had these glowing wounds were more likely to survive. This was called ?the angel?s glow?. The wounds had been contaminated with bioluminescent bacteria from the soil and the antibiotics they produced prevented other harmful bacteria from infecting the wounds. ?
+Each species of luminous bacteria differs in their properties, including the specific growing conditions (nutritional requirements and growth temperature) and the reaction kinetics of the luciferase involved in light generation. All luminous bacteria though are rod-shaped, gram-negative microorganisms, with flagella facilitating motion. ?
+The catalytic machinery involved in continuous light production in luminous bacteria includes not only bacterial luciferase but also enzymes that supply and regenerate the substrates of bacterial luciferase. Bacterial luciferase is coded by genes found in the Lux operon. The luciferase is coded by genes. ?
+This naturally-occurring phenomenon of bioluminescent bacteria is made use of in scientific research. Mainly they act as biosensors. The fact that only the living bacterial cells will produce light is the basis of these experiments. They are used in measuring the efficacy of fast-acting biocides. They are also used in antibiotic testing. The ability of these glowing bacteria to act as biosensors is involved in measuring the levels of different toxins in the environment. A fascinating ongoing study tries to determine whether these minute light-emitting bacteria can be utilized in such a way as to minimize the usage of electricity. These bacteria could make glowing trees that could light streets and replace streetlamps. Two independent lines of Nicotianatabacum transplastomic plants, carrying the bacterial lux operon from Photobacterium leiognathi has been generated. What has enabled the expression of this prokaryotic operon in plants is the evolutionary conservation of the prokaryotic gene expression machinery in chloroplasts. Bacterial bioluminescence is indeed an interesting field?
+of study! ?
+P.H.A.P.L. Jayatilake
+Microbiology (special) degree
+University of Sri Jayawardenepura
+ 
+		
+==============================
+## Title: Hartal shuts down North and East
+## Section: Breaking News
+## Date: 27 April 2017 12:22 pm
+Hartal shuts down North and East
+	
+A hartal has shut down transport and other services in the Northern and the Eastern Provinces today. ?
+Organizers of the protest demanded the government resolves issued raised by relatives of those missing during the armed conflict as well as long standing land issues faced by residents.?
+Many shops have said to be shut down and public transport services have come to a standstill.?
+The protestors said they were supported by several political parties including the Tamil National Alliance (TNA). (Romesh Madushanka and Sithum Chathurange)
+?
+Video by Romesh Madushanka
+ 
+		
+==============================
+## Title: Islamic State developing new weapons despite losses
+## Section: International
+## Date: 27 April 2017 10:36 am
+Islamic State developing new weapons despite losses
+	
+?
+REUTERS, 26th APRIL, 2017
+Islamic State militants have developed an improvised explosive device (IED) that can be launched from rifles or dropped from an aerial drone, an arms monitoring group said on Wednesday.
+Conflict Armament Research (CAR) said the Sunni militant group was ?promoting the development of ?own-brand? weapons? to provide its insurgents with otherwise unavailable armaments.
+?The (IED) can be thrown, launched from an improvised rifle attachment, or in its most recent phases of development, dropped from a commercial, off-the-shelf unmanned aerial vehicle (UAV) or drone,? CAR said in a report following visits to Mosul in November, February and March.
+Iraqi military and elite counter-terrorism forces launched a sweeping, U.S.-backed offensive in October to retake the city, Islamic State?s last major urban stronghold in Iraq seized in a lightning offensive in 2014.
+They have retaken most of Mosul, including its half east of the Tigris River, and surrounded the militants in its northwest quarter including the Old City, home to the Grand al-Nuri mosque where IS declared a ?caliphate? over parts of Iraq and Syria.
+ 
+		
+==============================
+## Title: IUSF holds candlelight vigil against SAITM
+## Section: Breaking News
+## Date: 27 April 2017 12:01 am
+IUSF holds candlelight vigil against SAITM
+	
+The Inter University Students? Federation (IUSF) staged a protest last night outside the Fort Railway Station to show their displeasure over the alleged double standards of the authorities on the controversial SAITM issue.
+During the protest they later set fire to two effigies of the President Maithripala Sirisena and the Prime Minister Ranil Wickremesinghe.
+Hundreds of students representing State Universities and several student unions, carrying torches, joined the protest in which they claimed Health Minister Rajitha Senaratne and the Higher Education Minister Lakshman Kiriella had pushed State Education towards destruction.
+Speaking to the massive crowd that had gathered at the location, IUSF Convener Lahiru Weerasekara recalled that both ministers along with University Grants Commission (UGC) Chairman Professor Mohan De Silva had taken part in a TV programme on Tuesday night and made a shameful attempt to justify private education institutions including South Asian Institute of Technology and Medicine (SAITM).
+Furthermore, he said the unity government has failed to agree on a solution to the SAITM issue with President Sirisena and the Cabinet of Ministers making different pronouncements on the matter.
+Speaking to Daily Mirror Inter University Bhikkhu Federation (IUBF) Acting Convener Rathkarawwe Jinarathana Thera said just because the government changes the nature of the business of the Neville Fernando Teaching Hospital it does not help to solve the matter.
+During the protest a tense situation occurred as three persons who carried camera equipment and seemed to be media personnel were identified as CID officers by the IUSF members. However, they escaped unhurt as IUSF Convener Weerasekara stepped in to calm the crowd and prevent a violent altercation from taking place. (Thilanka Kanakarathna)
+ 
+		
+==============================
+## Title: Matara Roshan killed in Police shoot out
+## Section: Breaking News
+## Date: 27 April 2017 02:09 pm
+Matara Roshan killed in Police shoot out
+	
+The main suspect in the murder of a Police SI in Maspotha in Kurunegala in 2016, was killed and two other Police officers were injured during a shootout in Hambantota this afternoon, the Police said.
+The suspect, D.K. Chaminda alias Matara Roshan, was wanted in connection with the murder of Police SI in Maspotha in Kurunegala in 2016.
+They said the suspect had fired at the special Police team that had been deployed from Colombo to arrest him.
+The two injured Police officers were admitted to the Hambantota Base Hospital.
+?
+Video by Roshan Gunasekera
+ 
+		
+==============================
+## Title: NDBIB pioneers cornerstone strategy for IPOs on CSE
+## Section: Financial News
+## Date: 27 April 2017 12:00 am
+NDBIB pioneers cornerstone strategy for IPOs on CSE
+	
+NDB Investment Bank (NDBIB) introduced the cornerstone investor strategy to the Colombo bourse via the recent Initial Public Offering (IPO) of RIL Property Limited (RIL).?
+The IPO was oversubscribed within minutes on the opening day itself amidst healthy participation of value driven institutional investors.?
+The cornerstone tranche is commonly used in advanced regional markets such as Singapore, Hong Kong and Malaysia and the introduction of this strategy in a frontier market like Sri Lanka is a landmark accomplishment.?
+The introduction of the cornerstone investor strategy is in line with NDBIB?s quest for innovation and adds to the many innovative structures and financial products, including that of book building for IPOs, introduced by the company to the capital markets in Sri Lanka.
+Darshan Perera, Chief Executive Officer of NDBIB, commented ?The rationale for the Cornerstone Investor Strategy is to seek initial price validation whilst creating awareness and positive sentiments around an IPO by receiving commitments from prominent institutional investors?.?
+Generally, cornerstone investors have a profound understanding on business operations of the company, the industry, the market opportunity and actively pursue appropriate valuations, comprehensive due diligence and post-investment monitoring.?
+Such investor commitments are secured for the IPO prior to receiving regulatory approvals and the names of cornerstone investors are prominently disclosed in the prospectus.?
+Nilendra Weerasinghe, Vice President and Head-Corporate Advisory stated, ?Cornerstone investors are offered sizeable allocations in return for making commitments before they see the market response for an IPO. We have a mandated IPO pipeline of about US$ 75 million and will consider using a cornerstone strategy for our future issues depending on market conditions?.?
+Priority allocations to selected investors may not be possible under the usual proportionate allocation policy followed in an oversubscribed IPO. Cornerstone investors also agree for lock-in periods to signal that the priority allocations received will not be off-loaded in the market immediately after listing.?
+The reputation and calibre of cornerstone investors contributes significantly towards rallying other institutional investor support and retail participation for an IPO.?
+A common market perception is that cornerstone investors carryout stringent due diligence on prospective IPO companies prior to giving commitments providing some degree of comfort on IPO pricing as well the future potential of the company.
+The IPO of RIL, a leading developer of commercial office spaces in Colombo, comprised a cornerstone tranche of Rs.200 million amounting to c. 20 percent of the offer size. NDB Capital Holdings Limited (NCAP), NDBIB?s parent company, committed as the cornerstone investor whilst agreeing for a minimum allocation of Rs.120 million in the event of an oversubscription.?
+NCAP further agreed to a voluntary lock-in period of 6 months from the date of listing in line with best practices followed in regional markets. The IPO was jointly managed by Commercial Bank of Ceylon PLC and NDBIB.
+?
+ 
+		
+==============================
+## Title: No proposal to make SF army commander: Amaraweera
+## Section: Breaking News
+## Date: 27 April 2017 10:42 pm
+No proposal to make SF army commander: Amaraweera
+	
+Fisheries and Aquatic Resources Development Minister Mahinda Amaraweera said today President Maithripala Sirisena had neither proposed Field Marshal Minister Sarath Fonseka to take up the post of army commander or overall commander as reported in the media nor had Mr. Fonseka requested for such a post.
+The Minister told a news conference that the President only asked whether Mr. Fonseka could help implement a mechanism to ensure uninterrupted supply of essential services for which Mr. Fonseka agreed.
+?It was discussed during the cabinet meeting that people had to face inconveniences due to the strike launched by trade unions without prior notice. It was said that the situation had arisen due to the overuse of freedom given by the government. The President said a special mechanism should be set up to provide essential services without any disruption. There were such mechanisms even during the war,? he said. (Ajith Siriwardana)
+?
+Video by Buddhi, Danushka
+ 
+		
+==============================
+## Title: One small step for man
+## Section: Caption Story
+## Date: 27 April 2017 05:38 pm
+One small step for man
+	
+Astronaut Edwin 'Buzz' Aldrin is pictured walking on the lunar surface near the leg of the lunar module, named the Eagle
+Astronauts Neil Armstrong and Edwin E. 'Buzz' Aldrin Jr are seen walking on the moon as they make 'one small step for man, one giant leap for mankind'. The American flag planted in the surface of the moon, the Apollo 11 taking off attached to a Saturn V rocket from the Kennedy Space Center in Florida and President Richard Nixon waiting for the astronauts to return. Apollo 11 was the spaceflight that landed the first two humans on the moon on July 20, 1969. (Daily Mail)
+The first successful moon landing was broadcast on live TV to a worldwide audience and effectively ended the Space Race between America and the USSR. Armstrong and Aldrin landed the lunar module Eagle in the Sea of Tranquility. They were on the surface of the moon for around 21.5 hoursThe Eagle has landed
+Astronaut Edwin E. 'Buzz' Aldrin Jr is shown on the surface of the moon after the deployment of Early Apollo Scientific Experiments Package (EASEP).
+One of the images shows what could be the first human footprint ever made on the moon, with Armstrong's foot hovering over the imprint.The mission fulfilled a national goal set out by President John F. Kennedy in 1961 where he promised a man would land on the moon and returning safely to Earth before the decade was over. 
+The first successful moon landing was broadcast on live TV to a worldwide audience and effectively ended the Space Race between America and the USSR
+'Buzz' Aldrin is pictured climbing down from the lunar module onto the surface of the moon. The picture was taken by Armstrong, who had already descended
+The Apollo 11 mission, the first manned lunar mission, launched from the Kennedy Space Center, Florida, via the Marshall Space Flight Center (MSFC) developed Saturn V launch vehicle on July 16, 1969 and safely returned to Earth on July 24, 1969
+Candid shots show Buzz Aldrin (pictured) and Neil Armstrong relaxing inside the space vessel on their way to the moon. Aldrin was a former Air Force officer, who would be the second human to walk on the surface of the moon. 
+The huge, 363-feet tall Apollo 11 space vehicle was launched from Pad A, at Launch Complex 39, at the Kennedy Space Center at 9.32am on July 16
+Mission commander Neil Armstrong (left), command module pilot Michael Collins (center) and lunar module pilot 'Buzz' Aldrin took part in the mission which saw mankind land on the moon for the first time
+The surface of the moon is shown in the stunning color photographs taken during the historic first moon landing back in July 1969
+The crew are pictured waiting to be picked up after landing in North Pacific Ocean, around 812 nautical miles south of Hawaii
+Then-US President Richard Nixon is seen on the deck of the USS Hornet awaiting the arrival of the Apollo 11 crew. He spoke to the astronauts while they were on the surface of the moon on July 20, 1969
+ 
+		
+==============================
+## Title: SB says President was joking
+## Section: Breaking News
+## Date: 27 April 2017 04:29 pm
+SB says President was joking
+	
+Commenting on President Maithripala Sirisena's request for Field Marshal Sarath Fonseka to take up the post of Army Commander or Overall Commander for two years, Social Empowerment and Welfare Minister S. B. Dissanayake said the President was not speaking seriously and was only joking about it.
+Addressing the weekly Sri Lanka Freedom Party (SLFP) media briefing today Minister Dissanayaka said the request for the appointment of Field Marshal Sarath Fonseka for the post of Army Commander was not needed and it was not a serious appointment by the President.
+?I personally admire appointing Field Marshal Sarath Fonseka for the post. After we finished the 30 year civil war, there will be no serious situations except for protests.
+?If there is anything serious we will also get involved without doubt. There is no need of having special units. The appointment is fine to streamline the services of the Army,? Minister Dissanayaka said.
+Cabinet Spokesman Minister Rajitha Senaratne said yesterday President Maithripala Sirisena had requested Minister Field Marshal Sarath Fonseka to quit the ministerial portfolio and take up the post of Army Commander or Overall Commander for two years to discipline the country.
+There he told that Field Marshal Fonseka was known as a well-disciplined personality in the country and that he would expedite investigations over several issues as well.
+He however said it needed creating Special Acts of Parliament to do so.
+But nothing can be done in the country even if there was a special unit. There is law at present in the country to establish such units, he said.
+?Otherwise the white-van culture should be taken up as the previous regime,? he said.
+However addressing the media, Minister Wijith Wijayamuni Zoysa said the request should be treated as a serious matter.
+?Several underhand forces are operational to hinder the development of the country. For that there should be special forces to suppress them,? Minister Zoysa said.
+Accordingly, President?s thought it was a serious thing. The Government should be strong to protect the country.
+?The Government?s main responsibility is to protect the civilians,? the minister said. (Chaturanga Pradeep)
+Pix by Pradeep Pathirana
+?
+ 
+		
+==============================
+## Title: ?Seamless Middle East? to showcase fintech solutions
+## Section: Financial News
+## Date: 27 April 2017 12:00 am
+?Seamless Middle East? to showcase fintech solutions
+	
+Epic Technology Group, synonymous for fintech solutions, will be on show at the ?Seamless Middle East? to be held in Dubai at the World Trade Centre on May 1stand 2nd.?
+Epic will demonstrate many world-class and one-of-its kind fintech and content management innovations at this exhibition.
+Dr. Nayana Dehigama, Executive Chairman and Managing Director of Epic Technology Group said, ?We want the region to get a first-hand experience of Epic?s innovative and disruptive fintech solutions that will be showcased at Seamless Payments Middle East. Surely, our solutions are highly creative and one-of-its-kind. They will be quite different to what is commonly available in the market, so Seamless Middle East will be an ideal forum for industry leaders and decision makers to experience the difference?.?
+Epic?sout-of-the box, advanced yet affordable technology solutions have changed the traditional landscape of secure payments, enterprise content management, secure mobile communication, mobile enterprise automation, and information security domains.?
+Seamless Payments Middle East, the region?s largest exhibition and conference for eCommerce and secure payments held annually in Dubai attracts large number of visitors from the UAE, Africa, South Asia and Europe.
+ 
+		
+==============================
+## Title: 25 senior lawyers made President's Counsel
+## Section: Breaking News
+## Date: 27 April 2017 05:15 pm
+25 senior lawyers made President's Counsel
+	
+President Maithripala Sirisena today appointed 25 senior lawyers including TNA MP M.A. Sumanthiran, J. C. Weliamuna, Upul Jayasuriya and Nizam Kariapper as President?s Counsel.
+A statement from the President?s office said these lawyers were appointed in recognition of their professional integrity and diligence.
+The other lawyers were Daya Pelpola, Ariya B. Rekawa, Anura Bandara Meddegoda, Nissanka Nanayakkara, Saman Ratwatte, Nevil Abeyratne, W.J. Anuja Kaushika Premaratne, A.L. M.Hedayathullah, Wijeratne Darmasena, Upali Senaratne, Padma Bandara, S.K. Marik Peiris, Karunaratne Herath, Mahendra Suwandaratne, A.P.C. M. Jayasekara, Mohan Weerakoon , P.R.S.P. Samaranayake, Ananda Wickramasekara, Vijeya Niranjan Perera, Karunadewage Wimaladasa and Vivekanandan Puvdaran.
+The President made these appointments for the first time after he assumed office in 2015.
+ 
+		
+==============================
+## Title: SLFP MPs on board a sinking ship: MR
+## Section: Breaking News
+## Date: 27 April 2017 09:55 pm
+SLFP MPs on board a sinking ship: MR
+	
+If the government cannot govern effectively even with the support of a group of Sri Lanka Freedom Party (SLFP) MPs, these SLFP MPs should ask themselves why they are still on board the sinking ship, former President MP Mahinda Rajapaksa said today.
+He invited all SLFPers who are against turning the party into a tail of the United National Party (UNP) to attend the anti-government May Day rally at Galle Face, and send a strong message to the ?dysfunctional? and ?repressive? government.
+Issuing a statement in the wake of the removal of SLFP electoral organisers of the calibre of Janaka Bandara Tennakoon and Lohan Ratwatte, Mr. Rajapaksa said sacking SLFP organisers would strengthen the UNP, not the SLFP.
+?Sacking SLFP electoral organisers who have refused to prop up the UNP government while retaining MPs who do so won?t strengthen the SLFP but ensure the victory of the UNP. I invite all SLFP MPs and all those that are against the anti-national actions of this government to our May Day rally at Galle Face,? he said.
+Mr. Rajapaksa reiterated the fact that the party leader was to blame for the split in the SLFP.
+He said nothing could prevent the government, which is being kept in office under the patronage of the SLFP leader, from declining in popularity with each passing day.
+?However the indefinite postponement of the local government elections shows that the government does have a realistic assessment of their popularity at this point in time,? he said.
+Mr. Rajapaksa said he would give leadership to the opposition forces and work to defeat this government in accordance with the mandate he received in 2015.
+ 
+		
+==============================
+## Title: The President has proposed to form a special subcommittee to make recommendations on how best to dea
+## Section: Poll
+## Date: 27 April 2017 09:22 am
+The President has proposed to form a special subcommittee to make recommendations on how best to dea
+	
+==============================

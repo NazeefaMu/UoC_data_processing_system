@@ -1,0 +1,20 @@
+## Title: IFS launches  SaaS-based fleet,  line planning solutions
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 2, 2018 - 01:00
+
+IFS launches  SaaS-based fleet,  line planning solutions
+
+IFS, the global enterprise applications company, at the IFS World Conference in Atlanta launched the IFS Maintenix Fleet Planner and IFS Maintenix Line Planner, two Software-as-a-Service (SaaS) solutions.
+These are designed to help commercial operators of all sizes boost the efficiency of their long-range and line maintenance planning, make the most effective use of available maintenance resources, and drive greater aircraft operational availability. 
+The launch represents the first in a series of SaaS-based IFS Maintenix solutions geared specifically for the mission-critical maintenance and engineering needs of the global commercial aviation market. 
+Commercial Aviation is witnessing an unprecedented growth in fleet sizes worldwide. Key to an operator’s success is delivering the best maintenance plans that align closely with operational performance objectives while adhering to critical safety requirements.  
+IFS Maintenix Fleet Planner is designed to help generate more effective long-range plans for heavy maintenance activities and reduce the manual effort of keeping them up-to-date. 
+The solution was designed with the input of experienced long-range planners from a cross-section of large and small aircraft fleet operators. 
+ As part of an early adopter program, IFS Maintenix Fleet Planner has already been selected by a large North American airline that operates a mixed fleet of wide-body, narrow-body and regional jets. 
+IFS Maintenix Line Planner enables planners to efficiently create, maintain and communicate an executable line maintenance plan.
+The solution helps drive greater efficiencies by focusing attention on high priority items and identifying the cause of maintenance issues, such as lack of parts, labor or special tools. 
+Through automated workflows, IFS Maintenix Line Planner empowers users to more readily react to last-minute schedule changes and maximize line operational capability, maintenance task yield, and network resources. The solution was co-developed in partnership with LATAM Airlines, the largest airline operator in Latin America with a fleet of over 300 aircraft and maintenance facilities spread throughout South and Central America. “The sheer speed and scale of how LATAM Airlines works required a solution that could be quickly implemented without any disruption to our business while at the same time bringing substantial efficiencies to our planning process,” said Sebastian Acuto, Vice President of Maintenance and Engineering at LATAM. 
+“IFS Maintenix Line Planner not only saves time for our planners and improves collaboration, it also creates better plans with improved yield and operational flexibility.” Scott Helmer, SVP, Aviation and Defense at IFS, added, “Growing fleets, more routes and new, complex aircraft have increased the pressure on airlines to reduce maintenance costs, maximize resource allocation and boost aircraft availability.”
+“IFS Maintenix Fleet Planner is available immediately, while IFS Maintenix Line Planner will be generally available in Q3 2018.”
+IFS develops and delivers enterprise software for customers around the world who manufacture and distribute goods, maintain assets, and manage service-focused operations.

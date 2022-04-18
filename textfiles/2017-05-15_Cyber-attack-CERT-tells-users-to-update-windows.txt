@@ -1,0 +1,25 @@
+## Title: Cyber-attack: CERT tells users to update windows
+## Section: Breaking News
+## Date: 15 May 2017 12:27 pm
+
+Cyber-attack: CERT tells users to update windows
+
+
+	
+
+Although there have been no incident reported from Sri Lanka so far about the global cyber-attack, the Computer Emergency Readiness Team (CERT) advised users to keep their Windows systems updated with a backup as a precautionary measure.
+
+It said the ‘ransomware virus’, which attacked at least 99 countries including China, Russia, the US and Britain on Saturday affecting several organisations had spread via an email.
+
+“The virus had spread because of a fault in Windows. Having the updated windows and antivirus version could prevent such an attack. Since the virus encrypts files, it is wise to keep a backup of files in an external drive,” CERT Chief Information Security Engineer Roshan Chandragupta said.
+
+He said the hackers who spread the virus demanded money to restore the data but added that there was no guarantee that the hackers would do so.
+
+A massive cyber-attack using tools believed to have been developed by the US National Security Agency had struck organisations worldwide.
+
+Hundreds of thousands of computers had been locked by a programme that demands $300 (£230) in Bitcoin.
+
+Meanwhile, Microsoft said it had released a Windows security update in March to tackle the problem involved in the latest attack, but many users were yet to run it. (Darshana Sanjeewa)
+ 
+
+		

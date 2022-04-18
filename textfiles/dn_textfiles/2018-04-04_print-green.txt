@@ -1,0 +1,10 @@
+## Title: Print  GREEN
+## Supertitle: 
+## Section: Features
+## Date: Wednesday, April 4, 2018 - 01:00
+
+Print  GREEN
+
+Printing soil, water and seeds with a 3D printer to draw miniature gardens, it is the goal of the Print GREEN project, started in 2013 and designed by students from the University of Maribor in Slovenia. By modifying a traditional 3D printer, the students designed a printer that works with a paste made of soil, loam, water and seeds, allowing the printing of objects ready to grow!
+Ufunk
+

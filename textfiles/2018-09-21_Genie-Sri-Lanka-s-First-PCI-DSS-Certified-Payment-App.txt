@@ -1,0 +1,25 @@
+## Title: Genie, Sri Lanka’s First PCI-DSS Certified Payment App
+## Section: Press Releases
+## Date: 21 September 2018 10:48 am
+
+Genie, Sri Lanka’s First PCI-DSS Certified Payment App
+
+
+	
+
+
+
+Dialog Axiata PLC, Sri Lanka’s premier Digital Services Innovator, announced the launch of ‘Genie’, Sri Lanka’s first ‘Payment Card Industry Data Security Standard’ (PCI-DSS) certified mobile payment app. ‘Genie’ transforms a conventional wallet to a truly digital wallet that securely holds credit and debit cards, current and savings accounts (CASA) and eZ Cash account on the mobile phone. Genie enables a seamless payment experience for in-app, Over the Counter (OTC via QR Code), web and remote payments. Fully certified by the globally recognised PCI Data Security Standards body, Genie brings to Sri Lanka’s consumers and merchants a secure, convenient and rapid transaction platform which is set to revolutionise Sri Lanka’s digital payments landscape. The cutting-edge smartphone app and simple to use merchant interface will empower merchants and consumers with the very latest in digital transaction technology and facilitate payment transactions direct from the Mobile Phone. 
+
+The Genie Payment Platform is approved and endorsed by the Central Bank of Sri Lanka and ensures the security of a cardholder’s data through a two-step verification process for transaction based security. Furthermore, the app itself has the option of using fingerprint authentication, adding an extra layer of protection not available with physical cards or money. Genie ensures identity and access assurance, secure communication and response on all transactions and data. 
+
+Genie enables customers to track and manage spending patterns while merchants can track transaction history using of digital receipts. Merchants can extend Genie as a payment platform and payment gateway to customers, and includes benefits such as a user friendly and reliable merchant portal with the ability to view transaction reports real time. Payments will be channeled through Sampath Bank Internet Payment Gateway (IPG) with the CASA (Current Account & Savings Account) feature supported by Cargills Bank.  
+
+Commenting on the launch of Genie, Supun Weerasinghe, Group Chief Executive, Dialog Axiata PLC said, “We are seeing a sharp rise in the adoption of smartphones driven by availability of broadband connectivity. Genie aims to leverage this growing eco system to drive adoption of cashless payments and accelerate Sri Lanka’s journey to a Digital Economy. Genie delivers a world digital class payment solution which offers superior user experience, highest standards of security and Privacy.” 
+
+Genie will continue to gain widespread acceptance amongst an expansive merchant network for its quick and simple integration model and create a cohesive and convenient brand-wide payment ecosystem to engage customers and merchants more frequently. Genie Merchants network include Ceylon Electricity Board, Lanka Electricity Company (Pvt) Ltd., National Water Supply and Drainage Board, Dialog, Hutch, AIA Insurance, Doc990, 444, Arabian Nights, Fashion Fabric, Asylum, Botanik Bistro & Bar, Siam House, Care Point, Shanghai Terrace, wow.lk, takas.lk and many more. To subscribe to Genie, customers can download the Genie app from Google Play Store or Apple Store and merchants can register their business by visiting www.genie.lk/register-form/. 
+
+ 
+ 
+
+		

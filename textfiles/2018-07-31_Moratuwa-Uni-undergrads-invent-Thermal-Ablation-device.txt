@@ -1,0 +1,77 @@
+## Title: Moratuwa Uni undergrads  invent Thermal Ablation device
+## Section: News Features
+## Date: 31 July 2018 12:10 am
+
+Moratuwa Uni undergrads  invent Thermal Ablation device
+
+
+	
+
+
+
+A team comprising final year students of the Department of Mechanical Engineering, University of Moratuwa has developed an Endometrial Ablation device which possesses the proper live visual inspection capability.   
+
+
+In some instances heavy abnormal bleeding, which takes place during the menstruation cycle of women, will subject to hysterectomy due to failed medical treatment. Hence many Gynecologists decide to remove the uterus. Before this device was invented there was a practice of removing the uterine wall using a heated balloon and this processposed a significant health risk.   
+
+
+The three final year students, K.P.N. Gunarathne, M.R. Brian and R.L.A. Harshana of Department of Mechanical Engineering have carried out the research. They have been able to design and develop the machine under the guidance and supervision of Dr. Ranjith Amarasinghe, Director at the Centre for Advanced Mechatronics Systems and Coordinator for Mechatronic Systems Engineering Stream and Senior Lecturer of Department of Mechanical Engineering at the University of Moratuwa, Dr. Madhura Jayawardana a Consultant Obstetrician and Gynecologist and Senior Lecturer of Faculty of Medical Science, University of Sri Jayewardenepura and Dr. Nirosh Jayaweera, Senior Lecturer of Department of Mechanical Engineering at the University of Moratuwa.   
+
+ 
+
+
+The removal of the uterine wall using a heated balloon had been done without the proper inspection of the inner uterus. This method poses a significant risk
+	The machine has been successfully tested using a uterus of a pig and we expect to test the machine using a removed human uterus in the future
+
+
+
+The ablation device will be inserted through the cervix of the uterus and the correct placement of the device will be verified through the live video feedback which is given through the endoscopic camera. Here the live visuals are transmitted using WIFI connectivity and it can be monitored either using a consultant’s smartphone or pre-set display unit. After the proper placement of the device inside the uterus, the thermal balloon will be inflated using a liquid solution until it covers a major area of inner layer of the uterus. Then the set values for the ablation process will be selected under the recommendation of a doctor. When the ablation process commences, the preset ablation temperature will be automatically maintained within the uterus for a preset time period. (Ex. 80 degree Celsius)   
+
+
+Dr. Madhura Jayawardana stated,” The removal of the uterine wall using a heated balloon had been done without the proper inspection of the inner uterus. This method poses a significant risk and there were possibilities that the machine reached the intestine after measuring the length between the cervix and the uterus,” Dr. Jayawardana said.  
+
+
+
+
+
+
+
+ 
+
+Using a camera for feedback
+
+
+The speciality of the machine invented by the undergrads is that a camera is used to investigate the inner uterus. The camera has the ability to transfer the photos, provide live videos and information on heating and the pressure inside the uterus to a computer or a mobile phone using wireless Wi-Fi technology. Further, it has the capability to automatically control the temperature within the thermal balloon of the ablation system in accordance with the set value.   
+
+
+The machine is being used for clinical investigations at the first stage and will be used for the surgical purpose during the second stage. The removal of the uterus wall is defined as Thermal Ablation. Presently, there are no machines that can transmit the photos and live videos without a cable. As a solution to this issue, the undergraduates of University of Moratuwa were able to invent this machine at a low cost.   
+
+ 
+
+
+Though Sri Lanka hasn’t focused on encouraging novel ideas and concepts, a country like Japan gives priority to such innovations
+	A student from this team has already been selected as a researcher from the Mechatronics Research Unit of University of Miyazaki, Japan and he is able to carry out further research on this area
+
+
+Lower cost 
+
+
+The existing machine, currently used in hospitals during surgeries, costs LKR 35,000 to 60,000. We strongly believe that we will be able to perform the surgery at a much lower cost in the future. This surgery will not be performed on younger women and is generally performed on women who already have children or on women who are in their middle ages and have no intention of having more children. “The machine has been successfully tested using a uterus of a pig and we expect to test the machine using a removed human uterus in the future,” said Dr. Jayawardana. 
+
+
+Dr. Ranjith Amarasinghe stated,” Though Sri Lanka hasn’t focused on encouraging novel ideas and concepts, a country like Japan gives priority to such innovations”. 
+A student from this team has already been selected as a researcher from the Mechatronics Research Unit of University of Miyazaki, Japan and he is able to carry out further research on this area from September onwards in Japan. 
+
+
+He said ,”I also would like to express our gratitude to Prof. Kapila Perera, Vice Chancellor, University of Moratuwa, Prof. Nalin Wickramarachchi, Dean, Faculty of Engineering, Prof. Ruwan Gopura, Head, Department of Mechanical Engineering and all others who were involved with this project for their support given to work towards our research goals”.   
+
+ 
+
+
+The ablation device will be inserted through the cervix of the uterus and the correct placement of the device will be verified through the live video feedback which is given through the endoscopic camera
+
+
+ 
+ 
+
+		

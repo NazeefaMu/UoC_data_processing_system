@@ -1,0 +1,63 @@
+## Title: How a bold idea built a billion dollar business
+## Section: Hard talk
+## Date: 26 October 2018 01:06 am
+
+How a bold idea built a billion dollar business
+
+
+	
+
+Kris Canekeratne to deliver Ray Wijewardena Memorial Lecture on October 29
+
+ 
+
+Technology has started to lead the way and at times one may be confused as to whether it is the technology that uses people or vice versa. Identifying the growing inefficiency of legacy IT systems and the emergence of .com prompted an individual to do something different. This was when Kris Canekeratne initiated Virtusa and was instrumental in changing the IT paradigm by focusing on engineering arbitrage over basic cost-takeout measures. As the co-founder, Chairman and CEO of Virtusa Corporation headquartered in the US, his efforts have led to a billion dollar venture with a vision to become the best digital engineering services firm in the world. The annual  Ray Wijewardene Memorial Lecture (RWML) organised by the Ray Wijewardene Charitable Trust brings an innovative mind to its spotlight. This year’s (RWML) will be delivered by Canekeratne himself, who will relate the Virtusa Story in terms of ‘Creating a culture of Innovation’. In an interview with the Daily Mirror, Canekeratne shared his views on why he initiated this platform, why businesses should integrate technology and securing digital ventures.   
+Excerpts :   
+
+What prompted you to initiate a platform such as Virtusa?
+
+We started Virtusa based on a belief that the software industry was ready for transformation. That the growing inefficiency of legacy IT systems and the emergence of Digital (.COM back when we started) was going to require global corporations to re-think and re-build their entire IT infrastructure. The big idea back then was to help big companies deal with their IT legacy systems by not just cutting costs, but by actually adding value. While competitors were fixated on cost arbitrage (delivering the same services from lower cost geographies), we focused Virtusa on software engineering arbitrage – providing clients the transformative and sustainable benefits of software engineering best practices such as application rationalisation, consolidation, modernisation and automation, to reduce costs and increase innovation velocity. That focus and capacity has resulted in us becoming one of the fastest growing digital engineering companies in the world.   
+
+Why should businesses integrate technology in the long-run and to what extent has Sri Lanka succeeded in this approach?
+
+The only way to survive let alone thrive in today’s hyper-competitive world is to harness the full power of technology. Businesses are no longer about just business, but about the movement of and access to the right information at the right time, both inside the company and between the company and their customers. The right IT infrastructure and the right consumer facing interfaces enable smarter decisions, better customer experiences, faster go to market, improved margins and as importantly competitive advantage. Sri Lanka has a terrific opportunity to adopt cutting-edge technology to provide citizens, visitors, customers and consumers a true Digital experience. In many ways, the fact that the Government of Sri Lanka and businesses in Sri Lanka didn’t adopt Digital 1.0 presents a great opportunity to leapfrog by adopting Digital 2.0. Much of this lies ahead for Sri Lanka.   
+
+How challenging was it to train individuals to think in an innovative manner? Or was it a challenge at all?
+
+You can’t decree innovation. You can’t make people be innovative. And I’m not sure you can train them. What you can do is allow them, enable them, and celebrate them when they are innovative. Fundamentally innovation organisations are the consequence of innovative cultures which are the result of innovative leadership. This really means that it starts at the top with leadership. Since our inception the management team of Virtusa has been focused on fostering innovation at every level of the organisation, encouraging all employees not just to ‘do’ but to ‘solve’. ‘Solutioning’ is a way of operating within Virtusa, serving as a force multiplier for sustained innovation and a highly effective talent attractor. We’ve also gamified Virtusa’s Continuous Integration Continuous Deployment platform, resulting in best-in-class engineers and engineering teams across the company constantly setting and resetting the bar of excellence, and effectively contributing to an ever-innovating meritocracy by leveraging the power of “engineer sourcing” to innovate and drive high-performance.   
+
+
+
+ 
+
+
+"More and more global companies realise that the next phase of productivity and competitive advantage lies in the integration and synthesis of historically discrete systems, data and the supporting technologies and building the connective tissue to support an engaging Digital experience"
+
+
+What lessons could Sri Lanka learn from the West in terms of the fast moving ICT sector?
+
+The central tenet of IT in the 21stcentury is Integration and Digitization. More and more global companies realise that the next phase of productivity and competitive advantage lies in the integration and synthesis of historically discrete systems, data and the supporting technologies and building the connective tissue to support an engaging Digital experience. The technology platform companies are quickly demonstrating the power of building businesses that are exclusively Digital. You cannot go to an Amazon customer centre, sales office or call an Amazon call center to buy or return anything from/to Amazon; the only way you can transact is through an omni-channel Digital experience. Most industries in the US are rapidly embracing what technology platform companies are doing by building Digital first and, in some cases, Digital only businesses. There are great examples and lessons that both the Sri Lankan Government and Sri Lankan industries can learn from and emulate.   
+
+Going digital also impose cyber threats. We see how Facebook has already gone out of control. How could businesses/clients secure their ventures on digital platforms?
+
+Cyber-terrorism is not going to abate, but that is no reason to not forge towards fully digital enabled businesses. There are 1.5 billion websites in the world. Around 200 million are active. 99.999% run little to no risk of being hacked, in part due to advances in cyber-security and in part due to the simple fact that they are not a target of interest. As you might imagine, in our work with the largest financial services and technology companies in the world, we cannot afford risk exposure of any kind. That’s why we deploy the latest encryption tools to guard what we do. Beyond this, we work with our clients to make sure that the systems that we build are outfitted with the latest cyber security technology. This is a rapidly evolving area and what is critically important is to invest in Cyber security to protect your Digital assets and business.   
+
+In what ways has Virtusa paved the way for the local ICT industry to merge into global digital ecosystems?
+
+Over 90% of our clients and our revenue is from North America, EU, UK, Australia, Singapore and Malaysia. All of the technology that we build out of our centre in Colombo is for leading companies and industries in these countries. This requires us to identify and hire highly qualified software engineers who have an opportunity to join Virtusa and work on cutting-edge technology that is shaping the future of Digital 2.0. Additionally, our platforms are inherently global, our standards are Global and our team members are groomed to be global citizens that have a passion for innovation. In order to accomplish this, we collaborate with many of the terrific Universities in Sri Lanka and are very pleased with the quality of education and enthusiasm about the young engineering talent.   
+
+
+
+ 
+
+
+"You can’t decree innovation. You can’t make people be innovative. And I’m not sure you can train them. What you can do is allow them, enable them, and celebrate them when they are innovative"
+
+
+What lies ahead for Virtusa? And how could those interested in IT be a part of it?
+
+Virtusa and the industries we serve are at a seminal moment. The digitization of businesses and the world will only accelerate. The task to innovate will only grow in consequence. Virtusa is incredibly well positioned to help our clients envision and usher in transformative digital futures, creating competitive differentiation for them and for us. Over the past eight years, Virtusa has grown at the top echelon of the IT services industry, growing on average 25% year. We are well on our way to realizing our vision of becoming the leading Digital Engineering company in the world, by leveraging the platform and philosophies that helped us turn a bold start-up just outside Boston, Massachusetts into a billion+ dollar global leader. Our goals are to continue to grow above industry growth rates, expand our leadership position in Digital engineering, provide unparalleled career opportunities, and to be recognized as the best digital engineering company in the world to work at.   
+Our Sri Lankan operation is a major part of our global organization. We continue to seek team members for a variety of positions. We welcome well qualified applicants for a variety of different roles and positions. These positions are publicised through a variety of Digital forums.   
+ 
+
+		

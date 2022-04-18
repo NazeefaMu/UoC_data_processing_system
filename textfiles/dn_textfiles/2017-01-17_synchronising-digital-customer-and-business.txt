@@ -1,0 +1,29 @@
+## Title: Synchronising the digital customer and business
+## Supertitle: 
+## Section: Finance
+## Date: Tuesday, January 17, 2017 - 01:00
+
+Synchronising the digital customer and business
+
+The Digital phenomenon is a hot topic that has forced businesses to question whether it is a passing trend or a strategic boardroom discussion which needs C-Suite profound thinking.
+Often, we have observed clients consider “Digital” as a silver bullet for devising innovative ways of upgrading the business in search of opportunities of meeting market expectation to trends. However, there are still questions that are not clearly understood.
+Who is best geared to adopt the digitalisation? What are the underlying requirements for the transformation? Is it limited only to delivering better customer experience and efficiency? Or, is there a standard model to follow?
+While nurturing a successful Digital Transformation, an organisation should focus on a few key blocks of the digital economy, such as integration of businesses or services, SMAC (Social, Mobile, Analytics and Cloud) paradigm, successful transformation or externalising internal value creation to meet customer expectation less-mature digital businesses are focused on solving discrete business problems with technology silos, hence failing to provide an unique customer experience.
+Today, life and technology are inseparable. Across industries, people expect the latest experiences delivered faster and more seamlessly than ever before. Banking is among a few industries such as Telecom, Retail and Media which has spearheaded the digital transformation. Digital modernization has enabled banks to completely redefine the manner people perform the financial transactions. A smart, enterprise-wide digital approach positions them to deepen customer satisfaction and loyalty, driving long-term relationships, increase wallet share, thus, the bottom line.
+According to BizTech, 61% Senior Bank Executives Globally believe a Digital Strategy is a high priority, as it forms the basis of how banks encounter the market challenges. Banks are not renowned for innovation and relatively slow movers due to the industry constraints. Having said that, over the last few years we have seen a tremendous growth in the Fintech domain, intensifying pressure for a paradigm shift in the way traditional banks operate.
+As the financial landscape evolves, the digital economy exposes banks to new challenges, digital-savvy competitors, evolving channels and an immensely competitive alternative financial ecosystem comprising telecoms, Internet giants and other innovative Fintechs. Today Fintech companies represent all cogs of the Banking and Financial value chain including Payments, Lending, Remittance, Investment and Personal Finance.
+The digital and tech-savvy customers have forced the banks to rethink their strategy and emphasize on customer centricity, commoditisation of Products and Service and avail services anytime, anywhere. In articulating a successful “Customer Centric Strategy” banks should allot prominence to factors such as, New Service Creations, Data Analytics, Interconnected Service Blocks, Social Values of Customer and Customer Demand for immediacy.
+In today's context Digital business proficiency is no longer a “nice to have”; it is a requirement, especially in crafting a successful Digital Transforming Strategy, For this, there are five key dimensions a digital bank should focus on, in implementing the strategy.
+Simplification of operational model
+Over the years, banks have developed staggeringly complex operating models aided by legacy and silo systems and rigid internal workflows. In achieving the simplification, what's vital is to create an eagle eye view, across all business functions, especially encompassing marketing management, customer experience, re-engineered business and customer processes accompanied by corporate- wide alignment for customer centricity. 
+Use data-driven insights and analytics holistically across the bank
+With digital, data driven economy, it's apparent that expectations from customers are changing significantly. Banks are required to develop a much deeper, holistic understanding of their customers. Banks need to acquire, integrate, aggregate and analyze multiple sources of internal and external data. This information, in turn helps the banks to analyze their customers’ needs and trends, further be present with a relevant solution at the time of need.
+Integrated customer experience
+Today, banks have started looking beyond an Omni-Channel transactional banking experience. Banking gurus today are exploring ways to provide a seamless user experience, by merging a wide array of services, partners, technologies and delivery channels.
+Open IT architecture and next generation technology
+Today, banks are in a fight for the customer, not only with other banks but also non-banks thus.
+It is important to build a truly open and scalable application architecture with a particular emphasis on connectivity and cyber security.
+A sound API strategy is key in creating an open and connected bank linking internal and external services in providing a seamless user experience.
+Fintech - Frenemies
+The time where banks could run their business in isolation, with very little sharing of cross-industry partnerships or platforms is over. Banking is under a massive attack from Internet giants and legacy-free Fintech startups, creating the need for systematic cross-industry alternative digital solutions.
+In conclusion, it is important that a holistic view and a strategy is in place for successfully transforming the bank into the digital era.

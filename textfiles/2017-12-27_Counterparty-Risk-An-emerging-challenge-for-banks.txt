@@ -1,0 +1,67 @@
+## Title: Counterparty Risk – An emerging challenge for banks
+## Section: Financial News
+## Date: 27 December 2017 10:16 am
+
+Counterparty Risk – An emerging challenge for banks
+
+
+	
+
+A robust financial system is necessary to support sustained economic growth. A robust financial system needs an efficient financial intermediation. 
+
+
+The primary role of financial intermediation vests with a well spread banking network to bring about uniform growth in the economy. Banks obtain deposits from customers to on lend to productive sectors of the economy. Banks pay certain interest on deposits to customers according to product features designed and calibrated within the bank’s policies and Central Bank guidelines. 
+
+
+They deploy deposit resources in lending and investments after meeting Statutory Reserve Requirements (SRR) currently ruling at 7.5 percent in Sri Lanka. Every country has its own reserve requirements depending on fiscal and banking needs. It is the portion of funds from out of deposits to be kept with the Central bank statutorily. 
+
+
+The deposit resources after keeping statutory portion of deposits with the Central Bank can be applied for commercial lending or investments depending upon the internal credit and investment policies and prudence of the banks. The deployment policies of the banks are always intended to enhance risk adjusted yield. Therefore, banks would endeavor to target deployment of these deposit resources to obtain best risk adjusted return in the given market to create better stake holder value. Loan products and lending schemes are the outcome of such an effort. The features of deposits and lending schemes undergo changes with changing customer aspirations and technology standards. When schemes are well customized, customers avail these products to meet their commercial/personal requirements.
+
+Integrated risk 
+
+
+Banks charge interest on loans and obtain yields on investments based on the market movement of interest rates. These interest earnings is the main source of revenue streams of banks. Banks make money from the difference of interest between what they earn on deployment of funds and what they pay to customers on deposits. 
+
+
+In the process of such financial intermediation, banks are exposed to various risks during their business operations. The major categories of risks are range from credit, market and operational risks. However, the banks are also facing other risks such as liquidity, interest rate, foreign exchange rate, legal, regulatory, reputational etc. All these risks are highly interdependent. The management of such business risks are integrated risk management strategies. 
+
+
+According to the Central Bank guidelines, the overall risk management should be vested with an independent Integrated Risk Management Committee (IRMC) of the board so that the function is overseen by highest forum of the bank. Given the diversity of balance sheet profile of banks in Sri Lanka, it is neither prudent nor desirable to adopt a uniform framework for management of risks. The architecture of an integrated risk management function should be bank-specific, decided upon the size, complexity of functions, operating environment and technical expertise of staff. 
+
+Counterparty risk 
+
+
+But among the banking risks, the counterparty risk (CR) is most predominant. Counter party is the other party that participates in a financial transaction, and every transaction   must have a counterparty in order for the transaction to go through. More specifically, every buyer of an asset must be assessed in terms of credit worthiness to honor the commitment to repay.
+
+
+While banks will have to return depositor’s money in time, the failure on the part of counterparty to honour the commitment can lead to uncertainty and risk. In this context, it is essential to build robust systemic control to mitigate such proliferating risks. Therefore, risk management is a complex function, which requires specialized skills and expertise. Data analytical abilities. Internationally, banks have been moving towards the use of sophisticated models for measuring and managing risks in an integrated manner but more important is the internal appraisal system of CR that forms the part of measurement and mitigation of such risk. 
+
+
+It needs the support of a research team that constantly engages in assessing the various forms of risks and identify methods to mitigate risks. The banks should keep an eye on the performance of various industries and be able to identify risk prone entities to form risk management policies.  
+
+Diversification of risk 
+
+
+With innovation of products in banking system, dependence on counter party increases. The non-fund based lending products such as issue of bank guarantees and letters of credit (LCs) where there is no immediate flow of funds but if they are invoked by beneficiaries, liability to pay will devolve on the banks.  Counterparty risk gained visibility in the wake of the global financial crisis. In order to help mitigate the risk, the credit rating of individuals and companies assumed greater role in risk assessment. Further innovations in financial markets led to introduction of exotic derivative products in money, equity, bonds and foreign exchange markets such as futures and options, credit default swaps and chain of hedging products. 
+
+Role of rating agencies in diffusing risk 
+
+
+Globally, rating agencies have gained prominence to help lenders assess credit worthiness and obtain market intelligence to mitigate CR. Like in many advanced and developing financial markets, rating agencies began to provide inputs to financial sector players. With modernization of financial markets, rating agencies made inroads to help banks mitigate CR. 
+
+
+Besides the international rating agencies, Sri Lanka developed its own rating market. Fitch Ratings Lanka Ltd, Ram Ratings (Lanka) Ltd, Lanka Orix Factors Ltd (LOFAC) and ICRA Lanka Ltd. These professional rating agencies constructively engaged primarily in assessing and evaluating the credit worthiness of listed securities or to be listed securities with particular regard to the issuer’s ability to perform any obligations. 
+
+
+It gives enough clue for market participants to assess the financial robustness of companies. These professional rating agencies share their views in graded format to lenders. At the same time, banks also develop their own internal rating modules to supplement the reports of external rating agencies to form a final view on the changing dimensions of CR. 
+
+
+The banks should be able to disseminate the knowledge on perceiving CR, its measurement and nuances of managing them to provide a foolproof financial intermediation that can support and sustain growth aspirations of the economy. It should be a constructive activity to gauze the ecosystem so that banks are well poised to manage and maintain a sustainable track record of risk adjusted returns. 
+
+ (The writer is Director, National Institute of Banking Studies and Corporate Management – NIBSCOM, Noida, India. The views are his own)
+
+ 
+ 
+
+		

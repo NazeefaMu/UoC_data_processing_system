@@ -1,0 +1,15 @@
+## Title: Payoneer, eZ Cash simplify cross-border payments for SL entrepreneurs
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, September 20, 2017 - 01:00
+
+Payoneer, eZ Cash simplify cross-border payments for SL entrepreneurs
+
+Payoneer, an innovative cross-border payments company transforming the way businesses pay and get paid globally, announced recently that it has partnered and integrated with eZ Cash, Sri Lanka’s leading mobile money network and a brand of the Dialog Axiata group, which commands 50% of the country’s mobile market.
+Through the integration, Sri Lankan entrepreneurs, merchants and freelancers are able to withdraw cross-border payments they receive using Payoneer straight to their eZ Cash mobile accounts, where they can make a host of local payments with greater ease.
+The partnership marks another step in Payoneer’s roadmap to make payments for SMBs more seamless, flexible and localized than ever before. eZ Cash will market Payoneer to its small business customers as a value-added service.
+The integration enables eZ Cash’s 14 million subscribers to leverage Payoneer’s cross-border capabilities to connect with marketplaces and clients worldwide. eZ Cash customers can send and receive funds across the network’s user base; receive inward remittances from abroad; make online purchases; and settle utility bills, directly from their mobile phone.
+“Sri Lanka is witnessing a steady rise in the number of entrepreneurs and freelancers who are serving the increasingly digitized, global market. This has opened additional streams of revenue for them. However, they face several challenges in receiving payments from abroad including high transaction costs, delayed processing and lengthy hold times,” said Fariq Cader, Vice President, Digital Services, Dialog Axiata PLC. “We are delighted to partner with Payoneer to offer our talented freelancers and entrepreneurs a better way to accept payments from their clients abroad with greater ease. We look forward to seeing them avail the convenience and security afforded by our platforms and grow their businesses globally.”
+This partnership is the latest addition to Payoneer’s growing suite of business services, aimed to meet the needs of the today’s digital businesses. In the past year, Payoneer has announced its Integrated Payments API, which allows for the integration of the payment service with SaaS providers; an Early Payments service to provide working capital for SMEs; and new features to further automate and streamline Payoneer’s Billing Service, which simplifies the process of getting paid by clients worldwide.
+Eyal Moldovan, GM of Payoneer’s Direct Business said, “ We are delighted to partner with eZ Cash to further localize our cross border payment solutions for the Sri Lankan market and are committed to partnering with additional mobile payment networks and eWallets throughout the world.
+Alliances such as this further cement our position as the go-to-solution for freelancers and small businesses, empowering professionals and business owners worldwide to get paid globally as easily as they do locally.” 

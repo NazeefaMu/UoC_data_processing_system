@@ -1,0 +1,75 @@
+## Title: Japanese ERS solution  for rapid waste composting
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, April 27, 2017 - 01:00
+
+Japanese ERS solution  for rapid waste composting
+
+A paper submitted by the Research Centre for Social Sciences (RCSS) of the Faculty of Social Sciences of the Kelaniya University by Dr Hemantha Premaratne (Kotelawala Defence Academy) Dr.M.G. Kularatne (Kelaniya University), Jude Fernando (Consultant) and Ranjan Joseph (COSTI).
+For a long time, decent treatment for municipal and industrial waste and garbage has become an acute public issue in many countries. Environmental pollution, diseases, financial and economic costs are associated with mismanagement of waste.
+It is essential to have an integrated waste management system to address this issue in total, as there is no “one single solution”. The principles of 3R (Reduce, Reuse, Recycle), segregation at the source and waste generator and public participation in the waste management process are mandatory in a successful waste management strategy. If properly managed, waste will become a valuable resource that creates employment opportunities, raw material for industries, energy and most importantly, organic fertilizer for agriculture.
+The most visible problem of mismanaged waste generally arises from organic or perishable matter. Therefore, it is imperative to initially generate an effective solution to manage the organic component which is over 40 percent of the total waste, in order to find the total solution.
+It is also understood that relevant agencies established in Sri Lanka for waste management have implemented number of programmes to manage the organic component of MSW, yet unfortunately failed due to such reasons as inappropriate technology, lack of continuity, resistance and vested interests from stakeholders, etc. The classic example is “Pillisaru Purawara” programme in which investment over Rs 5 bn has been dematerialised with no accountability.
+Issues of MSW in Sri Lanka
+Approximately 50% percent of Sri Lankan MSW is said to be organic matter which is rich in plant nutrients, once composted. Alternative technologies to composting such as land filling has become one of the biggest problems in the country due to a higher rate of waste generation by public and industry, land unavailability, public protest, fast rate of urbanization and environmental pollution. The other technologies such as waste to energy and anaerobic digestion seem to have a higher opportunity costs beyond the reach of the state unless the investment is sponsored by another actor.
+Another main argument which states that compost generated from MSW is contaminated with heavy metals such as lead, cadmium and arsenic can be nullified if , a proper mechanism such as 3R (Reduce, Reuse and Recycle), sorting at source, Material Recovery Facility (MRF) or manual sorting at the gate is implemented. The classic examples are abundant, but a selected few in the world are Edmonton's Composting Facility in Canada, Keppel Seghers Facility in Qatar and Lahore Composting Facility in Pakistan.
+2.2 Alternative Solutions
+Among the handful of solutions, composting seems to be the most viable and economically feasible. There are three main types of aerobic composting currently available for MSW management in Sri Lanka. Windrow composting which is widely practiced in Sri Lanka takes 6-10 weeks, occupies vast space, cause environmental damage, has labour issues and results in poor quality compost.
+The Kawashima composting which is currently practiced as a pilot project in Digana Kandy, has its own setbacks in the Sri Lankan context. It takes nearly eight weeks against the initial plan of two weeks for the process, occupies a large area, has a high operational cost and the possibility to allow pathogens and weed seeds to remain in the end product.
+The third technique which is not currently available in Sri Lanka, the Japanese Rapid Composting technology (ERS),is a high-speed, aerobic composting and drying system which converts waste to value-added products such as organic fertilizer, animal feed and even raw materials for biomass power generation.
+
+This ERS technology takes only 24hours compared to 6-10 weeks taken by other methods. The main ingredient of this system is a patented combination of microbes, when found from local soils, is a highly efficient and 100 percent environmental friendly Japanese technology. The investment of this system is almost equal to that of the Kawashima method and a municipality can run an ERS system as a profitable income earning venture.
+Furthermore, ERS is a Bio-Mechanical Technique (BMT)and microbes are multiplied and stored in an ERS reactor. The reactor uses a pressure and temperature controlled environment to create an ideal condition for aerobic microbes to multiply exponentially, thereby decomposing the organic matter and evaporating the moisture in just 24 hours. Water content will be recovered by the heat exchange and used back in the system in the cooling tower.
+No odours and effluents are released and energy costs are kept low by the recycling of the heat generated in fermentation.
+This technology has been applied in many countries, particularly in Japan, China, Philippines, Malaysia, Singapore and Indonesia and is found to be a lasting and most efficient solution for MSW management.
+
+3. Japanese Rapid Composting ERS Technology
+3.1 ERS Process Floor
+Waste is first inserted to the hopper which then transfers it automatically to the main unit of ERS where the fermentation and drying process takes place. The output is segregated as degradable and non-degradable, while non-degradable remains are used as fuel for the biomass boiler. Water content will be recovered by the heat exchange and is reused in the system in the cooling tower. No odour is released and energy costs are kept at bay by recycling the fermented heat.
+ 
+Figure 01:
+ERS process flow (Fertilizer, Animal Feed and Energy)
+3.2 Key Features of ERS System/Functionality
+* The largest ERS system requires only four perches which is far less than the number of hectares used for a conventional system.
+* ERS system is independent of weather and can operate anywhere in Sri Lanka.
+* It can be used for solid, liquid or animal/ fish/ slaughterhouse/ sewage/ human waste.
+* No micro-organisms or bacteria are brought from abroad. The usage of local microbes in particular, guarantees that recycled waste matches the conditions of the surrounding area.
+* No need to replace or refill the microbes and no additional cost is involved.
+* ERS has patent rights to use three types of specific microbes named Simose1,Simose 2 and Simose 3 in combination.
+* The process is largely automated. Only the input and the output are manually handled.
+* The ERS system operates for 24 hours and 360 days. Motors need to be changed once every 7 years. The vacuum pumps, cooling water pump, and vacuum valve need replacement when they are exhausted. Running maintenance is possible and the cycle continues after repair.
+* Part feeding is allowed. Waste collected from areas close by the plant can be fed into the hopper with quantities as low as 50 kgs per cycle while maintaining the total capacity for 24 hours. No storage of raw waste and associated problems.
+3.3 ERS System Capacity and Scalability
+ERS comes in different capacities (Table 1)such as, ERS-0, ERS-1, ERS-2, ERS-3, ERS-4, ERS-5, ERS 6 and 7 and ERS-8 according to the input. Thus, it can be contextualised according to the district or area depending on the amount of waste disposed by each district.
+For example, in urban towns such as Kandy, Colombo and Gampaha where there is a high amount of garbage disposal, ERS 5,6 and 7 or 8 could be used while for rural, less populated areas, ERS 0,1 or 2 could be used.
+It is also possible to scale down on certain subsystems of ERS in order to save initial investment costs depending on the user requirement. Apart from that, ERS also allows the selection of operating times as 12 hours or 24 hours according to the requirement.
+4. Why is ERS the best alternative waste management system for Sri Lanka?
+The financial provisions for the Pilisaru project was expected to be to the tune of Rs 5.675 billion which was mainly invested in composting of MSW/ Waste at various level using the Windrow method.
+However, it has ended up without achieving its objectives (refer, issues and solutions on waste management in Sri Lanka by Research Centre for Social Sciences (RCSS) and the Department of Geography of Faculty of Social Sciences of University of Kelaniya). Reports identify that most of the Pilisaru projects established around the country are inefficient because of the following reasons:
+ 
+i. The existing compost production process requires a long period of time.
+ii. Compost production is not an eco-friendly process.
+iii. Compost users are not satisfied with the output and do not trust the quality of compost.
+iv. Labour shortage for segregation of solid waste.
+v. Wet climate affecting negatively for compost production.
+vi. Paying attention only to produce compost
+vii. Land area needed for compost production cannot be allocated for local authorities.
+viii. Due attention for Pilisaru projects is not received from political leaders and respective authorities.
+ix. Neglecting the residuals that are produced from the compost production process
+x. Labourers and other employees are not satisfied with the benefits they get including the salary.
+The Kawashima technique is another composting solution that has been proposed with the patronage of JAICA. A pilot plant was established in the Digana Kundasale area, with an approximate investment of Rs 120 mn, with a capacity of processing 25 MT per day. However, the investment is now expected to be increased to Rs 160 to 200 mn as per the information from relevant authorities.
+Further, an initial estimate of a two-week composting cycle has now extended to 6 to 8 weeks. The drawbacks stated in the RCSS with regard to the Pilisaru Project are “more or less” present in the Kawashima method. Under such uncertainty there are plans to set up eight more Kawashima plants in various locations in the country, which will also end up disastrously.
+The report presented by the RCSS recommends Rapid Composting (ERS) as “The Solution” for management of organic MSW due to the following reasons;
+i. The main reason is that the efficiency of ERS outperforms all other composting and non composting technologies presently available in the world. ERS is essentially a large scale technology solution, which is 50 times more efficient than Windrow and Kawashima.
+ii. ERS targets effective manufacturing of organic compost as well as animal feed and fuel for biomass power generation.
+iii. ERS does not demand pre-segregation of organic and inorganic materials to a greater extent.
+iv. ERS is functional irrespective of any weather condition.
+v. ERS can be utilized for both solid waste and liquid waste.
+vi. ERS has an automatic control system that requires less man power.
+vii. ERS requires a lesser area of land.
+viii. ERS is less time consuming.
+ix. ERS is eco-friendly.
+Apart from its technical, social and environmental feasibility, ERS has a great financial viability to run as a commercial venture. Local government authorities can run ERS plants independent of government financial support as income generating venture with low interest loans provided through the Local Loans and Development Fund of the Ministry of Provincial Councils and Local Government.
+With minimum assistance from the state and with a low interest loan, there are opportunities for the private sector to come forward to establish Private Public Partnerships for the management of MSW.
+As such, the Government of Sri Lanka, Ministry of Provincial Councils and Local Government and the other relevant stakeholders shall come forward to implement the ERS system. 
+ 

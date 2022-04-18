@@ -1,0 +1,57 @@
+## Title: Ability to see through the eye of technology
+## Section: News Features
+## Date: 7 April 2018 12:15 am
+
+Ability to see through the eye of technology
+
+
+	
+
+At a time when technology has reached its peak, all eyes are on efficient and intricate IT systems. Technology is imperative and inevitable despite where you are or what kind of work you are involved in. In fact, IT systems are the drivers of the world economy. It was announced at the Web Economic Forum in 2015 that, “Everything is coming online and we are connecting more of our world every day. At this very moment, over 12 billion devices are connected to the internet, and that number is expected to increase to over 20 billion by 2020.”
+
+But have you ever wondered who the stakeholders of these complex networks are? Have you heard of stakeholders who are differently-abled? How eager are you to know how technology assists them? 
+
+
+The WHO said in 2016 that, “Over a billion people are estimated to live with some form of disability. This corresponds to about 15% of the world’s population. Between 110 million (2.2%) and 190 million (3.8%) people, 15 years and older have significant difficulties in functioning.” The word ‘disability’ is an umbrella term covering impairments such as difficulty in hearing, eyesight (0% sighted, low-vision, colour blindness), cognition (serious difficulty concentrating, remembering or making decisions) and mobility (serious difficulty walking or climbing stairs). 
+
+
+Understanding the significance of IT systems results in building, designing and creating an application which is available at all times. This article highlights the importance of enabling access of IT systems to the differently-abled. 
+
+
+Does it bother you to ask how people with physical impairments use tech systems? Different user groups have their own Assistive Technology when using IT systems. For instance, a visually-impaired person may use screen-readers and a person with hearing difficulties will require textual illustrations. 
+
+
+The ATIA said last year that, “Any item, piece of equipment, software programme or product system used to increase, maintain or improve the functional capabilities of persons with disabilities is identified as Assistive Technology (AT).”
+
+
+Assistive Technology can be used in three platforms; laptops and desktop  computers, mobile devices including smart phones and tablets, and Chromebooks (laptops using the Chrome browser for most of their functions). The extension Chrome Vox can also be used to launch the Chrome browser in a device. 
+
+Assistive Technologies can be used for reading, writing, math and auditory processing disorders. This article will focus on the various Assistive Technologies for reading. Users with 0% eyesight or low-vision can use text-to-speech (TTS) or audio and digital TTS books to read content aloud with a computer generated or human voice. Similarly, for users with reading (low-vision, 0% eyesight) and cognitive impairments, optical character recognition (OCR) and graphic organisers can help by reading images and pictures from web pages using a computer generated voice. Further, graphic organisers allow for the understanding of ideas and concepts by visual representation such as diagrams and mind maps. Users with low-vision and colour contrast are given the opportunity to change the font type, font size, colour and spacing of text by using display control.
+
+Users with 0% eyesight use screen-reading software with TTS embedded. The main task of a screen-reader is to read the screen of a particular website or computer. The salient question is, have you ever considered making your IT system available for screen-reader? Do you know how screen-reader interprets web content?   
+Screen-reader tools interpret the code from document object models (DOM) and application programming interfaces (API). Windows uses APIs, Microsoft Active Accessibility (MSAA) and IAccessible2, and iOSuses Universal Access (UA) APIs to integrate with the browsers to expose information objects in the DOM. Therefore, the code needs to provide accurate, relevant information to be interpreted appropriately. 
+
+
+To learn what needs to be added to the code, it is essential to understand how it gets interpreted by Assistive Technology and also to fathom how visually-impaired persons associate with it. 
+
+
+It is vital to understand that enabling websites or IT systems to be accessible for differently-abled users should start with the design phase. Accessibility comes as a legal requirement for certain countries. The World Wide Web Consortium has an entire set of guidelines called Web Content Accessibility Guidelines (WCAG), with different levels as A, AA and AAA, which needs to be complied with by each system. 
+
+
+As individuals interested in IT, consider treating everyone equally by enabling every form of web content. 
+
+
+
+ 
+
+ 
+
+ 
+
+“The disability is not the problem, the accessibility is the problem” 
+– Mohamed Jemni
+
+ 
+ 
+
+		

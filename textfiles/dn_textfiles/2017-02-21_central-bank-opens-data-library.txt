@@ -1,0 +1,11 @@
+## Title: Central Bank opens Data Library
+## Supertitle: 
+## Section: Finance
+## Date: Tuesday, February 21, 2017 - 01:00
+
+Central Bank opens Data Library
+
+The Central Bank of Sri Lanka (CBSL)has launched a Data Library to the public via the CBSL external website.
+The CBSL Data Library is a comprehensive database consisting of time series data on a variety of topics spanning across Real, Monetary, Fiscal, External and Financial sectors.
+It facilitates numerous data requirements by enabling the creation of own queries, generating tables, downloading and saving them for further reference.
+Data users can access the Data Library via the CBSL website (www.cbsl.gov.lk) or specifically via the URL (https://www.cbsl.lk/eresearch). 

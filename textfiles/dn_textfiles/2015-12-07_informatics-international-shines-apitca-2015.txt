@@ -1,0 +1,16 @@
+## Title: Informatics International shines at APITCA 2015
+## Supertitle: 
+## Section: Finance
+## Date: Monday, December 7, 2015 - 01:00
+
+Informatics International shines at APITCA 2015
+
+Showcasing excellence in creativity and innovation at the recently concluded APITCA 2015 and vying with 18 countries in the region that included Singapore, Australia, Japan, Hong Kong and China, Informatics International bagged the award in the category presented for outstanding ICT innovation.
+Informatics International was judged on five criteria's -Uniqueness, Market Potential, Functionality and Features, Quality and Application of Technology and Application.
+The winning solution comprised of Sri Lanka's first Identity Card Managing and Issuing System known as 'InfoID'. Upon implementation of InfoIDat the Department for Registration of Persons (DRP), it has been able to re-engineer the 40 years old manual process, by converting the department to a true paperless office.
+With a proven track record of transforming a system which aggregated 3000 daily backlog, to one which has near zero backlogsit has been instrumental in optimizing and personalizing the Sri Lankan ID card in both Sinhala and Tamil languages with use of computerized Transliteration.
+The FIFO (First In First Out) mechanism adopted by the workflow engine, ensures that no unfair prioritization is done during the personalisation process.
+Since InfoID is a web based solution, the department has had the ability to reach far to citizens in remote areas in the country through its 331 offices setup in Divisional Secretariats.
+The system has comprehensive features from person registration, workflow management, document management, receipting, card personalization, user management, controversial individuals' management, reporting dashboards and data sharing with external sources.
+Informatics Group Managing Director, Hiran Wickramasinghe said "Informatics is privileged to be a part of the Public Sector IT Transformation which gives the company an opportunity to better serve the citizens of Sri Lanka whilst working with forward thinking government institutions to deliver World Class Solutions like the InfoID. The solutions are developed to serve the citizens in an efficient time saving and customer centric manner. " He also stressed that Informatics has proved its capability as a leader in the ICT industry by winning the NBQSA Awards for the third time whilst emerging as the APICTA awardwinner in the government and public sector category 2015.
+ 

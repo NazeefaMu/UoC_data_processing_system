@@ -1,0 +1,40 @@
+## Title: Web-based taxi services: Regulation needed
+## Supertitle: 
+## Section: Features
+## Date: Thursday, December 28, 2017 - 01:00
+
+Web-based taxi services: Regulation needed
+
+A few days ago, the European Union’s top court ruled that on-demand web-based taxi services should be regulated as transport companies. The EU Court of Justice made this ruling against Uber –supposed to be the world’s most valuable start-up company who are in the business of web-based “taxi-service.”
+The decision, which can’t be appealed, clarifies for the first time that connecting people via an application to non-professional drivers forms an integral part of a transport service. It rejects Uber’s view that it’s a technology platform connecting passengers with independent drivers, not a transportation company.
+In the EU judges’ view, the most important part of Uber’s business is the supply of transport -- connecting passengers to drivers by their smartphones is secondary. “Without transport services, the business wouldn’t exist,” they added.
+This case and the judgement should be an eye-opener to Sri Lanka, because we also have here in Sri Lanka over a dozen web-based taxi-services.
+Plus-factor
+The on-demand web-based cab service is finally getting popular in public transit, and this writer believes that it could reshape the way Sri Lankan city commuters getting around. Just in time too. Sri Lankan Capital and other major cities are growing, traffic is getting worse, emissions are surging, and public transit systems are suffering from years of underfunding and weak management. On-demand, web-based transit services can be fast and cost-effective service and move drivers out of personal cars.
+Or it could be the latest shiny object distracting from the time- and cost-intensive solutions needed to fix city travel ills, such as upgraded trains and public vehicles, more frequent service, better roads and road pricing schemes. Yet, this writer thinks it’s worth a shot.
+Issues
+However, we cannot sit idly by and see new technologies come and go without trying to figure out how they fit into the public transit landscape. And yes, so many questions are up in the air.
+First, the drivers are not permanent employees of the company. They are their own bosses and set their own hours of work. They earn reasonable income - all in the comfort of their own vehicles. One major company’s website indicates the requirements of a driver as follows: “You must be at least 21- years-old. You must own/have access to a good condition 4-door vehicle - but it’s safe to say that your car cannot be older than year 2006. And, if you have a valid car insurance, your driver’s license (for at least a year), and no major criminal history - you’re ready to apply to become a driver.”
+Does this mean that we leave the fate of the passengers’ lives in the hands of an independent driver with one-year experience? Why haven’t they asked for a medical certificate issued by a licensed government physician stating that the driver is physically and mentally fit to drive a motor vehicle? Or the police clearance that the driver has not been convicted of any offense involving moral turpitude or serious accidents resulting from reckless driving? What happens if a crime is committed by a driver to a passenger?
+Three years ago, in New Delhi, a 26-year-old woman was taken to a secluded area and raped by the driver after her booking a journey home with web-based taxi service. There was public outrage and Delhi Government temporarily banned a number of web-based taxi-companies.
+Background check
+Much of the tension surrounding the deployment of web-based taxi services in London, New York and New Delhi relates to the fact that they do not comply with the existing rules of the relevant countries. One global provider, who is operating in Sri Lanka too, was banned in London for refusing to subject themselves to the jurisdiction of the British court.
+In most of the developed countries, taxi drivers need to submit to comprehensive criminal background checks that may involve a very high level of scrutiny than those carried out by the web-based service providers. These service providers argue that if stricter controls are imposed, that may keep occasional drivers, who work part-time only, from signing up.
+Their point gives rise another counter-point - the number of hours these part-time workers can work in order to ensure that they do not become too fatigued to drive safely. This is especially important in the case of those working other full-time jobs as well. The drowsiness is one of the determinant factor in accidents. Are these taxi-providers doing close monitoring of the drivers?
+Vehicle safety inspection is another point and an important part of the public safety requirements. In developed countries, there are rigorous safety inspections for taxis. In some countries the check-ups are done bi-annually. Are the companies going through such procedure?
+Finally, Taxi service providers must provide adequate levels of motor vehicle insurance to meet with accident costs and passenger liability claims, unless those are met by the service provider.
+As seen above, web-based transport services in Sri Lanka has plenty of issues to sort. And, these have to be sorted out by the Government authorities.
+Example
+Let us take, as an example, of a good web-based taxi-service –Washington DC Taxi of USA, call/ web-based taxi service. Here, all drivers are tested by the District Council whether they can really drive and know the City streets like the back of their hands. They are insured for the passengers as set by District Council and vetted by the DC Department of For-Hire Vehicles, have thorough FBI background checks, and an average of 20 years professional driving experience.
+They do not have surge-pricing. The price estimated before the trip, according to the mileage, will be final price (unless the mileage had increased).
+The vehicles are subjected to mandatory inspection by DC authorised companies. Their vehicles have wheelchair accessibility as defined by law.
+Indian experience
+This is the type of web-based taxi service we also need. Let us now turn to our neighbour - India. The Indian Government has taken a number of steps in regulating the app-based taxi services.
+The Government has formulated a number of mandatory guidelines. Among them are: The web-based taxi operating company must be registered in India. Only those having transport badges issued by the government will be allowed to function. A person with three-year experience will be eligible to drive such taxis.
+During any booking, the details like driver’s names, his photograph and licence number should be messaged to the passenger. Fares should be regularised. Apart from GPS/GPRS system in the vehicle and with the driver, there will be a display of the route and fare to be recovered for the same. It is mandatory to give commuters a bill. Fares will be different for small, medium luxury and large taxis.
+The Central Government has asked each State Government to frame regulatory and operational infrastructure compliance guidelines for their own States.
+It should also include vehicle profile, working condition for drivers and their compliance, framework for issuing license, duration and renewal among others, general condition, transparency and power to cancel or suspend licenses.
+A large number of state governments have already announced their decision to regulate web-based taxi services to ensure affordable travel for commuters
+Follow suit
+This writer firmly believes that we need to follow the Indian example. Owing to no specific regulatory policy, the web-based taxi services look more like a bureaucratic conspiracy than the product of a competitive marketplace.
+It is quite obvious that there is a strong case for subjecting web-based taxi services to comprehensive state regulation in the same way as any other sector is supervised and regulated - for the sake of fairness as well as safety for passengers. 

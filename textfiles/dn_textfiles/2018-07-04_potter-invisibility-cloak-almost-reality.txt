@@ -1,0 +1,27 @@
+## Title: Potter invisibility cloak almost a reality
+## Supertitle: 
+## Section: T&C
+## Date: Wednesday, July 4, 2018 - 01:00
+
+Potter invisibility cloak almost a reality
+
+Scientists have long believed the key to an invisibility cloak, as featured in Harry Potter , is the manipulation of light. The fundamentally new approach overcomes critical shortcomings of previous attempts.
+It offers hope of securing data transmitted over fibre optic lines, thwarting eavesdroppers, and improving technologies for sensing, telecommunications and information processing.
+The concept, theoretically, could also be extended to make 3D objects invisible from all directions, said the researchers.
+The spectral cloak operates by selectively transferring energy between certain colours of the light wave.
+After the wave has passed through the object, the device restores the light to its original state. When viewing an object, what you are really seeing is the way in which it modifies the energy of the light waves that interact with it.
+Luis Romero Cortes, a student in the lab who specialises in quantum optics, explained: “Conventional cloaking solutions rely on altering the propagation path of the illumination around the object to be concealed.
+“This way, different colours take different amounts of time to traverse the cloak, resulting in easily detectable distortion that gives away the presence of the cloak.
+“Our proposed solution avoids this problem by allowing the wave to propagate through the target object, rather than around it, while still avoiding any interaction between the wave and the object.”
+The study, published in the journal Optica, used a technique that rearranged different colours of broadband light so the wave propagates through the object without actually ‘seeing’ it.
+To do this, the spectral cloak first shifts the colours toward regions of the spectrum that will not be affected by propagation through the object.
+For example, if the object reflects green light, then light in the green range might be shifted to blue - so there would be no green light for it to reflect.
+Then, once the wave has cleared the object, the cloaking device reverses the shift, reconstructing the wave in its original state.
+The team demonstrated their approach by concealing an optical filter, a device that selectively transmits different wavelengths of light, after illuminating it with a laser.
+The cloaking device was constructed from two pairs of commercially available components called an dispersive optical fiber and a temporal phase modulator placed in front of the filter and behind it.
+The former forces different colours of a broadband wave to travel at different speeds. while the latter modifies the optical frequency.
+This showed the spectral cloak was able to transform the light waves in the range of frequencies that would have been absorbed by the optical filter, then completely reverse the process as the light wave exited the filter on the other side.
+It made it look as though the laser pulse had propagated through a non-absorbing medium.
+The device could also find applications beyond invisibility cloaking. For example, selectively removing and reinstating colours in the broadband waves could allow more telecommunication data to be transmitted, reducing logjams.
+Prof Azana said it should be possible to make an object invisible under illumination from every direction.
+Mirror

@@ -1,0 +1,173 @@
+## Title: Arrest PTL Chief Dealer: AG to tell CID
+## Section: Breaking News
+## Date: 1 September 2017 07:05 am
+
+Arrest PTL Chief Dealer: AG to tell CID
+
+
+	
+
+
+
+Testifying before the Presidential Commission of Inquiry (PCoI), Sachith Devathantri, the IT executive of Perpetual Treasuries Ltd yesterday admitted that he had deleted several phone recordings from its data on the instructions of the Chief Dealer of PTL, Nuwan Salgado on July 5, 2017.
+
+Previously, on two occasions, Mr. Devathantri had recorded statements with CID officials attached to the PCoI and in the second statement he admitted that he had lied in the first statement.
+
+However, in a way of an affidavit, the witness submitted his evidence and also testified before the Commission yesterday.
+
+Additional Solicitor General Yasantha Kodagoda led the evidence.
+
+According to the witness, Metropolitan Communication Ltd had installed a Voice Logger recording system at PTL’s office with eight extensions on May 19, 2015. And the voice recording system was capable of storing the date, the time, the caller detail (incoming or outgoing number) and the voice recording.
+
+When questioned by the Commission, the witness said that at the time of installation, the PTL CEO was also aware of the capability of the recording system. He said they wanted to install such a recording system into the PTL’s dealer room extensions mainly to recognize the CLI numbers of conversations along with the voice recordings.
+
+This system included a main computer given by Metropolitan Ltd, in which all the data was stored as voice recordings (wave files) and caller details (data folder).
+
+It was explained that through the voice logger system’s interface, all the caller details can be seen easily from the main computer.
+
+However, it was explained that after the installation of the recording system, PTL had complained on June 4, 2015 about the system reporting an error. He said it did not record all digits of outgoing numbers.
+
+The witness admitted although there was a problem in storing all outgoing numbers, these were only about some outgoing numbers and the other data was available without faults.
+
+However, it was reveled that by December 2015, Metropolitan Ltd had completely solved the issue getting assistance from its Indian mother Company.
+
+The witness said that after December 2015, no errors occurred in the voice recording system pertaining to caller numbers.
+
+On being questioned by ASG Yasantha Kodagoda, the witness explained the usual process in which he backed up data from the data base of the main computer relating to the recording system.
+
+He said that he attempted to back up data using the formal provision in the recording system’s interface as per the operating manual but failed to do it. And subsequently, he copied only voice recordings (wave files) from the data base of the hard drive of the main computer.
+
+Caller details were however also stored in the computer which he had not copied to a back up.
+
+Mr. Devathantri was of the view that he did not care about copying caller details at that time.
+
+However, Justice Prasanna Jayawardena and Justice K.T. Chitrasiri repeatedly questioned as to why he didn’t think about copying the most essential part of that data.
+
+The Commission asked him since PTL initially wanted to have a phone recording system to identify the CLI numbers what made him not to backup them up.
+
+The witness’ answer was that he did not care about copying caller details. ASG Kodagoda then said that the Commission will consider about the witness’ non-consideration of caller details.
+
+Justice Jayawardena: Manual of the System explains how to backup wave files and caller details, so if you had a problem with the system in doing such backup why did you not complain about it to Metropolitan?
+
+Witness: I did not think that much.
+
+J: The system was installed to mainly identify the CLI numbers, right?
+
+W: Yes
+
+J: So, copying voice recording files only will not serve that purpose, right?
+
+W: Yes
+
+J: Even a half brain man could understand that, so what made you not copy caller details too?
+
+W: I did not think that much at that time
+
+J: Did someone from a higher position of PTL ask you to do so? Because it was a serious failure?
+
+W: No
+
+The witness explained that in the backing up process he had copied all voice recordings from the computer and stored in his portable drive and later included all recordings to 3 DVDs.
+
+He said those DVDs were currently in Chief Dealer, Nuwan Salgado’s custody at PTL’s office. He also said that even though he had backed up the data from the main computer, the original voice or other caller details were not deleted at any point by him.
+
+Earlier it was reveled that PTL had shifted its office to a different address on July 3, 2017 and at the new place, PTL had identified that the computer hard disk relating to the recording system had crashed for some reason on July 6, 2017.
+
+However, making a startling revelation, Mr. Devathantri admitted that he was asked to delete some phone conversations by Chief Dealer Nuwan Salgadu on July 5 2017 from the data base of the main computer of the system.
+
+He explained that Chief Dealer Nuwan Salgado had met him at the server room of PTL’s new office on July 5 and had shown him few notes containing 15-16 serial numbers and dates of several phone conversations which have to be deleted.
+
+Thereafter, the witness had advised the Chief Dealer that if they delete them it could be identified as those voice recordings were stored in a sequence of serial numbers.
+
+Mr. Devathantri admitted that he also proposed to Nuwan Salgado that if they delete such voice recordings, the deleted voice recordings should be replaced with some other phone conversations.
+
+The witness said that thereafter he made changes to the data base of the main computer by deleting required phone recordings and replacing them with internal voice recordings.
+
+Mr. Devathanthri had also produced the notes that Nuwan Salgado had given him on July 5, 2017, to the CID officers and yesterday submitted them to the Commission.
+
+On being questioned by the Commission, the witness identified the hand writing of those notes as of Nuwan Salgado (Chief Dealer), Kaushitha Rathnaweera (Dealer) and Anjana Jayasinghe (Dealer).
+
+The witness said after the alteration was made to the main Computer he had obtained a full back up which contained the edited voice recordings.
+
+According to the witness, after this alteration, he recognized a problem in the main computer on the very next day July 6, 2017 morning.
+
+After a continuous questioning by Justice Prasanna Jayawardena and Justice Chitrasiri, the witness admitted that they had the intention of formatting the hardware and replacing another computer to the system.
+
+However, he said he did not know as to what happened to the computer within 24 hours after the alteration.
+
+Justice Jayawardena: Now, You had deleted certain phone recordings on July 5, right?
+
+Witness: Yes
+
+J: Then on the very next day within 24 hours the computer had crashed?
+
+W: Yes
+
+J: You also knew that even though you had deleted certain data the hard drive of the Computer may have them and if a forensic examination was done it can be retrieved, right?
+
+W: Yes
+
+ASG Yasantha Kodagoda: What happened between July 5 and 6, did a lightning strike the computer?
+
+Witness was silent
+
+Justice Jayawardena in a serious manner remarked in Sinhala :Aththatama Wena Jathiye Akunak Weduna (Actually a different sort of a lightening struck)
+
+Thereafter he had used another computer in the Company and installed the system to it. He said he also did a configuration to the system on July 21.the witness admitted that the re-installation and the configuration were conducted without informing its service provider Metropolitan Ltd.
+
+Subsequently, he had placed the data which he backed up on July 5 after editing the main computer in to the new system.
+
+The witness explained that it was the altered data that was subsequently provided to the Commission in the latter part of August 2017.
+
+It was explained that PTL had not given all of their phone recordings to the Commission as opposed to what PTL’s CEO Kasun Palisena had ascertained in his affidavit earlier.
+
+Additional Solicitor General Yasantha Kodagoda sought the Commission to issue an order to obtain all the original voice recording backups which were in three DVDs (which are relating to the time period before July 6, 2017) at the moment in the custody of Nuwan Salgado immediately. Subsequently, the Commission issued an order to obtain them.
+
+It was said that Nuwan Salgado had been earlier summoned by the CID to come yesterday morning to record a statement but he had not turned up.
+
+ASG Kodagoda also said that the conduct of PTL’s Chief Dealer Nuwan Salgadu was an offence to the cause of justice, because his involvement had transpired during the proceedings and that under the Criminal Procedure Code it was a criminal offence.
+
+The ASG asked the Commission to convey the facts about incident to the Inspector General of Police to take appropriate actions against PTL’s Chief Dealer as well.
+
+Additional Solicitor General Dappula de Livera also made a special application to the Commission that PTL’s Chief Dealer should be arrested over committing a criminal offence under Section 189 of the Penal Code. ASG Livera was of the view that this was a serious offence of PTL against the investigation as they have provided fabricated evidence to the Commission.
+
+He also said that under section 24 of Commission’s Act the Attorney General can take appropriate action accordingly over such instances.
+
+However, the Commission was also of the view that the Commission cannot make orders to arrest persons as per law but the Attorney General could take appropriate steps according to section 24 of the Act.
+
+Justice Prasanna Jayawardena also said that as per the section 24 the Attorney General has the cognizance to take appropriate action since such cogent evidence has come from PTL’s IT executive.
+
+It was revealed that the Attorney General can take appropriate action to arrest Nuwan Salgado the Chief Dealer of PTL by deploying CID officers.
+
+President’s Counsel Kalinga Indatissa who appeared for PTL CEO Kasun Palisena said that they are not condoning the actions of PTL but asked the Attorney General Department to look into the facts before the arrest since the Chief Dealer’s instructions to the IT person were on a date much earlier before the Commission requested PTL to provide phone details.
+
+ASG Kodagoda was also of the view that PTL IT executive has revealed about criminal conduct happened in his work place and therefore such revelation comes under the section 8(6) of the Victim Protection Act. He said therefore, under the Act, the witness is protected from any of harassment from his employer thereafter or any adverse decision to his employment.
+
+When the Commission questioned, the witness also said that he was neither intimidated nor requested to give false evidence by anyone and made the testimony independently before the commission.
+
+It was also revealed that the counsel appearing on behalf of the witness was appointed by PTL. The Chairman of the Commission Justice K.T. Chitrasiri thereafter advised him to make his own decisions whether he should speak with the lawyer who was appointed by his company because he has now given testimony against his employer.
+
+The Commission will resume sittings on Monday (September 4).
+
+Box
+
+ASG Yasantha Kodagoda: Who decided to do such replacement of the computer?
+
+Witness: it was Nuwan Salgado’s (Chief Dealer) decision
+
+Justice Jayawardena: Who is above him in PTL?
+
+Witness: Kasun Palisena the CEO
+
+J: And above him?
+
+W: The boss, Arjun Aloysius
+
+J: That is what I wanted to know, so that means Nuwan Salgado informs Kasun Palisena and Palisena informs Arjun Aloysius, right?
+
+W: I think so
+
+(Shehan Chamika Silva)
+ 
+
+		

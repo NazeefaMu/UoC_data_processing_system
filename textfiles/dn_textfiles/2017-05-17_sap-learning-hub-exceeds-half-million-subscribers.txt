@@ -1,0 +1,20 @@
+## Title: SAP Learning Hub exceeds half million subscribers
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 17, 2017 - 01:00
+
+SAP Learning Hub exceeds half million subscribers
+
+SAP SE (NYSE: SAP) announced that SAP Learning Hub has grown to over 500,000 users and is helping companies cut costs and time to train employees.
+With more than 5 million learning assignments accessed by the end of the first quarter of 2017, SAP Learning Hub is a comprehensive enablement program that offers a wide range of collaborative tools and educational content designed to provide SAP software users with the tools for success. Launched as a full-scale cloud-based offering, SAP Learning Hub is the largest learning platform used worldwide to learn about SAP software.
+The platform provides learners with opportunities for peer-to-peer interaction, discussion forums and collaboration and direct access to experts. These features are available in every SAP Learning Room, in which Learning Journey documents, over 100 of which are included in SAP Learning Hub, can also be accessed.
+Each “stop” on the way to mastery in a Learning Journey can take one of a variety of customizable formats based on learning goals. Learners have the opportunity to participate through:
+SAP Learning Rooms are interactive, virtual spaces that give members access to expert-led events, collaborative community video features and gamified concepts. Included is the reputation program, which allows learners to collect points, win badges and complete missions and challenges. Seventy four percent of the participants of SAP Learning Hub use SAP Learning Rooms once a week, with 70% saying they found them easy to use.
+Diverse learning formats include e-learning courses, course e-books and the latest delta training with content that is always up-to-date. In addition, newly implemented stand-alone assessments provide learners with feedback that alerts them to where their knowledge gaps are and how to close them.
+The SAP Live Access environment is a live, fully supported private SAP software environment with over 400 training systems that simulate hands-on experience with SAP software. The environment includes access to real, but anonymized customer data.
+SAP Learning Hub has helped corporate adopters such as IBM, Mercedes-Benz and Zurich Insurance Group meet their corporate learning initiatives. Achievements include:
+IBM Global Business Services achieved a 93% lower average cost per employee training session as compared to the previous year. It earned the 2016 Brandon Hall Learning and Development Bronze award for “Best Learning Program Supporting a Change Transformation Business Strategy.”
+Mercedes-Benz Türk A.S. reduced its overall required number of training days by 95 percent by streamlining content delivery.
+Zurich Insurance Group increased its customer satisfaction by 65 percent by improving employee competencies.
+“The implementation of SAP Learning Hub, which provides access for all IBM practitioners, has allowed us to grow our capacity and skills while driving business value,” said Shelia Carter, global learning executive, IBM. “This ensures that through SAP Learning Hub, IBM can accelerate and deliver innovative solutions to the market better using the latest SAP technologies and solutions.”
+Bernd Welz, executive vice president and chief knowledge officer, Products and Innovation, SAP, said: “SAP Learning Hub is SAP’s response to a new wave of continuous corporate learner shifts happening in the business and technology world. Through future innovation of SAP Learning Hub, we will continue our commitment to ensuring our customers and their employees have the skills they need to be successful in the digital age.” 

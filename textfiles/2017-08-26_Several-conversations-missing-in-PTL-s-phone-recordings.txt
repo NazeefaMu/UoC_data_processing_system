@@ -1,0 +1,115 @@
+## Title: Several conversations ‘missing’ in PTL’s phone recordings
+## Section: Breaking News
+## Date: 26 August 2017 10:10 am
+
+Several conversations ‘missing’ in PTL’s phone recordings
+
+
+	
+
+Deputy Solicitor General Milinda Gunathilake yesterday said that several phone recordings were missing in the provided call details of PTL, which were possibly relating to the concluding part of dealers’ conversations between PTL and EPF regarding the first secondary market transaction after the controversial bond issue.
+
+Deputy Solicitor General Milinda Gunathilake yesterday commencing the Cross-examination of PTL CEO Kasun Palisena-after a one week of preparation-questioned about the first deal struck between PTL and the EPF in secondary market on June 5, 2015 through a broker.
+
+In this deal, PTL had sold Rs.2 billion worth of 30-year bonds to the EPF in the secondary market.
+
+During the questioning, DSG Gunathilake was of the view that even though the deal had taken place through a broker, PTL had negotiated the deal with EPF directly.
+
+The witness admitted that he would have negotiated with the EPF at that time.
+
+The DSG then questioned him as to why they went through broker.
+
+The witness said the broker came into the deal to get the immediate confirmation of the deal between the two parties.
+
+When Justice Jayawardena questioned, the witness admitted that a deal would be concluded once two parties (dealers) agreed upon it via phone conversations.
+
+Justice Jayawardena: When PTL and the EPF agreed on a deal then the matter is over?
+
+Witness: Yes
+
+J: Broker comes in to speed up the process?
+
+W: Yes
+
+J: Merely by way of documentation?
+
+W: Yes
+
+When Justice Jayawardena questioned, the witness said that the conclusion of the deal happened between two dealers of PTL and the EPF, and the broker was a mere formality for documentation and to get immediate confirmation.
+
+DSG Gunathilake then played three voice recordings.
+
+The conversations dealing with the secondary market transactions were between PTL dealer at that time Nuwan Salgadu and EPF dealer Udayaseelan and had taken place on June 5, 2015.
+
+The witness also identified the voices and affirmed that none of them were relating to the conclusion of the deal.
+
+DSG Gunathilake said that they were not able to identify phone conversations relating to the conclusion of the deal from among the phone recordings provided by PTL, which were recorded in their internal voice recording system.
+
+It was explained earlier by the witness that the PTL’s recording system only records the index number and date of the phone call which has a sequence of serial numbers.
+
+DSG Gunathilake revealed to the Commission that there are five serial numbers relating to the possible conclusion of the deal that were missing. (SN- 6816-19, 6825)
+
+DSG Gunathilake: Were those details tampered with by deleting?
+
+Witness: No, no need for that
+
+DSG: Then why are those conversations relating to the conclusion of the deal could not be found in the given phone recordings? And why are five serial numbers missing?
+
+Witness: That I have to check.
+
+Justice Jayawardena: Are all calls are recorded with a serial number (sequence of numbers)?
+
+Witness: Yes
+
+J: There cannot be missing numbers?
+
+W: Yes
+
+J: You earlier said that you have given all call recordings to the commission, but this contradicts that?
+
+W: I need to check about it
+
+J: Can you think as to why those are missing?
+
+W: No, I can’t
+
+Earlier, filing an affidavit, with the assistance of PTL IT expert, the witness informed the Commission that the phone recording system setup in PTL has no options to identify the incoming or outgoing numbers.
+
+Contesting that stance of the PTL CEO Palisena, DSG Gunathilake yesterday played a voice recording related to a conversation between the PTL IT person and the CEO which had taken place on December 2, 2015.
+
+Voice recording in Sinhala - Palisena: “Sachith !.. (IT person) some outgoing numbers are not recorded”….
+
+The DSG was of the view that the testimony of the witness is questionable since he had referred as “Some” outgoing numbers to be checked by the IT person in December, 2015 and that would possibly reflect that PTL had caller numbers recorded in their system as outgoing and incoming.
+
+The witness said that he had a dispute with a counter party at that time and thereby he asked to check about some serial numbers which were not recorded at that point of time.
+
+It was revealed that subsequently, the IT person, Sachith Devathanthri had lodged a complaint with its service provider, Metropolitan in December 2015 on the instructions of CEO, Palisena.
+
+DSG Gunathilake was of the view that the witness was not telling the truth about the recording system of PTL and his affidavit submitted earlier was also false. The witness however, denied that.
+
+It was earlier said that the witness had only examined about the system on August 16, 2017 and thereafter informed the Commission that PTL has a phone recording system which has no options to record the caller number or the time durations of calls.
+
+DSG Gunathilake: You checked about the system only on August 16, 2017?
+
+W: Yes, when I checked there was no such option.
+
+DSG: But you were already concerned about the outgoing calls much before that time in 2015 December? Would it be possible that your system had reflected the caller ID before you examined it in August 2017?
+
+W: That I need to check
+
+DSG: You earlier had given an affidavit confirming that your system does not record the caller ID and now you are saying that you have to check? So, are you saying that the system was not tampered with at any point of time?
+
+W: Yes
+
+Subsequently, DSG Gunathilake was of the view that the investigation wants to get the backup data of the phone recording system of PTL and thereby, requested the Commission to issue an order on PTL to recover those data.
+
+The DSG also sought an order to permit the Metropolitan engineer to extract the backup data from the system, if PTL was unable to recover the backup data.
+
+Consequently, the Commission asked the relevant individuals to comply with the DSG’s request.
+
+Justice Jayawardena subsequently questioned the witness again on the issue and asked about the importance of having a recording system which records no phone numbers.
+
+Justice Jaywardena observed that such a recording system is used with regard to the possible disputes that could arise in the dealing process, and therefore a system which does not record the caller ID serves little purpose of having such a recording system. (Shehan Chamika Silva)
+ 
+
+		

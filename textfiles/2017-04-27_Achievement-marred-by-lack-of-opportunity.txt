@@ -1,0 +1,140 @@
+## Title: Achievement marred by lack of opportunity
+## Section: News Features
+## Date: 27 April 2017 12:22 am
+
+Achievement marred by lack of opportunity
+
+
+	
+
+Typically the words “technological innovation” and “Sri Lanka” are not coupled very often. It’s a common misconception among us that all technological innovations and mechanisms come from overseas. Visiting the Moratuwa University as they prepare for their upcoming EXMO Exhibition, the  was exposed to the brilliance of the final year undergraduates who displayed their projects with pride showing us that there are Sri Lankans who are futuristic, out-of-the-box thinkers. From an established motor car to a plastic recycle project to a life saving drone, the undergraduates have shown us that our little island nation has a promising future in terms of development of technology.   
+The University of Moratuwa, Faculty of Engineering, presents EXMO 2017 which will take place on the 28th and 29th of April 2017 after 7 years, at the University premises. Being the largest and leading faculty of the University, it has been known to create brilliant alumni spreading the reputation of Sri Lanka worldwide with their amazing intellectual capabilities throughout the course of time.   
+Upon visiting the university and meeting teams with their respective exhibits, the  learned that the road to this exhibition has not been easy. The undergraduates presented their exhibits, showing us the innovative and futuristic nature of the minds of those who attended the University. It was an eye opener to their brilliance as well as the barriers they faced when it came to funding and the future plans of their projects.   
+
+EXMO 2017 is yet another effort taken by the University to enhance the knowledge of school students, industry and general public on the fields of engineering and technology through the conduct of educational demonstrations and awareness sessions. It will also help bridge the gap between the University and the corporate sector. The exhibition will feature the final year research projects which explores new dimensions of engineering and technology.   
+
+Life Saving Drones  Team  Insaaf Ismath, Janith Kalpana
+
+The partners in this exhibit stated, “Using this drone you can save the lives of people faster than a normal life saver could. 80% of the time the drone can reach the person faster. In the world around 1.3 million people die because they can’t be reached on time and our drone solves this problem. It is an autonomous drone that can be controlled manually and also has life-saving gear. At the moment we have these rings on the side that the person can hold on to, so that the person has a fighting chance until the life saver arrives.”   
+They further stated that most of the funds came from themselves and from competitions that they’ve won. “As a team we have won 3rd place in the Uva Wellassa Battlebot challenge and 1st place in the Mora Ventures 1.0.”   
+“Funding is an issue because it’s a hardware intensive project so we have to spend on the parts. The major problem is that drones are a new concept to Sri Lanka and it’s difficult to find a good environment to support it and fund it. What we see is that Sri Lanka is very reluctant for new technology. In addition to this we have to consider the taxation in the country. Around 20%-30% of our funds go for taxes. It would be great if there was some mechanism to reduce the taxation on start ups and companies to help them develop their products. Another problem we face here is the fact that the electronic industry in Sri Lanka is very small and there is no scope in the country, which pushes people who are interested in robotics to pursue it elsewhere. We hope to create an environment in Sri Lanka where people will be able to work on their interests within the country in order to develop our economy and the country,” they added.   
+“This exhibition gives exposure to our projects and shows people that we are capable of being innovative and futuristic.”   
+
+ 
+
+I-belt Team  Eranga de Silva, Hasala Sakvithi Rohanawansha and Peshan Sampath
+
+
+“The basic function of the I-belt is to help people with hearing disorder identify a word that a speaker addresses to them along with a sense of direction of sound through vibrational feedback. The I-belt which is a prototype, consists of vibrators fixed into the belt which can currently identify 5 words specifically along with the direction the sound comes from.” Eranga hopes to improve the I-belt further so that the I-belt can read an unlimited number of words in future.   
+Another function of the I-belt is to alert the wearer of the belt of an emergency. The vibrators are set to a threshold level which responds to an emergency sound via feedback once the noise has exceeded the threshold level and alerts the wearer of danger so that he can get to safety or assess the environment for signs of danger.   
+
+
+Eranga stated that the I-belt was built for the Asia pacific design competition for people with hearing disorder, which is annually organized by the IMechE, a UK based organization, which consisted of 3 stages. After successfully facing 2 stages, the team Mavisuru, made it to the final heats which was held on the 30th of April, 2016, at Auckland, New Zealand. Representing Moratuwa University, they were able to secure 1st place in the final heats.   
+
+Nano Particle Size Analyser
+
+Team  Ashen Anuradha, Anjana Ishan and Thisara Sandanuwan Project Supervisor: Dr. Shantha Amarasinghe, Senior Lecturer Materials Engineering Dept.
+
+“What happens in the nano particle size analyzer is that you can analyze the size of a dispersion of particles which is useful in determining various physical properties such as solubility, abrasion,hardness etc. which are important and taken into consideration in various fields such as ceramic ,aerospace ,cement ,pharmaceutical industries etc,” said Ashen Anuradha,   
+ The analyser operates at nano scale but it is modifiable to micro meter or millimetre calliberations depending on the data that is required.
+
+
+
+It is done with a modular design,connecting it to a computer and through the computer a user can interact with the particle analyser and get the required data.  “Our final year projects are funded by the university. So our initial budget is around Rs50 000, however it only covers the labour cost. One barrier was that we had limitations in getting the best quality material due to funding limits. We want to try to develop quality control equipment for our local industry. Through this exhibition we hope to change the mindset of the people and show them that Sri Lanka does not have to get everything from abroad but can produce technology here itself,” he added.   
+
+BrailleBand
+
+Team  Achintha Iroshan, Charith Dushyantha Panangala, Wishwa Perera, Hareen Udayanath and Savindu Herath
+
+
+
+Achintha Iroshan, briefed on the product, ‘BrailleBand’, “It’s a haptic blind support wearable which enables passive reading of text messages through vibrations using the well known Braille language. Connectivity between the BrailleBand and the smart device is established using Bluetooth protocol and data can flow from the phone to the device. As in the Braille alphabet, BrailleBand consists of six nodes in three bands, two nodes per each band which are actuated to give the sense of touch corresponding to the characters which are being transferred from the phone to BrailleBand.”   
+“Investment proves to be a challenge. We can’t sell sight, we can only donate it. So an ordinary business plan is not effective here. We are approaching a subsidized pricing strategy. We are looking for a donor or an investor whose focus should be the impact of the product and not quick money,” he added.   
+
+
+
+They have also emerged victorious as champions in the events SS12 Asia Sri Lanka section competition and SS12 Asia.   
+Achintha mentions the best way that they could improve their product is through the feedback of the public and is hopeful in meeting them to get more feedback on their product by assessing the quality of the product and its value in the greater good of the vision challenged community.  
+
+ 
+
+The D-MORA P1
+
+\Team  SHARK members: Harshana Kelasha, Rajive Wisidagama, Chathura Semasinghe, Sajith Edirisinghe, Nushen Senevirathne, Sachithra Atapattu, Rukmal Danushka, Praneeth Weerathunga, Isuru Mudalige, Induwara Munasinghe, Amith Mudugamuwa, Buddhi Herath, Thushara Sandakalum, Kasun Harshana, Shameen Kamburugamuwa, Navoda Lakshan, Jaliya Chinthaka and Buddhika de Alwis supervised under Mr. Sasiranga de Silva, Lecturer of the Department of Mechanical Engineering.
+
+One of the exhibits, the pride of the Department of Mechanical Engineering is the D-Mora P1. Calling themselves team SHARK, the team created the race car D-MORA P1 under the project MORA FS, to take part in the most established motor sport competition for university undergraduates across the globe, Formula Student, UK, at the Silverstone circuit in 2016 being the first ever Sri Lankan team to take part in this grand event, organized by IMechE, Institute of Mechanical Engineers, allowing undergraduates to design a single seat racing car, build, test and race. Team SHARK, took part in last year’s racing event which hosted 134 teams from 33 different countries. “Our department formed a team, designed and manufactured a car and presented it for 2016’s formula student. DIMO gave the full sponsorship” said one of the members of team SHARK.
+
+The team had to face many barriers during production of the D-MORA P1. “Investment was basically the biggest barrier. Initially we started off selling tickets to the lecturers and teachers within the department to raise the basic funds. Then with the progress we made, the 2008 batch offered us Rs.90, 000. Later on the advanced engineering company sponsored us and we went on until the chassis with their sponsorship. Later through a publication of an article on the newspaper regarding our project, DIMO offered to sponsor us and since then, the full sponsorship has been given 
+by DIMO.”   
+ They also gained the glory of winning three awards, the best individual driver award which was awarded to Induwara Munasinghe, best new comer - class 1 award and last but not least the dedication to formula student 2016 award which indeed adds a feather to team SHARK’s cap.   
+Through the EXMO exhibition they hope to get recognition and globalize their product in society as they pointed out that their popularity is limited only to the field of racing and thus through this exhibition it gives them an opportunity to open up with the value of their product in society. As for their future goals, they hope to take part in the formula student annually with progressive improvements and bring glory to their University and country.   
+
+Protective Garment Line 
+
+ By  Gayan Lakmal
+
+“My exhibit is a line of garments made for agents who are off duty. The US is one of the main countries that combat terrorism with agents from their organizations such as the FBI and CIA. They only have uniforms when they’re are on duty and when off duty they have no garments that would prepare them for threatening situations, which is why I started this line of clothing. Our main target is the US,” said Gayan Lakmal.   
+The clothing that he has prepared has various zips and hidden pockets in order to hide weaponry. He has used a special dye so that the garment changes colour according to the time of day. “I used thermochromic dye, however the proper dye is photochromic dye which is very costly and most of it is funded by me. Most of the funds went in to my research. This will not be accessible in the open market and to be able to purchase and receive it proper identification needs to be shown.”
+
+ 
+
+3D weaving technique
+
+Team  Sandesha Weerasinghe, Vishmitha Osara, Ushan Senerath, and Sisuru Kalhara supervised under Professor Sandun Fernando.
+
+“3D weaving is just like 3D printing. 3D weaving can be used to make solid objects, like tubes, etc. What we made was a technique to produce a 3D woven fabric which is actually a 3D woven structure. The use of this technique seems promising as it can also be used in the fields of aeronautical engineering to replace metal parts with 3D woven materials and in medicine by using 3D woven blood vessels. So the scope is quite large,” said Sandesha Weerasinghe.   
+The team of undergraduates has actually developed a sample fabric using the 3D weaving technique which they will also be show casing at the exhibition.   
+ “Our final year project was funded by the department”. Through EXMO, instead of just promoting their project, the team hopes to promote the textile industry as a whole, stating that “the outlook on the textile industry that prevails in the country is not a good one and people are not fully aware of it. Textile industry is something beyond what we wear.Very big projects require a lot of time and funding. Facilities at the university are limited and should be shared with others. There is a challenge in managing time and resources.” 
+
+ 
+
+‘Amplus’ Digital Sinage Platform 
+
+Team  ‘Bit Masters’ Lakmal Buddika Meegahapola, Chathusha Wijenayake, Madhawa Vidanapathirana, Chanaka Lakmal, Dinuka Salwathura, Charith Eranga
+
+According to Madhawa Vidanapathirana, Amplus is a digital sinage platform which is a small hardware device which can be plugged in to a digital display and is converted into a digital sinage system. “The product has a camera which can detect the crowd and then it can give targeted advertisements. It can identify a person’s gender, emotion and give analytics on whether the ad is having the desired effect on the audience. Our target customers are advertisers, and small shop owners who have digital displays and TVs.”   
+Madhawa further said that most of the funding they were able to get by taking part and winning competitions, one in particular being the 2015 Ideamart Mora Hack which was sponsored by Dialog, after which they were able to get help from them and use their showroom facilities. This helped them a great deal when taking part in the Microsoft Imagine Cup 2016 in which they emerged 2nd place in the World which is considered as the biggest ever victory by an undergraduate group from Sri Lanka at the world stage.   
+Speaking of the difficulties faced he said, “Our biggest concern was how to balance this with our academics and we also had to switch from another platform to this.”   
+“There is a huge potential, because digital sinage is still booming. We are going to demonstrate our product at the exhibition. Right now we are in a better position because we are in our final year. So we can get more contacts and find more parties who can join us and help us,” he said   
+
+Plastic Recycling Project 
+
+Team  Hasitha Sanjeev, Dilini Yapa, Manoli Dissanayake 
+
+
+
+“Our project is about a recycle plant where we take plastic water bottles that people are throwing away and export them to India and get fabric in return,” said the team.   
+“We took part in a competitions called Motor Ventures where we got through the first round. There are more parties who are interested in our product in the light of the recent waste management problems. We have also presented our ideas in a US aid project which is still in the consideration stages and we are yet to hear from them.”   They further said that getting a good capital is difficult in Sri Lanka and that through this exhibition they hope to interest investors and show people what they are capable of making. “Exhibition-wise we are getting a lot of support, however after the initiation stages finding support in Sri Lanka will be very difficult.”   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+		

@@ -1,0 +1,39 @@
+## Title: The Technology behind VAR
+## Supertitle: 
+## Section: Sports
+## Date: Tuesday, June 19, 2018 - 01:00
+
+The Technology behind VAR
+
+Football fans still remember the 1986 World Cup quarter-final match between England and Argentina for one of the most controversial goals in soccer history, the ‘Hand of God’ goal by Diego Maradona. The goal changed the result of the tournament. But had VAR (Video Assistant Referee) been there at that time, it might have altered the entire course of the game.
+VAR has become one of the most widely discussed subjects in the sports world ever since the news of its use in the World Cup 2018 has released. But what exactly is VAR? Let’s find out more about VAR, the technology behind it, and how it is going to transform the face of the game.
+WHAT IS VAR?
+VAR stands for Video Assistant Referee. As the name suggests, video replays are used to review certain decisions made by the main referee to eliminate serious human errors and make the game as fair as possible.
+The Video Assistant referee is a team of 3 people – video assistant referee, his assistant, and a replay operator. The three team members work in unison to review the relevant incidents in a video operating room.
+The VAR technology in its present form was first used in a competitive match between Brighton vs Crystal Palace in the FA Cup in January 2018. But video technology was used for the first time in World Cup in 2014.
+It is called the goal-line technology, and it has revolutionized the way decisions about goals are made.
+TECHNOLOGY BEHIND VAR
+As mentioned already, VAR is a team comprising 3 people, who sit in the video operating room, where they can watch the events on the ground on a number of monitors. They can view a particular incident from different angles on the monitors to come to an error-free judgement.
+The entire process involves 3 steps – incident, review/advice, and decision. In the first step, when the incident occurs, the referee informs the VAR or the VAR suggests the referee that the incident or the decision needs to be reviewed.
+In the second step, the actual review of the incident takes place. The VAR reviews the event and advises the referee through the headset. Finally, the referee either decides to review the video footage of the incident himself on a pitch-side monitor or accepts the advice given by VAR and takes a decision accordingly.
+The process of reviewing a decision can be initiated by the referee. The VAR team also has the authority to suggest a review. But referees will have the final authority to decide whether to change their original decision.
+The original decision will be overturned only in the event of a ‘clear and obvious’ error of judgement in one of four game-changing scenarios:
+(i) GOALS (VAR will help the referee decide whether a goal should or should not be awarded)
+(ii) PENALTIES (VAR will help do away with wrong decisions made regarding the award of a penalty)
+(iii) STRAIGHT RED CARDS (VAR’s role is to ensure that no wrong decisions are taken in this regard)
+(iv) MISTAKEN IDENTITY (VAR will correct the referee if he sends off the wrong player due to mistaken identity)
+PROS OF VAR
+Although the VAR system is not free from flaws, it can have a huge impact on enhancing the credibility of the game by reducing the instances of grave mistakes made by referees, which can have serious consequences for teams and also for the game.
+Many times, errors in judgement can be attributed to the inability of the referee to view the entire incident from the correct angle. Video can be of immense help in this regard.
+Finally, football players will think twice before trying to deceive the referee by pretending an injury or falling on the ground intentionally to get penalties or dismissals, by giving the impression that a foul has been committed.
+CONS OF VAR
+Despite its many advantages, concerns have been expressed by many, especially by football fans that the application of VAR system will slow down the game, affect its fluidity and the thrill and the excitement that come with it.
+Many experts also feel that VAR may eventually undermine the role of the referee. The entire process can take up a lot of time, which may frustrate the audience.
+Moreover, every contentious issue cannot be sent for a review, as this will take up a lot of time.
+Therefore, the referee has to make a decision regarding which incident should or should not be sent for a review, which too can become controversial at times.
+There is yet another school of thought which feels that VAR may diminish the beauty of the game. The flaws and human errors are a part of the game and add to its beauty. They make the game more thrilling and exciting.
+CONCLUSION
+Only time will tell what and how much impact the VAR technology will be having on the game. Some teething problems will be there for a while, but eventually, the system will evolve and help make football as error-free as possible.
+When all other sports are adopting technology to ensure fairness in the game, football cannot afford to lag behind.
+It too has to evolve and apply technology to its advantage without reducing the thrill and glamour associated with the game.
+– Techstory

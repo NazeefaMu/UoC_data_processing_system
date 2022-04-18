@@ -1,0 +1,22 @@
+## Title: Sampath Bank’s IT innovations receive international recognition
+## Section: Financial News
+## Date: 27 October 2015 06:30 pm
+
+Sampath Bank’s IT innovations receive international recognition
+
+
+	
+
+Sampath Bank representatives receive the Runner-up Award for Product and Service Innovation at Infosys Finacle Global Banking Innovation Awards 2015 
+Sampath Bank, a name synonymous with innovation in Sri Lanka’s financial sector, was duly recognized for technological innovation when its Cardless Cash product was honoured with the Runner-up award for ‘Product and Service Innovation’ at BAI - Infosys Finacle Global Banking Innovation Awards 2015 held in Bangalore, India recently. 
+BAI - Infosys Finacle Global Banking Innovation Awards 2015 is an annually held event to recognize the world’s most innovative financial services companies positively impacting the profitability, efficiency and customer experience in the retail banking industry around the world. 
+‘’At Sampath Bank, we have always focussed our efforts on technological innovation in order to present a convenient banking experience to our customers. Since the introduction of the multi-point network of automated teller machines (ATMs) and the popular SET card in 1988, we have introduced many innovations in multiple areas that matter most to the customers. 
+Our Cardless Cash product is one such innovation that was purely conceptualized on customer convenience. It is indeed encouraging to be recognized on an international platform such as the BAI - Infosys Finacle Global Banking Awards and we are humbly proud of this great achievement,’’ said Sampath Bank Chief Manager IT Ananda Wijitha. 
+Sampath Cardless Cash allows customers to perform ATM transactions without the use of an ATM card. While ATM transactions are usually processed through identification of the customer by the ATM card followed by the authentication of the customer by the personal identification number (PIN), this groundbreaking Sampath Cardless Cash product breaks this normality with the offering of two options for the customer, which are the ATM card PIN option and One Time Pin option (OTP).       
+The ATM card PIN option simply requires customers to provide their National Identity Card number excluding the last digit followed by the PIN used for the ATM card. As the NIC number is a unique sequence of numbers assigned to every Sri Lankan citizen, the link between the NIC and the ATM card is therefore used for the purpose of transactions during which the NIC number entered on the ATM is converted to an ATM card transaction through internal data. 
+On the other hand, the One Time Pin option further gives customers the opportunity to initiate a cardless cash transaction in the event the customer has forgotten his ATM card. This life-saving option allows customers to request an OTP via mobile phone enabling the customer to initiate a cardless cash transaction via mobile phone.  
+Now in its fifth year, Infosys Finacle Global Banking Innovation Awards is a global awards programme that honours pioneering financial services companies that accelerate innovation, create leading products and enhance customer experience. With more than 250 nominations submitted from over 34 countries, the BAI - Infosys Finacle Global Banking Innovation Awards recognizes winners in nine significant categories. 
+Winners are selected by the BAI - Infosys Finacle Innovation Circle Judging Panel, a distinguished international group of prominent industry thought leaders and retail banking professionals who evaluate the nominations based on originality and impact. This prestigious global awards programme provides organisations with a platform and opportunity to showcase their vision, discipline and resources in developing revolutionary innovations that are positively making a difference for customers. 
+Further remarking on this significant achievement, Wijitha said, “At Sampath Bank, we place utmost importance on developing products and services that exclusively cater to customer convenience, one of the prime needs of a satisfied customer. We further make it a point to commit and go beyond the norms of the banking industry to continuously etch the values of customers in the heart of all the operations carried out by the bank.” 
+
+		

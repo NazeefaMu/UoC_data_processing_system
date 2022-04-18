@@ -1,0 +1,281 @@
+## Title: 903 foreign nationals nabbed  for violating visa requirements
+## Section: Breaking News
+## Date: 22 May 2015 02:35 pm
+903 foreign nationals nabbed  for violating visa requirements
+	
+As many as 903 foreign nationals were arrested last year in connection with their engagement in religious propaganda activities, employment and business after arrival in the country on tourist? visa, Parliament was informed today.
+Public Order and Christian Religious Affairs Minister, John Amaratunga gave these details to the House in response to a question by UNP MP Buddika Patirane.
+These persons were from? countries such as Pakistan, India, Bangladesh, Afghanistan, China, the United States of America, Britain, Canada , France, Germany, Egypt, France, Norway, Netherlands, Philippines,? and Saudi Arabia.
+The Minister informed the House that action had been taken to amend the Immigration and Emigration Law No 20 of 1948 to deal with this phenomenon effectively in the country in future. 
+		
+==============================
+## Title: ComBank leads providing social inclusion with Digital Banking
+## Section: Financial News
+## Date: 22 May 2015 02:35 am
+ComBank leads providing social inclusion with Digital Banking
+	
+The Commercial Bank of Ceylon PLC has witnessed phenomenal growth in the use of the Bank?s Digital Banking services over the past three years, and now has arguably the largest proportion of customers using this channel among Sri Lankan banks.?
+In this interview, the Bank?s Chief Information Officer Rohan Muttiah illustrates how the use of information technology is growing and evolving, and what is in store for the future.Excerpts:Banks are increasingly focusing on technology enabled products and services, and in Sri Lanka, Commercial Bank is a leader in this sphere. How successful is the transition from the traditional approach to technology enabled banking services?Technology enabled banking and payments have been in use for many years, common examples being automated teller machines (ATM), and credit and debit cards. However the focus today is to use newer technology to support ?anytime, anywhere? customer banking encompassing a wide array of services, something Commercial Bank has been very successful at.?
+Over the past three years, we have added more than 200,000 Mobile Banking customers and 110,000 Online Banking customers. The number of mobile banking customers alone has tripled over the past year.To what do you attribute this success?
+The growth of mobile and online banking can be attributed to a combination of factors. Since 2009 the number of mobile data connections in the country has grown rapidly.?
+The Bank has also significantly improved its Digital services over the past three years. We have a new generation online banking system through which previously complex transactions can now be done with ease by both retail and corporate customers. ?Our mobile banking ?apps? for iOS and Android devices recognize the growth in Smartphone adoption fueled by changing demographics and socio economic status, and lower handset prices. ?Our support for banking services that can be accessed through USSD extends ?anytime, anywhere? banking to even the most basic mobile phones used by more than 60 percent of our population. ?Given that the role of technology in banking seems to be evolving rapidly, how does Commercial Bank deal with this?
+Sometimes I reflect on the impact the introduction of the Abacus had all those centuries ago. ?
+Customer-friendly, accessible, low-cost, and efficient - the Abacus did everything in its time that we still need to do, albeit faster and better today. ?While technology has always evolved rapidly, the big challenge for banks is the rapid rate of technology adoption by our customers that is allowing them to define how they want to be served. ?While keeping our approach to core infrastructure flexible so we can leverage Cloud and ?anywhere, anytime? technologies, we give a lot of thought to how a customer wants to engage with us, and plan our technology investments accordingly.How much does the bank invest annually in technology?
+Our investment varies each year depending on our plans. ?However as a general rule an organization with similar revenue to us should look at a technology investment of between 3 percent and 8 percent of revenue each year, providing this allows it to reduce its overall Cost: Income ratio through cost reduction and new revenue.Is there a particular area of banking where technology is a key differentiator?
+Banking & Payments must be convenient and this is where technology must be a differentiator. ?Online and Mobile channels allow customers to engage at their convenience. ?However these are now mature channels and customers expect them to be a real alternative to a Branch, offering more sophisticated and complex transactions, all in a very secure and simple way. ?In addition, traditional customer segments are becoming blurred and customers also tend to have multiple banking relationships ? therefore, there is an urgent need to provide ?personalisation? so that a bank can retain a larger share of a customer?s wallet. ?This in turn requires a grasp of Customer Analytics, and investments in related technology and human resources.Are access to IT and IT literacy levels in Sri Lanka adequate for optimal use of the technology offered by the Bank?
+IT literacy in the country has continued to rise through Government, CSR, and NGO programmes. ?Affordability of mobile handsets and connections has also made technology more accessible. ?In fact, a very large segment of users of our Digital Channels is from outside the Western Province.?
+While these have played a big part in younger customers flocking to our Digital Channels, we have also given a lot of thought to ?consumerising? banking technology by making it easy to use, so that older customers also benefit from ?anytime, anywhere? banking without the need for high IT literacy. ?When the Bank conducted a campaign to promote mobile banking, the two highest numbers of enrolments were from Embilipitiya and Jaffna.Besides convenience, what other benefits does technology confer in banking?
+From our customers? point of view, the principal benefit of technology is convenience. Consequently this is also the prime motivator for Commercial Bank.?
+However, the right choice of technology allows personalization and operations efficiency translating to being able to anticipate customer needs and doing more with less. Also as we have demonstrated, right ?size? technology allows financial inclusion across the country and market expansion.
+??Social, Mobile, Analytics, and Cloud commonly referred to as SMAC are being put forward as pillars that an organization needs to align its technology to. ?What is Commercial Bank?s position?
+SMAC has at times been trivialized with suggestions that it could be delivered through a non-technology agenda. ?This has had the unfortunate effect of SMAC being tarnished as hyperbole. ?S
+MAC however, is an essential consideration for technology. ?The global Social Media community is now larger than the population of China, and in Sri Lanka it is estimated at over 2 million. ?Similarly, mobile telephone penetration in Sri Lanka is close to 100 percent of the target market. ?It is also generally understood that the majority of users of both Social and Mobile are ?Gen Y? ? our fastest growing customer segment. ?
+The combination of Social and Mobile therefore makes a compelling case for delivering Banking & Payments through these channels. ?Analytics is the vehicle for ?personalisation,? the importance of which I already referred to. ?However while there is a wide choice of technology to support Analytics, there is a dearth of knowledge on how to properly harness Analytics to achieve desirable business objectives. ?The Cloud underpins Social, Mobile, and Analytics and is what makes ?anytime, anywhere? access easier. ?With the explosion in data created by customer behavior, it is becoming harder to cost-effectively provision internal infrastructure and the Cloud is a viable alternative. ?While there are information security considerations that arise with the Cloud, these are fundamentally not very different to what is already being faced ? the exception to this is data sovereignty in the case of transnational Cloud Services. ?Is the entry of alternate providers such as Telcos and technology start-ups in to the sphere of banking and payments a threat to banks??
+The CEO of SWIFT, Gottfried Liebrand, said two years ago that what kept him awake at night metaphorically was the threat of disintermediation. ?This statement from such an august spokesperson is the strongest possible indication of the change taking place in Banking & Payments. ?While advances in technology have contributed towards this change, the rapid adoption of mobile technology along with its associated lifestyle by customers is what has accelerated the opportunity for disintermediation.Where do you see the biggest potential for disintermediation?
+Convenience, lower cost, and novelty can encourage customers to seek alternatives. ?Mobile Payments is an area that affords higher convenience and consequently we have seen active involvement by telcos and their large captive customer bases. ?
+Overseas, Crowd Funding and Peer-to-Peer Lending offer lower interest rates on loans as their low cost operating model is profitable with smaller interest rate spreads. ?The novelty of ?Gamification? in Financial Planning while at an early stage, provides an opportunity for the entry of Aggregators. ?In summary, while disintermediation may pose some threat to revenue, it does not remove banks from the value chain. ?Ultimately, the threat of disintermediation is becoming a catalyst for banks to re-invent themselves.So, what then, is in the technology pipeline for Commercial Bank?
+Commercial Bank has always been known for customer convenience and we use technology in an understated but effective way to deliver this. ?We have arguably the largest proportion of customers using Online and Mobile channels amongst Sri Lankan banks. ?Our concept of Automated Branches has received strong customer interest. ?Our ATM and Kiosk network continues to grow with the former being enjoyed by many customers of other banks as well. ?The introduction of a Payment Hub earlier this year was a first for South Asia, and offers importers and exporters unparalleled service. ?We plan to leverage the National Payment Switch to extend our payment services geographically and to newer channels, and to also provide real-time inter-bank payments.
+? 
+		
+==============================
+## Title: Video: Committee to probe fraud and corruption in Ports Authority
+## Section: Breaking News
+## Date: 22 May 2015 01:54 pm
+Video: Committee to probe fraud and corruption in Ports Authority
+	
+Ports, Shipping and Aviation Minister Arjuna Ranatunga said today the ministry had decided to appoint a committee headed by President's Counsel, Nalin Ladduwahetty to probe fraud and corruption in the Ports Authority.
+Minister Ranatunge said the committee would look into whether any fraud or corruption had occurred in purchasing? machinery and other equipment such as cranes and fork lifts and would submit a full report within three months.
+He said the probes into? fraud and corruption was delayed because they wanted to study the methodology of the ports authority and launch investigations while the authority was brought back to the correct path.
+Mr. Ranatunge said? the trade unions attached to the Ports Authority and its employees had assured him that they would support the investigations and provide necessary documents.
+He said the report would be handed over to the President, Prime Minister and Attorney General?s Department and added? it would be handed over to the Bribery Commission also if needed.WATCH 
+		
+==============================
+## Title: Failed SL refugee claimant gets reprieve
+## Section: Breaking News
+## Date: 22 May 2015 02:23 am
+Failed SL refugee claimant gets reprieve
+	
+	A Sri Lankan man who arrived in B.C. aboard the cargo ship MV Sun Sea in the summer of 2010 and claimed refugee protection for fear of political prosecution has been granted a judicial review of his case in his fight to remain in Canada.
+	Federal Court of Canada Justice James O?Reilly granted the review to Packiyakumar Pathmanathan after a panel of the Immigration and Refugee Board previously dismissed the man?s claim, saying his life would not be at risk upon return to Sri Lanka.
+	The board accepted that Pathmanathan might be questioned for potential links to the Liberation Tigers of Tamil Eelam (LTTE) but said he had not shown any association to the now defunct guerilla organization. Pathmnathan?s claim was based on the concern he would be perceived by Sri Lankan authorities that he was associated with the group and become a victim of cruel and unusual punishment in Sri Lanka.
+	In his May 15 ruling delivered in Vancouver, O?Reilly wrote that the board did not cite any documentary evidence dealing with the treatment of passengers on the MV Sun Sea or the MV Ocean Lady, another vessel that brought refugee claimants to Canada from Sri Lanka.
+	?That evidence showed that both Sri Lankan and Canadian authorities have accused passengers of having an association with the LTTE,? he wrote. ?It is clear, even on the evidence cited by the board that persons suspected of having ties to the LTTE, including failed refugee claimants, face a risk of torture or mistreatment on return.?
+	The evidence suggests, contrary to the board?s finding, that Pathmanathan would likely be questioned upon his return about a possible link to the LTTE, said O?Reilly, adding that ?had the board considered the relevant evidence and still found a basis for dismissing Mr. Pathmanathan?s claim, its conclusion would merit considerable deference.?
+	Added O?Reilly: ?However, in the absence of that analysis, I find that the board?s decision does not fall within the range of defensible outcomes, based on the evidence and the law. Since the separate issue of Mr. Pathmanathan?s credibility regarding his past in Sri Lanka will have to be re-determined at a new hearing, it is unnecessary for me to comment on the board?s findings here.?
+	In hearing Pathmanathan?s refugee claim, the board concluded that it didn?t believe the man?s account of events that led to him being intercepted by authorities off the coast of B.C. It pointed to a number of areas of his evidence ?that were implausible, as well as inconsistencies in his testimony.?
+	O?Reilly?s decision means the judicial review will also include another panel of the board to reconsider Pathmanathan?s claim. Pathmanathan was one of almost 500 Sri Lankan Tamils who were aboard the MV Sun Sea, which eventually was docked in Esquimalt. (vancourier)
+ 
+		
+==============================
+## Title: Fitch affirms Sanasa Bank at ?BB+(lka)?/Stable
+## Section: Financial News
+## Date: 22 May 2015 02:38 am
+Fitch affirms Sanasa Bank at ?BB+(lka)?/Stable
+	
+		 		 
+		 
+			
+Fitch Ratings Lanka has affirmed Sanasa Development Bank PLC?s (SDB) National Long-Term Rating at ?BB+(lka)?. The Outlook is Stable.
+The rating captures SDB?s high exposure to the retail and lower-end SME segments, its weak asset quality, and pressure on capitalisation due to strong loan growth. The rating also reflects its above-average net-interest margins (NIM) stemming from its high-yielding loan book. The rating is constrained by SDB?s high costs, which ultimately limit profitability.
+SDB?s loan book expanded by 17 percent in 1Q15, following growth of 44 percent in 2014 and 14 percent in 2013.?
+Its Fitch core capital ratio declined to 13.96 percent at end-March 2015 from 14.90 percent at end-2014 and 14.27 percent at end-2013 despite an equity infusion in late 2014. This was primarily due to the rapid expansion of its loan book. Fitch believes that continued high capital consumption could lead to further deterioration in capital ratios, if internal capital generation proves insufficient or if there is no capital injection.
+Of the bank?s gross loans at end-2014, 95 percent were to retail and SME customers, which, in Fitch?s view, are riskier in nature due to their greater vulnerability to economic cycles, and could to lead to an increase in the reported NPL ratio, which stood at 3.5 percent at end March 2015 (2014: 3.8 percent, 2013: 5.1 percent), should economic conditions worsen.
+SDB?s loan-to-deposit ratio was also a casualty of rapid loan growth, crossing 100 percent in 2014 (2013: 97 percent) and higher than its peers. Deposits remained the primary source of funding, although its share in total funding declined to 87 percent at end-2014 from 93 percent at end-2013. Fitch believes that SDB will rely more on borrowings to fund its above-average growth in the future.
+SDB?s return on assets improved to 1.92 percent in 1Q15 (2014: 1.49 percent, 2013: 0.91 percent) mainly due to higher NIM. Profit for 2014 was also supported by capital gains from the sale of stock investments. Fitch believes higher operating costs due to branch expansion and a potential increase in credit costs could hamper profitability.
+Aggressive loan growth that could increase capital impairment risks, either through greater unprovided NPLs and/or a continued deterioration in capitalisation without adequate internal or external capital augmentation, could lead to a downgrade of SDB?s ratings.
+A rating upgrade is contingent upon fundamental improvements in its asset quality and moderation of its risk appetite while expanding its asset base. 
+		
+==============================
+## Title: Fitch withdraws Pradeshiya Sanwardhana Bank?s rating
+## Section: Financial News
+## Date: 22 May 2015 02:36 am
+Fitch withdraws Pradeshiya Sanwardhana Bank?s rating
+	
+		 		 
+		 
+			
+Fitch Ratings Lanka has withdrawn Sri Lanka-based Pradeshiya Sanwardhana Bank?s (PSB) National Long-Term Rating of ?BBB+(lka)? with Stable Outlook.
+Fitch said it was withdrawing the rating as PSB has chosen to stop participating in the rating process.?
+Therefore, Fitch will no longer have sufficient information to maintain the rating.?
+Accordingly, Fitch will no longer provide ratings or analytical coverage for PSB. 
+		
+==============================
+## Title: HNB Assurance March quarter net falls; GWP up by healthy 20%
+## Section: Financial News
+## Date: 22 May 2015 02:43 am
+HNB Assurance March quarter net falls; GWP up by healthy 20%
+	
+The net profit of the Hatton National Bank Group Insurance subsidiary, HNB Assurance PLC fell 71 percent to Rs.15.5 million for the quarter ended March 31, 2015 (1Q15) from a year ago.?
+The performance weakened due to the rise in benefits, claims and expenses paid during the quarter.?
+Accordingly, expenses rose 17 percent year-on-year (yoy) to Rs.1.3 billion for the 1Q15.?
+The earnings per share lost 71 percent to 31 cents.?
+However, the top line measured by the total Gross Written Premium (GWP) rose by a healthy 20 percent yoy to Rs.1.37 billion.?
+The general insurance GWP rose 29 percent yoy to Rs.743 million while life insurance GWP rose 20 percent yoy to Rs.1.37 billion.?
+Meanwhile the other incomes of which a larger chunk consists of interest and dividend income grew by 2 percent yoy to Rs. 202.3 million.?
+?The strong growth seen in both lines of business is very promising as our focused efforts to develop identified areas are beginning to meet expectations. We believe that both companies are now well positioned to maximize the potential market opportunities and expand their presence, while creating sustainable value to all stakeholders.? Acting CEO Niranjan Manickam said.
+HNB Assurance became a group of companies as a result of its composite insurance business being split in to life and general businesses following the insurance regulator?s instructions.?
+As a result the company spun off its general insurance business in to a 100 percent subsidiary, HNB General Insurance Limited on March 20, 2014.?
+Now the company has a stated capital of Rs.1 billion and has received an insurer financial strength and national long term rating of ?A? from Fitch, in line with the parent company.?
+It is estimated that companies with higher exposure to life segment may see superior bottom line growth supported by a smaller base going forward as the life segment growth will outperform the general insurance with the increasing income levels of the people.?
+However in 2014, life sector growth slowed down to 9 percent from 10 percent a year ago.?
+Sri Lanka?s life insurance penetration stands woefully low at just above 0.5% of GDP (based on GWP). According to the independent researcher, Capital Alliance Research this is expected to grow 16 percent every year (CAGR) to reach 0.9 percent by 2018.?
+Life insurance GWPs in the Sri Lankan insurance industry stood at just above Rs.40 billion by end 2013.?
+According to analysts, the future for life insurers could become promising due to a combination of factors which includes rise in per capital income levels, lower interest rates, ageing population and longevity as they will remain as a part of the workforce for a longer period.?
+Health insurance is also another area which could take off with the increasing consciousness on maintaining good health and the growing private health care facilities in the country.?
+Meanwhile Sri Lanka?s general insurance penetration is also at 0.61 percent of GDP against the region?s 1.9 percent. General insurance segments growth slowed down in 2014 to 4 percent from 9 percent in 2013.?
+In 2014 the total insurance market grew by just 6 percent.?
+Sri Lankan insurance sector in recentl times has been undergoing some drastic changes, mostly driven by the regulator and one such requirement is to move in to a Risk Based Capital (RBC) model.?
+HNB Assurance is ready to move into RBC model with effect from January 1, 2016.?
+According to the company?s ex-CEO, Manjula De Silva, the company would look at facilitating the entry of a strategic investor who may be able to add value to the business by providing access to technical expertise and global best practices.
+As of March 31, 2015 Hatton National Bank PLC held 59.99 percent stake in the company being the single largest shareholder.? 
+		
+==============================
+## Title: HNB offers convenient transactions for Continental Insurance customers
+## Section: Financial News
+## Date: 22 May 2015 02:41 am
+HNB offers convenient transactions for Continental Insurance customers
+	
+Continental Insurance Lanka Ltd (CILL) customers can now use Hatton National Bank?s (HNB) internet and mobile banking platform and island wide Customer Centre network to carry out transactions for property, motor, marine and general accident insurance products of CILL.
+This has been made possible through a payee partnership between HNB and Continental Insurance Lanka Ltd (CILL), which allows CILL customers to select their preferred mode of transaction from a range of Electronic Digital Channels of HNB, which include internet and mobile banking.
+Furthermore, the staff of HNB will ensure personalized service for CILL customers who prefer to use traditional banking channels when they visit the 249 HNB Customer Centres around Sri Lanka.
+Continental Insurance has enhanced its focus on internet and mobile banking due to the ever growing popularity of the internet and the increased use of smart phones across the country. HNB is the premier technology bank in Sri Lanka with its strategic focus on the development of Electronic Delivery Channels. Building on this partnership, HNB and Continental Insurance have planned several joint promotions in the months ahead.
+Continental Insurance Lanka Ltd, a fully owned subsidiary of the DCSL Group, is committed to providing world class levels of service in its journey to become the No. 1 insurance provider in Sri Lanka. The DCSL Group is one of the premier blue chip companies of Sri Lanka, and also has the distinction of being listed in Forbes Asia?s ?200 best under a US$ Billion? three times.
+Hatton National Bank is a premier private sector commercial bank with the largest branch network among private sector commercial banks, spread across the length and breadth of Sri Lanka and caters to all segments of the market through its diverse product and service offering.?
+The Bank is also involved in insurance and capital market operations in the country through its Group companies. During 2014, the Group assets surpassed Rs 600 billion, while the Group recorded a post-tax profit of over Rs 10 billion for the year.? 
+		
+==============================
+## Title: 'Hotel Show 2015'
+## Section: Caption Story
+## Date: 22 May 2015 04:11 pm
+'Hotel Show 2015'
+	
+The hotel and hospitality exhibition, Hotel Show-2015 was launched today at the BMICH in Colombo by President Maithripala Sirisena. Hotel equipments and a number of other services are available at the exhibition. Pix by Kithsiri de Mell
+==============================
+## Title: I won?t give up- Hirunika
+## Section: Breaking News
+## Date: 22 May 2015 03:14 pm
+I won?t give up- Hirunika
+	
+Provincial Councillor Hirunika Premachandra who attended the hearing of the murder of Bharatha Lakshman Premachandra case said filing the case in the High Court was a great achievement.
+Ms. Premachandra said she would not rest until those responsible for her father?s death were brought to justice.
+?We didn?t have faith of anything happening under the previous government, but I believe justice will be meted out,? she said.
+? 
+		
+==============================
+## Title: Jaffna police top brass transferred
+## Section: Breaking News
+## Date: 22 May 2015 10:31 am
+Jaffna police top brass transferred
+	
+SSP, SP and ASP of the Jaffna division and the HQIs of Kayts and Jaffna police stations have been transferred with immediate effect, police said.
+They have been transferred on service requirements with the approval of public order ministry secretary.
+? 
+		
+==============================
+## Title: <U+200B>Video: No evidence to prove my guilt -Duminda
+## Section: Breaking News
+## Date: 22 May 2015 12:45 pm
+<U+200B>Video: No evidence to prove my guilt -Duminda
+	
+Parliamentarian Duminda Silva said today there was no evidence to convict him of the murder of Bharatha Lakshman Premachandra.
+Speaking at the end of the court hearing today, Mr. Silva said there were allegations against him but no evidence to support it.
+?This is a media circus and certain parties want to move the case forward. I know I am not guilty. The 19th Amendment was passed in parliament and has been enacted by the President and I believe the Courts will ensure justice,? he said. (SD)
+?Video by Sanath Desmond 
+		
+==============================
+## Title: <U+200B>One-way traffic plan in Kirulapone
+## Section: Breaking News
+## Date: 22 May 2015 03:05 am
+<U+200B>One-way traffic plan in Kirulapone
+	
+	A one-way traffic plan will be implemented from today on all working days between4.15 p.m.and 6.30 p.m.along Park Road, Park Lane and Isipathana Mawatha, Police said.?
+They said vehiclestravelling fromBaseline Road via Park Road would be allowed to drive through Park Lane and Isipathana Mawatha when entering Havelock Road.
+Vehicles from Havelock Road will only be permitted to drive up to Park Lane towards Baseline Road.?
+Vehicles from Havelock Road via Dickman?s Road traffic lights will not be permitted to enter Isipathana Mawatha but will have to go through Park Lane after entering Park Road. 
+		
+==============================
+## Title: Orient Finance and Bartleet Finance await SEC approval for amalgamation
+## Section: Financial News
+## Date: 22 May 2015 02:39 am
+Orient Finance and Bartleet Finance await SEC approval for amalgamation
+	
+		 		 
+		 
+			
+Orient Finance PLC and Bartleet Finance PLC said yesterday that they were awaiting Securities and Exchange Commission (SEC) approval to carry out the proposed amalgamation of the two entities.
+They said they have received Central Bank approval to amalgamate their businesses and operate as a single entity from this April.
+Both Orient Finance and Bartleet Finance are subsidiaries of Janashakthi PLC.?
+According to the two companies, once SEC approval is granted, they will seek shareholder approval for the amalgamation in line with the provisions in the Companies Act.
+Bartleet Finance PLC will be the surviving entity after the amalgamation. 
+		
+==============================
+## Title: Video: Over 60 sign no-confidence motion against PM - Dullas
+## Section: Breaking News
+## Date: 22 May 2015 08:23 am
+Video: Over 60 sign no-confidence motion against PM - Dullas
+	
+	UPFA MP Dullas Alahapperuma said today the no-confidence motion against Prime Minister Ranil Wickremesinghe so far signed by more than 60 MPs including 14 ministers, deputy ministers and state ministers would be handed over to the Speaker next week.
+	He said they were sure to receive the support of a majority of MPs and that it would be significant being the only no-confidence motion submitted against a prime minister with a majority in parliament supporting it.
+	?Only two no-confidence motions have been submitted against some former Prime Ministers but the two motions were defeated on a majority vote,? Mr. Alahapperuma said.
+	He said the no-confidence motion will state the fact that he was a prime minister with a minority support in parliament and had allegedly caused a crisis in the national economy.
+	Mr. Alahapperuma said it was time for the SLFPers who joined the government to take a stand if they really love and are loyal to the party just like the four ministers who resigned their portfolios.
+	He said their resignations were influenced by the dissolution of local government bodies.
+	?The SLFPers should be loyal to the party at a time when its image is being tarnished or its unity is at risk,? Mr. Alahapperuma said.
+	He said the traditional relationship between the UNP and the SLFP earlier likened to that between an elephant and a goad is now being likened to an elephant and a wood apple. (Ajith Siriwardana)
+WATCH ? 
+		
+==============================
+## Title: Shangri-La launches luxury apartment twin towers
+## Section: Caption Story
+## Date: 22 May 2015 04:50 pm
+Shangri-La launches luxury apartment twin towers
+	
+Hong Kong based global hospitality giant Shangri-La launched its luxury twin towers in Colombo today. Pix by Pradeep Dilrukshana
+==============================
+## Title: Tender bender over Gas
+## Section: Political Gossip
+## Date: 22 May 2015 05:22 am
+Tender bender over Gas
+	
+	The Litro gas company has recently called tenders for the supply of 190,000 MT of LPG.
+It was a public sealed tender and as per usual procedures was not opened in front of the participants- which clearly should have been the case if transparency was to be adhered to which itself is a deviation from Government Tender procedure.
+The company that supplied LPG to the Litro Gas during the last regime ? a firm? ?O... Trading? - was said to be closely involved with a big wig of the company one Small-Balage who is now under the microscope of those probing corrupt acts.
+He is said to have siphoned off millions of Dollars by adding very high freight charges for all LPG imports thereby causing undue financial pressure to all citizens of the country.
+Therefore it is being said that corrupters such as the concerned firm be black listed and not allowed to quote for the current and future tender requirements at the Litro Gas. Internal sources also say although the Minister and the Chairman have changed all other management and technical staff, the financial staff remains the same inclusive of the security staff who were appointed by the Small-Balage.
+It is pointed out that the gas tender is expected to be approximately U$D 120 Million. This is not something that should be taken lightly and awarded to those who should be black listed or have tried to price corner the Sri-Lankan consumer in the past.
+? 
+		
+==============================
+## Title: TN Chief Minister resigns
+## Section: Breaking News
+## Date: 22 May 2015 04:52 am
+TN Chief Minister resigns
+	
+	Tamil Nadu Governor K Rosaiah accepts the resignation of Chief Minister O Panneerselvam and invites AIADMK chief Jayalalithaa to form the new government.
+	Raj Bhavan statement says: The Governor of Tamil Nadu has invited Selvi (Ms) J Jayalalithaa to form the Ministry at the earliest and requested her to send the list of persons to be appointed as Ministers with portfolios.
+	Panneerselvam announces his resignation as chief minister, ending his nearly eight-month-long stint. Panneerselvam was sworn-in as chief minister on September 29 last year, two days after Jayalalithaa was unseated from the post when the trial court in Karnataka convicted her in a graft case. She was automatically disqualified from being a member of the Assembly and contesting elections for 10 years from that time.
+	"I have resigned as Chief Minister," Paneerselvam told party MLAs at the meeting convened to elect Jayalalithaa as the legislature party leader, paving her way to return at the helm.
+	Days after her acquittal by Karnataka High Court in a disproportionate assets case, AIADMK supremo J Jayalalithaa unanimously elected as the legislature party leader, setting the stage for the 67-year-old to return as the chief minister of Tamil Nadu again.
+	After Jayalalithaa's unanimous election as the legislature party leader, the AIADMK is most likely to make an official announcement of her comeback as Tamil Nadu chief minister in a short while. Jayalalithaa is expected to meet Tamil Nadu Governor K Rosaiah later today and stake claim as chief minister.
+	According to reports, the AIADMK supremo is most likely to take oath as chief minister tomorrow.
+	Jayalalithaa likely to make a public appearance later today.
+	Later in the day, Jayalalithaa would offer floral tributes at the party founder late MG Ramachandran's (MGR) statue, DMK founder late CN Annadurai's and Dravidar Kazhagam founder late EV Ramaswamy's statue in Chennai.
+	In a statement issued recently, Jayalalithaa had said that those things desired by her party cadres would happen at the right time and "nobody can stop" it.
+	Those who have tried to defeat me have never succeeded. Rumours are being spread by them with an intention to ensure their political survival," she had said.
+	The party chief asked her cadres to ignore rumours and said AIADMK had walked a path of discipline and planned strategies.
+	"We are at the cusp of victory after crossing all the hurdles. Our politics and administration should be based on legal principles and guidelines. That is how we have been functioning."
+	"That is why, our successive steps are being taken according to a planned itinerary. There is no confusion regarding this; no problems," she had stated. (Zee news)
+ 
+		
+==============================
+## Title: Video: Vasu a dried pumpkin - Ranil
+## Section: Breaking News
+## Date: 22 May 2015 09:24 am
+Video: Vasu a dried pumpkin - Ranil
+	
+Prime Minister Ranil Wickremesinghe today hit back at UPFA MP Vasudeva Nanayakkara saying he is a ?dried pumpkin? who had lost the prime of his life.
+A heated argument ensued between the MP and the Prime Minister in the parliament yesterday with Mr. Nanayakkara reportedly using obscenities against the Prime Minister.
+?He is a dried pumpkin. This is how defeated people behave,? the Prime Minister said when referring to Mr. Nanayakkara?s use of language and his theatrics in parliament.
+He made these comments when he met United National Party (UNP) activists at Sirikotha in Kotte. (Lahiru Pothmulla)WATCH 
+		
+==============================

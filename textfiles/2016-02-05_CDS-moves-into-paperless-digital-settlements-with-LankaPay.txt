@@ -1,0 +1,21 @@
+## Title: CDS moves into paperless digital settlements with LankaPay
+## Section: Financial News
+## Date: 5 February 2016 08:07 am
+
+CDS moves into paperless digital settlements with LankaPay
+
+
+	
+
+
+Central Depository System (CDS), a fully-owned subsidiary of the Colombo Stock Exchange (CSE), recently partnered with LankaPay, the national payment network, to provide a fully-fledged digital experience to its settlement banks via the CDS – Digitalized Settlement Schedule Signing (DS3) online portal. 
+This solution was enabled via LankaPay’s service arm, LankaSign, which is a trusted digital Certification Authority (CA) in Sri Lanka. LankaPay is now capable of providing comprehensive CA services, including digital signatures to the entire financial sector in Sri Lanka.
+The CDS - DS3 solution enables CDS to eliminate physical placement of signatures previously required on the bank settlement schedules that were subsequently hand delivered in physical format to the respective banks on a daily basis. This process caused significant information risk and delays in the entire settlement process, which created a requirement for a more secure and faster solution.
+With the new solution provided by LankaPay, the CDS signatories can simply sign the settlement schedules using ‘LankaSign’ digital certificates and upload the same instantly onto the CDS - DS3 portal to be accessed by the respective settlement bank. The LankaSign digital certificates are embedded in USB Crypto Tokens that enable two-factor authentication facilitating secure data transmission. This process ensures that both CDS and settlement banks use the established secure connectivity prior to any data transmission and that data is not altered during the transmission.  
+CSE CEO Rajeeva Bandaranaike commenting on the initiative said, “This product has made a significant change to one of the key CDS processes, which is settlement coordination with the four settlement banks. It has automated the settlement process, making it very much efficient by eliminating paper-based work. Further, it has also given the opportunity for CDS to explore possibilities of streamlining the other processes within the same platform.”
+Applauding the partnership, LankaClear GM/CEO Channa de Silva stated, “We are indeed honoured to be associated with yet another futuristic solution of CDS with the support of the CSE. LankaPay has revolutionized the ICT industry in Sri Lanka by establishing LankaSign, the first CA in Sri Lanka, primarily targeting the financial sector. In a day and age where information security is of paramount importance, we endeavour to partner with more institutions across many sectors to use cost-effective digital certificate-based solutions for greater autonomy and information security. This will enable customer-focused local service support while bringing down the overheads associated with managing physical documents, paving the way for a paperless environment.”
+
+ 
+ 
+
+		

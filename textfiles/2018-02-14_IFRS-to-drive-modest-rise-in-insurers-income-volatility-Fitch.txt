@@ -1,0 +1,29 @@
+## Title: IFRS 9 to drive modest rise in insurers’ income volatility: Fitch
+## Section: Financial News
+## Date: 14 February 2018 11:23 am
+
+IFRS 9 to drive modest rise in insurers’ income volatility: Fitch
+
+
+	
+
+Insurers are likely to see a moderate increase in investment income volatility following the implementation of IFRS 9 accounting standards for financial instruments at the start of 2018, as more financial assets will be valued on a fair-value basis, says Fitch Ratings.
+
+
+IFRS 17, the new standard for insurance contract accounting that is due to be implemented in 2021, is likely to pose a greater challenge to insurers, both operationally and financially.
+
+
+Insurers will have to re-assess their business models through the lens of the new standards, as their business models will determine the classification of financial assets. IFRS 9 prescribes three classification categories: Fair value through profit and loss (FVPL), fair value through other comprehensive income (FVOCI) and amortised cost. The FVPL classification will be the least favoured by insurers, as it requires changes in fair value to be recognised in profit and loss as they arise, potentially increasing earning volatility.
+
+
+IFRS 9 also replaces incurred-based credit losses with an expected credit-loss model. The previous standard was less forward-looking, with losses recognised only upon objective evidence of impairment. The new model may create more loss-provisioning volatility for insurers with loan portfolios, as it is based on macroeconomic forecasts.
+
+
+The bulk of insurers’ investments remain in traditional fixed-income-type securities and most of these are likely to be initially classified as FVOCI or amortised cost. As such, we expect the impact on insurers’ financials to be manageable. However, most equities could now be classified as FVPL, although insurers may separate a proportion as FVOCI owing to IFRS 17 considerations. Overall, the amount of financial assets measured by FVPL will increase compared with the previous standards.
+Life insurers are likely to see a greater impact on income volatility than non-life insurers due to the long-term nature of their businesses and higher exposure to non-fixed-income investments. IFRS 9 should be viewed in tandem with the imminent introduction of IFRS 17. The new standards together move the industry to a new accounting era of increased transparency, granularity and comparability.
+
+The interaction of the two new reporting standards may affect insurers’ financials, as investment assets and insurance contract liabilities are often managed together. Insurers will have to consider carefully the implication of these interactions. Fitch recognises the potential for accounting mismatches and will account for this 
+where possible.
+ 
+
+		

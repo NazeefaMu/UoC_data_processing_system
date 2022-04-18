@@ -1,0 +1,119 @@
+## Title: Supply Chain Project  Management tips
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, February 15, 2017 - 01:00
+
+Supply Chain Project  Management tips
+
+More specifically, what is a project? It's a temporary endeavor undertaken to create a unique product, service or result.A supply chain project is temporary in that it has a defined beginning and end in time, and therefore defined scope and resources.
+And a project is unique in that it is not a routine operation, but a specific set of operations designed to accomplish a singular goal. So a project team often includes people who don't usually work together - sometimes from different organizations and across multiple geographies.The development of software for an improved business process, the construction of a building or bridge, the relief effort after a natural disaster, the expansion of sales into a new geographic market - all are projects.
+And all must be expertly managed to deliver the on-time, on-budget results, learning and integration that organization's needs.
+Problems arise in every organization. Such problems as what products/systems to develop, should capacity be expanded, or should a computer be purchased are just a few of an endless number of continuing problems about which management must concern itself if the firm is to survive. These problems and their alternative solutions establish some elements of change around which the organization must adapt. Supply chain projects are generally established to carry out these changes and someone is always responsible for each project's successful completion.
+Every project is unique in terms of the problems that arise, the priorities and resources assigned it, the environment in which it operates, and the project manager's attitude and style used to guide and control project activities. Therefore, the organizational structure for the project must be designed to fit within that project's operating constraints. The organizational structure implemented may not be the same structure used throughout the life cycle of the project due to changes in priorities, available resource, project personnel, laws, and other contingencies. Regardless of the project management structure chosen, management must realize that a dynamic state of equilibrium between limited personnel and financial resources and the objectives of the project will be necessary if project management is to be successful in their particular organization. Before touching on the major tools and techniques of project management, let's get to the bottom of what project management truly is. Later, it will list the benefits that the tools and techniques of project management bring to the systems analysis process.
+Projects
+Nearly every activity within an organization could be labeled as a project possessing unique characteristics and varying levels of importance to the organization. A project is defined as a planned undertaking of related activities to reach an objective that has a beginning and an end. All projects solve some type of problem, but projects may also be established simply to determine and define feasible alternative solutions to problems. Seven primary characteristics of a project include:
+1. Objective: Each has a specific goal to reach.
+2. Schedule: Point in time in which they must be accomplished.
+3. Complexity: Does the technology exist to achieve the project objectives?
+4. Size and Nature of Task: Step-by-step plan of action.
+5. Resources: Labor, personnel, equipment, materials, facilities, etc.
+6. Organizational Structure: The ‘meshing’ of project requirements into the existing organization.
+7. Information and Control Systems: These must be structured to handle problems through the typical lines of authority.
+Project Management
+In the past, a company typically decided to undertake a project effort, assigned the project and the “necessary” resources to a carefully selected individual and assumed they were using some form of project management. Organizational implications were of little importance. Although the basic concepts of project management are simple, applying these concepts to an existing organization is not. Each task requires a particular mix of these tools and techniques structured to fit the task environment and life cycle (from conception to completion) of the task.”
+Employing project management technologies minimizes the disruption of routine business activities in many cases by placing under a single command all of the skills, technologies, and resources needed to realize the project. The skills required depend on each specific project and the resources available at that time. The greater the amount of adjustments a parent organization must make to fulfill project objectives, the greater chance exists for project failure. The form of project management will be unique for every project endeavor and will change throughout the project.
+The supply chain project management process typically includes four key phases: initiating the project, planning the project, executing the project, and closing the project. An outline of each phase is provided below.
+Initiating the Project -
+The project management techniques related to the project initiation phase include:
+1. Establishing the project initiation team. This involves organizing team members to assist in carrying out the project initiation activities.
+2. Establishing a relationship with the customer. The understanding of your customer's organization will foster a stronger relationship between the two of you.
+3. Establishing the project initiation plan. Defines the activities required to organize the team while working to define the goals and scope of the project.
+4. Establishing management procedures. Concerned with developing team communication and reporting procedures, job assignments and roles, project change procedure, and how project funding and billing will be handled.
+5. Establishing the project management environment and workbook. Focuses on the collection and organization of the tools that you will use while managing the project.
+Planning the Project -
+The project management techniques related to the project planning phase include:
+1. Describing project scope, alternatives, and feasibility. The understanding of the content and complexity of the project. Some relevant questions that should be answered include:
+What problem/opportunity does the project address?
+What results are to be achieved?
+What needs to be done?
+How will success be measured?
+How will we know when we are finished?
+2. Divide the project into tasks. This technique is also known as the work breakdown structure. This step is done to ensure an easy progression between tasks.
+3. Estimating resources and creating a resource plan. This helps to gather and arrange resources in the most effective manner.
+4. Developing a preliminary schedule. In this step, you are to assign time estimates to each activity in the work breakdown structure. From here, you will be able to create the target start and end dates for the project.
+5. Developing a communication plan. The idea here is to outline the communication procedures between management, team members, and the customer.
+6. Determining project standards and procedures. The specification of how various deliverables are produced and tested by the project team.
+7. Identifying and assessing risk. The goal here is to identify potential sources of risk and the consequences of those risks.
+8. Creating a preliminary budget. The budget should summarize the planned expenses and revenues related to the project.
+9. Developing a statement of work. This document will list the work to be done and the expected outcome of the project.
+10. Setting a baseline project plan. This should provide an estimate of the project's tasks and resource requirements.
+Executing the Project -
+The project management techniques related to the project execution phase include:
+1. Executing the baseline project plan. The job of the project manager is to initiate the execution of project activities, acquire and assign resources, orient and train new team members, keep the project on schedule, and assure the quality of project deliverables.
+2. Monitoring project progress against the baseline project plan. Using Gantt and PERT charts, which will be discussed in detail further on in this paper, can assist the project manager in doing this.
+3. Managing changes to the baseline project plan.
+4. Maintaining the project workbook. Maintaining complete records of all project events is necessary. The project workbook is the primary source of information for producing all project reports.
+5. Communicating the project status. This means that the entire project plan should be shared with the entire project team and any revisions to the plan should be communicated to all interested parties so that everyone understands how the plan is evolving.
+Closing down the Project - The project management techniques related to the project closedown phase include:
+1. Closing down the project. In this stage, it is important to notify all interested parties of the completion of the project. Also, all project documentation and records should be finalized so that the final review of the project can be conducted.
+2. Conducting post project reviews. This is done to determine the strengths and weaknesses of project deliverables, the processes used to create them, and the project management process.
+3. Closing the customer contract. The final activity is to ensure that all contractual terms of the project have been met.
+The techniques listed above in the four key phases of project management enable a project team to:
+* Link project goals and objectives to stakeholder needs.
+* Focus on customer needs.
+* Build high-performance project teams.
+* Work across functional boundaries.
+* Develop work breakdown structures.
+* Estimate project costs and schedules.
+* Meet time constraints.
+* Calculate risks.
+* Establish a dependable project control and monitoring system.
+Tools
+Project management is a challenging task with many complex responsibilities. Fortunately, there are many tools available to assist with accomplishing the tasks and executing the responsibilities. Some require a computer with supporting software, while others can be used manually. Project managers should choose a project management tool that best suits their management style. No one tool addresses all project management needs. Program Evaluation Review Technique (PERT) and Gantt Charts are two of the most commonly used project management tools and are described below. Both of these project management tools can be produced manually or with commercially available project management software.
+PERT is a planning and control tool used for defining and controlling the tasks necessary to complete a project. PERT charts and Critical Path Method (CPM) charts are often used interchangeably; the only difference is how task times are computed. Both charts display the total project with all scheduled tasks shown in sequence. The displayed tasks show which ones are in parallel, those tasks that can be performed at the same time. A graphic representation called a “Project Network” or “CPM Diagram” is used to portray graphically the interrelationships of the elements of a project and to show the order in which the activities must be performed
+PERT planning involves the following steps:
+1. Identify the specific activities and milestones. The activities are the tasks of the project. The milestones are the events that mark the beginning and the end of one or more activities.
+2. Determine the proper sequence of activities. This step may be combined with #1 above since the activity sequence is evident for some tasks. Other tasks may require some analysis to determine the exact order in which they should be performed.
+3. Construct a network diagram. Using the activity sequence information, a network diagram can be drawn showing the sequence of the successive and parallel activities. Arrowed lines represent the activities and circles or “bubbles” represent milestones.
+4. Estimate the time required for each activity. Weeks are a commonly used unit of time for activity completion, but any consistent unit of time can be used. A distinguishing feature of PERT is its ability to deal with uncertainty in activity completion times. For each activity, the model usually includes three time estimates:
+o Optimistic time - the shortest time in which the activity can be completed.
+o Most likely time - the completion time having the highest probability.
+o Pessimistic time - the longest time that an activity may take.
+From this, the expected time for each activity can be calculated using the following weighted average:
+Expected Time = (Optimistic + 4 x Most Likely + Pessimistic) / 6
+This helps to bias time estimates away from the unrealistically short timescales normally assumed.
+5. Determine the critical path. The critical path is determined by adding the times for the activities in each sequence and determining the longest path in the project. The critical path determines the total calendar time required for the project. The amount of time that a non-critical path activity can be delayed without delaying the project is referred to as slack time.
+If the critical path is not immediately obvious, it may be helpful to determine the following four times for each activity:
+ES - Earliest Start time
+EF - Earliest Finish time
+LS - Latest Start time
+LF - Latest Finish time
+These times are calculated using the expected time for the relevant activities. The earliest start and finish times of each activity are determined by working forward through the network and determining the earliest time at which an activity can start and finish considering its predecessor activities. The latest start and finish times are the latest times that an activity can start and finish without delaying the project. LS and LF are found by working backward through the network. The difference in the latest and earliest finish of each activity is that activity's slack. The critical path then is the path through the network in which none of the activities have slack.
+The variance in the project completion time can be calculated by summing the variances in the completion times of the activities in the critical path. Given this variance, one can calculate the probability that the project will be completed by a certain date assuming a normal probability distribution for the critical path. The normal distribution assumption holds if the number of activities in the path is large enough for the central limit theorem to be applied.
+6. Update the PERT chart as the project progresses. As the project unfolds, the estimated times can be replaced with actual times. In cases where there are delays, additional resources may be needed to stay on schedule and the PERT chart may be modified to reflect the new situation. An example of a PERT chart is provided below:
+Benefits to using a PERT chart or the Critical Path Method include:
+* Improved planning and scheduling of activities.
+* Improved forecasting of resource requirements.
+* Identification of repetitive planning patterns which can be followed in other projects, thus simplifying the planning process.
+* Ability to see and thus reschedule activities to reflect interproject dependencies and resource limitations following know priority rules.
+* It also provides the following: expected project completion time, probability of completion before a specified date, the critical path activities that impact completion time, the activities that have slack time and that can lend resources to critical path activities, and activity start and end dates.
+Gantt charts are used to show calendar time task assignments in days, weeks or months. The tool uses graphic representations to show start, elapsed, and completion times of each task within a project. Gantt charts are ideal for tracking progress. The number of days actually required to complete a task that reaches a milestone can be compared with the planned or estimated number. The actual workdays, from actual start to actual finish, are plotted below the scheduled days. This information helps target potential timeline slippage or failure points. These charts serve as a valuable budgeting tool and can show dollars allocated versus dollars spent.
+To draw up a Gantt chart, follow these steps:
+1. List all activities in the plan. For each task, show the earliest start date, estimated length of time it will take, and whether it is parallel or sequential. If tasks are sequential, show which stages they depend on.
+2. Head up graph paper with the days or weeks through completion.
+3. Plot tasks onto graph paper. Show each task starting on the earliest possible date. Draw it as a bar, with the length of the bar being the length of the task. Above the task bars, mark the time taken to complete them.
+4. Schedule activities. Schedule them in such a way that sequential actions are carried out in the required sequence. Ensure that dependent activities do not start until the activities they depend on have been completed. Where possible, schedule parallel tasks so that they do not interfere with sequential actions on the critical path. While scheduling, ensure that you make best use of the resources you have available, and do not over-commit resources. Also, allow some slack time in the schedule for holdups, overruns, failures, etc.
+5. Presenting the analysis. In the final version of your Gantt chart, combine your draft analysis (#3 above) with your scheduling and analysis of resources (#4 above). This chart will show when you anticipate that jobs should start and finish. An example of a Gantt chart is provided below:
+Benefits of using a Gantt chart include:
+Gives an easy to understand visual display of the scheduled time of a task or activity.
+Makes it easy to develop “what if” scenarios.
+Enables better project control by promoting clearer communication.
+Becomes a tool for negotiations.
+Shows the actual progress against the planned schedule.
+Can report results at appropriate levels.
+Allows comparison of multiple projects to determine risk or resource allocation.
+Rewards the project manager with more visibility and control over the project.
+The Future
+Project management tools have evolved from simple spreadsheet products to sophisticated, Web-based project information portals. The obvious trend in project management software, as with almost everything in information technology, is a move toward Web-based systems. Most project management tools can be accessed via browsers and those that do not currently have this capability are moving in that direction.
+Project management tools continue to evolve in terms of capabilities and user interface. The general direction is toward more integrated process and knowledge management systems, and user interfaces with a “Web” look. Project management tools are gradually becoming integrated project information portals with capabilities far beyond simple project tracking and reporting.
+As the sophistication of these products continues to grow, however, so too does their complexity. It is important for project management software vendors to keep things simple and easy to use. Project management tools should not become the focus of a project manager's life or add time to project activities. If a project manager has to spend too much time learning a product's features, their ability to actively manage the project process diminishes, totally defeating the purpose of the tool.

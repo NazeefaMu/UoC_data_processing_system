@@ -1,0 +1,99 @@
+## Title: Taking a close look at Warfarin  Therapy and PT/INR
+## Section: Medicine
+## Date: 30 November 2018 11:35 am
+
+Taking a close look at Warfarin  Therapy and PT/INR
+
+
+	
+
+
+
+ 
+
+A concerned daughter brings her father to a hospital as her father noticed blood in his stools. He also had large bleeding patches on the back of the chest and thighs.  She recalls that her father is on Warfarin. Knowing that, the attending clinician quickly requests urgent PT/INR (together with some other tests) and admits him to the emergency care unit. His INR is 14. He is immediately managed as over-warfarinization. “What is the cause of his symptoms? Was he given an incorrect dose?,“ questions the daughter.
+
+
+ With many adults getting ‘clots’ related diseases, warfarin has become a common therapeutic agent among such patients. Warfarin, though it is a lifesaving drug, requires certain precautions and regular adjustment of dose in order to get maximum benefit and to prevent side effects of the drug. In today’s Health Capsule, we are discussing the specifics of warfarin therapy and the test called PT/INR, with Dr K.A.C. Wickramaratne, Consultant Haematologist, Senior Lecturer in Pathology, Faculty of Medicine, University of Ruhuna. Following are the answers he gave to some of the frequent  questions asked regarding the usage of the drug. 
+
+ 
+
+Q What is warfarin and when is it prescribed?
+Warfarin is a drug used to control blood ‘clotting’. It makes blood ‘thinner’ or makes blood unable to form ‘clots’ inside the vessels. Therefore, warfarin is prescribed in patients who have had or who is having high risk of blood ‘clot’ formation like in the case of heart attack, brain attack, defects in heart valves or defects in heart rhythm etc.
+
+ 
+
+Q  What is the action of warfarin?
+It acts on some important clotting factors produced in the liver and makes them less active. That effect is through the inhibition of the action of vitamin K on these coagulation factors. Without the action of vitamin K, clotting factors cannot function normally. Therefore, blood clotting is impaired. By using warfarin appropriately, the clotting mechanism can be controlled at safe levels. Due to the same reason, if warfarin action is beyond the expected level, it can lead to bleeding. Also it’s important to remember that action of this drug can be interfered by drugs and food.
+
+ 
+
+Q How does the doctor decide on the dose of Warfarin suitable for an individual?
+While many medications; paracetamol for example, can be prescribed using simple and fixed dose algorithms such as 500 mg, 250mg or 5mL etc as per the age and weight two - three times a day, Warfarin is different. It should be taken once a day, at the same time of the day; preferably in the evening – at 5 or 6 p.m. Warfarin is also prescribed in milligrams. However, there is no fixed dosage regime which suits all patients, since dosage of warfarin needed vary from one patient to another.
+
+
+The dose of warfarin is determined based on International Normalized Ratio (or INR) which is calculated by prothrombin time (PT). Therefore this test is requested as PT/INR. INR is the internationally standardised measure to monitor warfarin therapy. INR is approximately 1 in a healthy adult. In a patient taking warfarin, warfarin dose which maintains INR between 2 to 3, is the appropriate dose to have its maximum effects. Any dose giving INR below 2 is an ineffective dose while any dose giving INR value above 3 is over active dose. 
+
+ 
+
+Q What interferes with warfarin action?
+Some medications can interfere with the action of warfarin. Therefore, when you are receiving treatment from a clinician, it is important to mention that you are on warfarin.
+
+ 
+
+
+By using warfarin appropriately, the clotting mechanism can be controlled at safe levels
+
+
+ 
+
+Q Do we need to restrict diet when we take warfarin?
+Many food items can interfere with the action of warfarin, especially any food rich in Vitamin K is crucial since Vitamin K counters the action of warfarin. But as long as your diet is regular with no major changes very frequently, there is no cause for worry.   
+
+
+If a lot of green vegetables, oily foods, soya etc are consumed, that can affect the action of warfarin. However, it is not necessary to completely stop eating these items. Patients should adhere to a routine daily diet with regular vegetables and curries. Prominent variation from meal to meal and day to day, is not advised in an individual who is on warfarin. Occasional variation of diet on an occasion like a wedding or a party is not a major problem. 
+
+ 
+
+
+
+ 
+
+Q What else can affect warfarin action?
+Liver disease and alcohol consumption affects action of warfarin and increases the risk of bleeding. 
+
+ 
+
+Q How is warfarin therapy monitored?
+When warfarin is started for the first time, a PT/INR is performed after three days to evaluate INR. Based on the INR value whether it is above 3, below 2 or between 2 & 3, haematologists adjust the dose. The INR is evaluated repeatedly for effectiveness of dose adjustments until it reaches the dose of warfarin which gives INR between 2 and 3. Thereafter, INR is monitored monthly as long as warfarin therapy is continued. Depending on the disease condition, warfarin is prescribed either for a shorter period such as three months or, in some instances, for life. 
+
+ 
+
+Q What is the sample needed for PT/INR test?
+“the sample is rejected by the laboratory, we need a fresh sample” “there were clots in the sample……” “there was haemolysis in the sample …….” You may be familiar with these responses from laboratories. 
+
+
+In these cases you might have wondered why the test can be done on the sample collected, or if more than one sample was collected, why the test cannot be performed using blood from another sample. The answer to these questions is that if the sample is not suitable, overfilled or under filled or partially clotted or haemolysed, that sample is not suitable for PT/INR. It should be venous blood collected through a neat venipuncture, preferably without applying a tourniquet, filled in to a special citrated tube, with no clots or haemolysis.
+
+ 
+
+Q What are the major risks of warfarin therapy?
+If INR is not monitored and dose of warfarin is higher than optimal, the patient can bleed and that can be serious enough to cause death in some instances. If it is too low, patient can develop clot formation since the drug dose is not adequate to be effective. Long-term warfarin therapy also can adversely affect bone calcification.
+
+ 
+
+Q Are there other uses of PT/INR?
+No, PT is a useful coagulation test in many different conditions.  That includes liver disease, bleeding disorders, assessment of bleeding risk prior to surgery etc.
+
+ 
+
+Q How quality of PT/INR results are verified in laboratories?
+Laboratories should run and monitor quality control samples. If fully automated machines are not used, few trained, dedicated technicians or MLTs should be allocated for these tests.If the laboratory is accredited as per ISO 15189 or CAP accreditation scheme we can rely on their results to be reliable.
+
+ 
+
+Q Any last message to the readers who are on warfarin therapy?
+By visiting haematology clinic monthly without fail, continuing medication as prescribed and following a regular diet with minimal variation, you can ensure the maximum effect of warfarin with minimal side effects allowing you to lead a healthier and a longer life. 
+ 
+
+		

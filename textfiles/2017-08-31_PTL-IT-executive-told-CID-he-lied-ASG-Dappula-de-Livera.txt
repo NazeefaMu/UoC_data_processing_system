@@ -1,0 +1,97 @@
+## Title: PTL IT executive told CID he lied: ASG Dappula de Livera
+## Section: Breaking News
+## Date: 31 August 2017 07:20 am
+
+PTL IT executive told CID he lied: ASG Dappula de Livera
+
+
+	
+
+
+
+Additional Solicitor General Dappaula de Livera yesterday told the Presidential Commission of Inquiry (PCoI) that Perpetual Treasuries Ltd's IT executive Sachith Devathantri had admitted to the CID yesterday that he had lied when making the previous statement to CID officials of the PCoI regarding the PTL’s phone recording system.
+
+ASG Livera said Mr. Devathantri was summoned again to the PCoI to be further questioned by the CID on the matter last morning. The ASG said during yesterday’s questioning the IT person has admitted that he had lied in his previous statement to the CID.
+
+On an earlier occasion, Mr. Devathantri was summoned at the PCoI and a statement recorded by the CID officers.
+
+Meanwhile, President’s Counsel Kalinga Indatissa cross-examined Chief Engineer of Metropolitan Ltd, Chief Examiner Nalin Dharmaratne with regard to the evidence he provided to the PCoI about the voice recording system.
+
+President’s Counsel Anuja Premaratne appearing for Arjun Aloysius also cross-examined the witness.
+
+During the Cross-examination, the witness was seen uncertain with regard to specific technical questions put forward by the President’s Counsel.
+
+According to the witness, Metropolitan Ltd had initially placed a voice recording system (Voice Logger System) on May 18, 2015 with eight ports with the capacity of storing caller details and voice recordings.
+
+This system was included with a main computer given by Metropolitan in which all the data was stored as voice recordings (wave files) and caller details.
+
+However, during the cross examination it was revealed that after the installation PTL had complained on June 4, 2015 about the system that there were errors in the recording system, which lacked the capacity to record all digits of outgoing numbers.
+
+The witness admitted during cross-examination that Metropolitan Ltd was unable to solve the problem for a certain period and only sorted it out in December 2015 with the assistance of Metropolitan’s mother company in India.
+
+The witness said that PTL had not complained thereafter about any major issues regard the system.
+
+Later, in September 2016, Metropolitan Ltd had again installed another 16 ports in the system on the request of PTL.
+
+It was revealed that these 24 ports were linked with PTL’s extensions in the phone recording system.
+
+During the cross-examination, the witness seemed unaware about certain maters raised by Counsel Indatissa PC with reference to the contract agreement and service agreement of PTL and Metropolitan.
+
+When leading evidence of the witness, it was explained that when the Metropolitan's chief engineer examined the system on August 26, 2017 at PTL they could not find previous data relating to phone recordings.
+
+Thereafter, they had obtained the assistance of its Indian Company through a remote logging method, accessing the system online. Subsequently, the Indian Mother Company had sent a report on the system.
+
+The witness admitted that Metropolitan Ltd had no specialist technical officer to examine matters which were required by the Commission and that they had asked assistance from its mother company.
+
+The report said the system had been re-installed on July 6, 2017. Later, on July 20 the previous voice recording data (wave files) had been re-placed in the data base and a basic configuration done on July 21 to operate the system.
+
+It was also revealed that the July 21 configuration was only a basic one and still the system did not have the capability to record Caller Line Identification (CLI) in the system without doing an advanced configuration.
+
+It was also revealed that this basic configuration and re-installation had been done by PTL without the assistance of Metropolitan Limited.
+
+However, it was explained that PTL had shifted its office to a different address on July 3, 2017. It was revealed that at the new place, PTL had identified that the computer hard disk relating to the recording system had crashed for some reason.
+
+Thereafter they had replaced a new hard disk in the computer and re-installed the system on July 6, 2017 -- the day that PTL was suspended from being a Primary Dealer in Government Securities.
+
+President’s Counsel Indatissa who appeared for PTL CEO Kasun Palisena was of the view that Metropoltan Chief Engineer’s testimony was not independent evidence because the witness was solely relying on their Indian mother company’s report.
+
+PC Indatissa said the Indian mother company had only examined the system remotely by accessing online and provided details. He was of the view that such inspection was only a preliminary stage of a forensic examination; therefore a proper forensic examination has to be done to ascertain whether PTL had deleted or altered data in its phone records.
+
+When he asked whether it was the best way to ascertain such details, the witness’ answer was in the affirmative.
+
+Mr. Indatissa was also of the view that PTL CEO Kasuna Palisena had only looked at the system on August 18 and had prepared his affidavit, saying that PTL did not have a recording system which stored caller details.
+
+Adding some amusement to the questioning, Mr. Indatissa said Metropolitan owner Ambani did not know about the Metropolitan systems and in a similar fashion his client, PTL CEO was also unaware about the matter not being a technical expert.
+
+In the earlier affidavit which was submitted by the PTL CEO it was said that PTL had a recording system which only records the voice recordings with serial numbers.
+
+Justice Prasanna Jayawardena later questioned the witness about the Indian mother company’s report.
+
+Justice Jayawardena: Did your Indian company examine the system after you made a request?
+
+Witness: Yes
+
+J: And their report says they cannot recover any data pertaining to the time period between February 2015- May 2016, right?, and that there had been a re-installation and re-configuration in July, right?
+
+W: Yes
+
+J: Can a remote method of examination find that sort of information?
+
+W: Yes
+
+Meanwhile, it was revealed that PTL had now given its previous hard disk drive, the new computer, and the four CDs containing back-up data pertaining to the time period after July 6, 2017 to the CID officials who are attached to the PCoI.
+
+Acceding to Additional Solicitor General Yasantha Kodagoda’s request, the Commission yesterday also allowed the CID to examine all the devices handed over by PTL with assistance of Metropolitan officers.
+
+ASG Yasantha Kodagoda was of the view that since the previous computer was said to have crashed, they had to examine the reasons as to why it had crashed. At this moment Justice Prasanna Jayawardena in a lighter vein quipped in pithy Sinhala: ‘Hena Wedunada Balanna’ (See whether it was struck by lightning) amid ripples of laughter in the courtroom.
+
+During the cross examination, there was a heated argument between ASG Dappula De Livera and PC Kalinga Indatissa.
+
+Counsel Indatissa questioned the witness about the affidavit and the one who attested it and the witness was unaware about the name of the counsel who had attested the Affidavit.
+
+The witness however, said he had signed the affidavit in the presence of that counsel but did not know his name. ASG Livera was unhappy about the line of questioning and objected to the questioning in an aggressive manner.
+
+The ASG asked whether that line of questioning implied suspicion towards the officers of AG’s Department. Counsel Indatissa PC too responded in a higher tone of voice saying he did not mention about the AG’s Department. This led to a heated argument between the two senior President’s Counsel that went on for sometime. However, Justice Prasanna Jayawardena intervened and directed both parties to stop the argument. (Shehan Chamika Silva)
+ 
+
+		

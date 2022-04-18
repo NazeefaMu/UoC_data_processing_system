@@ -1,0 +1,94 @@
+## Title: It’s a bird;  it’s a plane…. No it’s a drone
+## Section: News Features
+## Date: 26 February 2018 12:15 am
+
+It’s a bird;  it’s a plane…. No it’s a drone
+
+
+	
+
+Drones are evolving into ‘poor man’s precision guided munition
+
+
+
+On January 6, 2018, a milestone in asymmetric warfare occurred in Syria. A Russian Air Force detachment at Khmeimim Air Base and at the Tartus Naval station came under attack from a swarm of drones.
+
+
+It is believed that up to 13 drones were used for these two attacks making it an unprecedented use of drone airpower by a non-State actor.
+There may have been several other unsuccessful attacks using drones in the same week, however, the exact number of attacks is disputed.
+Analysts of the Russian Ministry of Defence revealed at a press conference that the drones were guided by using GPS and could have been launched from up to 100km away.
+The Russian Ministry of Defence claimed that several drones were detected and shot down and displayed two samples they had recovered.
+According to Janes’ Defence Weekly, rebels had claimed that they have destroyed and damaged several Russian aircraft at Khmeimim. However, in a press release, the Russian MoD denied any losses or damage due to the incident.
+TASS, the Russian News Agency, quoted the press release “…Engineering solutions used by terrorists when attacking Russian facilities in Syria could have been received only from a country with high technological potential on providing satellite navigation and distant control of firing competently assembled self-made explosive devices in appointed place…” which is a sign of the growing tensions between the USA and Russia.
+Both Russia and the USA support, supply and train different fractions waging war in Syria. However, contrary to claim by the Russian MoD on the GPS technology, such GPS based navigation technology has been available in the civilian market for many years.
+The use of drones by insurgent groups and terrorists is a growing trend in the Iraq-Syria conflict zone during the past few years.
+
+
+
+
+The Islamic State (ISIS) and other groups such as Hezbollah and Jabhat Fateh al-Sham have been known to use drones for their activities in the past and continue to do so today.
+The proliferation of ‘unmanned aerial systems’ (UAS) technologies, ease of access to commercially available components, availability of commercial drones and recreational craft is viewed as a concern by Jane’s Terrorism and Insurgency Centre (JTIC).
+The number of Airborne Improvised Explosive Devices (ABIED’s) have been increasing since the start of the Syrian war and have been used in Iraq as well.
+According to JTIC and other sources, drones have mostly been used for reconnaissance, fire correction and to strike ground targets with small munitions or IEDs (Improvised Explosive Devices).
+The use of drones offers insurgents unprecedented tactical advantages to coordinate attacks and gather intelligence, especially in urban environments. Further, imagery captured by drones make valuable propaganda material for groups like ISIS, who rely heavily on online visual content for recruitment.
+
+Captured Qasef-1 Kamikaze style drone, on exhibit by US DoD, photo - EJ Hersom, DoD News
+
+ISIS is believed to be the most prolific user of drones up to now. Most of the drones used in Iraq and Syria by non-State actors have been commercial Quad Copters, most of which are small enough to be carried and used by one individual. Multi-rotor platforms have also been used by different fractions. The quadcopter configuration offers a stable slow and low altitude platform and comes with easy to master controls, real-time video downlink and simple navigation systems.
+
+When used for aerial attack, quadcopters often used with small airdropped IED’s (ABIEDs).
+The Quadcopters’ ability to hover over a target offers relatively good accuracy, making them ideal for non-State actors who can purchase online at a low cost.
+The most frequently found ABIED’s have been made of 30mm or 40mm grenade launcher ammunition with an improvised tail-fin assembly. The ISIS is also known to have designed and manufactured in numbers, several types of AIEDs, projectile bombs and related fuses in Syria.
+However, according to military analyst Nick Waters, the ABIEDs recovered after the Khmeimim attack may be specifically built for a drone-borne attack.
+The downed drones displayed by the Russian MoD indicate that they were purpose built.
+Designed in a conventional aircraft (fixed –wing) configuration and powered by a small diesel engine, it is clear that this drone was designed to have greater range and higher payload capacity.
+These facts indicate that the Khmeimim Air Force Base attack was a progression in the tactics of drone-borne ABIED use by a non-state actor.
+Further, the use of commonly available ‘off the shelf’ components make it difficult to track its origins and builders, adding a layer of deniability to the drone user.
+
+ 
+
+
+
+	It is believed that up to 13 drones were used for these two attacks... 
+	
+	
+	Threats to critical infrastructure, aviation and soft targets are a significant security concern.
+	
+	
+	Nations are enacting ‘smart’ regulatory practices regarding the sale and use of commercial, recreational drones
+	
+	
+	It is important that Sri Lankan security policymakers pay attention to the evolving threat landscape
+	
+	
+	Use of ‘off the shelf’ components make it difficult to track its origins and builders, adding a layer of deniability to the drone user.
+	
+
+
+
+Fixed wing drones, which have been used by groups in Iraq-Syria for the past few years, but fewer in number than the prolific quadcopter and multirotor variants.
+There have been reports of Drones and ABIED being used in the ongoing civil wars in Yemen and Libya. The United States of America in December 2017, has used a recovered drone amongst other exhibits as evidence for alleged Iranian state sponsoring of Yemeni rebel and terrorist groups. Laura Seal, a US Defence Department Spokesperson referred to the Qasef-1, UAS an ABIED ‘Kamikaze’ style drone which had been recovered from Houthi groups by the Saudi Forces. Seal claimed that “Only Iran makes the Qasef-1. It is a member of the Ababil UAV family, designed and produced by the Iranian government.” Due to such claims, it is prudent to expect that more sophisticated UAS technology and more advanced types of drones may be fielded by non – state actors in the future.
+Drones such as the Qasef-1, give non-state actors a degree of stand-off range precision strike capabilities which were previously only available to Government forces. In 2017, the US Army awarded a contract worth USD $16 million to develop and field a mobile Counter-UAS (C-UAS) system for the US Army by 2018. Therefore, the security threats posed by drones as an asymmetric threat are very much a concern for security planners and practitioners around the world. The increasing sophistication of such ABIED’s and drones used indicates that they are on an evolutionary path to becoming a more common insurgent – terrorist tool in the coming years.
+Off the battlefield, drone-borne threats to critical infrastructure, aviation and soft targets are a significant security concern.
+
+
+
+One of the UAVs is displayed upside-down to show its IEDs mounted on rails. Source: Russian Ministry of Defence Via HIS Jane’s DW
+
+
+In 2014, drones breaching ‘restricted airspace’ above several nuclear power plants caused the French authorities to introduce several measures to counter illegal drone intrusions over critical infrastructure and defence related sites.
+Last year, a drone flown by an amateur photographer, landed on the latest British aircraft carrier HMS Queen Elizabeth while she was in Port.
+In 2015, a drone carrying radioactive sand landed on the Japanese Prime Minister’s residence.
+Police later arrested a man who had intended to protest against Japan’s Nuclear energy policies with the drone landing. Such acts demonstrate that Drones or UAS’s can be used to deliver small Chemical, Biological, Radiological and Nuclear (CBRN) payloads. The US Department of Homeland Security (DHS) released a document on Critical Infrastructure security where it notes that drones can be a significant security threat to national security and the potential for drone use in an attack was on the rise.
+
+
+
+Recovered ABIED’s use in the Khmeimim AFB attack. Source: Russian Ministry of Defence
+
+
+Internationally, nations are enacting ‘smart’ regulatory practices regarding the sale and use of commercial drones and recreational drones while the military – security establishments are actively researching and fielding robust Counter – UAS (CUAS) systems. Utility services networks such as the national power grid, water distribution system and filtration plants, telecommunication networks, ports and oil refineries are key to maintain the economy running smoothly. It is important that Sri Lankan security policymakers pay attention to the evolving threat landscape, especially in relation to critical infrastructure protection.
+I have discussed Sri Lanka’s drone regulatory structure, security and safety concerns, drone detection and possible countermeasures in my commentary on the topic which can be read at http://www.insssl.lk/preview.php?id=79.
+The need for greater awareness amongst the security establishment, research and smart regulation is timely
+ 
+
+		

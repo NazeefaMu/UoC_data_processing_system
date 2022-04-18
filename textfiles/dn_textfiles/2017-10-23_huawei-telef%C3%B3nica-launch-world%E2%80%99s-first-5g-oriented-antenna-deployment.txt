@@ -1,0 +1,12 @@
+## Title: Huawei, Telefónica  launch world’s first 5G-oriented  antenna deployment solution
+## Supertitle: 
+## Section: Finance
+## Date: Monday, October 23, 2017 - 01:00
+
+Huawei, Telefónica  launch world’s first 5G-oriented  antenna deployment solution
+
+At the 2017 Global Antenna Technology & Industry Forum recently held in Munich, Huawei partnered with Telefónica Deutschland to launch the world's first 5G-oriented antenna deployment solution. During the evolution to 5G, this solution can resolve the challenge of insufficient antenna installation space for the deployment of both high-band 4T4R over Sub 3 GHz and Massive MIMO.
+Insufficient antenna installation space has emerged as an evident issue of network deployment during the evolution from 4G to 4.5G/5G. As 700 MHz, 1400 MHz and other new spectrums are distributed, full bands 4T4R has emerged as a mainstream configuration. Simple overlay can hardly meet deployment requirements. Additionally, operators are expected to reserve antenna installation space for Massive MIMO to implement a smooth evolution. As a result, a single antenna that integrates all Sub 3 GHz bands and reserves space for Massive MIMO is set to be a typical antenna solution for 5G.
+Huawei and Telefónica Deutschland jointly release 5G-oriented antenna deployment solution, which incorporates both a 14-port multi-band antenna and a TDD 3.5 GHz Massive MIMO antenna to meet Telefónica's requirements for an easy network evolution towards 5G.
+Jaime Lluch, Radio Access Network Director in Telefónica Deutschland indicated that, “Telefónica is a top global telecom operator committed to deliver an optimal network experience. We believe that during the future-oriented network evolution of MBB, antenna installation space severely hinders the progress of network deployment. Telefónica Deutschland and Huawei's 5G-oriented antenna deployment solution can address the challenge of insufficient space, while ensuring excellent network performance and capacity.”
+“Based on many years of technical accumulation in wireless networks and an in-depth understanding of MBB network, Huawei cooperates with Telefónica Deutschland to release the world's first 5G-oriented antenna deployment solution. This innovative solution can help operators to overcome the obstacles of 5G network deployment and potentially further help to achieve new business success.”

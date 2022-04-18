@@ -1,0 +1,14 @@
+## Title: iPad Pro 2017 models outperform MacBook Pro models
+## Supertitle: 
+## Section: Finance
+## Date: Tuesday, June 20, 2017 - 01:00
+
+iPad Pro 2017 models outperform MacBook Pro models
+
+Apple's new iPad Pro models are as capable as the refreshed MacBook Pro models, matching, and even surpassing the laptops in certain benchmarks. Bare Feats, a benchmarking blog, posted some CPU and GPU test results that pitted the 2017 MacBook Pro models against the new iPad Pro 12.9 inch and 10.5-inch models.
+The devices were tested with a series of benchmark tests like GeekBench and GFXBench giving an idea about the CPU and GPU performance of the new iPad Pro and MacBook Pro models. The tests also included older 2016 MacBook Pro and iPad Pro models to get a better idea about the improvements that the new hardware brings to the hotel.
+In terms of GPU performance, the new iPad Pro models outperform the MacBook Pro (2016 and 2017) models in Geekbench 4 Compute Metal test. The test results showed the 10.5-inch iPad Pro model scoring 27,814, and was closely followed by 12.9-inch iPad Pro which scored 27,597. MacBook Pro 2016 and 2017 models came third and fourth with a score of 27,631 and 26,353 respectively.
+In the single-core GeekBench 4 tests, the all-new MacBook Pro 13-inch was seen scoring 4,650, which outperformed the new iPad Pro models which scored around 4,000 mark. Though, the test also saw that the 12.9-inch and 10.5-inch iPad Pro models scores were on par with the older MacBook Pro models.
+In the multi-core CPU tests, the 2017 MacBook Pro models yet again outperformed all the iPad Pro models with a stunning score of 10,261. The new iPad Pro models, however, beat the 2016 MacBook Pro models, which can be seen as a big improvement for the tablets.
+The benchmark scores may indicate that the new iPad Pro models can match CPU and GPU performance of MacBook Pro though we want to stress that these scores aren't indicative of real-world usage usage.
+To recall, Apple refreshed the 12.9-inch iPad Pro model at the WWDC 2017, and also launched the new 10.5-inch iPad Pro. The company also refreshed the entire MacBook lineup, including a new 13-Inch MacBook Pro configuration. (Gadgets)

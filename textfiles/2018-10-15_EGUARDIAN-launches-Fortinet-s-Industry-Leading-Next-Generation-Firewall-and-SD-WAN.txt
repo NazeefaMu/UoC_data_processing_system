@@ -1,0 +1,25 @@
+## Title: EGUARDIAN launches Fortinet’s Industry-Leading Next-Generation Firewall and SD-WAN
+## Section: Press Releases
+## Date: 15 October 2018 12:58 pm
+
+EGUARDIAN launches Fortinet’s Industry-Leading Next-Generation Firewall and SD-WAN
+
+
+	
+
+EGUARDIAN Lanka, Sri Lanka’s leading value added IT distributor, recently announced the availability of a Fortinet SD-WAN solution, which provides both SD-WAN and security functionality in a single integrated offering for distributed enterprise branches. 
+
+The growing appeal of SD-WAN technologies has caught the attention of the IT world and many are realizing the benefits of efficient cloud adoption, broad application visibility and lowered operating costs. But without the right solution, the speed and agility of SD-WAN can come at the expense of security. To respond to this pervasive industry challenge, Fortinet produced the industry’s first NGFW-centric approach to SD-WAN by tightly integrating SD-WAN functionality into the FortiGate Next-Generation Firewall. This approach produces a compelling solution that combines the increased scalability, flexibility, simplicity and cost savings of SD-WAN with industry-leading security protection.
+
+Fortinet’s SD-WAN will replace separate WAN routers, WAN optimization, and security devices with a single solution that is application-aware, offers automatic WAN path control and multi-broadband support. In addition it will improveapplication performance, reduce WAN operating expenses and minimize management complexity. In the wake of the digital transformation and migration to the cloud, the advantages offered by the Fortinet’s SD-WAN may be critical for businesses to remain competitive in the current environment.
+
+Commenting on the launch of this revolutionary technology, Rajesh Maurya, Fortinet Regional Vice President, India, Sri Lanka and SAARC said: “The enterprise branch is undergoing intense digital transformation and we’re seeing application consumption models rapidly move to the cloud. As our customers move toward direct internet access, they understand the growing need for next-generation firewall capabilities and high SSL inspection performance. To make sure customers realize the benefits of SD-WAN without compromising security, Fortinet has evolved our advanced SD-WAN features in the latest FortiOS releases. This focus on secure SD-WAN is clearly resonating with the hundreds of customers and partners who are taking advantage of Fortinet’s unique combination of next-generation firewall and SD-WAN in the same offering, managed through a single centralized controller.”
+
+Fortinet takes a customer and partner-centric approach to improving its SD-WAN functionality and allowing customers to rapidly adopt cloud applications while keeping security a top priority. Through recent updates to the FortiOS operating system that make SD-WAN a native component of the Fortinet Security Fabric and the FortiGate Next-Generation Firewall, Fortinet gives customers the right tools for undergoing digital transformation without the security risks inherent in other solutions that do not take a security-first approach.Hundreds of satisfied customers prove that Fortinet has the security and networking expertise to tackle the industry’s toughest challenges in implementing SD-WAN.
+
+Fortinet secures the largest enterprise, service provider, and government organizations around the world. The Fortinet Security Fabric architecture delivers security features without compromise to address the most critical security challenges, whether in networked, application, cloud or mobile environments.
+
+EGUARDIAN Lanka commenced operations in 2010 and has already established a strong presence in the market as the sole authorized distributor in Sri Lanka for global leaders such as Fortinet, HP Enterprise Security, Algosec, Arista, and Radware. With offices in Bangladesh and Oman the company has grown and succeeded in building a strong reputation for seamless service and exceptional performance
+ 
+
+		

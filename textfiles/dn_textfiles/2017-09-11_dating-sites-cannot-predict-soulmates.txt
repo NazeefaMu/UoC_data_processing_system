@@ -1,0 +1,15 @@
+## Title: Dating sites cannot predict soulmates
+## Supertitle: 
+## Section: Features
+## Date: Monday, September 11, 2017 - 01:00
+
+Dating sites cannot predict soulmates
+
+Dating websites that claim to find your soul mate using computer analysis may not really work, say scientists who found that artificial intelligence can only predict who is more desirable, rather than the perfect match.
+Researchers found that it was possible to predict the overall tendency for someone to like and to be liked by others using computer analysis - but not which two particular people was a match.
+“We found we cannot anticipate how much individuals will uniquely desire each other in a speed-dating context with any meaningful level of accuracy,” said Samantha Joel, a professor at University of Utah in the US. I thought that out of more than 100 predictors, we would be able to predict at least some portion of the variance. I did not expect we would find zero,” Joel added.
+It would be great if people were able to circumvent the hassle and heartache of the dating process by entering information into a computer and having it produce the perfect soul mate, researchers said.
+“Dating can be hard and anxiety provoking and there’s a market there for a short cut. What if you could skip to the part where you click with someone? But our data suggests that, at least with the tools we currently have available, there isn’t an easy fix for finding love,” Joel said.
+While online dating sites provide a valuable service by narrowing the field and identifying potential romantic prospects, “they don’t let you bypass the process of having to physically meet someone to find out how you feel about them,” he said. Researchers used a cutting-edge machine learning algorithm to test whether it was possible to predict unique romantic desire based on participants’ questionnaire responses and before the individuals met.
+They found it was possible to predict the overall tendency for someone to like and to be liked by others – but not which two particular people was a match.
+The Journal Psychological Science

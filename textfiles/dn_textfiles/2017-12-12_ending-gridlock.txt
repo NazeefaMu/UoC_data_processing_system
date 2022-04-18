@@ -1,0 +1,46 @@
+## Title: Ending the gridlock
+## Supertitle: Intelligent transport systems
+## Section: Features
+## Date: Tuesday, December 12, 2017 - 01:00
+
+Intelligent transport systems
+Ending the gridlock
+
+As cars, vans, buses, vans, three-wheelers and two-wheelers on our city roads are increasing every year, commuting from one part of the city to another at any point of the day is now becoming a matter of serious concern for every commuter. For example, this writer spends 45-50 minutes every weekday morning to drive a stretch of 5.9 km.
+Mega police and Western Development Minister, Champika Ranawaka, is also a concerned person. During the past three years he was talking about this issue and has suggested a number of solutions. Mega Police Transport Master Plan is one such initiative.
+Few months ago, he said that traffic congestion burns Rupees one billion worth of fuel every day. According to Prof. Amal Kumarage of Moratuwa University the economic costs of traffic congestion amounts to over 400 billion per year. This figure, he added, is 10 per cent of our GDP.
+In addition to economic costs, human costs are also involved. Chief Government Whip, Minister Gayantha Karunaratne revealed in Parliament recently that 3,017 people had been killed in 39,199 road accidents last year.
+Going by these statistics, it is obvious that Sri Lanka’s cities are facing critical challenges related to transportation.
+Inter-connectedness
+Over a decade ago, Bill Ford, chairman of Ford Motors, warned of a “global gridlock” unless each country developed a better connected, more intelligent transport system for their cities. Based on closer collaboration between stakeholders and greater use of technology, he added, the system needed, to link commuters, pedestrians, cycles, cars and commercial and public transport as part of one interconnected system. “If we do nothing,” Ford said, “the sheer number of people and motor vehicles in urban areas will mean global gridlock.”
+What Ford prophesied that day has happened today, particularly to the countries which didn’t take notice of the prophesy.
+There is no off-the-shelf remedy to “global gridlock.” Instead, a mixture of solutions that enhances mobility and, at the same time, reduces congestion, accidents and pollution are needed.
+Smart systems
+Managing our urban traffic requires finding a balance between throughput, liveability, safety and sustainability. As our cities are expected to grow in the coming decades (leading to increased traffic demand), the challenge of managing traffic will increase, as space to develop road networks is often limited or (in some cases) non-existing.
+Our urban traffic is characterized by an odd mix of different modes of transport (pedestrians, cars, commercial vehicles, public transport, two and three-wheeler vehicles) makes the challenge even more complex.
+To date, all our governments have been largely focused on short-term fixes to eliminate these problems: building new motorways, widening roads, putting up signs and establishing commuter lanes. While providing temporary relief, these short-term solutions only add to the long-term problems by increasing the number of vehicles on the road and aggravating the related environmental, cost and safety concerns.
+The solution lies not just in more concrete and signs, but in smarter transport systems and better-informed commuters so they can travel faster and safer – and with greater energy efficiency than ever.
+future challenges
+How does one optimise the use of the existing road infrastructure without massive additional capital expenditure? We can identify several time-tested management solutions in Intelligent Transport Systems (ITS) that aim to ease both existing and future challenges facing road traffic without heavy investment.
+The main objective of ITS is to provide safe, accessible, reliable, sustainable and user-friendly transport for commuters and set up a mechanism to deliver a transport service that keeps pace with growth. It is basically the use of computer and communications technologies in the resolution of transport problems.
+It can help in timely gathering of data or intelligence and then providing feedback to traffic managers and road-users. Implementation of ITS can lead to reduced traffic congestion, better traffic efficiency, better safety to drivers, improved energy efficiency and increased economic productivity. Some examples of ITS include: Advanced Vehicle Control Systems, Advanced Traveller Information Systems, Electronic Toll Collection Systems, Advanced Public Transportation Systems, Wireless Traffic Signal Controllers, Red Light-Stop Line Violation & Detection System, CCTV Junction Surveillance, Variable Message Sign system and Video Incident Detection etc.
+These solutions have already been adopted in a large number of countries for effective management of traffic. Japan, for example, has seen within 3 years after the successful implementation of this technology, a reduction of traffic congestion by 35%.
+Thailand experience
+If Sri Lanka is interested in adapting an ITS programme, one of best success stories it can study is Thailand experience. Just like us, traffic conditions in Bangkok metropolitan region and the surrounding provinces were deteriorating and becoming severely congested due to the increase in travel and transport demand which exceeded their network capacity. As a result, the Office of Transport and Traffic Policy and Planning (OTP), after extensive research, decided to implement the Intelligent Transportation System (ITS) Master Plan 2012 - 2017 prepared by the experts.
+The strategy has been formulated from two approaches: (1) the problem identification process and SWOT analysis (strengths, weaknesses, opportunities and threats) of the current transportation and logistics situations in major cities in Thailand, and 2) the roles and capabilities of stakeholders in the transportation industry, both government and private sectors.
+The strategy for ITS development is divided into six areas of applications as follows:
+Strategy 1: Traffic Management/Traffic Signal Control: e.g. Advance Traffic Control System at Intersections, Emergency Vehicle Priority System
+Strategy 2: Traffic Information Provision: e.g., Traffic Information Collection and Provision System on real-time basis, Events Information Provision System, Route Guidance System to direct drivers to less congested routes, Information Provision System for Temporary Traffic Bottlenecks, Traffic Management System at Large-scale Shopping Malls, Parking Space Information Provision System, Commercial Vehicles Location System.
+Strategy 3: Traffic Safety Assistance: e.g., Danger Warning System to reduce road crashes, Pedestrian Safety Support System, Weather Condition and Prediction Information Provision System.
+Strategy 4: Public Transport Management: e.g., Bus operation Monitoring and Control System, Rail Operation Information Provision System.
+Strategy 5: Traffic Enforcement Assistance: e.g., Traffic Rules Surveillance and Control System, On-street Parking Control system, Over Speeding Control System, Overloaded bus and lorry Control System.
+Strategy 6: Road Management: e.g., Upgrading of Road Condition Information Collection.
+Strategy 7: Toll/Fare Collection: e.g., Road Pricing System, Common Ticketing System.
+For each of the six areas of ITS applications, objectives, projects, responsible agencies, and strategy’s KPIs were listed.
+Budget allocation
+Budget allocations for the proposed ITS developments in five years were determined using two approaches as follows:
+(1) As a proportion of the national transportation infrastructure investment. The appropriate proportion was adopted from other areas which have proved to have a positive impact to the transportation system.
+(2) Based on the economic benefits from the implemented projects and the investment cost.
+Based on the budget allocation analysis, the total budget for the proposed ITS developments from 2012- 2017 were around 8,000 Million Baht (about Rs. 38.0 billion).
+A new research report produced by a global IT body - GSMA Association, ‘Building Digital Societies in Asia: Making Transportation Smarter,’ indicates that the successful implementation of Intelligent Transport Systems (ITS) in the capital city of Thailand is beginning to reduce travel times, carbon dioxide emissions and road accidents, driving social and economic benefits of up to US $1 billion per year.
+Countries such as the US, Japan, South Korea, UK, Germany and Netherlands have been implementing ITS for more than a decade and have derived significant socio-economic benefits from such solutions. Given its heavy traffic congestion and associated pollution, as well as a very high traffic accident rate, Colombo (as a starting point) is a particularly good use case to demonstrate the potential of ITS. 

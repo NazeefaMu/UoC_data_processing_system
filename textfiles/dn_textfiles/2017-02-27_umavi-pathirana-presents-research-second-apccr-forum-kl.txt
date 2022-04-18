@@ -1,0 +1,12 @@
+## Title: Umavi Pathirana presents research at second APCCR forum in KL
+## Supertitle: 
+## Section: Finance
+## Date: Monday, February 27, 2017 - 01:00
+
+Umavi Pathirana presents research at second APCCR forum in KL
+
+Umavi Pathirana recently presented a research paper on “Simplifying Legal Statements using Natural Language Processing” at the second Asia Pacific Conference on Contemporary Research (APCCR) in Kuala Lumpur, Malaysia.
+Pathirana, a recent graduate of the Sri Lanka Institute of Information Technology, is employed at the London Stock Exchange Group’s new facility at Trace Expert City, where she works with some of Sri Lanka’s best and brightest technology professionals in providing support to the Group’s worldwide network.
+Utilising a computational approach to reduce the complexity of a legal statement, Pathirana’s research delved into information extraction, information retrieval, question analysis and answer generation techniques as methods to derive better meanings for legal statements. Positing that, if legal statements are analysed as questions, more information could be retrieved from the “WordNet” and “LawNet” networks via a process that mostly functions like a search engine. Research results showed an accuracy level of 80% on average, for a 1,500-item data-set.
+Held under the theme, “Breakthrough to Excellence”, the second Asia Pacific Conference on Contemporary Research highlighted up-to-date academic research being carried out in the disciplines of Business, Social Sciences, Education, and Information and Communications Technology (ICT).
+It featured internationally recognised scholars presenting their latest research and best practices.

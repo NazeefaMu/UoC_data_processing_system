@@ -1,0 +1,14 @@
+## Title: SLT opens Rs 2.4 bn ‘National Data Center’
+## Supertitle: 
+## Section: Finance
+## Date: Friday, January 19, 2018 - 01:00
+
+SLT opens Rs 2.4 bn ‘National Data Center’
+
+Together with Ministry of Telecommunications and Digital Infrastructure (T&DI) and Sri Lanka Telecom PLC (SLT) launched it’s newly built, state-of-the-art, Tier 3 (Tier III) Data Centre in Pitipana - Homagama on Tuesday at a cost of Rs. 2.5 billion. Ravi Shankar Prasad Minister, Law & Justice, Electronics and Information Technology, Republic of India was the Chief Guest.
+It is the country’s first ‘Purpose built, tier 3 Data Centre’ recognised as the “National Data Centre” in operation and will enhance the provision of a secure and reliable data hosting facility and Cloud computing services in Sri Lanka.
+Minister of Telecommunications and Digital Infrastructure Harin Fernando, said that the government is very keen on implementing the National Cloud and Data Centre infrastructure to accelerate the digital transformation.
+“We have already established Local Government Network or LGN which integrates all the government establishments in the country for effective communications is another clear example of the way forward. Today all the public and private enterprises are beginning to embrace hosted managed services and Cloud services because it promises increased agility in addition to making a saving in OPEX and CAPEX.”
+SLT’s Data Centres and Cloud platform is a scalable and cost effective alternative to dedicated computing resources deployed in-house by companies and includes managed virtual data centres, virtual private servers, and virtual LANs to assure customers of high availability.
+Adding thoughts on the initiative SLT’s Group Chairman, P. G. Kumarasingha said, “The functions of SLT are based solely aligning to the GoSL development and digital roadmap and also on the needs of the consumer and as a vital player in the backbone of Sri Lanka’s ICT industry, SLT is dedicated to developing the country’s ICT infrastructure in every way possible. The capability of providing high speed connectivity is essential to our business, so it makes perfect sense that the data centre is meshed into our national backbone network and MPLS network for seamless delivery of hosted applications.”
+ 

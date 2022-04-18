@@ -1,0 +1,21 @@
+## Title: Farewell to smashed phone screen?
+## Supertitle: 
+## Section: Features
+## Date: Wednesday, December 20, 2017 - 01:00
+
+Farewell to smashed phone screen?
+
+Japanese researchers say they have developed a new type of glass that can heal itself from cracks and breaks.
+Glass made from a low weight polymer called “polyether-thioureas” can heal breaks when pressed together by hand without the need for high heat to melt the material.
+The research, published in Science, by researchers led by Professor Takuzo Aida from the University of Tokyo, promises healable glass that could potentially be used in phone screens and other fragile devices, which they say is an important challenge for sustainable societies.
+While self-healing rubber and plastics have already been developed, the researchers said the new material was the first hard substance of its kind that can be healed at room temperature.
+“High mechanical robustness and healing ability tend to be mutually exclusive,” wrote the researchers, saying while some hard but healable materials have been developed, “in most cases, heating to high temperatures, on the order of 120°C or more, to reorganise their cross-linked networks, is necessary for the fractured portions to repair.”
+The new polymer glass is “highly robust mechanically yet can readily be repaired by compression at fractured surfaces”.
+The properties of the polyether-thioureas glass were discovered by accident by graduate school student Yu Yanagisawa, who was preparing the material as a glue. Yanagisawa found that when the surface of the polymer was cut the edges would adhere to each other, healing to form a strong sheet after being manually compressed for 30 seconds at 21°C.
+Further experimentation found that the healed material regained its original strength after a couple of hours.
+Yanagisawa told NHK that he didn’t believe the results at first and repeated his experiments multiple times to confirm the finding. He said: “I hope the repairable glass becomes a new environment-friendly material that avoids the need to be thrown away if broken.”
+This is not the first time a polymer has been suggested as a healable screen for devices such as smartphones. Researchers at the University of California proposed the use of polymer that could stretch to 50 times its original size and heal breaks within 24 hours.
+Smartphone manufacturers have already used self-healing materials in devices.
+LG’s G Flex 2 shipped in 2015 with a coating on its back that was capable of healing minor scratches over time, although failed to completely repair heavier damage.
+According to research commissioned by repair firm iMend in 2015, over 21% of UK smartphone users were living with a broken screen, with smashed displays being one of the biggest issues alongside poor battery life.
+The Guardian

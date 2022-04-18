@@ -1,0 +1,11 @@
+## Title: Driverless train
+## Supertitle: 
+## Section: Features
+## Date: Monday, June 19, 2017 - 01:00
+
+Driverless train
+
+China is going for another world’s first with their new ‘ART’ train design which mixes bus, tram and train all in one. Except instead of following the usual metal rails, it follows the dotted white lines painted on the road.
+ART stands for Autonomous Rail Rapid Transit, and its maker, Chinese rail transit firm CRRC, is calling it a “smart bus”. The driverless 30-meter long bus is fully electric and can travel over 40km on a full charge. While it’s guided by the white lines on the pavement, the sensors along its route (combined with sensors on the vehicle itself) help it follow the ‘virtual rails’ and adapt to its surroundings and unexpected situations in real time.
+The first model is able to fit 300 passengers across three carriages (with up to 500 in future configurations), and it runs on rubber tires instead of metal rails. The design is aimed at the communities that can’t afford the immensely expensive subway or tram projects. For example, it costs up to $102 million to build a kilometer of a subway track, as compared to about $2 million for a standard length ART bus, according to a report by Chinese state media Xinhua.
+A 4 mile (6.5 km) ART line will be built in the Chinese city of Zhuzhou, with operations starting in 2018. Daily Star

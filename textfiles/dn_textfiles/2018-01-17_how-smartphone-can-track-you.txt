@@ -1,0 +1,20 @@
+## Title: How  smartphone  can track you
+## Supertitle: 
+## Section: Features
+## Date: Wednesday, January 17, 2018 - 01:00
+
+How  smartphone  can track you
+
+The little pocket supercomputers we all constantly carry around with us aren’t just supplying us with useful information, they’re also collecting a host of data on us and our habits, all of the time. Here’s a guide to what gets collected by your smartphone and the apps running on it, and how you can take back some control. Sensors, Android, and iOS
+Your smartphone is packed with sensors, monitoring where you are in the world, how fast you’re moving through space, which way up you’re holding your phone, and more. All of this data is used by apps to improve the user experience—so making sure your phone apps switch between landscape and portrait modes, and keeping you on the right route for your commute—but how much of this data is logged and stored is largely up to the choices of the handset manufacturer.
+In recent months OnePlus has been at the center of a privacy kerfuffle over the way it was logging personally identifiable information (like device IDs) and transmitting that data back to OnePlus’s home base, ostensibly to improve the device’s user experience. OnePlus has since dialed back some of that data collection, and promises to only use the data it gathers internally, but it shows just how much data your smartphone can reveal, and how tricky it can be to know what’s being collected and what isn’t.
+Google’s privacy policy, which affects Android among other services, is here:
+You can see that as soon as you sign into Android with your Google account, your device gets linked to your Google credentials, and Google starts logging data such as the length and type of your phone calls, your phone’s location, the device you’re using, and more.
+You can also find Apple’s privacy policy online.
+While a lot of the data collected is the same, Apple differs from Google by making much of it anonymized or kept on your iPhone (and not sent back to Apple)—so while your location can be tracked on iOS, for example, Apple itself doesn’t know where you are, only your phone does.
+Face ID is another good example of how Apple differentiates itself on privacy.
+The Face ID sensors map and know everything about your face, but that information is then stored privately and securely on your phone—it isn’t transferred back to Apple or iCloud, making it very difficult for anyone to get a copy of your face.
+However, some of this data is shared with third-party apps. For example, some app might want to stick an AR filter on your face. Apple requires that any app requesting such face-scanning features must present a privacy policy to the user. Smartphone apps
+On top of the basic information collected by your smartphone and beamed back (or not beamed back) to the company that made your handset, there’s all the information collected by the apps you run too—the data that gets recorded and saved is down to an individual app’s privacy policies and the permissions you give it.
+If you want to know exactly what an app is allowed to track on your Android phone, open the Settings app then go to Apps & notifications, choose an app, and select Permissions. Over on iOS, launch the Settings app then pick an app to see the permissions it has. Most of these permissions can be revoked with a toggle switch on both Android and iOS.
+-www.fieldguide.gizmodo.com

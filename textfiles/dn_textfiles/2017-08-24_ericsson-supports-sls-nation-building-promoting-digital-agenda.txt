@@ -1,0 +1,27 @@
+## Title: Ericsson supports SL's nation building by promoting the digital agenda
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, August 24, 2017 - 01:00
+
+Ericsson supports SL's nation building by promoting the digital agenda
+
+Ericsson is shaping the future of mobile broadband Internet communications through its continuous technology leadership and is contributing to Sri Lanka’s nation building agenda through our various initiatives like Connect to Learn , 5G Island of Innovation and by partnering with Dialog for its Cumulus initiative, said Vinod Samarawickrama, Country Manager for Ericsson in Sri Lanka.
+Ericsson has undertaken a variety of research projects with partners, to trial new technologies in robotics, drones, cloud, big data, all underpinned by 5G connectivity. Ericsson has more operator partnerships in 5G than any other vendor, and large industry partnerships with ABB, SKF, Boliden, Volvo, BMW, and many more.
+"We are leading innovation with the best 5G platforms for the real world ," Samarawickrama said.
+In an interview, Vinod Samarawickrama, speaks on industry trends, Ericsson future plans in Sri Lanka and beyond.
+What did you showcase at the technology roadshow with Dialog being carried out in their office?
+Ericsson and Dialog Axiata PLC have successfully showcased the future of mobile broadband through a live demonstration of 5G technology. This is the first 5G Demonstration in South Asia and we are very proud to have partnered with Dialog to bring this to Sri Lanka. The demonstration includes Ericsson’s 5G test bed, 5G New Radio (NR) and use cases such as a motion-sensing robotic arm and live 4K video streaming.
+We also demonstrated the ability of 5G to support 4K video streaming. 4K content was streamed from a server to a radio base station and then relayed to 5G user equipment and displayed on a 4K TV screen. With 5G radio, a single network cell will be able to support playback of 4K video by hundreds of simultaneous users.
+How is Ericsson leading the development of 5G in the world?
+Ericsson is uniquely positioned as a leader in the development of standards for 5G systems. Our active participation and leadership in global standardization organizations and open source communities enable us to play a key role in shaping future technologies.
+Ericsson has undertaken a variety of research projects with partners, to trial new technologies in robotics, drones, cloud, big data, all underpinned by 5G connectivity.
+We are leading innovation with the best 5G platforms for the real world: by contributing to 5G standards and pioneering the world’s first 5G NR ready radio – the Ericsson AIR 6468, which is on display at the Road Show.
+We are leading and driving the 5G standards work from today's exploratory research and pre-standard field trials, through influential standards bodies and industry groups. Today, we have 15 industry pilots and 22 operator partners.
+What do Sri Lankan operators need to do now to prepare for 5G?
+To get ready for 5G, organizations need to have a clear strategy for growth and plans to transform the organization to leverage the opportunities afforded by the new technology. Ericsson is an ideal partner to help develop that strategy, make the right choices, and implement seamlessly.
+As 5G includes so much more than radio, the transition to 5G for operators will be more extensive than any previous generation network. At Ericsson, we are building 5G as an evolution and extension of our industry-leading 4G LTE technology, and as a result, we expect many components to be launched before 2020.
+Although standards organizations plan to complete the specifications by 2020, 5G activity is ramping up throughout the industry. Many operators already have plans to move to 5G, and they are starting to choose the vendors that they intend to work with. Although 2020 seems far off in the future, the journey to 5G has already begun.
+How is Ericsson contributing to Sri Lanka’s nation building agenda using ICT ?
+We are contributing to Sri Lanka’s nation building agenda through our various initiatives like Connect to Learn , 5G Island of Innovation and by partnering with Dialog for its Cumulus initiative , just to name a few . You may be aware that we were the first to launch 3G services in Sri Lanka with Dialog in 2006 and we are looking forward to taking the lead when it comes to introducing 5G Services in Sri Lanka .
+Regarding the 5G Island of Innovation we signed a MoU for the same with Mobitel and the Ministry of Telecommunication and Digital Infrastructure in March this year . This MoU represents a landmark strategic ICT partnership that aims to bring 5G Internet of Things (IoT) innovation and entrepreneurship to Sri Lanka for the first time in South Asia. The 5G Island of Innovation environment will further advance the nation’s ICT skills and capabilities, supporting the ambition to transform Sri Lanka into a digital and knowledge based society, driving new and increased employment opportunities enabled by ICT ecosystem innovations.
+Ericsson will implement its 5G test bed technology in the Mobitel Innovation Centre in Colombo with the prime purpose of jointly creating a 5G IoT ecosystem designed to provide Sri Lankan ICT innovators an environment to develop and test 5G IoT applications and services.

@@ -1,0 +1,26 @@
+## Title: A revolutionary leukaemia treatment could soon be approved
+## Supertitle: 
+## Section: Features
+## Date: Monday, August 21, 2017 - 01:00
+
+A revolutionary leukaemia treatment could soon be approved
+
+A revolutionary gene therapy treatment for leukaemia is awaiting a thumbs-up in the US and could change the game in countering the disease.
+If the Food and Drug Administration (FDA) approves the treatment in September, “CTL019” will be the first gene therapy allowed for clinical use in the US – and the fourth in the world, following Glybera and Strimvelis, two gene- therapy products recently approved in Europe for two genetic diseases, and Gendicine (for cancer) in China in 2004.
+CTL019 is a custom-made, personalised drug developed by the University of Pennsylvania and health company Novartis. The treatment consists of a single shot of immune cells reprogrammed to kill the patient’s specific leukaemic cells.
+Clinical trials show remarkable results. Originally tested in 30 patients affected by resistant acute B-lymphoblastic leukaemia (ALL) – an aggressive blood cancer – CTL019 induced complete remission (meaning that the leukaemia vanished) in 90 per cent of patients. The trial was later extended to 50 patients and resulted in a similar remission rate, which is extremely high for ALL.
+ALL accounts for 25 per cent of all cancer in children. The standard treatment is based on chemotherapy followed by bone marrow transplantation. If the standard treatment fails, a bone marrow donor is unavailable or the patient relapses, there are no other therapeutic options and the chances of survival are slim. It is estimated that 15 per cent of cases do not respond to standard treatment.
+CTL019 represents a major opportunity for these children. Indeed, families of children affected by ALL, whose lives were saved by CTL019, strongly advocated for its approval.
+How it works
+The treatment is the result of more than 20 years of research in the fields of molecular biology, virology and haematology. The administration of CTL019 is a lengthy procedure. Immune cells called T cells are taken from the patient using a procedure similar to blood collection.
+The cells are then grown and genetically modified in a laboratory for expression of a molecule receptor called CAR (chimeric antigen receptor) which is able to recognise CD19, a molecule widely expressed on B-leukemic cells. The genetically modified immune cells are then administered back to the patient in a procedure which resembles a transfusion.
+It is unclear how long the CTL019 reprogrammed cells will persist in the patients’ circulation and whether this should be a reason to worry or celebrate. It is not fully understood whether they will remain for long periods of time and go on to harm the patient, for example, or persist and offer protection from any further leukaemic growth.
+In the lab, CTL019 has been added to T cells by inserting specific genes inside the T cells using viruses as vectors for the genetic transfer. This is also the system used in the Strimvelis and Glybera treatments.
+The approach exploits the natural ability of certain viruses to infect cells and introduce genes into them. The vectors used are not virulent and therefore they are not able to cause a disease, but they can add genes to the human genome.
+The first trials using this type of approach didn’t fully take into consideration the potential harm of inserting a gene into a random sequence of human DNA. The results had a tragic setback: in 2002, a gene therapy patient developed a leukaemia. This had a profound impact on public opinion.
+Since then, enormous efforts have been made to improve the methodology and vector design in order to reduce the risks. Nevertheless, the long-term effects of such new treatments are unknown and patients will need to be under close monitoring for 15 years.
+As scientists, we all hope and work hard to find a definitive cure for all cancers. We don’t know yet if the patients that undertook the CTL019 trials can be considered cured or whether they will eventually relapse. But this drug is an opportunity to prolong the survival of patients that currently have no other option. In the meantime, we will celebrate every success in the battle to prolong the survival of cancer patients.
+An analogous protocol called UCART19, is also under development at the Great Ormond Street Hospital in London.
+In 2015, a one-year-old baby affected by refractory ALL was the first patient ever treated with UCART19. The brilliant results led to the development of a phase I clinical trial.
+No treatment can be considered 100 per cent safe. For every patient, there are risks and benefits to take into consideration. Nevertheless, CTL019 has produced some excellent results and the side effects have been managed well. At the moment, this treatment is a very promising option for patients with relapsed ALL. Let’s hope it saves lives.
+http://www.independent.co.uk 

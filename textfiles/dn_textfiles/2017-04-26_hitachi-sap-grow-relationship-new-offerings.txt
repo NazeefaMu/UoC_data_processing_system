@@ -1,0 +1,20 @@
+## Title: Hitachi, SAP grow relationship with new offerings
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, April 26, 2017 - 01:00
+
+Hitachi, SAP grow relationship with new offerings
+
+Hitachi Data Systems (HDS), a wholly owned subsidiary of Hitachi, (TSE: 6501), and SAP AG (NYSE: SAP) announced an expansion of its worldwide alliance by extending a global original equipment manufacturer (global OEM) agreement that includes SAP HANA solutions delivered by HDS.
+This is the first-ever global OEM agreement for SAP NetWeaver on the SAP HANA platform. It delivers a more complete enterprise data center solution for SAP NetWeaver Business Warehouse (BW) on SAP HANA and provides tight integration with converged and hyper converged infrastructure, software and managed services from HDS. The result is a platform for SAP that scales without impact on performance and avoids needless complexity.
+The collaboration focuses on providing future technology innovation and combined sales and marketing activities to customers worldwide, and extends integration with the SAP real-time data platform and high-performance enterprise computing.
+The global collaboration is designed to provide SAP, Hitachi and HDS customers a more cohesive solution that includes SAP HANA, storage virtualization, cloud computing choices, enterprise resource planning (ERP) and information life-cycle management (ILM).
+The objective of this SAP and Hitachi agreement is to make it easier for customers to maximize value, lower implementation and operational costs, achieve higher availability and increase enterprise-class disaster tolerance.
+“This announcement represents a new level of collaboration with Hitachi and HDS, underscoring our commitment to ongoing innovation with our partners for the benefit of our customers”, said Steve Lucas, President, SAP Platform Solutions.
+“Through our expanded collaboration, we envision that customers will more easily be able to gain significant advantage with SAP HANA, which will provide them with more tightly integrated, innovative solutions and reduced time to market, while minimizing migration costs”.
+Hitachi Unified Compute Platform for the SAP HANA Platform provides 5x more data load than other offerings with proven transactional and analytical performance for customers.
+“While we are most certainly thrilled with this announcement, it's our joint customers who have the most to gain as a result,” said Brian Householder, Chief Operating Officer, Hitachi Data Systems.
+“HDS is now able to offer a tightly integrated enterprise data center solution that delivers a 5x performance increase over competitive offerings, while minimizing the data center footprint and resource requirements." "This increased collaboration with SAP is expected to also result in greater opex and capex efficiencies for customers, and sets the stage for future joint innovation between the two companies”.
+“SAP and Hitachi have more than two decades of partnership, and we are pleased to be able to bring that relationship to our local customers, especially on high performance SAP HANA platforms”, said Milan Dantanarayana, Strategic Sales Director, Sri Lanka and Maldives, Hitachi Data Systems.
+“We have had a successful relationship with SAP globally, and ensuring that the same relationship is extended to the local clientele ensures that we are providing the right technology at the right time."
+"Through this new partnership, we will be able to provide significant benefits to new and existing customers both on capex and opex models”.

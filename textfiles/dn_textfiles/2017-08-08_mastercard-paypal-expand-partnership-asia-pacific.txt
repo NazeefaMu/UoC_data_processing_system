@@ -1,0 +1,19 @@
+## Title: Mastercard, PayPal expand partnership in Asia Pacific
+## Supertitle: 
+## Section: Finance
+## Date: Tuesday, August 8, 2017 - 01:00
+
+Mastercard, PayPal expand partnership in Asia Pacific
+
+Mastercard and PayPal today announced an extension of their partnership into Asia Pacific to enhance the consumer experience and make Mastercard a clear payment option within PayPal.
+The deal will expand PayPal’s presence at the point of sale and enable Masterpass for Braintree merchants in the region.
+Additionally, both companies will collaborate to create opportunities to leverage Mastercard’s new payment flow technologies, providing increased value to Mastercard cardholders, financial institutions, and PayPal customers.
+PayPal will also have the opportunity to give consumers and small businesses across Asia Pacific the ability to cash out funds held in their PayPal accounts to a Mastercard debit card.
+“We’re excited to extend our long standing partnership with Mastercard into Asia Pacific,” said Rohan Mahadevan, Chief Executive Officer, PayPal Pte Ltd and Senior Vice President, APAC, PayPal Inc. “Our partnership will continue to drive innovation, accelerate the move to digital payments and improve payment experiences for our mutual customers in the region, unlocking the potential to millions of customers to more freely spend and move their money.”
+“Whether paying in the physical or digital world, consumers want to see the familiar Mastercard brand from their chosen issuer,” said Rama Sridhar, Executive Vice President, Digital and Emerging Partnerships, Asia Pacific, Mastercard. “This expansion of our partnership with PayPal reinforces our commitment to our cardholders in the region to deliver the simple, speedy and secure payment experience they’ve come to expect from Mastercard.”
+Through collaborations with Mastercard bank partners, consumers will be able to seamlessly add Mastercard cards into PayPal from banking apps.
+Mastercard will be presented as a clear and equal payment option within the PayPal Wallet, making it easily identifiable to the consumer when transacting. Customers will also see a familiar digital representation of their Mastercard from their chosen issuer. Moreover, consumers will be able to choose Mastercard as their default payment method to allow for quick and easy check-out.
+The deal will also give PayPal the opportunity to expand its presence at the point of sale by utilizing tokenization services from Mastercard. This will allow consumers to use their tokenized Mastercard in their PayPal Wallet to make in-store purchases at the more than 6.5 million contactless-enabled merchant locations across the globe.
+In addition, customers will have the ability move funds to their bank accounts via their Mastercard debit cards in real time across multiple markets.
+The partnership will also bring more choice for merchants, adding Masterpass as a payment option for those that process payments via Braintree.
+Merchants that leverage Braintree will be able to easily integrate Masterpass into their checkout experiences, providing a seamless user experience for their customers. 

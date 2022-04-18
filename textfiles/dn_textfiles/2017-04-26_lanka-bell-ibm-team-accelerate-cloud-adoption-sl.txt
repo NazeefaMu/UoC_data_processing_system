@@ -1,0 +1,21 @@
+## Title: Lanka Bell, IBM team to accelerate Cloud Adoption in SL
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, April 26, 2017 - 01:00
+
+Lanka Bell, IBM team to accelerate Cloud Adoption in SL
+
+IBM announced today a collaboration with Lanka Bell, Sri Lanka’s leading telecommunications service provider, to provide enterprises, start-ups, developers and government bodies cloud services via the IBM Cloud.
+As a part of the agreement, the two companies will jointly market and sell new offerings for public, private and hybrid cloud deployments, including workload migrations, disaster recovery and capacity expansion solutions via the IBM Cloud.
+Lanka Bell is a world-class telecommunications operator that provides a full range of telecommunication services, including Internet, data and voice, to businesses and residential customers in Sri Lanka.
+With its agreement with IBM, Lanka Bell will expand its portfolio to include a wide range of cloud solutions. For example, in addition to IaaS and PaaS services, the IBM Cloud infrastructure will enable Lanka Bell to offer clients back-up storage, virtual machines and virtual storage facilities which can be integrated with the IBM NAS (Network Access Service) solutions.
+“This partnership is an extension of our near 20 year relationship with IBM and demonstrates our shared vision that will help enterprise customers in the country to embrace cloud offerings quickly and easily”, said Dr. Prasad Samarasinghe, Managing Director, Lanka Bell. “We anticipate customers will benefit from this collaboration and expansion of Lanka Bell’s cloud offerings.
+All IBM Cloud data centers connect to world class networking infrastructure, hardware and software with exceptional bandwidth and connectivity for the highest speed and reliability that enable seamless data transfer, low latency and more consistent performance.
+IBM’s triple network architecture enables high bandwidth apps and services like video streaming, database querying and HPC applications to perform at their best.
+“IBM cloud is open by design, offering a set of tools, flexibility and agility that helps organizations of all sizes and developers to easily translate their innovative ideas into technical solutions and business models, said Chrishan Fernando, RGM, Sri Lanka.IBM.
+The collaboration is built on our two companies long history of bringing innovation to business. We are confident that our cloud platform and joint offerings will enable customers to support new ways to work in an era shaped by cognitive and digital transformation.
+As the pioneers of fixed wireless telephony who introduced CDMA technology to Sri Lanka in 2005, Lanka Bell revolutionised the telecommunication landscape by providing all Sri Lankans the opportunity to enjoy the very best in telecommunication connectivity.
+The launch of Bell4G home broadband services via 4G LTE technology further enriched and enhanced Lanka Bell's offering and has taken it to the next level.
+Among the company's other main offerings is BESTBell Enterprise Solutions Technology. This is a specialised suite of enterprise telecommunication solutions which offers voice and text, data, IDC (internet Data Centre) and international services.
+Lanka Bell is also the landing partner for the FLAG submarine cable network in Sri Lanka. With a significant investment, Lanka Bell owns and operates the totally independent cable landing station thus providing true diversity in international connectivity to Sri Lanka as a country.
+More information could be obtained from www.ibm.com/cloud-computing

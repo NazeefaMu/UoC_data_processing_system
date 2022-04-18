@@ -1,0 +1,51 @@
+## Title: UoM hits scalable autonomous farming robot
+## Section: News Features
+## Date: 31 October 2018 12:00 am
+
+UoM hits scalable autonomous farming robot
+
+
+	
+
+
+
+The latest addition to the long record of innovations by University of Moratuwa, the university pioneer in technological innovations and advanced engineering implementations in Sri Lanka, is the farming robot – SAASbot (Scalable Autonomous Agronomical Smartbot). SAASbot is a fully autonomous robot, which is capable of maintaining home gardens to medium scale farms from the point of planting seeds, up to the point of harvesting.   
+
+The robot was designed and developed by three undergraduate students, Achala Athukorala, Kosala Herath and Nipuna Ranasinghe, from the Department of Electronic and Telecommunication Engineering of the University of Moratuwa, under the guidance of Dr. Peshala Jayasekara and Dr. Thilina Lalitharatne, senior lecturers of University of Moratuwa, from the Department of Electronic and Telecommunication Engineering and the Department of Mechanical Engineering, respectively.   
+
+Dr. Peshala Jayasekara, the one who’s behind the idea of “Scalable Farming Robot”, states that, “The focus is not on the automation of farming activities, but on changing the whole culture of agriculture”. Present day world is heavily dependent on large scale farms to fulfil agricultural product requirements for daily consumption. Almost all the agricultural products are grown in remote large-scale farms, which are then transported to markets, to be purchased by consumers. With the rapid increase of world population in the past decades, centralized supply chain of agricultural products forces remote large-scale farms to increase their supply continually. 
+
+
+The robot was designed and developed by three undergraduates, Achala Athukorala, Kosala Herath and Nipuna Ranasinghe, from the Dept of Electronic and Telecommunication Engineering of the University of Moratuwa
+
+
+As a result, the artificial chemical (insecticides, pesticides) usage in farming has been increased drastically with the aim of increasing the yield. Furthermore, the use of chemical preservatives has also been significantly increased to reduce the wastage occurring during transportation and storage of agricultural products. Due to these factors, the agricultural products in present markets pose a serious threat to the health of consumers. Moreover, despite the use of chemical preservatives, there is a significant wastage of agricultural products presently, due to inefficiencies in large-scale farming, transportation and storage.  
+
+According to the belief of the young innovators from University of Moratuwa, the solution to this crisis lies in the decentralization of agricultural product supply, through motivating consumers to engage in personal or medium-scale farming. However, people are demotivated to engage in farming mainly due to the time constraints as well as the tiresomeness of conventional farming activities. This is the core problem for which SAASbot was built to solve, thereby facilitating anyone to engage in farming without additional effort or time, and thus changing the whole culture of agriculture, as envisioned by Dr. Jayasekara.  
+
+Currently, there are only a very few agricultural robots available for purchase for consumers, for personal farming or medium scale farming in the world. However, all of these available robots have either fixed farming areas (max. ~ 8 square metres) or can only perform a specific farming activity only (seeding, watering, fertilizing). SAASbot provides functionalities such as planting seeds, watering and fertilizing, surveillance, automatic weed elimination with the added unique feature of scalability. The SAASbot can be used in a farming field of any size or shape, making it superior to all the presently available commercial robots for personal to medium scale farming. Looking at the sales data of currently available personal farming robots in the market, it is evident that SAASbot is capable of securing a huge market share globally, if commercialized.   
+
+The whole mechanical system of SAASbot was developed from scratch in Sri Lanka, under the supervision of Dr. Thilina Lalitharatne, at a fraction of the cost of existing commercial robots for personal farming. SAASbot system consists of not only the SAASbot mobile farming robot but also a stationary home station and its mobile application. The robot comprises a CNC (Computer Numerical Control) gantry and a mobile platform with Mecanum wheels. The CNC mechanism allows the robot to carry out farming operations within its dimensions, which is called a ‘Cell’, whereas the mobile platform allows the robot to move to another cell. The use of the hybrid actuation system of Mecanum wheels and the 3-axis CNC mechanism allows precise and faster end effective movement while facilitating scalability. Additionally, the actuation architecture used in SAASbot allows the robot to plant different plants in the same farming field, and treat individual plant separately; a unique feature which is not present in mobile farming robots. The robot has on board seed, water and fertilizer storage and an on board rechargeable battery.  
+
+The SAASbot mobile app developed by the team provides an easy and powerful interface for the users to control the robot. The mobile app can be used to perform all the aforementioned robot functions (planting seeds, watering, fertilizing) and also it can be used to create custom profiles for each plant type (i.e. the daily water/fertilizer requirement for a specific plant, crop harvesting time etc.). SAASbot will automatically carry out watering and fertilizing daily, according to the profiles created by the application.  
+
+
+SAASbot provides functionalities such as planting seeds, watering and fertilizing, surveillance, automatic weed elimination with the added unique feature of scalability
+
+
+“University of Moratuwa undergraduates are diversely skilled. Our engineering graduates possess general engineering knowledge relevant to numerous engineering disciplines, not only constraining themselves to their majoring field. All the three members of our team majored in Electronic and Telecommunication Engineering, however, we developed the whole SAASbot system from scratch in Sri Lanka including the mechanical design, electrical and electronic design, control system design, networking and mobile app development. Nevertheless, we had to face many difficulties regarding the mechanical system design implementation, due to the lack of access to manufacturing technologies and resources in Sri Lanka. Looking back, we recall the immense support and resources provided by Dr. Lalitharatne in implementing the mechanical design. Furthermore, we must thank Dr. Jayasekara and Prof. Rohan Munasinghe, the former Head of the Department of Electronic and Telecommunication Engineering for their immense support throughout the development of SAASbot.” – Achala, the team leader expressed his thoughts.  
+
+
+
+The methodology and the results of the SAASbot have been presented at the 14th International Conference on Mechatronic and Embedded Systems and Applications of the American Society of Mechanical Engineers (ASME) and Institute of Electrical and Electronics Engineers (IEEE), which was held in Finland this year. SAASbot system is undergoing further developments currently, to increase its effectiveness in different environments and to make the robot compatible with a wider variety of crops. “We are inviting researchers in agricultural robotics as well as potential investors to join us.” The team leader, added.  
+
+Information regarding SAASbot can be found on IEEE Xplore and Youtube.  
+
+SAASbot Introduction: https://youtu.be/MeBeG0hAACk
+
+Operation video: www.youtube.com/watch?v=diF2_5T8vRQ
+
+For additional information, the team can be contacted on saasbot.uom@gmail.com .   
+ 
+
+		

@@ -1,0 +1,19 @@
+## Title: Forestpin sponsors  University of Moratuwa team
+## Supertitle: 
+## Section: Finance
+## Date: Friday, December 21, 2018 - 01:00
+
+Forestpin sponsors  University of Moratuwa team
+
+A Sri Lankan student team has been selected to present their findings at the YES Bank Machine learning competition in Bangalore, India.
+YES Bank invited data scientists, companies, researchers and students from all over the world in August to take part in a machine learning competition that involved access to the actual data of YES Bank.
+The first round of the competition involved four different machine learning tests over a two month period where data was given and each of the teams were asked to make specific predictions. Based on the results the best teams were selected and given access to actual YES Bank data.
+A team of third year undergraduates from electronics department of the University of Moratuwa, Mahendran Sutharasan, Indula Rasanjana, Uththara Chandratilake, Chaturi Jayaweera got selected as one of the teams to receive YES Bank data.
+All four of them just completed machine learning internships at Forestpin (Pvt) Ltd. During the last few weeks they have been working closely with the Data Scientists at YES Bank to show how machine learning can be used to improve the banks marketing initiatives.
+They have now been selected to the finals to present their findings to the YES Bank executives in Bangalore on December 22.
+Forestpin is sponsoring the air tickets of the team to take part in the finals. Forestpin is a startup from Sri Lanka that helps companies reduce operational risk by identifying transactions that are different from past patterns. Some of the largest and technologically advanced companies in Sri Lanka use Forestpin Analytics and Alerts to check payments and purchases.
+In addition there are early adaptors in the insurance industry that check for unusual claims using Forestpin Alerts. Forestpin has been listed as a top ten data analytics solutions provider in the Asia Pacific Region by the CIO Outlook APAC Magazine in 2018. YES Bank is the fourth largest bank in India and is one of the fastest growing banks in India.
+Dr. Nuwan Dayananda, Head of the department of Electronics and Telecommunication of the Moratuwa University said that he is extremely happy that the electronics students are building skills in machine learning that would be extremely important in the future.
+Ransith Fernando, MD of Forestpin said that Bangalore is the silicon valley of India and he is extremely proud that a Sri Lanka student teams can compete and make it to the final presentations in Bangalore.
+Dilanke Hettiaratchi, Director Forestpin said, “We are happy to sponsor the tickets since this is not a student competition but a competition open to data scientists and we wish the team all the very best.” Chirath Hettiratchi from Forstpin who was responsible for the interns training stated that Forestpin has a structured training program on machine learning that gets interns upto speed on machine learning. He is happy that this program is showing good results.
+Sutharshan one of the team members said that he was keen to learn Deep Learning during the internship period and the Forestpin internship was a perfect fit for him. All of the team members agreed that the internships have helped improve their knowledge on Machine Learning during a short period.

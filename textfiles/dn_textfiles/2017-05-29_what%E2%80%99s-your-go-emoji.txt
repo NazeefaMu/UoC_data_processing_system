@@ -1,0 +1,20 @@
+## Title: What’s your go-to emoji?
+## Supertitle: 
+## Section: Features
+## Date: Monday, May 29, 2017 - 01:00
+
+What’s your go-to emoji?
+
+Researchers have found that many different factors determine our choice of emojis, the symbols that help us express ourselves digitally.
+An emojis popularity, perceived meaning and even location on a smartphone's keyboard all play a role in emoji choice.
+The researchers found that people are more likely to use emojis with meanings close to popular words, with clear and less ambiguous meanings.
+The 'face with tears emoji' was ranked the most popular of the year. In a previous study, the researchers found that it accounts for 15.4 percent of total emoji usage, and the new study suggests that emoji popularity is linked to their linguistic meanings
+The researchers, based at the University of Michigan, studied the use of emojis by one million users through more than 1.2 billion messages. PhD student Wei Ai and colleagues analyzed the relationship of the emojis to words, to measure emoji semantics - their linguistic meaning - and to determine what makes some symbols more popular than others. They found that more than 9 per cent of the messages contained at least one emoji, and emoji popularity was linked to their linguistic meanings. 'Emojis with clear and less ambiguous meanings are more likely to be used, and they provide good substitutes to their word counterparts.' The researchers found that although emojis each have a textual description provided by the Unicode Consortium, users don't see the description whey they decide to use an emoji.
+So even if a description is informative, it may not be how people interpret the emoji.
+For example, the sun behind clouds emoji, which is officially labeled 'sun behind cloud,' is widely used as 'Good morning.'
+The researchers found that although emojis each have a textual description provided by the Unicode Consortium, users don't see the description whey they decide to use an emoji. So even if a description is informative, it may not be how people interpret the emoji. For example, the sun behind clouds emoji (pictured), which is officially labeled 'sun behind cloud,' is widely used as 'Good morning'. The Kika Emoji keyboard was used to collect the data in 2015, which contains nearly 1,300 emojis - the majority of which were barely used.
+Instead, users find several go-to favorites, many of which seem to say similar things.
+'We found that the popularity of emojis are really affected by multiple factors related to the semantics,' said Ai.
+'It is likely that although those emojis look similar, people don't interpret them similarly.
+'Nonverbal symbols in online communication has shown their power ever since the first emoticon ':)' is coined, and will be even more powerful as new forms (such as gif animations) become supported by modern apps and websites. 'These symbols, as a ubiquitous new language, also make it easier to communicate across language and cultural barriers.'
+-Daily Mail

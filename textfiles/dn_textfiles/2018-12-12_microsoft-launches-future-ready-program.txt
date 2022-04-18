@@ -1,0 +1,15 @@
+## Title: Microsoft launches Future Ready Program
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, December 12, 2018 - 01:00
+
+Microsoft launches Future Ready Program
+
+As part of its ongoing efforts to close the digital skills gap, Microsoft has kicked off Future Ready, a program run in partnership with non-profits and schools to generate interest amongst students to learn computer science and empower teachers with skills to teach computer science.
+The company is committed to helping students learn computer science to unlock future economic opportunities. By embracing computational thinking, students acquire fundamental skills for the 21st century such as creativity and problem-solving.
+To close this skills gap, students need teachers who understand the value of computer science and are trained on delivering high-quality and inclusive curricula, something which most students in Asia-Pacific desire. According to the ‘STEM Education in Asia Pacific’ survey commissioned by Amgen and the Global STEM Alliance, 93% of Asia-Pacific students like Science, Technology, Engineering and Mathematics (STEM)-related subjects, but fewer than 50% say they are receiving the STEM resources they need.
+In Sri Lanka, Santhusha Jayathilake, a teacher and an Ambassador for micro:bit SLUG, set up a coding center to help shift parents’ and other teachers’ perception on STEM education. He has conducted coding workshops using micro:bit for students across Sri Lanka and is now advising schools on introducing computer science in the classroom. His students, meanwhile, get hands-on practice with location-specific challenges.
+“I use the micro-bit, a pocket-sized computer that students can code to solve real-world problems, with simple visual programming,” he says. “When my students coded an earthquake warning system, I could see how they improved their critical thinking.”
+Together with nonprofit partners, Microsoft will help teachers co-create and leverage curricula that is inclusive, culturally relevant and gender-responsive, to benefit youth who may be underrepresented in computer science education such as young women, youth with special needs, and those living in rural areas or indigenous communities.
+Underpinning its commitment even further, Microsoft will also provide cash grants and technologies to build the capacity of nonprofits to teach high-quality computer science education to underserved youth via its digital skills program.
+ 

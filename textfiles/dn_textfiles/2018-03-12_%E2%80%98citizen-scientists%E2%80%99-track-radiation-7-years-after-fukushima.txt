@@ -1,0 +1,36 @@
+## Title: ‘Citizen scientists’ track radiation 7 years after Fukushima
+## Supertitle: 
+## Section: World
+## Date: Monday, March 12, 2018 - 01:00
+
+‘Citizen scientists’ track radiation 7 years after Fukushima
+
+JAPAN: Beneath the elegant curves of the roof on the Seirinji Buddhist temple in Japan’s Fukushima region hangs an unlikely adornment: a Geiger counter collecting real-time radiation readings.
+The machine is sending data to Safecast, an NGO born after the March 2011 Fukushima nuclear disaster that says it has now built the world’s largest radiation dataset, thanks to the efforts of citizen scientists like Seirinji’s priest Sadamaru Okano.
+Like many Japanese, Okano lost faith in the government after the nuclear meltdown seven years ago.
+“The government didn’t tell us the truth, they didn’t tell us the true measures,” he told AFP, seated inside the 150-year-old temple.
+Okano was in a better position than most to doubt the government line, having developed an amateur interest in nuclear technology two decades earlier after learning about the Chernobyl disaster.
+To the bemusement of friends and family, he started measuring local radiation levels in 2007, so when the disaster happened, he had baseline data.
+“The readings were so high... 50 times higher than natural radiation,” he said of the post-disaster data.
+“I was amazed... the news was telling us there was nothing, the administration was telling us there was nothing to worry about.” That dearth of trustworthy information was the genesis of Safecast, said co-founder Pieter Franken, who was in Tokyo with his family when the disaster hit.
+Franken and several friends had the idea of gathering data by attaching Geiger counters to cars and driving around.
+“Like how Google does Street View, we could do something for radiation in the same way,” he said.
+“The only problem was that the system to do that didn’t exist and the only way to solve that problem was to go and build it ourselves. So that’s what we did.”
+Within a week, the group had a prototype and began getting readings that suggested the 20 kilometre (12 mile) exclusion zone declared around the Fukushima plant had no basis in the data, Franken said.
+“Evacuees were sent from areas with lower radiation to areas with higher radiation” in some cases, he said.
+The zone was eventually redrawn, but for many local residents it was too late to restore trust in the government.
+Okano evacuated his mother, wife and son while he stayed with his flock.
+But a year later, based on his own readings and after decontamination efforts, he brought them back.
+He learned about Safecast’s efforts and in 2013 installed one of their static counters on his temple, in part to help reassure worshippers.
+“I told them: we are measuring the radiation on a daily basis... so if you access the (Safecast) website you can choose (if you think) it’s safe or not.” Forty kilometres away, in the town of Koriyama, Norio Watanabe was supervising patiently as his giggling teenage pupils attempted to build basic versions of Safecast’s Geiger counter. Dressed in blazers and tartan skirts, the girls pored over instructions on where to place diodes and wires.
+Watanabe has been a Safecast volunteer since 2011, and has a mobile Geiger counter in his car.
+In the days after the disaster evacuees flocked to Koriyama, which was outside the evacuation zone, and he assumed his town was safe.
+“But after I started to do the measurements, I realised there was a high level of risk here as well,” he said.
+He sent his children away, but stayed behind to look after his mother, a decision he believes may have contributed to his 2015 diagnosis with thyroid cancer.
+“As a scientist, I think the chance that it was caused by the Fukushima accident might be 50-50, but in my heart, I think it was likely the cause,” he said.
+His thyroid was removed and he is now healthy, but Watanabe worries about his students, who he fears “will carry risk with them for the rest of their lives.” “If there are no people like me who continue to monitor the levels, it will be forgotten.” Safecast now has around 3,000 devices worldwide and data from 90 countries. Its counters come as a kit that volunteers can buy through third parties and assemble at home.
+Because volunteers choose where they want to measure at random and often overlap, “they validate unknowingly each other’s measurements,” said Franken, and anomalies or exceptions are checked by Safecast staff.
+The NGO is now expanding into measuring air pollution, initially mostly in the US city of Los Angeles during a test phase.
+Its radiation data is all open source, and has been used to study everything from the effects of fallout on wildlife to how people move around cities, said Franken.
+He says Safecast’s data mostly corroborates official measurements, but provides readings that are more relevant to people’s lives.
+“Our volunteers decide to measure where their schools are, where their workplaces are, where their houses are.” And he believes Safecast has helped push Japan’s government to realise that “transparency and being open are very important to create trust.”- AFP 

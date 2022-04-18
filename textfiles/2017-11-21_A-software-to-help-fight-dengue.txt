@@ -1,0 +1,48 @@
+## Title: A software to help fight dengue
+## Section: News Features
+## Date: 21 November 2017 01:45 am
+
+A software to help fight dengue
+
+
+	
+
+The Sri Lankan doctors who developed the programme won the Commonwealth Digital Health Award in the category of Communicable diseases
+
+Dengue has become our common enemy, surpassing the boundaries of the rich and poor, ethnicities and religions, north and south. Controlling the spread of a disease of this magnitude, with its potential to develop into a national level epidemic, is a strenuous process. This course involves many organizations, people and protocols, which naturally have their drawbacks. Two Sri Lankan doctors, who had observed and identified the shortcomings of the system, have developed a method of overcoming these obstacles for the overall benefit of the general public.   
+
+
+The Daily Mirror had the privilege of interviewing Dr. Lasantha Ranwala (MBBS,MSc-Biomedical Informatics), Registrar in Health Informatics at the Postgraduate Institute of Medicine, and Dr Yudiswara Wedisinge – Medical Officer Vector borne disease control, who designed the programme.   
+ Our readers may have noticed that when a Dengue patient is identified, the relevant PHIs arrive to inspect the area. During this process fogging is done, covering the nearby area with white fumes in an effort to prevent further spread of Dengue. But how do the PHIs and the health department know exactly where the dengue patient is from? “Dengue is considered a notifiable disease. When a patient who is suspected of having Dengue is admitted to the hospital, the details are recorded and the collecting nursing officer sends those details to the relevant MOH. The MOH then sends Public Health Inspectors to the area to take measures with the view of preventing the further spread of Dengue,” explained the doctors.   
+
+
+
+ 
+
+Stats not accurate 
+
+Even though ideally preventative programmes should be carried out the moment a patient is identified in a community in order to eradicate the infected mosquitoes before they contaminate other people, this process is almost always delayed as a result of a combination of factors. “The system in operation is basically a paper-based system which is time consuming to say the least. It sometimes takes around two weeks for the MOH to receive notice. But this new system is totally web based, so the time is greatly reduced,” is how they talked about the flaws in the system that they have identified.
+In addition they explained that in the hospital the doctors usually rely on the clinical diagnosis to report 
+
+on Dengue, which is in no way accurate. “We are obliged to report all suspected dengue patients. So, it’s inevitable that the patients who present with other viral fevers and a low platelet counts are also 
+
+
+
+reported. As a result, the accuracy of these statistics is very low and only around 100 out of 150 patients reported is actually having Dengue fever,” they elaborated. 
+
+ 
+
+Shortage of health officials
+
+Given that there is a shortage of MOHs and ground level staff; specially Public Health Inspectors, the eradication of breeding sites becomes even less effective with these officials following false trails.   
+In the newly devised method, this issue is mostly resolved. The NS1 antigen test for Dengue is currently done in private laboratories and is quite specific when it comes to diagnosis of Dengue. The laboratories have been supplied with the software programme free of charge. Whenever a report returns as positive for NS1, they feed those details into the programme after logging in with their user names. Then these patients will be sorted out according to the areas of their MOH and the MOH directly receives notification. A PHI is assigned to assess the situation and if it’s found to be correct the feedback is fed to the software. So the system reveals that the patient is confirmed having dengue, immediately. This is even more effective because NS1 antigen will provide information regarding the patients who aren’t admitted to hospitals as well as those admitted to private institutions. 
+
+Pilot project 
+
+The paper based older system is a one way system where there is no way of obtaining information on the progress of the notification sent. In the new computer based system, the feedback from each individual organization enables anyone involved in the system to discern the progress of each individual case.   “This project was started as a pilot project in the month of August in the Colombo District. It’s still in the initial stages and we are planning on expanding it soon to be implemented in Gampaha and Kalutara Districts,” the doctors stated.   
+
+
+This programme, which would have cost millions otherwise, was completed with no external funding, affirmed the doctors. They further stressed that with the Government’s intervention the programme could go a long way towards the prevention of Dengue. The developers of the programme won the Commonwealth Digital Health Award in the category of Communicable diseases, at the Digital Health Conference organized by the Commonwealth Medical Association in October 2017, for their invention, bringing with it a ray of hope that we can defeat the hitherto indomitable menace of dengue.
+ 
+
+		

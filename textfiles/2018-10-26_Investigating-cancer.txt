@@ -1,0 +1,90 @@
+## Title: Investigating cancer
+## Section: Medicine
+## Date: 26 October 2018 11:04 am
+
+Investigating cancer
+
+
+	
+
+
+
+ 
+
+A cancer in a patient can be suspected from what he or she complains of (Symptoms) and what the doctor finds while examining the patient (Signs). To confirm this suspicion, he will order some investigations (Tests). Today we will be discussing about some of the commonly used investigations during these situations.   
+
+
+The tests done can vary widely depending on the type of the cancer suspected, area of the body involved, other medical problems of the patient etc. However, investigations done when a cancer is suspected falls under to two main groups.   
+
+
+1. Investigations done to confirm a diagnosis of cancer   
+2. Investigations done to assess the extent of spread of the cancer.   
+
+ 
+
+Radiological Investigations 
+These are mainly used to visualise an image of the suspected tumour which can be deep within the body. These radiological investigations play an important role in identifying the extent of the tumour spread.   
+
+
+
+Ultra Sound Scan 
+This is the simplest and often the first such radiological test that’s used. It is specially useful to differentiate a solid tumour from a fluid filled cavity like an abscess. It is also helpful as it uses only sound waves and the scan itself will not cause any harm and therefore you can repeat it often.
+
+ 
+
+   
+Computed tomography (CT) scan 
+ This gives much sharper pictures of the tumour compared to an Ultrasound scan. It is specially helpful in clearly identifying the margins of the tumour. This is very useful when planning a surgery to completely remove the tumour. The CT scan is also the investigation of choice when viewing lung tissues. However a CT scan uses radiation to image the body. This radiation can be harmful. Therefore unless the benefit clearly outweighs the risks CT scans cannot be done on the same patient often.   
+
+ 
+
+Magnetic Resonance Imaging (MRI) scan 
+ Here magnetic fields are used to draw an image of the body. Since radiation is not emitted it can be used repeatedly. To identify brain tumours MRIs are best during investigation. This is also the gold standard to image many other parts of the body including muscles, fatty tissues and other soft tissues when cancer is suspected.   
+
+
+
+Positron Emission Tomography (PET) scan 
+ This is the new kind on the block in Sri Lanka. The advantage a PET scan has over others is that not only does it identify a tumour it also predicts whether its active. The best use of the PET scan is to see the response to treatment. Sometimes when you treat a cancer with chemotherapy and repeat either a CT or a MRI scan you can see the tumour still persisting. This might be due to, although all the cancer cells in the tumour have died it will take more time for the mass to disappear. A PET scan not only shows a tumour, but also reveals if the cells in the tumour are metabolically active (Alive). This is very valuable to decide if a cancer is responding to treatment. 
+
+ 
+
+ 
+Histology
+This means taking some tissue from a tumour and checking through a microscope for cancer cells. This is the gold standard way of confirming the diagnosis of cancer and also identifying which type of cancer it is. There are several ways of obtaining tissue for histological examinations. Some of them are:   
+
+ 
+
+Fine Needle Aspiration Cytology (FNAC) 
+A small needle is inserted and a few cells are taken out of the tumour. This is often done without anaesthesia and is the least invasive of all tissue obtaining procedures. It is used in initial diagnosis of thyroid cancer, breast cancer, identifying metastatic lymph nodes etc.   
+
+ 
+
+Tru-cut biopsy 
+ The same principle as the FNAC are applied. A bigger needle is applied and here a piece of tissue and not simply few cells is extracted. Since a piece of tissue is obtained medics can correctly identify the type of cancer as well. It is usually done under local anaesthesia. If a tumour is deep within the body, a US or CT guidance can be used to correctly identify where to take the biopsy from. It is done in breast cancer, bone cancer, soft tissue cancers etc.   
+
+ 
+
+Excision biopsy 
+If a tumour is small enough (eg: a lymph node) the entire tumour can be removed and examined to look for cancer cells. The advantage of this is even if it’s a cancer and the entire tumour are removed further surgery is not needed.   
+
+ 
+
+Incision biopsy 
+ When the tumour is too big to be removed in one go, a small part of it can be removed surgically to identify exactly what sort of a tumour it is. Then it can be made smaller via other treatment modalities and removed completely later.   
+
+
+After obtaining tissues a chemical process called immunohistochemistry (IHC) is very useful in differentiating between cancers. Today we know that different cancers express different receptors on their cell surface. We have various chemicals which can bind to these receptors and give that tissue a particular colour. Therefore after using IHCs depending on the colours taken up by the tissues an accurate diagnosis of the type of cancer can be made.   
+
+ 
+
+Tumour markers
+These are proteins which are circulating in blood which can be very high when a cancer has taken root. Eg: CA 125 in ovarian cancer, Thyroglobulin in differentiated thyroid cancer, CEA in Colon cancer etc. These tumour markers can be detected through simple blood tests and their levels are often proportionate to the amount of cancer cells in the body. Therefore these are an ideal marker not only to check how it is responding to treatment, but also after completing treatment, to use as a screening tool to check for recurrence of disease.   
+
+
+Today cancer treatment has come a long way from relying only on a doctor’s best guess regarding the type and the extent of the disease. Today an oncologists has many weapons to boost their decision making process. However the choice of ideal investigations to best suit the individual patient still needs considerable experience and skill.   
+
+
+The writer is a consultant in Paediatric Oncology at the National Cancer Institute, Sri Lanka (Apeksha Hospital)
+ 
+
+		

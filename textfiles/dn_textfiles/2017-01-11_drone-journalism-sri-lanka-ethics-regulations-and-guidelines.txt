@@ -1,0 +1,56 @@
+## Title: Drone journalism in Sri Lanka: Ethics, regulations and guidelines
+## Supertitle: 
+## Section: Features
+## Date: Wednesday, January 11, 2017 - 01:00
+
+Drone journalism in Sri Lanka: Ethics, regulations and guidelines
+
+The use of Unmanned Aerial Vehicles commonly known as drones for commercial and private use has grown recently, especially with airspace restrictions around airspace being relaxed after the war, states a Media Ministry release.
+The media release is as follows:
+“The Media Ministry is aware of footage taken by drones, by citizens as well as tourists visiting Sri Lanka, widely available across social media as online video platforms. we recognise that many events today in their promotional material or live coverage feature the use of drones and we also note their use in health applications, precision agriculture practices (smart farming), the coverage of public rallies’ the aftermath of natural disasters, around disaster risk reduction, sporting events and private functions such as weddings and parties.
+Given the increasing availability of high-end consumer drones in Sri Lanka, the manufacture
+of sophisticated drones within the country and with their purchase price dropping, the Media Ministry expects their use in commercial and recreational purposes, including in the field of journalism, to grow rapidly.
+The Media Ministry issuing a statement said it fully supports the use of drones by journalists and media personnel in pursuit of their professional news gathering operations and coverage of events, places and processes.
+However, given a rapid increase in usage and the evolving nature of drone technology, the Ministry’s primary responsibility is to ensure usage of drones for journalism is in compliance with existing rules and regulations and conducted in a manner that is, above all else, safe, ethical and respects the privacy of citizens.
+Recent media coverage around the exhumation of slain journalist Lasantha wickrematunge’s body in Colombo to the coverage of the unrest in Hambantota, have focused on the use of drones by media organisations and raised questions around regulations, ethics and professionalism.
+The Media Ministry insisted that the use of drones for journalism must be at all times, in compliance with the regulations issued by the civil Aviation Authority of Sri Lanka (CAASL) in February 2016, CA-IS-2016-GEN-001 titled, ‘Requirements for Operation of Pilot-less Aircraft (Unmanned Aerial Vehicles/Remotely piloted Aircraft), available freely on its website. Those who fly drones for purposes of journalism need to read these regulations in full and abide by them.
+Key points include;
+* A pilot-less aircraft of gross mass of more than 25 kg shall not be operated unless explicit approval from Director General of Civil Aviation has been obtained.
+*A pilot-less aircraft with a gross mass of between 1 kg and 25 kg may be operated under the authority of the Director General of Civil Aviation, an approved person or approved organization.
+*A pilot-less aircraft with a gross mass of less than I kg may be operated without approval from the Director General of Civil Aviation if it is operated for leisure or education purposes at a private premise with the consent of the property owner or at public places which are clearly identified for the purpose, with due regard to safety of persons and property.
+* An identification stamp on a pilot-less aircraft shall indicate its identification number.
+owner’s national identity card number and his/her contact details.
+* Pilot-less aircraft of any weight category shall not be operated for hire or reward, unless special approval is obtained from the Director General of Civil Aviation in writing after payment of the specified fee on a case by case basis.
+* A pilot-less aircraft of any weight category shall not be operated unless its method of propulsion, source of power and means of controls are checked and verified for normal operations prior to flight, ensuring safe operations without endangering persons or property.
+* A pilot-less aircraft shall not be operated by any person if he or she;
+1. is not familiar with operations and maneuvering of the aircraft safely.
+2. is not in good physical and mental health condition,
+3. is under the influence of alcohol or psychoactive substance;
+4. does not have a sound sense of social responsibility.
+5. A pilot-less aircraft shall not be operated on or within 5 miles of the boundary of an airport and must not be operated at a height of more than 400 feet above ground level unless otherwise approved by the Director General of civil Aviation.
+Unless otherwise authorized by the Director General of Civil Aviation in writing, a pilot-less aircraft shall not be operated in any part of Sri Lanka;
+a. on or over any movement area of an active aerodrome; or on or over any active runway strip area;or
+b. over assembly of persons or public gatherings; or
+c. over congested areas; or
+d. along or over roadway or railway; or
+e. below or above open electricity power lines; or
+f. within proximity to communication towers;
+g. national park, protected areas or security establishments without approval
+A pilot-less aircraft must not be operated;
+a’ above any property unless explicit prior consent has been obtained from persons
+occupying that property or the property owner; and
+b. causing safety or security hazard to third person or property
+Nothing shall be dropped nor shall any banner be displayed in a pilot-less aircraft in flight
+without approval from the Director General of civil Aviation.
+A person who operates a pilot-less air craft must at all times,
+a. maintain visual line of sight with the aircraft; and
+b. be able to see the surrounding airspace in which the aircraft is operating; and
+c. maintain the aircraft below the cloud base.
+Pilot-less aircraft shall not be operated in a race or competition of any form, without special approval from the Director General of Civil Aviation.
+A pilot-less of aircraft shall not be operated from dusk to dawn (night) In particular, the CAASL’s point about keeping a drone within the pilot,s line of sight is important to underscore, with media reports around the incident in Hambantota involving the drone by a private TV station clearly flagging the distance between pilot and drone to be well beyond human vision.
+The Media Ministry is keen to work with the Civil Aviation Authority and other relevant bodies in the near future to streamline these regulations and make it easier for accredited media organisations to obtain permission to fly drones. We will also work with the larger media community, including those who not formally part of any media institution and are keen to use drones for joumalistic purposes in orderto facilitate approval. We recognise that existing processes in place for the approval of drones can be cumbersome and will work with the CAASL to both simplify and hasten submission and approval procedures. The Media Ministry also intends to raise awareness of existing rules and regulations through material released to the public domain and also through workshops, presentations and structured interactions with relevant authorities, importers and manufacturers of drones, commercial industry and the media community.
+In addition to existing CAASL regulations, the Media Ministry stresses the need to keep in mind existing ethical and professional guidelines.
+Overarching ethical guidelines flagged by the Editors Guild and in the Colombo Declaration on Media Freedom and Social Responsibility, amongst other industry guidelines, remain deeply relevant and applicable for drone journalism.
+In addition, the Ministry will work with relevant govemment authorities as well as key journalists and drone journalism experts to formulate guidelines in line with international standards and norms applicable to Sri Lanka.
+We request all those who fly drones to do so with the awareness that while they may be seen as toys, in their actual use and operation, they can lead to hurt, harm and litigation if inappropriately deployed. Respecting ethics, privacy and being mindful of the safety of those under and around the theatre of flight operations must be paramount.
+We again remind all media personnel to read and comply with CAASL regulations noted in this press release and any associated material published on their website around the use of drones. Please get in touch with us for clarifications and also with any assistance you require in approaching the CAASL for drone operations in the pursuit of a professional media culture in Sri Lanka.”

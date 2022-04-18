@@ -1,0 +1,49 @@
+## Title: NASA InSight Lander arrives on Martian surface
+## Section: Breaking News
+## Date: 27 November 2018 09:09 am
+
+NASA InSight Lander arrives on Martian surface
+
+
+	
+
+Mars has just received its newest robotic resident. NASA's Interior Exploration using Seismic Investigations, Geodesy and Heat Transport (InSight) lander successfully touched down on the Red Planet after an almost seven-month, 300-million-mile (458-million-kilometer) journey from Earth.
+
+InSight's two-year mission will be to study the deep interior of Mars to learn how all celestial bodies with rocky surfaces, including Earth and the Moon, formed.
+
+InSight launched from Vandenberg Air Force Base in California May 5. The lander touched down Monday, Nov. 26, near Mars' equator on the western side of a flat, smooth expanse of lava called Elysium Planitia, at 11:52:59 a.m. PST (2:52:59 p.m. EST).
+
+"Today, we successfully landed on Mars for the eighth time in human history," said NASA Administrator Jim Bridenstine. "InSight will study the interior of Mars and will teach us valuable science as we prepare to send astronauts to the Moon and later to Mars. This accomplishment represents the ingenuity of America and our international partners, and it serves as a testament to the dedication and perseverance of our team. The best of NASA is yet to come, and it is coming soon."
+
+The landing signal was relayed to NASA's Jet Propulsion Laboratory (JPL) in Pasadena, California, via NASA's two small experimental Mars Cube One (MarCO) CubeSats, which launched on the same rocket as InSight and followed the lander to Mars. They are the first CubeSats sent into deep space. After successfully carrying out a number of communications and in-flight navigation experiments, the twin MarCOs were set in position to receive transmissions during InSight's entry, descent and landing.
+
+"We hit the Martian atmosphere at 12,300 mph (19,800 kilometers per hour), and the whole sequence to touching down on the surface took only six-and-a-half minutes," said InSight project manager Tom Hoffman at JPL. "During that short span of time, InSight had to autonomously perform dozens of operations and do them flawlessly — and by all indications that is exactly what our spacecraft did."
+
+Confirmation of a successful touchdown is not the end of the challenges of landing on the Red Planet. InSight's surface-operations phase began a minute after touchdown. One of its first tasks is to deploy its two decagonal solar arrays, which will provide power. That process begins 16 minutes after landing and takes another 16 minutes to complete.
+
+The InSight team expects a confirmation later Monday that the spacecraft's solar panels successfully deployed. Verification will come from NASA's Odyssey spacecraft, currently orbiting Mars. That signal is expected to reach InSight's mission control at JPL about five-and-a-half hours after landing.
+
+"We are solar powered, so getting the arrays out and operating is a big deal," said Tom Hoffman at JPL. "With the arrays providing the energy we need to start the cool science operations, we are well on our way to thoroughly investigate what's inside of Mars for the very first time."
+
+InSight will begin to collect science data within the first week after landing, though the teams will focus mainly on preparing to set InSight's instruments on the Martian ground. At least two days after touchdown, the engineering team will begin to deploy InSight's 5.9-foot-long (1.8-meter-long) robotic arm so that it can take images of the landscape.
+
+"Landing was thrilling, but I'm looking forward to the drilling," said InSight principal investigator Bruce Banerdt of JPL. "When the first images come down, our engineering and science teams will hit the ground running, beginning to plan where to deploy our science instruments. Within two or three months, the arm will deploy the mission's main science instruments, the Seismic Experiment for Interior Structure (SEIS) and Heat Flow and Physical Properties Package (HP3) instruments."
+
+InSight will operate on the surface for one Martian year, plus 40 Martian days, or sols, until Nov. 24, 2020. The mission objectives of the two small MarCOs which relayed InSight’s telemetry was completed after their Martian flyby.
+
+"That's one giant leap for our intrepid, briefcase-sized robotic explorers," said Joel Krajewski, MarCO project manager at JPL. "I think CubeSats have a big future beyond Earth's orbit, and the MarCO team is happy to trailblaze the way."
+
+With InSight's landing at Elysium Planitia, NASA has successfully soft-landed a vehicle on the Red Planet eight times.
+
+"Every Mars landing is daunting, but now with InSight safely on the surface we get to do a unique kind of science on Mars," said JPL director Michael Watkins. "The experimental MarCO CubeSats have also opened a new door to smaller planetary spacecraft. The success of these two unique missions is a tribute to the hundreds of talented engineers and scientists who put their genius and labor into making this a great day."
+
+JPL manages InSight for NASA's Science Mission Directorate. InSight is part of NASA's Discovery Program, managed by the agency's Marshall Space Flight Center in Huntsville, Alabama. The MarCO CubeSats were built and managed by JPL. Lockheed Martin Space in Denver built the InSight spacecraft, including its cruise stage and lander, and supports spacecraft operations for the mission.
+
+A number of European partners, including France's Centre National d'Études Spatiales (CNES) and the German Aerospace Center (DLR), are supporting the InSight mission. CNES, and the Institut de Physique du Globe de Paris (IPGP), provided the SEIS instrument, with significant contributions from the Max Planck Institute for Solar System Research (MPS) in Germany, the Swiss Institute of Technology (ETH) in Switzerland, Imperial College and Oxford University in the United Kingdom, and JPL. DLR provided the HP3 instrument, with significant contributions from the Space Research Center (CBK) of the Polish Academy of Sciences and Astronika in Poland. Spain's Centro de Astrobiología (CAB) supplied the wind sensors. (mars.nasa.gov)
+
+
+
+ 
+ 
+
+		

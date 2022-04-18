@@ -1,0 +1,93 @@
+## Title: Status of ICT Laws   ‘We’re incompetent in dealing with computer related laws  ’
+## Section: Hard talk
+## Date: 8 May 2018 12:09 am
+
+Status of ICT Laws   ‘We’re incompetent in dealing with computer related laws  ’
+
+
+	
+
+one of the Leading professionals in ICT Law Sunil D. B. Abeyrathne says that Sri Lankans are unaware of the responsibility they bear when entering cyberspace and using digital devices
+
+ 
+
+The ultimate solution would be to digitize the court system
+	We have now started an e-filing system only for fundamental rights applications
+	There are no laws or policies to ensure cyber security, privacy or data protection in Sri Lanka
+	If we upload something against national security, it is an offence under section 3 of the Computer Crime Act
+	It is sad that the Sri Lanka Police is not only reluctant, but also incompetent in carrying out investigations properly
+	An instance where technology can be adopted is in the filing of fundamental rights applications
+ 
+
+It would go uncontested if one opines that the best words to define the 21st century is ‘Digital Age’. We live in a world where we simply cannot do without digital devices and the internet. As much as we eat food and inhale air, we are constantly engaged in the cyber world. Although millions are connected to their mobile phones, laptops and computers all the time, very few are aware of the laws that govern their usage. It’s almost pathetic to known that one might not even be aware that he or she is committing a cyber crime or infringing on intellectual property rights. It is also dangerous that we do not know if the data that we provide to internet sources are secured and whether our privacy is protected. The Dailymirror  decided to interview Attorney-at-Law Mr. Sunil D. B. Abeyratne, one of the leading professionals in ICT (Information, Communication and Technology) Law, to 
+know more.  
+
+QWhat are the laws that are related to technology and internet usage in Sri Lanka?
+
+
+There are four main pieces of legislation that govern technology and internet usage in Sri Lanka. We can refer to them collectively as ICT Laws. They include the ICT Act (2003), the Electronic Transactions Act (2006) and Computer Crime Act (2007). Under the Evidence Special Provisions Act of 1995, computer evidence and audiovisual contemporaneous evidence can be admitted as evidence in cases. The judges are given enough discretion under the existing legal framework to allow for admission of electronic evidence in litigation. Although these laws exist, they are not properly implemented in Sri Lanka.  
+
+QDo you mean to say that the legal system in Sri Lanka is not properly benefiting from the existing legal framework governing ICT?
+
+
+Precisely. To give an example, although the Evidence Special Provisions Act of 1995 allows for electronic evidence to be admitted to court, there has been only ONE decided case so far where computer evidence was admitted. More than 25 years have passed since the adoption of this particular legislation, but there is no application or utilization of it. 
+
+
+Admission of evidence is even simplified under this act than the original Evidence Ordinance, because there is no classification as primary and secondary evidence. It is sad that the Sri Lanka Police is not only reluctant, but also incompetent in carrying out investigations properly. They are sometimes not even aware of the fact that electronic evidence can be valid evidence. It’s an unfortunate situation that such a useful provision, which, if practised, would not only make the litigation process more efficient, but would most definitely assist in justice being delivered. The Attorney General’s department, Unofficial Bar, Sri Lanka Police, lawmakers and the judiciary are all responsible for this.  
+
+QDo you think that the existing law is sufficient to ensure the genuineness of electronic evidence?
+
+
+Yes. Under our law, electronic evidence is admitted only if certain criteria are fulfilled, as prescribed by the existing legal framework. For example, a statement produced by a computer is admissible only if it is capable of being perceived by the senses , if the computer is operating properly, if the information supplied to the computer is accurate and the statement reproducing the information is accurate. I believe the law is more than adequate to ensure that this kind of evidence is genuine. In other countries, the Governments from time to time introduce regulations, which we are not doing. The same risk of lack of confidentiality and integrity can apply to ordinary evidence, so there is no need to doubt the genuineness of electronic evidence only.  
+
+
+ 
+
+What the authorities did was block access to Facebook. By this, we showed the entire world that we are incapable of handling the situation, that we are incompetent in identifying perpetrators and dealing with computer related laws.
+
+
+QCan technology be used to assist the legal system apart from the laws that are already in place?
+
+
+The legal field is the last profession to adopt technological development and the most hesitant to move away from traditional methods. All the other fields like the medical and business fields have used technology to the maximum. Without technological devices and the internet, those professionals cannot operate. How many technological devices and computers would you see inside an operation theatre? All these high-rise buildings are designed using computers. But what happens in the legal field is, we stick to the age-old methodologies which is one of the main reasons for the inability to meet justice and for the delay in cases.  
+
+
+An instance where technology can be adopted is in the filing of fundamental rights applications. According to our constitution, a fundamental rights application must be filed within one month of the infringement. When it comes to finding a lawyer, making the necessary preparations and coming to the Supreme Court, usually the one month elapses and the victims are left without any remedy. We have now started an e-filing system only for fundamental rights applications where petitioners can email their petition to the registrar. This is the system followed in Australia and the United States. But the issue is the general public and the police officers are unaware of these developments.  
+
+
+The ultimate solution would be to digitize the court system, which if done, can cut down 90% of court’s delays.  
+
+QDo you think Sri Lanka was better equipped to handle the racism propagated through social media during the recent internal disturbance?
+
+
+If we upload something against national security, it is an offence under section 3 of the Computer Crime Act. When the Government of Sri Lanka (GoSL) encountered the challenge of handling hate posts on social media, which enhanced the racial propaganda, there was minimum court action. What the authorities did was block access to Facebook. By this, we showed the entire world that we are incapable of handling the situation, that we are incompetent in identifying perpetrators and dealing with computer related laws. It is even amusing how despite this Facebook ban, everyone including the President, Prime Minister and the Minister in charge of Digital Infrastructure (who defended himself as he was in Dubai) was logged in using VPN.  
+
+ 
+
+
+For example, a statement produced by a computer is admissible only if it is capable of being perceived by the senses, if the computer is operating properly and if the information supplied to the computer is accurate
+
+
+QCan you explain the position of Sri Lanka in relation to ICT Law when compared with other countries?
+
+
+Sri Lanka is actually a pioneer when it comes to ratifying international and regional conventions related to ICT Law. We have signed both important conventions. Even countries like Japan and India haven’t adopted these conventions. When ratifying international conventions, what usually happens, is the members of the executive attend these conferences and without any knowledge and understanding of their capabilities, they straight away ratify these conventions. However, ironically, when it comes to adopting them and implementing them, we are lagging behind. There are special and simplified procedures provided by the law in relation to computer crimes where the police can even obtain the help of university graduates who hold the qualification Bachelor of IT. They can perform several tasks without even receiving a court order. But non of this is implemented. We must research on how other countries have enforced their laws and integrated the culture of responsibly using the internet and digital devices and educate our society.  
+
+QWhat is the status of cyber security, privacy and data protection in Sri Lanka?
+
+
+There are no laws or policies to ensure cyber security, privacy or data protection in Sri Lanka. Although hacking and some other activities are offences under the Computer Crime Act, a remedy can’t be offered to a citizen if his or her sensitive data is withheld. There are no laws related to the use of CCTV cameras. There was once an issue where CCTV cameras were fixed inside changing rooms of a textile shop and the videos were misused. Although the police managed to trace the owner, there was no law to hold him liable. When there are no data protection laws, on-line transactions aren’t safe. This has a direct impact on our trade because some countries are reluctant to enter into transactions with us due to the lack of security in these on-line transactions. If a country wants to actually enter into international trade and commerce, then there must be directives and policies to protect data.  
+
+ 
+
+
+The legal field is the last profession to adopt technological development and the most hesitant to move away from traditional methods. All the other fields like the medical and business fields have used technology to the maximum
+
+
+QAre people aware of the laws governing the ICT field?
+
+
+If the next I-Pad is introduced today, it is available in our market tomorrow. That is the speed and enthusiasm we have to use new technology. But when the virus guards or firewalls in our computers continuously remind us to renew or upgrade them, we don’t care and we conveniently ignore them. That is the status of the awareness of Sri Lankans. People are unaware of the responsibility we have to carry when we enter cyberspace and use digital devices. If the education ministers have been smart enough to introduce ICT as a subject for o’level students, why can’t they introduce a chapter on ICT Law? If this was done, I think from an early age, people will be aware of the responsibility entailed to using information and communication technology.  
+ 
+
+		

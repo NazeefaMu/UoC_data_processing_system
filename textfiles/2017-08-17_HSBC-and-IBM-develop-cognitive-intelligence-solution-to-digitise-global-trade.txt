@@ -1,0 +1,33 @@
+## Title: HSBC and IBM develop cognitive intelligence solution to digitise global trade
+## Section: Financial News
+## Date: 17 August 2017 12:00 am
+
+HSBC and IBM develop cognitive intelligence solution to digitise global trade
+
+
+	
+
+HSBC, the world’s leading trade finance bank, is working with IBM to develop a cognitive intelligence solutioncombining optical character recognition withadvanced roboticsto make global trade safer and more efficient for thousands of businesses.
+
+
+HSBC’s Global Trade and Receivables Finance (GTRF) team facilitates over US$ 500 billion of documentary trade for customers every year, and in doing so must manually review and process up to 100 million pages of documents, ranging from invoices to packing lists and insurance certificates.  The new solution uses IBM’s advanced analytics technology, including intelligent segmentation and text analytics, to identify, digitise and extract key data within these documents before feeding it into the bank’s transaction processing systems; boosting accuracy whilst freeing up staff for more value-adding activities.
+
+
+“The average trade transaction requires 65 data fields to be extracted from 15 different documents, with 40 pages to be reviewed,” said Natalie Blyth, HSBC’s Global Head of GTRF. “By digitising this process we will make transactions quicker and safer for both buyers and suppliers, leading our industry forwards, and we will reduce compliance risks through an enhanced ability to manage huge volumes of data.”
+
+
+“The problem is how to capture semi-structured documents with highly variant content through an analogue process, and no-one has the perfect answer,” said Roger Welch, Industry (Financial) Expert and Solution Architect for IBM Analytics ECM practice. “In our experience, no trade finance solution has come as far or done as much as this new solution.”
+
+
+HSBC is currentlyusing the technology to analyse English-language import and export bills in several markets inAsia, Europe, the Americas and the MENA region.
+
+
+The team aims to enhance the solution so it can read a wider range of documents and languages including French, Spanish and Chinese. 
+
+
+“We are continuously investing in technologies that will improve the way we work for the benefit of our customers and our people,” said Natalie Blyth. “HSBC wants to be the leading bank for innovation, and initiatives like this one are key to achieving our goal.”
+
+ 
+ 
+
+		

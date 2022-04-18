@@ -1,0 +1,16 @@
+## Title: Fortunaglobal launches first  Sinhala, Tamil news Bot in SL
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, February 1, 2018 - 01:00
+
+Fortunaglobal launches first  Sinhala, Tamil news Bot in SL
+
+With its ‘brand affluence’ product range having already become the benchmark for omni-channel banking in Sri Lanka’s financial technology sector, Colombo-based Fortunaglobal has achieved another milestone by teaming up with Ada Derana to extend the LISA AI-based Bot platform to the news and entertainment industry by launching Sri Lanka’s First Trilingual AI based Bot for the Ada Derana Digital.
+Accessed via users’ Facebook account, the Botresponds to viewers’ questions in Sinhala, Tamil and English. This enables social media users the comfort of news and entertainment from their Facebook accounts. The Bot was fine-tunedby the Derana News team working together with the Fortunaglobal Engineering team, to optimize the bot for the Sri Lankan news industry.
+User can click on “pre-defined” buttons (Sports, Business News, Entertainment, Hot News,etc.) to receive news from a selected category. These buttons will appear on the FB Messenger platform horizontally and, once selected, the latest news for that category will appear as the next response from the Bot. Users can request any news from the Bot, which will search and provide the best matching news.
+The General selection for the Bot will offerGeneral News, Business News, Location Based Services and a whole range of news options on the Ada Derana portal.
+AI-based Bots understand and serve the user at his request on the indication of his or her preferences versus conventional methods of searching for preferred news from websites.
+Registration will not be required given the seamless access to everyone provided by the Ada Derana Bot.
+Fortunaglobal CEO Suren Kohombange said, “With our long standing Digital Media partnership with Ada Derana, we are delighted to be a partof launching the first Sinhala and Tamil Bot in Sri Lanka.
+The Fortunaglobal Engineering team is excited by the prospect of introducing AI based Bots to the Sri Lankan Digital News Industry, which is known for expanding its user-base rapidly.”
+ 

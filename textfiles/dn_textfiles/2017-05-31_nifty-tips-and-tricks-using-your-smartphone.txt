@@ -1,0 +1,28 @@
+## Title: Nifty Tips and Tricks For Using Your Smartphone
+## Supertitle: 
+## Section: Features
+## Date: Wednesday, May 31, 2017 - 01:00
+
+Nifty Tips and Tricks For Using Your Smartphone
+
+Smartphones have revolutionized the world in so many different respects, from the ease of communication they provide, to the applications we can download, which have turned our phones into multi-functional tools. And this technology is continuously improving too! So, although smartphones facilitate your needs extensively, there are probably some extremely useful things you don't know much about, such as taking a screenshot with your phone, having text displayed larger, and even read out to you.The following tips come with instructions on how to use them on both Android phones and iPhones:
+Take a screenshot
+You can easily take a screenshot on a computer, so you’ll be happy to know that taking one on a smartphone isn’t any more difficult. Use this when you want to quickly share something you've received (such as a text message) or something you've seen on social media.
+iPhone instructions Press and hold the Home button WITH the Sleep/Wake button (simultaneously).When the screenshot is taken, you will hear a shutter click.The screenshot will be automatically saved in your Camera Roll or Saved Photos Selection.
+Android instructions Press and hold the Power button WITH the Volume Down button (simultaneously).You should hear a sound and/or see a flash on your screen, when the screenshot is taken.The screenshot will be automatically saved in the Captured Images folder in Gallery,
+Block calls and texts
+If you're getting bothersome phone calls or texts, your smartphone gives you the possibility to block them from reaching your phone. This is done through a simple setting you can change whenever you like.
+iPhone instructions (iOS 7 or later)
+For calls: If the caller is on your phone's contact list, find the contact in your list and tap on his name. Scroll to the bottom of the page and select Block This Caller. Then tap Block Contact.If the caller isn't on your phone's contact list, tap on the Info button next to the number, scroll to the bottom of the page and select Block this Caller. Then tap Block Contact. For texts: Whether the person is on your contact list or not, open the Messages app and select a message received from this person (if you have more than one, pick any). Tap Contact in the upper right of the screen and tap the Info button. Scroll to the bottom and tap Block this Caller, followed by Block Contact.
+Editing blocked contacts: Go to Settings > Phone > Blocked - (for callers).Go to Settings > Messages > Blocked - (for text senders).Go to Settings > FaceTime > Blocked - (for FaceTime contacts).
+Android instructions Open Settings and tap Call Settings, followed by Call block. Under Incoming Calls, find Call Block List, and tap Create. Enter the number you would like to block, or select it from your contact list or call log.
+Use a real password instead of a digit code
+The default way of unlocking a phone from the lock screen is by using a 4-digit PIN. As long as it is not super easy and obvious, this is a pretty safe system. But to make it even more secure, you can change this to a set string of characters of your choice, making it more like a password.
+iPhone instructions Enter Settings, and go to Passcode. Swipe off the option that says Simple Passcode.Now you can set your passcode to any combination of characters.
+Android instructions Enter Settings, and go to Screen lock. Here, you can select which level of security you want from the options.
+Tap Password and create the password you want, using any characters.
+Enlarge Text
+Sometimes, it can be difficult to read what's on your phone's screen, especially if your phone is quite small. Resolve this issue by setting the font size of your phone to a larger or bolder one, so it is easier for you to read.
+iPhone instructions Enter Settings, select General, followed by Accessibility. Turn on Bold Text and/or Larger Text, according to your preference. If you select Bold Text, you will need to restart your phone for the setting to be activated.
+Android instructions Go to Settings, then select Accessibility. Under Vision, select Font Size and set it to Large. Certain smartphones even offer the option of setting the size to Huge, which is bigger than Large. -Tech Radar
+ 

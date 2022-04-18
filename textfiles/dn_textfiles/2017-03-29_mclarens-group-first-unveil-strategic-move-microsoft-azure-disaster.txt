@@ -1,0 +1,14 @@
+## Title: McLarens Group first to unveil strategic move to Microsoft azure disaster recovery
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, March 29, 2017 - 01:00
+
+McLarens Group first to unveil strategic move to Microsoft azure disaster recovery
+
+ McLarens Group recently added to its track record as the first in Sri Lanka’s shipping industry to unveil a strategic move to cloud-based Microsoft Azure for their complete disaster recovery needs with leading enterprise IT solutions advisor, H ONE.
+The best-in-class solution helps the Group avoid the hassles and hidden costs of tape backup and instead enables them to rely on Microsoft’s global network of cloud data centers to better protect critical business applications, speed recovery and restoration of services in the event of a site outage, and reduce data protection costs.
+McLaren’s Group, which boasts a diversified holdings portfolio including hotels & leisure, property development and automotive products, is bullish about growth and opportunities, seeing the move to Azure as the next logical step forward for the business as they start rolling out several new joint ventures with leading enterprises. Commenting about the move, Joint Managing Director Shehara Jayawardana stated.
+With potential comes risk, Group Head of ICT & Digital Business, Umeshi De Fonseka explains. “We deal with demanding clients and time sensitive operations. If a system goes offline, we lose out on potential business opportunities. Every second counts. Soon after we started our move to Azure we learned that the competitor solution faced a four-hour outage. We can’t afford that kind of downtime.” he emphasized.“Data security is another concern of ours,” said de Fonseka.
+Having evaluated on-premises options, the Group concluded that personnel, insurance, media and capex costs not only inflated maintenance operations, but also failed to afford the company the flexibility and scalability it required to divest or grow in line with the business.
+To implement the Azure solution, McLarens Group turned to leading Microsoft Cloud Partner for South-East Asia New Markets, and Microsoft Partner of the Year for Sri Lanka - H ONE. Commenting on the cloud journey, H ONE CEO Samath Fernando said “The Group began with their move of over 600 users to Microsoft Office 365 in 2016 which I’m proud to say was executed in record time.”
+ 

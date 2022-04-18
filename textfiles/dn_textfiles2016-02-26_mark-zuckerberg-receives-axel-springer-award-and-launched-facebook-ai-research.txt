@@ -1,0 +1,13 @@
+## Title: Mark Zuckerberg Receives Axel Springer Award and Launched Facebook AI Research Initiative in Berlin
+## Supertitle: 
+## Section: World
+## Date: Friday, February 26, 2016 - 15:15
+
+Mark Zuckerberg Receives Axel Springer Award and Launched Facebook AI Research Initiative in Berlin
+
+Facebook founder Mark Zuckerberg is known for wearing a grey T-shirt most of the time, but yesterday evening at the Axel Springer Awards 2016 in Berlin, Zuckerberg put on suit to receive the first ever Axel Springer Award for entrepreneurial spirit.
+Publishing house Axel Springer likely created that award just for Zuckerberg.
+Mark Zuckerberg had a high profile day in Germany yesterday meeting with Chancellor Angela Merkel's chief of staff Peter Altmeier. Facebook also announced the Facebook AI Research Partnership Program in Germany.
+This new program is aimed to support artificial intelligence research at universities using state of the art computing hardware, software and expertise provided by Facebook.
+"AI is one of the technologies that I’m most excited about. Building machines that can learn the way humans do will let us create new tools to dramatically enhance humanity’s potential. AI will save lives by diagnosing diseases, making cars safer, and unlocking new insights about our planet and universe, " said Zuckerberg in a Facebook post.
+The first FAIR Partnership Program is with Professor Klaus-Robert Müller at TU Berlin. His laboratory is using AI to analyze medical scans to extend our understanding of breast cancer. Facebook is going to provide 32 GPUs in four state of the art servers to TU Berlin that will allow this research to go faster. In total the social media company plans to provide 200 GPUs to research institutions across the EU.(News Agencies)

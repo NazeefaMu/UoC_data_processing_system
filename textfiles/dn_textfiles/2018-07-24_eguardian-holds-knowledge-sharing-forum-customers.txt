@@ -1,0 +1,15 @@
+## Title: EGUARDIAN holds knowledge sharing forum for customers
+## Supertitle: 
+## Section: Finance
+## Date: Tuesday, July 24, 2018 - 01:00
+
+EGUARDIAN holds knowledge sharing forum for customers
+
+EGUARDIAN Lanka, Sri Lanka’s a leading value added IT distributor, recently held a knowledge sharing forum for their customers on Fortinet’s Security Fabric at the Cinnamon Grand.
+IT Heads from finance, telecom and software industry were in attendance to learn about the latest innovations to the Security Fabric that can help protect their networks from sophisticated threats.
+Jason Charles, National Sales Manager India and SAARC and Michael Joseph, Director System Engineering, India and SAARC, at Fortinet, shared their expertise at the conference and spoke about the emerging threat landscape and security trends.
+Speaking at the conference, Michael Joseph highlighted, “Digital transformation is creating new operating and service delivery models that provide undeniable value to users through technologies such as IoT, mobile computing and cloud-based services, generating a vast digital attack surface. As the speed and scale of cyber threats expands, security must take on its own transformation by integrating into all areas of digital technology and be able to translate user intent into automated business response.”
+The Fortinet Security Fabric is an integrated and automated security framework designed to protect today’s dynamic networks. It provides the broad visibility, integrated detection of advanced threats, and automated response, combined with the continuous trust assessment required to secure today’s digital business. Most notable amongst these enhanced features is the integrated SD-WAN functionality for improved network security and expanded visibility from IoT to multi-cloud networks to protect the vast attack surface resulting from digital transformation strategies.
+“We live in a time of increased connectivity where devices that were not traditionally part of the network are quickly being adopted into the IT ecosystem to create greater convenience, opportunities and to fuel innovation. However, the end result of this is a more complex network with an expanded attack surface that attracts advanced threats,” said Mafaz Fahrid, Head of Businesses and International Operations, EGUARDIAN Lanka Private Limited.
+Fortinet secures the largest enterprise, service provider, and government organizations around the world. Fortinet empowers its customers with intelligent, seamless protection across the expanding attack surface and the power to take on ever-increasing performance requirements of the borderless network - today and into the future.
+ 

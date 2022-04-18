@@ -1,0 +1,14 @@
+## Title: ATrad platform achieved 85% deployment
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, June 7, 2018 - 01:00
+
+ATrad platform achieved 85% deployment
+
+ATrad, the Sri Lanka-developed online stock broking platform, achieved 85% deployment among stock broking firms operating at the Colombo Stock Exchange (CSE) recently.
+“We have also introduced the platform to stock brokers of the Bombay Stock Exchange and are now poised to venture into more international emerging markets with ATrad,” IronOne Technologies CEO, Lakmini Wijesundera said.
+“With the drive to encourage foreign investment, both by the CSE and stockbroker firms, ATrad’s ability to handle orders placed by third parties with ease using their own systems and receiving backward status updates in real-time, is considered a valuable feature.”
+A complete trading, back office, accounting and margin trading solution, ATrad facilitates stock trading for Advisers and Investors and has the added capability to act as back-end solution for brokers. Continuous enhancements have enabled a variety of services including direct integration to banks, and enhanced analytics to be provided to emerging market stock exchanges and broker communities.
+ATrad is geared to effectively support and align with the Colombo Stock Exchange’s requirements, including those introduced with the new CDS system, ensuring a seamless experience for clients. It offers support for multiple classes of assets, easily encompassing the CSE’s two currently-offered asset classes - Debt and Equity.
+The company also appointed, Jit Seneviratne as the Senior Vice President Business Development recently.
+ 

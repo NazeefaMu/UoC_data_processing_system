@@ -1,0 +1,18 @@
+## Title: ‘EPIC e-Wallet’ makes Bank of Maldives first to revolutionize banking within the region
+## Section: Financial News
+## Date: 21 July 2016 12:00 am
+
+‘EPIC e-Wallet’ makes Bank of Maldives first to revolutionize banking within the region
+
+
+	
+
+The Maldives premier bank, Bank of Maldives (BML) becomes the first in the region to revolutionise the banking industry with its ‘BML Mobile Pay’ solution designed, developed and implemented by Epic Lanka.  
+Speaking on this achievement, Group Director/ Chief Executive Officer and Chief Solution Architect Viraj Mudalige said, “The Epic Mobile Wallet is a state-of-the-art solution, which transforms the customer mobile phone to a digital version of a traditional wallet. With the Epic e-Wallet, the customer’s mobile phone can make payments and receive payments. In other words it can make you a payer or a payee and this is why it is unique. Unlike most of the wallet apps available in the market today, our solution supports merchant payments using all your payment instruments on existing POS infrastructure at any merchant outlet. Our pioneering tokenisation technology enables multiple payment instruments such as credit/debit cards and CASA accounts to be enrolled within a single electronic mobile wallet without compromising any sensitive card or account information”. 
+He further stated “Customers can utilise all of their stored payment options by simply opening the app on their phone, entering in a PIN, password, fingerprint or facial recognition and then selecting the card/account they need to utilise”. The tokenisation mechanism ensures that no card information or account information gets stored on the phone but yet allows any enrolled instrument to make merchant payments via NFC as well as token number key-in (for non-NFC phones) over a multitude of channels. This enables the user to easily and securely make merchant payments, which accounts for over 90% of consumer transactions, on existing infrastructure using only their mobile phone. The Epic Mobile Wallet is engineered in such a way that customer on-boarding has a hassle-free and seamless process with no cumbersome registration activities. 
+This provides a differentiating experience to consumers when compared to the tedious signing up procedures that are seen in the market today. Furthermore, the Epic Mobile Wallet is highly versatile from a merchant perspective, with support for dynamic and static QR codes for merchant identification, as it can behave as a payment acquisition platform as well, thus catering to all potential merchant segments cost effectively. 
+
+ 
+ 
+
+		

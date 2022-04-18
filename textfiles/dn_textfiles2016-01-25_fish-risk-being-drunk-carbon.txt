@@ -1,0 +1,28 @@
+## Title: Fish at risk of being drunk on carbon
+## Supertitle: 
+## Section: World
+## Date: Monday, January 25, 2016 - 01:00
+
+Fish at risk of being drunk on carbon
+
+AUSTRALIA: Ocean fish around the world risk becoming lost at sea if carbon dioxide concentrations in seawater continue to rise on current trajectories, a study from the University of NSW has found.
+The study, published in the journal Nature, is the first global analysis of the impact of rising carbon dioxide emissions from fossil fuels on natural variations in carbon dioxide concentrations in the world’s oceans.
+It found that carbon dioxide concentrations could reach levels high enough to disorient and “intoxicate” fish, a condition known as hypercapnia.
+“Essentially, the fish become lost at sea,” said the study report’s lead author, Ben McNeil, of UNSW.
+“The carbon dioxide affects their brains and they lose their sense of direction and ability to find their way home. They don’t even know where their predators are.”
+Hypercapnia research in fish is relatively new, starting about 6 years ago.
+In the case of ocean fish, high levels of carbon dioxide affect receptors for GABA, “the main inhibitory neurotransmitter in the vertebrate brain”. The study suggested the resulting physiological and behavioural impacts could have extensive implications for “population replenishment, community structure, ecosystem function” and, in turn, the world’s fisheries.
+“In terms of the problem for fisheries, you’ve got juvenile fish who can’t recognise where their home is or sense where predators are. So obviously they are very prone to being eaten or lost,” Dr McNeil said.
+“It is still really unknown how this will manifest in the future ... but it’s a bit of a wake-up call for commercial fisheries [who will] have to manage this, because it is going to be likely quite a big problem.”
+Dr McNeil said the effect only occurs as humans increase carbon dioxide output, meaning “the only way to mitigate is to reduce carbon dioxide in the atmosphere”.
+The study found a substantial amplification of the annual oceanic carbon dioxide cycle over the 21st century, recording a five- to eight-fold amplification in regions within the Southern, Pacific and North Atlantic oceans.
+While the study only looked at open ocean areas, Dr McNeil said the likely hotspots in Australia would be in southern regions, “south of Tasmania and along the Antarctic”.
+For this work the team has developed an algorithm to predict future carbon dioxide levels and have launched a challenge for others to help in the next phase of the research.
+“We are challenging other scientists with innovative predictive approaches to download the data set we used ... to see if they can beat our approach,” Dr McNeil said.
+ARC Centre for Excellence in Coral Reef Studies biologist Professor Phillip Munday said the study had sparked a lot of interest among the scientific community, but he was uncomfortable with the description of fish as “intoxicated”.
+“I do not agree with the term from a scientific perspective. Intoxication is a term related to the effects of alcohol, which is not what this is.” He said a more apt description of what fish experience with elevated levels of carbon dioxide is “behavioural impairment”.
+“What this paper really tells us is that the levels of carbon dioxide in open oceans are going to be higher and last longer than we may have expected, therefore we need to get a good handle on how these rising levels could affect open ocean species.”
+The UNSW scientists utilised a global database of seawater carbon dioxide concentrations from the past 30 years, allowing them to predict that by 2100, creatures in up to half the world’s surface oceans could be affected by hypercapnia.
+The findings come just days after an Ellen MacArthur Foundation report found the world’s oceans are expected to contain more plastics than fish (by weight) by 2050.
+The New Plastics Economy report outlined an alternative approach to reducing the flow of plastics into natural ecosystems and dissociating plastics from fossil feed stocks.
+- SYDNEY MORNING HERALD

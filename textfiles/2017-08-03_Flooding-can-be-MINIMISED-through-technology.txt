@@ -1,0 +1,75 @@
+## Title: Flooding can be MINIMISED through technology
+## Section: News Features
+## Date: 3 August 2017 02:13 am
+
+Flooding can be MINIMISED through technology
+
+
+	
+
+
+
+IWMI invents simple tech device to control water related risks and disasters
+
+ 
+
+
+
+Nature gave us a few powerful lessons in the guise of droughts, landslides and floods which drove hundreds of people living in some parts of the country to enormous suffering in recent past. While the rest of the world is using the latest technology to minimize harm from natural disasters, we are still lagging behind. If there were ways to decrease the damage caused by natural disasters, many precious lives and property could have been saved. 
+
+Yann Chemin, an International Water Management Institute (IWMI) scientist has invented a simple device - a weather station to monitor the accurate rainfall data, in real time. The data can be used to manage the water in tanks and reservoirs avoiding flood hazard and controlling water 
+related disasters.   
+
+The device uses open source technology and can be operated even by the farmers themselves, and not only the rainfall but also the parameters such as temperature, wind speed, wind direction and atmospheric pressure too can be measured. And it could be assembled with the locally available parts and accessories and would cost between Rs. 45,000 to Rs.75,000. Paddy cultivators in the flood affected areas could save their crops by taking timely precautions to harvest 
+before the rains.   
+
+bove all, the device could be very useful to the reservoir monitors, who could use this data, which is sent to their mobile phones as text messages about the inflow of water to the tanks, and simultaneously the volume of water that needed to be released to the canals. Thus, the flooding could be controlled and the farmers could save their yield.   
+
+In Sri Lanka, the weather data is measured by the Meteorological Department in World Meteorological Organization (WMO) certified technology. The Met. Department issues the rainfall data on daily and sometimes hourly basis, and it is calculated on mm scale.
+
+During an interview with the Daily Mirror, Soumya Balasubramanya, a researcher - Environmental
+
+Economics - International Water Management Institute (IWMI) spoke extensively about the water related disasters, monitoring of tanks/reservoirs and the role the ‘weather station’ plays to caution about floods etc. The excerpts:
+
+Q What is the purpose of inventing this equipment and how could the data be used to minimize damage caused by floods? 
+Monitoring accurate measurements of water level helps avoid flooding. Especially in tanks and reservoirs in Anuradhapura, the daily-basis information is not sufficient, to manage the water and reduce the harm during the rainy season. All the rain water in the upstream, pour down into tanks and reservoirs. The tank monitors don’t know the volume of water that comes into the tanks. If they know the accurate rainfall at the upstream, they can calculate the volume in the  downstream. A’Pura town gets flooded every year due to this heavy rainfall. If the tank monitors have had access to the real time data, the hourly intensity of rainfall, he could open the sluice gates to send the water flowing through the canals and would create enough space to receive the inflow. That is the purpose of this weather station. 
+
+
+Not only Sri Lanka, many other countries use this technology to warn against flooding. Earlier the Pakistani Met. Dept had been using this to caution the people about floods in the Indus Valley
+
+
+Q What is the importance of collecting real time data?   
+Tank monitors do not need daily data, but hourly rainfall figures, especially during the rainy season in Anuradhapura. They have no other means of getting that information as the Met. Dept. issues only the daily rainfall data. So we created this device to measure the daily intensity of rainfall in real time. We have programmed the weather stations with SMS facility, so it sends a message to the tank monitors’ mobile phones in the event of more than 10 mm rain per hour, as requested by the 
+Irrigation Department.   
+
+The Nachchaduwa tank is situated in a regular flooding area, and the IWMI and the Irrigation Dept. are piloting and testing the technology in Nachchaduwa tank, installing five weather stations there, through a UK and World Bank-funded project.   
+During heavy rains, there is nobody at the Met. Dept. to gauge the rainfall. Even if it rains, an officer has to go all the way to the Dept. just to report about the measures.    
+
+Q How user-friendly is this device?   
+Anyone can download the manual, buy local parts and assemble stations and develop it. Lanka Rain Water Harvesting Forum (LRWHF) and several other institutions are doing similar projects. We trained the LRWHF team, and they have used this device and modified it.   
+
+The University of Moratuwa worked with us, they developed our technology and they have commercialized it. Even the SANASA (a local bank that works closely with people) built these devices and installed in their branches to gather information on drought and flooding.   
+
+Not only Sri Lanka, many other countries use this technology to warn against flooding. Earlier the Pakistani Met. Dept had been using this to caution the people about floods in the Indus Valley.
+
+People could reduce the damage caused by floods if they observe and comply with the data provided by weather stations. Farmers in other countries are widely using this device. All the necessary accessories could be bought from the local market.   
+
+Q What kind of assistance does the IWMI get from the govt institutions?   
+The govt is working closely with us. We had discussions with the COSTI (Coordinating Secretariat for Science Technology and Innovation). Weather patterns are changing so dramatically in Sri Lanka, COSTI is very keen on collecting these weather data, and these devices could be used to gather all that data to observe the accurate changes in weather pattern. The University of Moratuwa, the best technical university in Sri Lanka has the capacity to develop this. We work with so many other teams here to create capacity and develop this technology.   
+We have support from the Irrigation Dept, COSTI, University of Moratuwa, LRWHF who are very enthusiastic about these projects. Moratuwa University is linking all the stations to one network in a three-year project. We are working closely with them so they can improvise themselves. Anyone who has the basic knowledge of computers could develop this technology. We are targeting policy makers, rather than those who are working directly with people.   
+
+Helps reservoir monitors to manage water levels accordingly
+	Many countries use this to monitor weather conditions
+	Accessories freely available in local markets
+Q Whose brainchild was this weather station?   
+Yaan Chemin, a scientist working in IWMI created this device, shown to the University of Moratuwa who are now developing and enhancing it further. We are very happy over it. Many people have picked it up and developed.   
+
+The weather stations are assembled with locally available parts using local labour. This project was a result following a request made by the Irrigation Dept, which started it in early 2015. The Dept wanted hourly rainfall data to manage the tanks and handle the sudden release of water from the tanks. The Dept has been using a station in Batticaloa to monitor the water level in the reservoir to open/close the sluice gates.   
+
+A number of other countries in the world are also using this technology. Togo, as an example, uses it to measure the water levels in sewers and clean them before the rains come. Tanzania also uses this technology to measure the water levels in reservoirs and improve dams.   
+
+Q What is IWMI?   
+The International Water Management Institute (IWMI) is a non-profit, scientific organization focusing on the sustainable use of water and land resources in developing countries. It is headquartered in Colombo with regional offices across Asia and Africa. IWMI works in partnership with the govt, civil society and the private sector to develop scalable agriculture water management solution that have a real impact on poverty reduction, food security, eco-system  and health. IWMI is a member of CGIAR System Organization, a global research partnership for a food secure future and leads the CGIAR research programme on water, land and eco-systems.   
+ 
+
+		

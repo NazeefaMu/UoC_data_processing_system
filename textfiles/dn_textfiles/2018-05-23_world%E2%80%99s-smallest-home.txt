@@ -1,0 +1,18 @@
+## Title: World’s smallest  home
+## Supertitle: 
+## Section: T&C
+## Date: Wednesday, May 23, 2018 - 01:00
+
+World’s smallest  home
+
+Scientists have created the world’s smallest house - build on an area of 300 square micrometres - using a robotic system that can accurately assemble nanomaterials into tiny, desirable structures.
+The microhouse construction, described in the Journal of Vacuum Science and Technology A, demonstrates how researchers can advance optical sensing technologies when they manipulate ion guns, electron beams and finely controlled robotic piloting.
+Researchers from the Femto-ST Institute in France, assembled the new microrobotics system that pushes forward the frontiers of optical nanotechnologies. Combining several existing technologies, the micro-Robotex nanofactory builds microstructures in a large vacuum chamber and fixes components onto optical fibre tips with nanometre accuracy.
+Until now, lab-on-fibre technologies had no robotic actuators for nanoassembly, so working at this scale inhibited engineers from building microstructures. This innovation allows miniaturised sensing elements to be installed on fibre tips so engineers can see and manipulate different components. With this advancement, optical fibres as thin as human hair can be inserted into inaccessible locations like jet engines and blood vessels to detect radiation levels or viral molecules.
+“For the first time we were able to realize patterning and assembly with less than 2 nanometres of accuracy, which is a very important result for the robotics and optical community,” said Jean-Yves Rauch, from the Femto-ST Institute.
+The researchers combined all the technological components for nanoassembly - a focused ion beam, a gas injection system and a tiny maneuverable robot - in a vacuum chamber, and installed a microscope to view the assembly process. “We decided to build the microhouse on the fibre to show that we are able to realise these microsystem assemblies on top of an optical fibre with high accuracy,” Rauch said.
+Building a microhouse is like making a giant dice from a piece of paper, but nanoassembly requires more sophisticated tools. The focused ion beam is used like scissors to cut or score the silica membrane “paper” of the house.
+Once the walls fold into position, a lower power setting is selected on the ion gun, and the gas injection system sticks the edges of the structure into place. The low-power ion beam and gas injection then gently sputters a tiled pattern on the roof, a detail that emphasises the accuracy and flexibility of the system.
+In this process, the ion gun had to focus on an area only 300 micrometres by 300 micrometres to fire ions onto the fibre tip and silica membrane. “Its very challenging to pilot the robot with high accuracy at this cross point between the two beams,” Rauch said.
+Using the Robotex system, the researchers are constructing functionalised microstructures to detect specific molecules by attaching their microstructures onto optical fibres. The nanorobotics team is hoping to push the limits of the technology further still, by constructing smaller structures and fixing these onto carbon nanotubes, only 20 nanometres to 100 nanometres in diameter.
+PTI

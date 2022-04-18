@@ -1,0 +1,24 @@
+## Title: Cambridge Analytica closes due to Facebook scandal
+## Supertitle: 
+## Section: Local
+## Date: Friday, May 4, 2018 - 01:00
+
+Cambridge Analytica closes due to Facebook scandal
+
+Cambridge Analytica, the data firm at the centre of this year’s Facebook privacy row, is currently in the process of closing and starting insolvency proceedings.
+The company had been plagued by scandal since the Observer reported that the personal data of about 50 million Americans and at least a million Britons had been harvested from Facebook and improperly shared with Cambridge Analytica.
+Cambridge Analytica denied any wrongdoing, but said the negative media coverage had left it with no clients and mounting legal fees.
+“Despite Cambridge Analytica’s unwavering confidence that its employees have acted ethically and lawfully, the siege of media coverage has driven away virtually all of the Company’s customers and suppliers,” the company said in a statement, which also revealed that SCL Elections Ltd, the UK entity affiliated with Cambridge Analytica, would also close and start insolvency proceedings.
+“As a result, it has been determined that it is no longer viable to continue operating the business, which left Cambridge Analytica with no realistic alternative to placing the company into administration,” they added.
+As first reported by the Wall Street Journal, the company had started insolvency proceedings in the US and UK. At Cambridge Analytica’s New York offices on an upmarket block on Manhattan’s Fifth Avenue, it appeared that all staff had already left the premises.
+The Guardian rang the doorbell to the company’s seventh-floor office and was met by a woman who would not give her name but said she did not work for the company. Asked if anyone from Cambridge Analytica or SCL was still inside, she said, “They used to be; but they all left today.”
+The scandal centres around data collected from Facebook users via a personality app developed by Cambridge University researcher Aleksandr Kogan. The data was collected via Facebook’s permissive Graph API; the interface through which third parties could interact with Facebook’s platform. This allowed Kogan to pull data on users and their friends, including likes, activities, check-ins, locations, photos, religions, politics and relationship details. He passed the data to Cambridge Analytica, in breach of Facebook’s platform policies.
+Christopher Wylie, the original Cambridge Analytica whistleblower, told the Observer that the data Kogan obtained was used to influence the outcome of the US presidential election and Brexit. According to Wylie, the data was fed into software that profiles voters and attempts to target them with personalised political advertisements. Cambridge Analytica insists it never incorporated the Kogan data.
+Kogan told BBC Radio 4’s Today programme he was being used as a scapegoat.
+He said, “My view is that I’m being basically used as a scapegoat by both Facebook and Cambridge Analytica. Honestly, we thought we were acting appropriately. We thought we were doing something that was normal.”
+Cambridge Analytica said it had been “vilified for activities that are not only legal, but also widely accepted as a standard component of online advertising in both, the political and commercial arenas”.
+Cambridge Analytica CEO Alexander Nix was suspended in late March after Britain’s Channel 4 News broadcasted secret recordings in which he claimed credit for the election of Donald Trump.
+He told an undercover reporter; “We did all the research, all the data, analytics and targeting. We ran all the digital campaign, the television campaign and our data informed all the strategy.”
+He also revealed that the company used a self-destruct email server to erase its digital history.
+“No one knows we have it, and secondly we set our… emails with a self-destruct timer… So you send them and after they’ve been read, two hours later, they disappear. There’s no evidence, there’s no paper trail, there’s nothing,” he added.
+Although Cambridge Analytica might be dead, the team behind it had already set up a mysterious new company called Emerdata. According to Companies House data, Alexander Nix is listed as a director along with other executives from SCL Group. The daughters of billionaire Robert Mercer are also listed as directors. (The Guardian)

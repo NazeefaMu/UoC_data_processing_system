@@ -1,0 +1,15 @@
+## Title: VirtusaPolaris Converse Summit displays Next-generation Technology Careers
+## Supertitle: 
+## Section: Finance
+## Date: Monday, February 6, 2017 - 01:00
+
+VirtusaPolaris Converse Summit displays Next-generation Technology Careers
+
+VirtusaPolaris, the market-facing brand of Virtusa Corporation and Polaris Consulting & Services, Ltd., a leading worldwide provider of information technology (IT) consulting and outsourcing, recently hosted nearly 200 undergraduate tech students from 15 of the country’s leading universities and higher education institutions at the VirtusaPolaris Converse 2017 graduate meet up held at The British School in Colombo.
+The event which was organized as part of the company’s ongoing Campus Reach initiative, offered students a glimpse of the diverse career paths in the IT services industry and the skills they need to focus on to avail these opportunities.
+The event started with technical sessions on the work that VirtusaPolaris was doing at its development centers and offices around the world. Nishantha Hettiarachchi, senior architect - Technology, spoke about the company’s core technology practices, emerging trends and opportunities available in those areas. This was followed by a session on Business Process Management (BPM) and developing Pega based BPM solutions by Shiham Nawaz, manager – Delivery.
+Chinthi Weerasinghe, vice president - Delivery, highlighted the importance of software testing and quality assurance and how VirtusaPolaris was increasingly automating the test process and focusing on detecting possible flaws early in the development cycle. Anuradha Weeraman, associate director – Delivery, shed light on Internet of Things (IoT) and how VirtusaPolaris was working like a startup to develop critical IoT based solutions for its clients. The technical sessions were followed by a discussion on ‘Life at VirtusaPolaris’ where a panel comprising recently joined as well as veteran team members from VirtusaPolaris shared personal stories of how their careers had progressed within the company, the learning and development opportunities they had received and many other exciting experiences.
+Later, the students visited the information booths outside the auditorium and sought guidance from the speakers on their individual areas of interest. Several final year students in the audience also took part in the primary evaluation examination that was conducted on site for job openings at the company.
+A live contest held during the course of the event saw over 40 students proposing IoT based solutions developed using the Microservices architecture to improve public services in the country.
+Dilshan Botheju, a final year student from Java Institute, proposed a solution which uses micro server technology to connect public services in the country for providing efficient services to citizens was adjudged the winner of the contest and awarded a tablet computer. 
+ 

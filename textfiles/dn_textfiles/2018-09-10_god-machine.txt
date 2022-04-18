@@ -1,0 +1,23 @@
+## Title: God is in the machine
+## Supertitle: 
+## Section: T&C
+## Date: Monday, September 10, 2018 - 01:00
+
+God is in the machine
+
+‘I’ll lose my job if anyone knows about this.”
+There was a long silence which I didn’t dare to break. I had begged to make this meeting happen. And now the person I had long been trying to meet leaned towards me. “Someone is going to go through your book line by line,” he said, “to try to work out who I am.”
+He’d been a talented researcher, an academic, until his friend started a small technology company. He had joined the company and helped it to grow. It eventually became so big that the company had been acquired by one of the tech giants. And so, then, was he.
+Legal documents
+He was now paid a fortune to help design the algorithms that were central to what the tech giant did. And he had signed solemn legal documents prohibiting him from speaking to me, or to anyone, about his work. But as the years passed, his concern – indeed his guilt – grew. “It’s power without responsibility.” He paused. “There’s so much power, and so little responsibility. This is not notional abstract power. This is real power about day-to-day lives. It’s both material and cultural and financial. The world has to know that this is how it works . . . There’s something rotten in the state of Denmark,” he said, quoting Hamlet a little melodramatically.
+So he had decided to take a risk. “If they find out I’m doing this,” he said, “I’ll be marched out of my office and I’ll never work in technology again. That’s the best-case scenario.” He wasn’t just going to talk to me about his work. He was going to show me it.
+From his satchel, the researcher pulled out his laptop. He tapped for a few minutes and, with a sense of occasion, turned the screen to face me. “It’s all there.” And there it was: a white screen with instructions neatly arranged in a series of boxes.
+“In [3]” the first step says
+“In [8], in [9]” says the next.
+There were words in different colours, some green, some purple, some in red, in bold, in italics. I looked at the researcher, a proud grin spread across his face. There it was. An algorithm that really influenced people’s lives. And it was .<U+2009>.<U+2009>. totally underwhelming.
+Twenty-three centuries ago, the Greek mathematician Eratosthenes sat in the Great Library of Alexandria and tried to find a way to identify prime numbers. He wrote every number from one to 100 in ten rows, and crossed out the one. He circled the two, crossed out all the multiples of two, circled the three and continued. He had created an algorithm, in essence something very simple. His ‘sieve’, as it was called, did what all algorithms do. It took an input, followed a series of well-described steps and produced an output. Input, process, output: that’s all an algorithm is, and has ever been.
+Astronomical calculations
+Throughout their history, algorithms have been built to solve problems. They have been used to make astronomical calculations, build clocks and turn secret information into code. “Up till the nineties,” the researcher said, “algorithms still tended to be RSAs – Really Simple Algorithms. Previously it was pretty clear how stuff happened. You take the original Google algorithm. It was basically a popularity study. You’d just surface (or rank more highly) things that people clicked on more. In general, the people who made it understood how the thing worked.” Some algorithms were more complicated than others, but the input > process > output was generally transparent and understandable, at least to the people who built and used them.
+The algorithm he had brought up on his screen was built to solve a problem, too. It ordered and organized reality in an important way, trying to separate what was important from what was irrelevant. But it was different from the RSAs. “It’s way more complicated than it looks,” he said, hovering a pencil over some of the short words in square brackets. “But I need to show you why.” And with that, we started to journey through his creation.
+First, it imported “libraries”, a specific language of definitions, instructions and actions. Next, he showed me how it brought in data. “There’s a bit of a macho thing about feeding your algorithms as much data as possible,” he said. “The more data you feed it, the better. We work with a lot more data than most teams, actually,” he said, drawing his cursor longingly over the script that brought the huge, churning quantities of data that fed the algorithm. Gigabytes, terabytes, petabytes of data were ordered, there on the page.
+-Times Literary Supplement

@@ -1,0 +1,16 @@
+## Title: Hela Clothing partners with Microsoft to revitalise apparel industry
+## Supertitle: 
+## Section: Finance
+## Date: Friday, March 10, 2017 - 01:00
+
+Hela Clothing partners with Microsoft to revitalise apparel industry
+
+Hela Clothing, a leading apparel manufacturer, partnering with Microsoft recently, to revitalise the apparel industry.
+As the shift to a more digitally enhanced manufacturing eraaccelerates, the opportunity to deliver long-term digital solutions and insights has accelerated Hela Clothing’s ambition for modern, secure and efficient solutions such as Microsoft’s Office 365 and Hyper-V platforms.
+“Businesses that embrace digital transformation generate materially more operating income each year than those who do not,” said Brian Kealey, Managing Director for Microsoft Sri Lanka and Maldives.
+“And with Sri Lankan companies faced with evolving customer and employee expectations, it’s increasingly challenging to be productive without a comprehensive, board level digital transformation plan.”
+The partnership with Microsoft has allowed Hela Clothing to choose Office 365 over a number of others including other cloud competitors as its preferred means of collaborating and communicating in the workforce.
+Furthermore, Hela Clothing opted to replace Red Hat Virtualization with Microsoft Hyper V. A platform aimed at consolidating Hela Clothing’s digital infrastructure to remote desktop and application virtualization systems. As a consequence, Hyper-V has increased Hela Clothing’s hardware utilization by consolidating servers and workloads onto fewer and more powerful physical computers.
+“Focusing on digital transformation with Microsoft’s secure and comprehensive cloud enabled platforms has played a crucial role to our success,” said Thilina Samarasinghe, Group Head of IT of Hela Clothing. “Now that Microsoft has reduced our capex on server hardware and increased real-time communication, productivity at Hela Clothing is at an all-time high. With Microsoft, we will remain committed to innovating and accelerating insightful intelligence across the apparel sector.”
+Further to the current deployment, Microsoft will continue to work with Hela Clothing to help them envision and implement more integrated platforms like Skype for Business through Microsoft Most Valuable Professional Partner, Infront Consulting Group. Country Manager for Infront Consulting, Susantha Silva added, In this context, Hela Clothing has fully leveraged the opportunities of present digital technologies to become a forerunner in the apparel industry.
+ 

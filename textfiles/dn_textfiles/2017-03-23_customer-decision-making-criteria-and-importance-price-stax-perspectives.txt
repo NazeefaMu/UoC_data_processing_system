@@ -1,0 +1,36 @@
+## Title: Customer decision  making criteria and  the importance of  Price-Stax perspectives
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, March 23, 2017 - 01:00
+
+Customer decision  making criteria and  the importance of  Price-Stax perspectives
+
+Understanding customer decision making is crucial to profitable growth, and particularly so in driving product development or sales and marketing investment decisions.
+Overview and Objectives
+Many organizations spend significant resources to identify customer needs precisely and early to stay ahead of competition.
+Traditionally, the customer decision making process has revolved around price, product quality and customer service. With advancements in technology, attributes of products and services have changed and have led to changes in the decision-making process as well.
+
+Over the last 20 years at Stax, we've conducted hundreds of customer studies, gathering tens of thousands of data points. This gives us a tremendous amount of experience and data with which to understand customer decisions, not only for a given engagement, but across many engagements.
+We use this data to develop insights to inform our current work and to better understand decision making. In addition, it provides us with a significant and constantly growing foundation of data with which to benchmark findings in our current work.
+To that end, Stax sought to review the relative importance of price, using data gathered through multiple engagements over the past couple of years. We incorporated responses around price, quality and other attributes from over 40,000 survey respondents. We explored how the influence of price changes based on two categories of decision makers across select industries: consumer and corporate end user. Finally, we looked at what new product attributes influenced consumer decisions.
+As Expected Price is the Primary Influencer of Purchasing Decisions
+
+Overall, price/cost of ownership remains the most influential decision driver, with nearly half of the respondents considering it as one of the top three factors for selecting a product or service. Of those, 18% selected price most important factor.
+End Consumer Decisions are Driven by Price and Quality of Products
+When examining decision maker motivation, purchasing decisions of consumers revolved around optimizing price, quality and durability. Price remains the main decision driver with 50% of consumers acknowledging it as one of their top three considerations. Factors such as comfort, fit, convenience and customer service act as secondary drivers.
+Closer examination of categories reveals that with Financial Services, Food and Beverages (F&B), Information Technology (IT) and Consumer Products (like gifts, toys, mattress, etc), purchaser decision making is price sensitive, whereas in the Healthcare and Apparel verticals it seems to be less sensitive.
+
+For F&B, quality of food was an important decider, along with price. For Financial Services consumers also placed a great deal of emphasis on financial performance, brand reputation and customer services of the service provider. With IT purchases additional drivers were quality, ease of use, brand reputation and product performance.
+The same goes for Consumer Products such as sanitary ware, cosmetics and furniture, with co-determiners of quality and durability, while convenience of purchase is a secondary factor. In this segment, more than 50% of consumers included price in their top three considerations, with 22% of them choosing it as their main selection criteria.
+Price is less influential in decision making with regards to Apparels, as consumers tend to focus primarily on fit, comfort and quality. With Healthcare, decision making is mostly based on the insurance coverage and in-network status, which generates substantial reductions in costs. In addition, customers are also value convenience and physician credentials. Thus, the actual pricing will have a lower influence in decision making.
+
+Corporate End User Decisions are Equally Driven by Price and Impact on Business Continuity
+Even though price remains the top decision driver amongst corporate end users, they tend to place lower emphasis on price compared to consumers, as less than 40% consider it to be part of their top three considerations. Corporate end users prioritize factors that would ensure limited or no disruption of operations during the implementation to minimize opportunity costs.
+Therefore, factors such as ease of use, reliability and ease of implementation are ranked higher while product quality has a comparatively lower importance.
+Corporate end users in IT prioritize the ease of use along with price.
+Development and competitiveness in the IT solutions sector has resulted in new companies using attractive pricing models that allow them to reduce large upfront costs. In addition, cost of down time due to implementation has bigger financial implications on most organizations compared to actual price of the solution. Thus, corporate decision makers tend to emphasize solutions that allow for easier implementation, training and use.
+Like consumers, business users of Healthcare services focus on insurance coverage and the quality of service more compared to pricing. The decisions in healthcare IT sector depend on ease of use and integration capabilities, in order to ensure business continuity.
+Concluding Remarks
+Clearly, price remains the most important decision driver across segments and industry verticals. However, customer selection criteria are more nuanced and there are more secondary factors that can be developed for success in the market.
+Methodology
+Stax analysis is based on data from 40,000 respondents, which includes 30,000 consumers and 10,000 corporate end users from U. S. Industries covered include IT, Consumer Products, Healthcare, Apparel, and Financial Services. We extracted data from questions that requires respondents to rank top three factors considered when selecting a product or service. A typical question would be “Which of these factors are the most important in your selection of a product?”. 

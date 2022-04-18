@@ -1,0 +1,17 @@
+## Title: Huawei inspires smartphone industry with chipset launch
+## Supertitle: 
+## Section: Finance
+## Date: Tuesday, September 18, 2018 - 01:00
+
+Huawei inspires smartphone industry with chipset launch
+
+In his IFA 2018 keynote titled “The Ultimate Power of Mobile AI”, Huawei Consumer Business Group CEO Richard Yu introduced the Kirin 980, the system on a chip (SoC) that will bring about the next evolution of mobile AI.
+As the world’s first commercial SoC manufactured with Taiwan Semiconductor Manufacturer Company’s (TSMC) 7nm process, Kirin 980 combines best-in-class performance, efficiency, connectivity features, and Dual NPU AI processing power.
+Commenting on the historic occasion, Richard Yu, the CEO of HUAWEI CBG said, “Last year, we showed the world the potential of On-Device AI with the Kirin 970, and this year, we’ve designed an all-round powerhouse that not only features outstanding AI capabilities, but also brings cutting-edge raw performance to consumers. Equipped with an all-new CPU, GPU and Dual NPU, the Kirin 980 is the ultimate engine to power next-generation productivity and entertainment applications.” Therefore it’s evident that the 10nm Kirin 970 SoC that is powering HUAWEI’s flagship devices will soon cede its “cutting-edge” title to 7nm.
+Huawei has a stellar track record of leading chipset development. Going back in recent history, while other manufacturers were designing chips for the 20nm process, Huawei unveiled the first 16nm chip with Kirin 950.
+The Kirin 980 integrates 6.9 billion transistors in an area of less than 1 square centimeter which is a 1.6x increase in density to empower better performance.
+With this introduction of the Kirin 980, it is deduced that 7nm technology will improve processor speed by approximately 20 percent and consume approximately 40 percent less power compared to 10nm Chipset embedded in Mate 10.
+In addition, The Kirin 980 boasts the Industry’s First “Dual-Brain” Power. Kirin 980 can quickly adapt to AI scenes such as face recognition, object recognition, object detection, image segmentation and intelligent translation with the power of a dual-core NPU achieving 4500 images per minute which is an improved 120% recognition speed. The Kirin 980 is the first to offer LTE Cat.21 which supports the fastest downlink at 1.4 Gbps and offers a stable connection in congested areas.
+Huawei confirms that a state of-the-art-smartphone, unveiling the Kirin 980 for the first time in the smartphone industry, is expected to make its debut in October in the international markets.
+In Sri Lanka, Huawei has succeeded in securing the number one position in Smartphone sales according to recent GfK reports.
+ 

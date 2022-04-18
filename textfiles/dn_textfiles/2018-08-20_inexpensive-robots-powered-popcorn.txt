@@ -1,0 +1,19 @@
+## Title: Inexpensive robots powered by popcorn
+## Supertitle: 
+## Section: T&C
+## Date: Monday, August 20, 2018 - 01:00
+
+Inexpensive robots powered by popcorn
+
+Scientists have created a simple, inexpensive robot powered by popcorn, paving the way for a new range of minimalistic devices that can grip, expand or change rigidity.
+Popcorn kernels, when heated, can expand more than 10 times in size, change its viscosity by a factor of 10 and transition from regular to highly irregular granules with surprising force.
+“The goal of our lab is to try to make very minimalistic robots which, when deployed in high numbers, can still accomplish great things,” said Kirstin H Petersen, assistant professor at Cornell University in the US.
+“Simple robots are cheap and less prone to failures and wear, so we can have many operating autonomously over a long time. So we are always looking for new and innovative ideas that will permit us to have more functionalities for less, and popcorn is one of those,” said Petersen.
+The study is the first to consider powering robots with popcorn, which is inexpensive, readily available, biodegradable and of course, edible. Since kernels can expand rapidly, exerting force and motion when heated, they could potentially power miniature jumping robots.
+Edible devices could be ingested for medical procedures. The mix of hard, unpopped granules and lighter popped corn could replace fluids in soft robots without the need for air pumps or compressors.
+“Pumps and compressors tend to be more expensive, and they add a lot of weight and expense to your robot,” said Steven Ceron, a doctoral student at Cornell.
+“With popcorn, in some of the demonstrations that we showed, you just need to apply voltage to get the kernels to pop, so it would take all the bulky and expensive parts out of the robots,” said Ceron.
+Since kernels can not shrink once they’ve popped, a popcorn-powered mechanism can generally be used only once, though multiple uses are conceivable because popped kernels can dissolve in water, he said.
+“Robotics is really good at embracing new ideas, and we can be super creative about what we use to generate multifunctional properties,” Petersen said.
+“In the end we come up with very simple solutions to fairly complex problems. We don’t always have to look for high-tech solutions. Sometimes the answer is right in front of us,” she said.
+ANI

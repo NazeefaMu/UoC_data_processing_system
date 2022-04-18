@@ -1,0 +1,24 @@
+## Title: Researchers discover ‘on-off switch’
+## Supertitle: 
+## Section: Features
+## Date: Monday, April 3, 2017 - 01:00
+
+Researchers discover ‘on-off switch’
+
+A breakthrough has occurred in the fight against HIV, new research reveals. Scientists say they’ve engineered an ‘on-off switch’ into a weakened form of HIV, enhancing the safety and effectiveness of a potential vaccine for the virus.
+They say this could be the final necessary step to eradicate the disease that’s killed 35 million people since the beginning of the epidemic in the 1980s.
+Vaccinologists often prefer exposing the body to weakened viruses, rather than deactivated ones, because they grant stronger and longer-lasting immunity. But weakened viruses retain the ability to replicate, meaning that they still pose a risk of becoming full-blown pathogens.
+Researchers at the University of Nebraska-Lincoln began addressing this issue in 2014, when they genetically engineered a version of HIV that needs a synthetic amino acid - one not found in the body - to replicate.
+Doing so required the team to replace a codon that codes for the amino acid in the HIV’s genetic code.
+Each codon instructs an amino acid to connect to a chain that becomes a protein and ultimately allows viral replication.
+The team swapped out one of these codons for a ‘nonsense’ version that instead signals a stop in the amino-acid assembly line, halting production of the proteins essential for replication.
+When the team supplied the synthetic amino acid, the assembly line began churning out proteins, and the virus began replicating. When the supply of amino acids stopped, so did the replication. This technique gave the team control over the HIV’s replication. And by delivering a consistent supply of amino acids, the team showed that it can kick-start the multiple cycles of replication necessary for an effective vaccine. ‘Safety is always our biggest concern,’ said Dr Wei Niu, an associate professor of chemical and biomolecular engineering. ‘In this case, [it means] we’re one step closer to generating a vaccine.’
+Other research teams have managed to generate HIV immunity in organisms, with one vaccine protecting 95 percent of rhesus monkeys against the virus. Many of these vaccines have relied on deleting HIV genes to limit replication, but the virus’ penchant for mutating can help it overcome this defense and replicate unchecked.
+Dr Qingsheng Li, a professor of biological sciences, said the team’s combination of a nonsense codon, genetic switch and synthetic amino acid represents an especially rigid set of safeguards against unchecked replication. ‘That’s the big milestone,’ said Dr Li. ‘If that works well, we need to go to the pre-clinical animal model before going to a clinical trial. That’s our goal and road map.’
+-Daily Mail.UK
+NEW COMBINATION OF DRUGS COULD ELIMINATE HIV
+HIV could be eliminated using a novel combination of drugs, claims a research team on the brink of an unprecedented experiment.
+Scientists at Case Western Reserve University's medical school have been granted $2.5 million to try pairing two never-before-combined AIDS treatments in a human clinical trial.
+The properties - a natural protein that kills disease and a lab-made antibody - have been separately used in HIV-suppressing drugs for years.
+Our current line-up of medication is highly effective: roughly 30 percent of America's 1.2 million people with HIV have reached an undetectable viral load - meaning treatment has suppressed the virus to the point it is untransmittable.
+But lead researcher Dr Michael M Lederman believes a combination of these two properties could 'produce more of a wallop in tandem than when administered individually'. 

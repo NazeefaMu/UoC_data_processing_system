@@ -1,0 +1,21 @@
+## Title: Be wary of friend requests: CERT
+## Section: Breaking News
+## Date: 31 January 2018 04:10 pm
+
+Be wary of friend requests: CERT
+
+
+	
+
+Principal Information Security Engineer of the Computer Emergency Readiness Team Co-ordination Centre (CERT|CC), Roshan Chandragupta said about 250 Facebook related complaints were received in January this year.
+
+He said Facebook users must take extra care to ensure their safety and security on cyberspace such as when publishing their photographs under the ‘friends only’ category.
+
+“Users of FB should keep in mind to add only those personally known to them and to avoid accepting requests from those of unknown origin,” Mr. Chandragupta said.
+
+He said CERT had received 3,400 complaints by December last year regarding the creation of fake Facebook accounts and that CERT had reported most of cases to the Facebook Head Quarters. Mr. Chandragupta said several of the complaints were made by the genuine users of Facebook accounts saying their names and photos were used for the fake Facebook accounts.
+
+He said the FB head office had deleted some 80 per cent of the fake Facebook accounts by the end of last year. (Chaturanga Samarawickrama)
+ 
+
+		

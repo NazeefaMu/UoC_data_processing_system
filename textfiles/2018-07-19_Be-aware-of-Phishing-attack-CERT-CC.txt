@@ -1,0 +1,33 @@
+## Title: Be aware of Phishing attack: CERT|CC
+## Section: Breaking News
+## Date: 19 July 2018 03:29 am
+
+Be aware of Phishing attack: CERT|CC
+
+
+	
+
+The Computer Emergency Readiness Team-Coordination Centre (CERT|CC) requested social media or email users to be aware of ‘Phishing’ attack circulating over the internet.
+
+The Phishing attacks typically rely on social networking techniques applied to email or other electronic communication methods, including direct messages sent over social networks, SMS text messages and other instant messaging modes.
+
+Speaking to the Daily Mirror CERT|CC Principal Information Security Engineer Roshan Chandragupta said a number of complaints had been received about a number of social media accounts being hacked into.
+
+Phishing is a cyber attack that uses a disguised email as a weapon. The goal is to trick the mail recipient or social media user to click a link which enables the hackers to breach into their accounts.
+
+“If a user clicks on the received email link, that will open a similar login page to the Facebook (FB) and asks for the FB username and the password. When typing the username and the password it will provide access to the victims FB profile,” he said.
+
+Most of the complaints were made regarding the changing of FB accounts. If a user mistakenly clicked on the received FB request which arrived as an email, opens a similar login page to the Facebook which is, in fact, a fake Facebook Login, Mr Chandragupta said.
+
+“If the user logged in to their own Facebook profile, they should be alert of two activities. There should have to be a green padlock mark display near the address bar to show that the profile login was a secured connection and with the hyperlink address of https://www.facebook.com. Or there ‘Two-factor authentication’ should have to be activated,” he said
+
+“If someone was a victim of the Phishing Attack, they can be activated the two-factor authentication can be activated from the -Security and Login- page on the Facebook settings.
+
+“That can verify the true Facebook profile user while receiving a verification code with the use of own mobile number.
+
+“Mr Chandragupta requested social media users to be cautious about clicking email likes. They should always check their profile address bar starts with https://www.facebook.com. There is no need to re-enter social media login or profile password once you logged in,” he said.
+
+Email accounts are also hacked using the same method. (Chaturanga Samarawickrama)
+ 
+
+		

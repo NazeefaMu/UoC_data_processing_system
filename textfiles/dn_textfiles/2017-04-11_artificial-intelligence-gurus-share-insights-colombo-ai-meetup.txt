@@ -1,0 +1,12 @@
+## Title: Artificial Intelligence Gurus share insights at Colombo AI Meetup
+## Supertitle: 
+## Section: Finance
+## Date: Tuesday, April 11, 2017 - 01:00
+
+Artificial Intelligence Gurus share insights at Colombo AI Meetup
+
+The fifth session of the Colombo Artificial Intelligence (AI) Meetup was hosted by the Sri Lanka Association for Artificial Intelligence (SLAAI) at VirtusaPolaris recently.
+The event had keynote presentations by Dr. Romesh Ranawana, Managing Director, SimCentric Technologies and Dr. Sidath Liyanage, Senior Lecturer, Faculty of Computing and Technology, University of Kelaniya.
+Speaking on the topic “How Big is AI?”, Dr. Ranawana shared insights on how and why AI is used by companies and the academia, its benefits, the growth of funding for AI and big tech acquisitions in AI. He concluded his presentation with a case study on the use of AI in the financial services industry.
+With ‘Machine Learning for Brain Computer Interfacing’ as his theme, Dr. Liyanage spoke about tapping the incredible resources of the human brain, one of the grandest challenges of the 21st century. He elaborated on how brain computer interfacing could be done and how that would allow those with poor muscle control to communicate and control physical devices. He also discussed how machine learning could contribute towards solving current issues in brain computer interfacing.
+The keynote sessions were followed by a panel discussion on AI moderated by Dr. Ajith Madurapperuma, Member - Board of Directors at ICTA; Director, Industry Liaison Center at OUSL; and Senior Lecturer, Department of Electrical and Computer Engineering at OUSL. Dr. Romesh Ranawana; Dr. Sidath Liyanage; Dr. Adam Easton, Chief Executive Officer, SimCentric Technologies and Misnad Haque, Senior Architect, VirtusaPolaris joined as panelists. The expert panel shared their views on AI and responded to the queries on the subject. 

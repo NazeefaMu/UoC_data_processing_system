@@ -1,0 +1,17 @@
+## Title: Travis Perkins select Mitra Innovation
+## Supertitle: 
+## Section: Finance
+## Date: Monday, May 15, 2017 - 01:00
+
+Travis Perkins select Mitra Innovation
+
+Mitra Innovation, a UK, Sri Lankan and Australian based company specialising in SaaS technology platform incubation, digital transformation and Cloud-to-Cloud integration has begun work with a new UK client in the building supplies and DIY industry: Travis Perkins.
+Established in the UK over 200 years ago, Travis Perkins is the UK’s largest supplier of building materials to the construction and home improvement markets.
+With operations from 2,000 sites across the UK and an employee workforce of 30,000 people, Travis Perkins took the decision to use a new enterprise software solution to build better customer relationships and improve employee productivity. With a £6bn turnover, but a target of £10bn, it was felt that a a large scale digital transformation program as this, would help Travis Perkinsto achieve their target.
+As experts in Cloud-based solutions and digital transformation, Mitra Innovation was engagedby Travis Perkins as part of the program to setup a focused ‘Integration Capability’ using WSO2 middleware.
+The capability willhelp Travis Perkins to implement and launch a new Cloud-based ERP (Enterprise Resource Planning) system, and digitally enable other businesses within their Group including their subsidiaries.
+As part of this engagement, Mitra Innovation plans in providing WSO2 development, test and quality assurance expertise, programme delivery expertise and Integration analysis resource.Chris Stone, Head of IT Integration at Travis Perkins said, “Mitra Innovation has brought WSO2 systems integration expertise to Travis Perkins and are finding ways to get existing/new technologies to communicate across our systems, enabling new and heritage applications to communicate with each other.”
+Mitra Innovation have integrated well with our in-house support teams and are building strong relationships, showing how their innovative approach will help us to achieve our goals for delivering the next generation of tech evolution for Travis Perkins.”
+Mitra Innovation are now in the Construction Build phase of the project. The next stage is the Transition Phase (Test and Deploy) which commences in October 2017.
+Ashok Suppiah, CEO at Mitra Innovation said, “as a company, we are skilled in Cloud-to-Cloud systems integration projects, and we also have expert levels of knowledge and experience in using WSO2 middleware and AWS. The project is a perfect fit for our skills.
+Plus, we also love to help large enterprises – such as Travis Perkins – to achieve their goals.”

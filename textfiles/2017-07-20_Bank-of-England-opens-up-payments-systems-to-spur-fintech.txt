@@ -1,0 +1,33 @@
+## Title: Bank of England opens up payments systems to spur fintech
+## Section: Financial News
+## Date: 20 July 2017 12:05 am
+
+Bank of England opens up payments systems to spur fintech
+
+
+	
+
+REUTERS: The Bank of England has widened access to Britain’s interbank payments system to increase competition from new fintech firms in the financial system, where the ‘Big Four’ high street banks have long dominated.
+
+
+The BoE flagged the plans in May and published a detailed framework yesterday to make this happen as more and more people use their phone to pay a bill or shuffle money between countries.
+
+
+It allows new payments firms like those offering prepaid cash cards and prepaid online and mobile accounts, to have access to its ‘real time gross settlement’ or RTGS payments system. Remittance firms, which allow people to send money overseas, and foreign exchange services are also included.
+“This should support financial stability through greater diversity and risk-reducing payment technologies,” BoE Governor Mark Carney said in a statement.
+
+
+
+The changes, which in practice will come into effect in 2018 once legislative changes have been completed, will enable such non-bank payments services providers (PSPs) to compete better with banks, the BoE said.
+
+
+Currently, PSPs negotiate the use payments systems such as CHAPS, owned by big banks like HSBC, Barclays, Lloyds and RBS.
+
+
+Reduced dependence on bank competitors for access to payment systems will allow the non-bank providers to offer a wider range of payments services, the BoE said. Updated European Union payments rules will also make it easier for PSPs from January next year to compete with banks, such as by accessing data of account holders.
+
+
+Over 50 banks and building societies in have settlement accounts with the BoE’s RTGS system.
+ 
+
+		

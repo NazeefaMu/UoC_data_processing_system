@@ -1,0 +1,26 @@
+## Title: FBI admits phone mistake in San Bernardino case
+## Supertitle: 
+## Section: World
+## Date: Tuesday, February 23, 2016 - 01:00
+
+FBI admits phone mistake in San Bernardino case
+
+ 
+US: In the chaotic aftermath of the shootings in San Bernardino, California, in December, FBI investigators seeking to recover data from the iPhone of one of the shooters asked a technician in the California county to reset the phone's iCloud password.
+That apparent fog-of-war error has foreclosed the possibility of an automatic backup by the phone to the Apple iCloud servers that might have turned up more clues to the origins of the terrorist attack that killed 14 people.
+"The county and the FBI were working together cooperatively to obtain data, and at the point when it became clear the only way to accomplish the task at hand was to reset the iCloud password, the FBI asked the county to do so, and the county complied," said David Wert, a spokesman for San Bernardino County.
+The Justice Department disclosed the misstep in a court filing on Friday, which is part of a larger, high-stakes battle over whether the government can use the courts to force Apple to create software to help it unlock a customer's iPhone - in this case, one used by Syed Rizwan Farook.
+Farook, a county health worker, and his wife were killed in a firefight with police hours after the December 2 attack.
+"This was happening hours after the worst terror attack since 9/11, and there were still credible reports of a third shooter," said a federal law enforcement official, speaking on the condition of anonymity to discuss an ongoing investigation.
+"It was a very dynamic time, and the number one priority was figuring out what happened and if there were more attacks coming."
+According to senior Apple executives, the FBI's first call to Apple for help came on Saturday, December 5, at 2.46am. With a subpoena, the bureau obtained subscriber data and other details.
+On Sunday, the FBI, with a warrant, obtained data from Farook's iPhone that had been backed up to iCloud. That backup contained information only through October 19 - six weeks before the attack.
+The same Sunday, the FBI asked the county for help in retrieving data from the phone, Wert said in an interview. "So the county said we could get to the information on the cloud if we changed the password or had Apple change the password," he said. "The FBI asked us to do that, and we did."
+It is not clear why the FBI needed to reset the password if it was able to obtain the backed-up data from Apple. The FBI did not immediately respond to a request for comment.
+Nonetheless, by resetting the password, the county, which owned Farook's phone, and the FBI eliminated the possibility of seeing whether additional data beyond October 19 might be recovered from the phone through the auto-backup feature, experts said.
+The FBI in a court filing said Farook "may have disabled" the auto-backup. But, tech experts said, there might be other reasons the phone did not back up: It was not near a Wi-Fi network it was familiar with, such as his home or workplace, or it was not turned on long enough to back up. With the password changed, it is impossible to know.
+The Justice Department on Tuesday got a federal judge to order Apple to build software to override an auto-wipe feature on the phone that deletes data after 10 failed tries to enter a password.
+The FBI could then try to crack the phone's password by "brute force", making many attempts without risking the wiping of the data.
+Apple chief executive Tim Cook said the firm would challenge the order, warning that it would set a "chilling" precedent that could lead to more invasive requests for data.
+On Friday, the Justice Department fired back, charging that Apple's stance was motivated by "marketing"concerns as it promotes itself as a protector of consumer privacy.
+- WASHINGTON POST 

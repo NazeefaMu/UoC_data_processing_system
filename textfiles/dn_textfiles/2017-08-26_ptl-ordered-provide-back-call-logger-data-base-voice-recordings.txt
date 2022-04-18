@@ -1,0 +1,21 @@
+## Title: PTL ordered to provide back up of call logger data base, voice recordings
+## Supertitle: 
+## Section: Local
+## Date: Saturday, August 26, 2017 - 01:00
+
+PTL ordered to provide back up of call logger data base, voice recordings
+
+The Presidential Commission of Inquiry investigating and inquiring into the Treasury bond issue yesterday made an order to Perpetual Treasuries to supply the back up of the call logger data base and voice recordings of the telephone call recording system installed in their company.
+Deputy Solicitor General Milinda Gunatilake requested the order be made permitting an engineer from the Metropolitan Technologies, from whom the PTL purchased the telephone call recording system, to conduct the data extraction on behalf of the PCoI, lest PTL fail to comply with the above order.
+The PCoI further ordered PTL to provide with its call logger server window’s log in account’s username and the password along with the voice supported application’s user name and the password. It also ordered the support application to be connected to the internet when and if the said engineer is extracting the backup data from the call recording system.
+The order was made in the backdrop where DSG Milinda Gunatilake questioned the credibility of PTL CEO Kasun Palisena’s affidavit submitted to the PCoI answering to a series of questions on his company’s telephone call recording system. According to Palisena, he has learnt that PTL’s call recording system does not record the incoming, outgoing caller IDs, the call times and durations only after checking the call recording system in August 2017.
+DSG Gunatilake, contradicted to what the witness has said, played a voice recording of a telephone call made by Palisena to his Head of the IT expert Sachith Devatantri on 02 December 2015. The call which lasted for about 30 seconds, if loosely translated from Sinhala to English, Palisena informs Sachith that “Sometimes, our call recordings do not indicate the outgoing number.”
+Based on the call’s content, DSG Gunatilake argued against Palisena’s previous remark that he checked the telephone call recording system of his own company only on 16 August 2017. He pointed out the word “sometimes” denotes that in other times, the outgoing caller IDs were in fact recorded by the PTL’s call recording system. DSG Gunatilake pointed out that Palisena has checked his company’s telephone call recording system in 2015 and identified certain shortfalls in the system as well.
+Gunatilake suggested that PTL’s call recording system recorded the outgoing telephone numbers contrary to what Palisena said. Palisena said he was not checking the call recording system, but going through certain voice recordings when he informed his IT expert of the outgoing call number not being recorded by the system. He also said he will have to check with his IT expert again regarding the matter.
+“Are you saying incoming and outgoing calls would have been there in the system before and later on there weren’t?” Gunatilake asked when Palisena said he wanted to refer to his IT expert again. “Can you affirmatively say yes or no?” Gunatilake added.
+“Yes. I am telling it was not tampered with,” replied Palisena.
+“Do you want to hear the voice recording again?” Gunatilake followed and the call recording was replayed for the third time. After the recording ended, Gunatilake asked from Palisena “are you still maintaining the position that outgoing call numbers were not recorded by your system?” to which Palisena said “Yes, I stick to my statement.”
+In support of his argument, DSG Gunatilake marked a letter issued by the Metropolitan Technologies stating that PTL made a complaint over the call recording system for not indicating dial and incoming call details. Copy of an email, sent by PTL IT Department complaining that the call recording system does not provide the outgoing call numbers was also marked.
+[No water bottles for counsel at PCOI]
+ 
+The Chairman of the Presidential Commission of Inquiry investigating into the Treasury bond issue yesterday informed private counsel that they will not be provided with sealed water bottles at proceedings in future. Chairman Supreme Court Judge K.T. Chithrasiri said the Presidential Secretariat has queried about the PCoI’s expenses. “So we have to cut down the supply of water.” 

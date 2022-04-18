@@ -1,0 +1,14 @@
+## Title: SL’s First Masimo Root installed at Colombo National Hospital
+## Supertitle: 
+## Section: Local
+## Date: Friday, July 13, 2018 - 01:00
+
+SL’s First Masimo Root installed at Colombo National Hospital
+
+Medical professionals in the country could now receive in-depth information regarding the brain functions of patients under sedation.
+The Colombo National Hospital’s Surgical Intensive Care Unit (SICU) is the first to have installed and operated the Masimo Root with a Next-Generation SedLine Brain Function Monitoring device from the Masimo Company, under the directive of Consultant Anaesthetists Dr. Marie Fernando and Dr. Saman Jayathilaka.
+Root, with SedLine Brain Function Monitoring, provides varied types of crucial data regarding the brain activity of patients under anaesthesia. This high-tech medical tool utilises four simultaneous Electroencephalography (EEG) channels, high-resolution Density Spectral Array display, enhanced Patient State Index, and multiple screen views.
+The four distinct simultaneous EEG channels allow both hemispheres of the brain to be assessed without pause. The Patient State Index (PSI) records the level of the anaesthetic’s effect. Together with the Density Spectral Array (DSA), the PSI enables doctors to observe any changes in EEG intensity.
+With the aid of Masimo’s Parallel Signal Processing Engines, Next-Generation SedLine provides electroencephalography signals with enhanced clarity. Having a multiple screen view facility amplifies the device’s ability to provide information and also makes customisation in the ICU and operating room possible.
+It is additionally worth mentioning that the Root platform used in this gadget boasts effortless integration with O3 Regional Oximetry.
+Masimo has been a supplier to the Health Ministry in the past decade, improving technology with innovation, while providing sophisticated Pulse Oximeters and other medical devices. The equipment is maintained by the M/s Medilon Equipment Pvt Ltd.

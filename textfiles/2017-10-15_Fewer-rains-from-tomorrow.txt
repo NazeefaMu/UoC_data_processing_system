@@ -1,0 +1,51 @@
+## Title: Fewer rains from tomorrow
+## Section: Breaking News
+## Date: 15 October 2017 05:53 pm
+
+Fewer rains from tomorrow
+
+
+	
+
+There will be fewer rains in the south-western part of the island from tomorrow, the Meteorology Department said today.
+
+The Duty Meteorologist said the highest rain fall of 102.3 mm during the past 24 hours ending 8.30 a.m. was recorded at Maussakele while Guruluwana in Ratnapure received a rainfall of 67.8 mm.
+
+It said the South-West Monsoon would prevail until October 19 and the inter-monsoon showers will last until November.
+
+However, intermittent showers will occur in the Sabaragamuwa, Central and Western parts of the country.
+
+The Met Dept. said the cloudy conditions are likely to continue further while fairly strong winds can be expected over the island and the surrounding sea areas during the next few days.
+
+Meanwhile, Disaster Management Centre Deputy Director (Early Warning) K.A.D.P.K.Kodippili said that the landslide warnings were still active but the risk is reducing gradually. (Thilanka Kanakarathna)
+
+
+					
+
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/6231952/DM_MO_Inner_S1', [300, 250], 'div-gpt-ad-1563438593854-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1563438593854-0'); });
+  
+
+
+
+
+
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/6231952/AdStudio_DM_Home', [300, 250], 'div-gpt-ad-1571720635755-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1571720635755-0'); });
+  
+
+
+					
+									  

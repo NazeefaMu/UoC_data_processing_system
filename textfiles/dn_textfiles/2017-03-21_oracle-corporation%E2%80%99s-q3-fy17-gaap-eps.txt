@@ -1,0 +1,17 @@
+## Title: Oracle Corporation’s Q3 FY17 GAAP EPS up
+## Supertitle: 
+## Section: Finance
+## Date: Tuesday, March 21, 2017 - 01:00
+
+Oracle Corporation’s Q3 FY17 GAAP EPS up
+
+Oracle Corporation recently announced fiscal 2017 Q3 results. Total Revenues were $9.2 billion, up 2% in US dollars and up 3% in constant currency. Non-GAAP Total Revenues were $9.3 billion, up 3% in US dollars and up 4% in constant currency.
+Cloud software as a service (SaaS) and platform as a service (PaaS) revenues were $1.0 billion, up 73% in US dollars and up 74% in constant currency. Non-GAAP SaaS and PaaS revenues were $1.1 billion, up 85% in US dollars and up 86% in constant currency.
+Total Cloud Revenues, including infrastructure as a service (IaaS), were $1.2 billion, up 62% in US dollars and up 63% in constant currency. Total Cloud and On-Premise Software Revenues were $7.4 billion, up 4% in US dollars and up 5% in constant currency.
+Operating Income was $3.0 billion and Operating Margin was 32%. Non-GAAP Operating Income was $3.9 billion, up 3% in US dollars and up 4% in constant currency, and non-GAAP Operating Margin was 43%.
+Net Income was $2.2 billion while non-GAAP Net Income was $2.9 billion, up 6% in US dollars and up 7% in constant currency. Earnings Per Share was $0.53, while non-GAAP Earnings Per Share was $0.69, up 7% in U.S. dollars. Without the impact of the US dollar strengthening compared to foreign currencies, Oracle’s reported GAAP Earnings Per Share would have been 1 cent higher.
+Short-term deferred revenues were $7.4 billion, up 7% in US dollars and constant currency compared with a year ago. Operating cash flow on a trailing twelve-month basis was $13.5 billion.
+“The hyper-growth we continue to experience in the cloud has rapidly driven both our SaaS and PaaS businesses to scale,” said Oracle CEO, Safra Catz. “On an annualized non-GAAP basis, our total cloud business has reached the $5 billion mark, and our SaaS and PaaS businesses grew at the astonishing rate of 85% in Q3.
+“Over the last year, we sold more new SaaS and PaaS than Salesforce.com, and we’re growing more than 3 times faster,” said Oracle CEO, Mark Hurd. “If these trends continue, where we are selling more SaaS and PaaS in absolute dollars AND growing dramatically faster, it’s just a matter of when we catch and pass Salesforce.com in total cloud revenue.”
+“Both our SaaS and PaaS businesses are doing great, but I’m even more excited about our second generation IaaS business,” said Oracle Chairman and CTO, Larry Ellison. “Our new Gen2 IaaS is both faster and lower cost than Amazon Web Services. And now our biggest customers can run their largest and most demanding Oracle database workloads in the Oracle Cloud – something that is absolutely impossible to do in the Amazon Cloud.”
+For more information about Oracle (NYSE: ORCL), visit www.oracle.com/investor or contact Investor Relations at [email protected] 

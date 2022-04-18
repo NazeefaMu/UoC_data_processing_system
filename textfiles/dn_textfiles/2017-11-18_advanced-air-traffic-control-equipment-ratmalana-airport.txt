@@ -1,0 +1,12 @@
+## Title: Advanced air traffic control  equipment for Ratmalana airport
+## Supertitle: 
+## Section: Local
+## Date: Saturday, November 18, 2017 - 01:00
+
+Advanced air traffic control  equipment for Ratmalana airport
+
+The Automatic Dependence Surveillance Broadcast (ADS-B) Operations at the Area Control Centre at the Colombo Airport in Ratmalana was inaugurated by Transport and Civil Aviation Minister Nimal Siripala De Silva.
+The Automatic Dependent Surveillance Broadcast (ADS-B) is considered as one of the latest developments in the surveillance technologies used for Air Traffic Control purposes.
+The ADS-B system provides radar-like information to the Air Traffic control Centres on ground to determine the position, altitude and speed of aircraft in-flight based on specific type of messages broadcast by the aircraft which containing its position information derived from the GPS. It’s less costly as it does not involve any Transmitters on Ground but only a set of Receivers located at selected locations in the country to capture the signals emitted by the aircraft, which are sent to a Central Processing Unit, which present the positional information of Aircraft within the applicable range, to the Air Traffic Control Centres on ground.
+The ADS-B implementation project was awarded to ERA a.s of Czech Republic through an international competitive bidding process. The ADS-B system has been successfully tested and Flight Inspected in July 2017. ADS-B data received from all five Receivers located at BIA, MRIA, Pidurutalagala, Kilinochchi and Suriyakanda are now successfully fused and integrated with the existing Air Traffic Management (ATM) System at the Area Control Centre located at Ratmalana Airport.
+The inauguration of ADS-B operations of Sri Lanka by Civil Aviation Minister at Colombo Area Control Centre, Ratmalana Airport coincides with the 13th Meeting of South East Asia and Bay of Bengal Sub-regional Working Group of ICAO and in the presence of this group of international experts of ADS-B, which was quite an achievement and a pride to Sri Lanka, to be in par with more developed countries in this region and across the world. 

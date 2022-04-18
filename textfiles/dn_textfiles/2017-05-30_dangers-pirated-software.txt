@@ -1,0 +1,31 @@
+## Title: Dangers of Pirated Software
+## Supertitle: 
+## Section: Finance
+## Date: Tuesday, May 30, 2017 - 01:00
+
+Dangers of Pirated Software
+
+Never has there been a greater time to be a pirate. Not since the days of “Black Sam” Bellamy has it been so lucrative either. The need to pillage and plunder, though, has shifted from the Caribbean Sea to the Internet. Gold coins and fine rum have given way to software discs and downloads, as software piracy has grown into a highly profitable venture.
+In a global survey published by Business Software Alliance (BSA), Sri Lanka’s rate of unlicensed software installation was 79 percent in 2015. Simply put, 4 out of 5 people had installed unlicensed software products that were obtained illegally—pirated software. In monetary terms, that’s a commercial loss of USD 163 million to software manufacturers. [1]
+The survey also presented findings about the prevalence of malware or malicious code, such as viruses, trojans, keystroke-capturing software, spyware and ransomware, in pirated software and on the websites and peer-to-peer networks where they were commonly shared and sold. It also quantified the cost in time and money for dealing with the effects of malware found in pirated software. And strengthened the results of a report [2] published by International Data Corporation (IDC) in 2013:
+36 percent of downloaded pirated software includes malicious malware.
+20 percent of pirated CDs and DVDs infect the host PC with malicious malware.
+15 percent of software coming through normal delivery channels is improperly licensed or infects host PCs with malicious malware.
+The BSA concluded the report with a regression analysis, which asserts that the higher the rate of unlicensed PC software, the higher the likelihood that it contained malicious malware. A correlation coefficient of 0.79, indicated a very strong positive correlation between the presence of malware in pirated software. [3]
+Note that this correlation does not prove or disprove causation, but it clearly shows that when unlicensed software rates are lower, malware encounter rates are also lower.
+Cyber-Security Threats
+Pirated software tends to undermine a computer’s security features. And often leaves it open to malware that could compromise data, or jeopardize the security of a computer network. Any one of these problems could quickly escalate into costly damages that become far more expensive than the money a pirate could have saved by buying or illegally downloading the unauthorized software.
+Furthermore, people that use pirated software have no guarantee that their sensitive data, activities and communications will be safe from cybercriminals that intend to do harm. Kaspersky, a cyber security consulting firm, has been warning its clients that pirated software disrupts computer operations, gathers sensitive information, and displays unwanted advertising for over a decade.
+In 2014, a study published by IDC and the National University of Singapore (NUS) revealed significant amounts of malware in unlicensed software after testing more than 800 PCs purchased with unlicensed software pre-installed, unlicensed software DVDs, and through unlicensed software and activation keys illegally downloaded from the Internet. The tests covered over a dozen countries across Asia, Europe, and the Americas. The study concluded that on average, a user of an unlicensed software package has a one-in-three chance of encountering malware. [4]
+Moreover, infection rate multiplied by the number of unlicensed software packages in the world suggests there are in excess of 500 million infected unlicensed software packages in circulation. The report also found that more than 40% of consumers did not routinely install automated security updates, which can also enable malware infections of PCs. [5]
+In a corresponding survey of nearly 1,000 PCs from 15 countries, the IDC-NUS study found that 1 in 5 respondents said that unlicensed software infected their PCs with a virus; 2 in 5 said it substantially slowed their computers and had to be uninstalled; and 1 in 10 said it destroyed files. [6]
+For these reasons, software piracy directly affects the profitability of the software industry. And because of the money lost to pirates, software publishers have fewer resources to devote to product development and research, have less revenue to justify lowering software prices and are often forced to pass these costs onto their customers.
+Conclusion
+Given the evidence, it should come as no surprise that BSA's 2016 Global Software Survey found that computer users around the world cited exposure to security threats from malware as the main reason not to use unlicensed software.
+Those who use unlicensed software: increase their risk of exposure to a debilitating virus that can destroy valuable data; are subject to significant fines for copyright infringement; and risk potential negative publicity or personal embarrassment. It sounds extreme, but it happens a lot more than one might think. Businesses worldwide spent up to half a trillion dollars (USD 491 billion) cleaning up after pirated software in 2014. That’s USD 127 billion dealing with security issues and USD 364 billion dealing with data breaches. [7]
+If these reasons have not deterred you enough, consider the following. Users of unlicensed software forfeit some practical benefits as well. Increasing their chances of the software not functioning correctly and depriving themselves of access to customer support, upgrades, technical documentation, training, and bug fixes.
+So do the right thing for you and your business. Ensure that you protect your IT infrastructure and data by investing in licensed software.
+[1] Seizing Opportunity Through License Compliance, BSA Global Survey 2016.
+[2] The Dangerous World of Counterfeit and Pirated Software, IDC - White Paper.
+[3] Seizing Opportunity Through License Compliance, BSA Global Survey 2016.
+[4] The Link between Pirated Software and Cybersecurity Breaches, published in March 2014. 

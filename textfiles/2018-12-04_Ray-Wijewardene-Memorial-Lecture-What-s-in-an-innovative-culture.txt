@@ -1,0 +1,64 @@
+## Title: Ray Wijewardene Memorial Lecture  What’s in an  innovative culture  ?
+## Section: News Features
+## Date: 4 December 2018 12:10 am
+
+Ray Wijewardene Memorial Lecture  What’s in an  innovative culture  ?
+
+
+	
+
+
+
+ 
+
+The rapid transitions in the world of technology have kept industry players engaged in introducing various solutions. These solutions are for customers to pace parallel with changing trends. A global leader in the digital software engineering industry is Virtusa, the brainchild of Kris Canekeratne, headquartered in the US. Providing software engineering solutions for some of the most venerable brands in the world, Virtusa is at the helm of introducing technological innovation. Speaking at the recently concluded Ray Wijewardene Memorial Lecture organised by the Ray Wijewardene Charitable Trust, Kris elaborated on what it takes to build an innovative culture.  
+
+About Virtusa
+
+
+Virtusa is a global leader in digital software engineering services headquartered in the US. “Today, we have over 22000 software engineers all over the world in over 50 cities,” Kris said in his opening remarks.“We provide digital software engineering services to over 200 of the most venerable brands in the world. We had a stellar journey since going public and since 2010 our compounded annual growth rate has been rated at 25% per year. With a focus in bringing in software innovation to the industry since its inception back in the late 1990s,Virtusa has first started out by identifying the best practices of software engineering. Since early 2000 and beyond, we have taken a lot of those best practices around software platforms including the rate and speed at which we can innovate on top of that – and we have essentially taken it to some of the largest enterprises in the world.”  
+
+
+The technology industry has gone through many transitions and has evolved faster than any other industry. “We also focus much of our time at the intersection of our clients and their consumers,” he continued. So we started during the .com era that was around the late ‘90s and early 2000 which then gave way to the first generation of mobile. Their consumers were engaged with their service providers to mobile devices which have now gone to digital.”  
+
+ 
+
+
+We provide digital software engineering services to over 200 of the most venerable brands in the world. We had a stellar journey since going public and since 2010 our compounded annual growth rate has been rated at 25% per year
+
+
+Engineering arbitrage over cost arbitrage 
+
+
+“Our focus has not been the cost arbitrage side of the equation,” Kris pointed out. “Our focus has been the engineering arbitrage since cost arbitrage is very easy to get. Here you have a volume of work that needs to be done which will cost you a US$100 in the US but in South Asia you can get that same volume of work done for US$40 or $50 or something significantly lower based on the cost difference of engineers.  
+
+
+Engineering arbitrage on the other hand is much more fundamental. Here we are looking at the growth in engineering – here we look at how do we do less, how do we reduce and eliminate complexity – how do we take away redundancies, how do we carefully reduce the footprint of the software that’s been used to run these systems. And the good news is every enterprise in the world especially in US, UK, Europe and developed countries have gone through 20-40 years of technology where they bought or built multiple times over the same prophecies in technology over and over again. What the first generation of suppliers did was that they put all those redundancies to South Asia and did the work for less. What we are doing is that we take a lot of the same work and we carefully analyse what is duplicate, what is redundant and how much technical debt exists and then we rationalize and consolidate so that we can help create a single platform for a single business process. That is the reason why Virtusa is fundamentally growing twice to four times faster than many of our competitors, specifically the large IT outsourcing firms.”  
+Kris further said that they are also starting to realize how important it is to have a streamlined back-end to support the digital requirements of the Digital 2.0 or Industry 4.0. “When you have a complex back-end which is somewhat monolithic and which may require manual intervention what happens is that it is very difficult to create a simple digital experience. Even in the US over 98% of banking today is done by a consumer physically going to a branch office, filling up a piece of paper to open a bank account, someone taking that application which then goes into a setup system which includes on average 17-20% different systems before you can open an account. Just imagine if Amazon,Uber or FB had such a monolithic and such a complex back-end, you would never get instant results.”  
+
+Building an innovative culture
+
+Sharing his experience on what it takes to build an innovative culture Kris shared a few tips on how to encourage the workforce in any organization to think differently. “We truly believe that an innovative organization needs to have an innovative culture. It all starts with leadership. But have most of us who are leaders felt what it truly means to be a leader? In fact there’s a fine line between being the chief innovation officer and the chief enablement officer. One thwarts and kills innovation while the other nurtures and fosters it. We try to harness innovation at the periphery of the organization in order to capture innovation from all of our engineers. As a result of that not only have we transcended 22 years, during which many firms that competed with us came and left but we endured. I truly believe that one of the hallmarks of this is leadership that understands that distinction.”  
+
+
+“Values of the organization are important as well,” he continued. It’s one thing to talk about it and another thing to ensure that every team member from the time they joined the firm or even before understands the core values of the firm.We believe that the extent to which they build and practise our core values will enable us to create and preserve an enduring innovative culture. Four simple values include compassion, innovation, respect and leadership. In terms of innovation one of the most important attributes that we uncovered is to determine the intellectual curiosity in our engineers. The questioning mind has enabled us to preserve and retain our culture of excellence within Virtusa. One worry that I never have is whether we will be able to embrace the next technology generation or the next set of working capabilities and prophecies. I know in principle that our teens have that element of curiosity which continually keeps them pushing the contours.”  
+
+
+Kris said that trust and transparency are two key indicators of an innovative culture. “Recently Google did a fairly extensive study titled ‘Project Aristotle’ which was all about what it took to build an innovative culture. The number one attribute that they found was psychological safety. It’s a belief that when you are in a room –whether with your superiors or colleagues, that you can say anything without someone else slapping you down. How comfortable are your teams when you are at a team meeting – whether they have the freedom in their minds to speak out their thoughts.”  
+
+
+Kris also elaborated on why amotivating context is absolutely important and how they introduced ‘Journey to 2025’ as their next motivating context, shortly after they crossed their USD 1 billion mark in revenue generation.  
+
+
+He also reiterated on the fact that in order to build an enduring culture around innovation, any organization has to get rid of sacred cows.“Sacred cows can be in the form of people, process or capability. You have to identify those individuals in your culture that are no longer contributing to your goals and aspirations and you have to take action. This is something we have been forced to do, not something that we enjoy doing.”  
+
+
+“We also believe that rewarding failures specifically when it comes to innovation is incredibly important. In today’s world most of our teams are constantly failing and we want them to constantly fail. As we identify more of those failures, we identify one or two capabilities which are critically important. Hence failures are very much a part of that innovation or engineering culture.”  
+
+
+“One also needs to leverage technology to nurture and foster innovation,” Kris continued. “At Virtusa we attempted to build a very strong culture around innovation. We have worked diligently practise the whole idea of defining the problem as opposed to prescribing the solution.”  
+
+Pics by Pradeep Dilrukshana
+ 
+
+		

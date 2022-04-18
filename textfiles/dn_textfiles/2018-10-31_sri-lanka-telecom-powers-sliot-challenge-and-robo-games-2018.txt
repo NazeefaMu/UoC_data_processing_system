@@ -1,0 +1,16 @@
+## Title: Sri Lanka Telecom powers SLIoT Challenge and Robo Games 2018
+## Supertitle: 
+## Section: Sports
+## Date: Wednesday, October 31, 2018 - 01:00
+
+Sri Lanka Telecom powers SLIoT Challenge and Robo Games 2018
+
+SLIoT Challenge, Sri Lanka’s dedicated IoT product development competition and Robo Games were successfully held for the second consecutive year at the Techno 2018 exhibition. These competitions were organized by Sri Lanka Telecom, the pioneering ICT services provider in the country in collaboration with the University of Moratuwa and the Institution of Engineers Sri Lanka (IESL). This year’s event marked a new beginning for the Sri Lankan IoT industry as SLT introduced Sri Lanka’s first-ever IoT Gateway in collaboration with University of Moratuwa to support IoT based app developments.
+This platform is hosted at the SLT tier three data center and it will help the Sri Lankan engineering community to develop new products according to consumer needs.
+The SLIoT Challenge 2018 was aimed at engineering and technology undergraduates, start-ups and SMEs. The main vision behind organizing this competition was to encourage these segments as well as the technology sector to develop innovative IoT based applications to suit consumer needs. This involves digitizing people’s lifestyles and businesses with a particular focus on operations which include connected assets, buildings, vehicles, field staff and the supply chain.
+The SLIoT Challenge proved to be the ideal platform to demonstrate as well as gauge firsthand experience of the endless opportunities provided by IoTs. The winner of this year’s SLIoT Challenge Open category was team “Proactive Ants” for their flood water monitoring and warning system. The first runners-up were “Ergomate” for their Posture detection and health monitoring system while the second runners-up position was won by team
+“Flomo” for their Home automation Smart Switch.
+The undergraduate category winner was Team “Xydder” from SLIIT for their health monitoring system to reduce stress, the first runners-up was “Illuminati” from University of Moratuwa for their disease detection and prediction smart health probe. The second runners up position was won by team “Innovation Seekers” from University of Vocational Technology for their smart industrial inspection system.
+The Robo Games, powered by SLT comprised of the building of innovative robots that were able to complete assigned tasks. These robots were presented at the Techno Exhibition by both robot enthusiasts as well as amateurs. Under school category, team “Stark” from Royal College, Colombo secured the winning place at the Robo Games 2018.Team “Servocity” from Central College, Kuliyapitiya and team “Cobra 001” from St. Jospeh’s College, Bandarawela won the first and second runners up titles respectively.
+In the Undergraduate category team “Stats” from University of Moratuwa secured the first place while team “Crab” from University of Moratuwa and team UCA Shadow 3.0 from University College of Anuradhapura won the first and second runners up titles respectively.
+The winners of the SLIoT Challenge and Robo Games were awarded with trophies, certificates as well as attractive cash prizes over Rs.400, 000.

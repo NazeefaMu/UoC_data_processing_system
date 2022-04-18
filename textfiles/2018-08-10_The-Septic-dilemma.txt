@@ -1,0 +1,73 @@
+## Title: The Septic dilemma
+## Section: Medicine
+## Date: 10 August 2018 11:18 am
+
+The Septic dilemma
+
+
+	
+
+
+
+ 
+
+The field of medicine has advanced in leaps and bounds through the past few decades. Akin to a pulsating living organism, it is one that continues to evolve and change with time. But even in the wake of all these advancements sepsis or what has come to be known as ‘blood poisoning’ in laymen’s terminology continues to wreak havoc in modern healthcare institutions the world over. The National Confidential Enquiry into Patient Outcome & Death (NCEPOD, 2015) in the UK, highlighted sepsis as being the leading cause of ‘avoidable death’ that kills more people than breast, bowel and prostate cancers combined. In American hospitals sepsis has been named as the most expensive ‘in-patient’ cost in 2014 averaging more than $18,000 per hospital stay with over 1.5 million sepsis related hospital stays within that year alone.We spoke to Dr. Ambalavanar Ragupathy. MBBS, MD (Medicine)    
+
+
+MRCP (UK), Consultant Physician BH-Tellippalai to educate our readers on this health condition. 
+Though the term sepsis is more closely associated with the modern day intensive care setup, the concept is in fact far older. The word was first coined by the Father of Western medicine-Hippocrates, himself and is derived from the Greek word ‘sipsi’ (“make rotten”) In the 1800’s the work of French chemist Louis Pasteur and British surgeon Joseph Lister had a significant impact on the treatment of sepsis. Pasteur deduced that tiny single celled organisms called ‘bacteria’ were responsible for putrefaction or sepsis and further discovered that bacteria in fluids could be killed by heating. Taking Pasteur’s findings into consideration Lister championed the utilisation of Carbolic Acid as an Antiseptic to sterilise surgical instruments and clean wounds at the Glasgow Royal Infirmary where he was head of Surgery. By doing so he was able to drastically reduce post-amputation mortality of patients which were as high as 50%. Although Anti-septic methodologies proved to be an immense breakthrough in medicine it was with the advent of antibiotics in World War 2 that mortality due to sepsis were further reduced.   
+
+ 
+
+What is Sepsis?
+Sepsis is a consequence of an infection. Usually this occurs as a consequence of bacterial infections, but viral, fungal and even parasitic organisms have also been known to cause this condition. Our immune system is the first line of defense against any and all infections. But sometimes the body’s response to an infection can cause serious injury to its own tissues and organs. To put it bluntly our immune system stops fighting the infection and starts turning on itself! This is the start of sepsis. If I were to sum up what sepsis is in one sentence, it would be ‘a life threatening organ dysfunction due to a deregulated host response to infection.  
+
+ 
+
+What are the signs and symptoms of Sepsis?
+The common signs and symptoms are, 
+
+Fever  
+	Increased Heart rate (Tachycardia)  
+	Increased Respiratory rate (Tachypnea)   
+	Decreased urine output (Oliguria)  
+	Drowsiness, confusion and irritability (during Severe Sepsis)  
+	Low blood pressure (during Septic Shock)  
+
+However these signs and symptoms may also vary depending on the specific focus of the infection. Sepsis could present as a consequence of a urinary tract infection (UTI), respiratory tract infection (RTI) and bowel related infections; or it could even result from skin infections due to defects in its integrity, if left untreated. So, an individual with a urinary tract infection could present with painful or increased frequency of micturition. Someone with respiratory tract infections could display a productive cough or difficulty in breathing and vice versa.   
+
+ 
+
+Who are most susceptible to this condition?
+Sepsis is a condition that can affect almost anyone. But there are several categories or groups of people who are more susceptible to it. They are,  
+
+Extremes of age (<1 or > 75 years of age) or elderly frail individuals   
+	People with impaired immune systems (Cancer patients on chemotherapy, severe diabetics, Chronic Kidney disease sufferers or individuals infected with HIV/AIDS etc.)  
+	IV drug users  
+	People who have undergone a surgery or an invasive procedure recently  
+	A breach of skin integrity  
+	Patients with indwelling catheters or IV lines  
+ 
+
+What are the adverse outcomes of Sepsis?
+Sepsis is a potentially life threatening situation and therefore prompt medical attention is an absolute must. Untreated Sepsis could then progress to a stage known as ‘Severe Sepsis’ where in addition to the signs of Sepsis there are signs of multiple organ dysfunction such as difficulty in breathing, reduced or no urine output, abnormal liver function tests and alterations in mental status. Nearly all patients with Severe Sepsis should be ideally treated in an Intensive Care Unit (ICU). ‘Septic Shock’ is the most severe form where it is diagnosed when the blood pressure levels drop to very low levels. Usually at this stage medication to increase the blood pressure or ‘Inotropes’ are used since intravenous fluids do not improve the low blood pressure levels. Most people recover from a mild sepsis, but the mortality rate for septic shock is nearly 50%.  
+
+ 
+
+Treatment
+Sepsis must be treated as a medical emergency. Therefore the mainstay of management is early detection and immediate treatment. The method of detecting a septic patient in the clinical setup is to first take a comprehensive history from the patient or bystander accompanied with a thorough physical examination. Usually a person with sepsis will have increased lactic acid levels (>4mmol/liter) Apart from assessing the serum lactate levels a venous blood test for full blood count (FBC), blood culture, C-reactive protein levels (CRP) and specific investigations depending upon the focus of the infection- (Chest X-ray during a RTI or a urine full report during a UTI) - will shed more insight.  
+
+
+Antibiotics are prescribed by the physician based on the type of infection that is causing the illness. The first antibiotics administered are ‘broad spectrum’ which means they are affective for multiple groups of bacteria until such time the results of a blood culture are available. The medication is usually given intravenously so that there is a rapid and more efficient delivery to the blood system. Sometimes intravenous antibiotics must be commenced as soon as the patient is admitted-within one hour or so. A 2006 study showed that the risk of death from sepsis increases by 7.6% with every passing hour before treatments are commenced.   
+
+
+Intravenous fluids also play a vital role in maintaining the blood pressure of septic patients. Sometimes the patient is admitted to the hospital when they are in septic shock which requires a more rapid introduction of fluid into the system since blood pressure of the individual has dropped dangerously low. And when the blood pressure cannot be maintained by fluids, as I mentioned earlier, a group of medicines termed as ‘inotropes’ are utilised. Inotropic agents are predominantly catecholamines such as Noradrenaline, Adrenaline and Dobutamine. They function by increasing the force of contraction of the heart. The insertion of a Central Venous catheter can further simplify the process of giving intravenous fluid and antibiotics.   
+
+
+Early detection plays a vital role in prolonging the survival rate of a septic patient. Specialist care must be sought immediately in all suspicious instances especially concerning individuals who are at a greater risk for acquiring sepsis.   
+
+
+(The writer is a MO Dialysis - Base Hospital - Tellippalai)
+ 
+
+		

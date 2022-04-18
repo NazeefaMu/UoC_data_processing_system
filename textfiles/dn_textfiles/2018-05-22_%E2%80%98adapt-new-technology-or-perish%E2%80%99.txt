@@ -1,0 +1,35 @@
+## Title: ‘Adapt new technology or perish’
+## Supertitle: 
+## Section: Finance
+## Date: Tuesday, May 22, 2018 - 01:00
+
+‘Adapt new technology or perish’
+
+Companies and service providers should move with new technology or they will be left behind and would be a part of history.
+This sentiment was expressed by new CEO IFS, Darren Roos making a presentation at their World congress recently. He said that the classical example for this is the London Black taxi against Uber taxi.
+“It’s not the price that made the difference but the service and the connectivity.”
+He said that when a person orders a London taxi he has to give several follow up calls giving the location to connect with the cab driver. The customer also does not know how much he has to pay in advance and has to carry ‘hard’ cash to pay.
+“However in the case of Uber the driver not only finds the location, gives an estimate for the drop off point and also takes the money from the credit card and even goes to the extent of giving a receipt. Hence Uber provided a different experience and it became a hit.”
+This proves that it’s not the ‘voice’ that gets a customer closer but its technology.
+Darren joined IFS from SAP where he led the company’s cloud enterprise resource planning (ERP) business. He’s previously held leadership and board positions at Software AG. He will continue to be an independent, non-executive Board Director for Micro Focus International.
+Darren brings significant experience and skills in building global software business to IFS. He has earned a reputation as a customer advocate, industry thought leader and cloud expert, with a track-record and ability to consistently deliver results.
+Roos said that IFS they invented and launched Applications 10, the new version of its enterprise applications suite to enable companies to embrace with new technology.
+“This was built to help customers capitalize on disruptive industry trends such as automation, connected devices (IoT), and servitization and this new version helps companies connect their business to a digital backbone,” IFS CEO Roos said.
+“The new core version has been developed in close collaboration with our customers and brings to the market a vast amount of innovation that will ensure maximum business value from day one.”
+ 
+New to IFS Applications 10 are, IFS Aurena, (A state-of-the-art browser-based user experience that offer users an intuitive interface.) AI/human-machine interaction, (Drawing on artificial intelligence (AI) technology, IFS Applications 10 features the IFS Aurena Bot that empowers users to interact with the system via voice or textual input in an intuitive and efficient way.) Service-centric capabilities, (IFS Applications 10 includes major investments to support service-focused organizations, especially for manufacturers with service or aftermarket operations as well as service companies that need an integrated enterprise applications suite tailored to their business model) Demand-driven MRP DDMRP (This is an extension of traditional MRP that helps companies deal with today’s challenges caused by short product lifecycles, long lead times and high demand variability) Manufacturing functionality, Enhancements for global business and Modern and cloud-friendly APIs.
+IFS Applications 10 has already been implemented by five early adopter customers who have also provided feedback on the system. Representing a range of different industries and geographies, the early adopters are Chief Industries, Inc. (USA), Hexpol (Sweden), Portsmouth Aviation (UK), Volac (UK), and Valmont Industries (USA).
+Meanwhile , Vice President Gartner Plummer delivering a captivating presentation at the IFS World Conference on ‘what’s next in an ever-transforming world’ said that, today ‘business as usual’ is no longer an option and ‘change to technology’ is a must.
+He said it was IPhone which was one of the bigger players who changed technological landscape while Kodak Company could not adopt to change and perished. However Android came forward to challenge Apple and this technological competition helps customers to assess new technology.
+He also identified Google, Amazon, Apple, Skype, WhatsApp, Facebook and Ali Baba payment platform as game changes in the world.
+He said that Google went to the extent of introducing driverless cars while Ford had no clue to it until it was launched. He also cautioned not to be concerned about driverless cars and its technology as 95% of accidents happen by human error.”
+Plummer has over 35 years’ experience on a strategic, executive and state level in IT and computing. As Chief of Research for emerging trends at Daryl leads all research into cloud computing and is a primary analyst on business process management, service-oriented architecture (SOA) and Web.
+He said that though most of the companies in the world are adopting to change heritage customers (Family owned Businesses) are still not looking at new technology and ‘cloud’ comfortably. “This is because they still value their privacy and think that adopting technology will give away their ‘secrets’ which is a myth.”
+He said today there are several stores in USA which allows the customer to pick up merchandise and simply walk away from the store without any human intervention. They are billed from their special APP installed in their mobile. “This ‘Pick and Walk’ powered by IOT devices will be the future of shopping.”
+He said that by 2021, early adopter brands that re designing their web sites to support visual and voice search will increase digital commerce revenue by 30%.
+“By 2021 more than 50% of enterprises spend more on BOTS and CHAT BOTS creation than traditional mobile APP development,” he said.
+By 2021 40% of IT staff will be versatility holding multiple roles most of which will be business, rather than technology – related. Also in the same year he predicted that IoT Technology will be in 95% of electronics for new designs.
+In another presentation, Director of IT at CDF Corporation, Alex Ivkovic, said that change for technology a must. “Manufacturing companies have always been concerned that traditional enterprise software is slow and complex to install, often disrupting critical and time-sensitive operations during roll-out. This is wrong.”
+Headquartered in Plymouth, Mass., CDF Corporation is a global leader in semi-rigid and flexible liquid packaging for the chemical, petrochemical, cosmetic, food and beverage and industrial markets.
+He said that manufacturing sector would be soon taken over by Robots and even today over 58% of manufactures in USA are using some kind of robotic technology. Globally the USA has the 7th most robots per 100, 000 employees (189) compared to world average of 74. Economics have calculated that over 50% US annual GDP growth is attributed to increase in innovation. “Jobs will be taken by Robots but better jobs will be created for humans.”
+ 

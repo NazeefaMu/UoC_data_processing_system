@@ -1,0 +1,647 @@
+## Title: A ten-year-old French boy dies from rabies
+## Section: Breaking News
+## Date: 19 October 2017 10:50 pm
+A ten-year-old French boy dies from rabies
+	
+A ten-year-old French boy has died from rabies after he was bitten by a stray puppy while on holiday in Sri Lanka.
+The unnamed boy, from Rhone in eastern France, became infected with the virus in August after the dog bit him on a beach in Dikwella in the south of the country.
+His family were not initially concerned following the incident, and the boy returned to France.
+However, when he began to show signs of the disease, including difficulty swallowing, at the beginning of October, they took him to hospital in Lyon, according to thelocal.fr.
+Rabies targets the nervous system and the brain - and while he was in intensive care, his condition continued to deteriorate.
+He died on October 16, the Pasteur Institute said.
+Around 60 people, including members of the boy's family, along with staff and pupils at his school, have since received a rabies vaccination as a precaution.
+Since 1924, there have been not been any cases of 'indigenous' rabies in humans in metropolitan France.
+There have been 23 cases of people contracting the condition while abroad since 1970 - the last being three years ago, according to health authorities.
+Rabies, a neglected disease of vulnerable populations, is 100 per cent fatal but also nearly 100 per cent preventable through canine vaccination.
+Africa and India still bear the highest burden of total annual rabies deaths.
+Countries with the highest fatalities from rabies are India, Democratic Republic of the Congo, Ethiopia, China and Myanmar. (Daily Mail)
+ 
+		
+==============================
+## Title: Allianz Lanka launches high-tech underwriting platform AUSYS
+## Section: Financial News
+## Date: 19 October 2017 12:17 am
+Allianz Lanka launches high-tech underwriting platform AUSYS
+	
+Allianz Life Insurance Lanka, in a bid to provide their customers with greater convenience recently launched their automated underwriting platform ?AUSYS?.?
+The development of the platform is the result of the company?s renewal agenda which focuses efforts to adopt disruptive technology in order to reduce the turnaround time of life insurance applications and provide true customer centricity.
+?At Allianz we provide our customers with excellent and convenient service by utilizing disruptive technology and innovative processes. We continue this tradition with AUSYS which has greatly improved the sales and underwriting assessment process. It has reduced the waiting period from two to three days to a few seconds for an underwriting decision to be given,? said Ruchera Perera, Senior Manager ? Life, Allianz Life Insurance Lanka.?
+?The opportunities that AUSYS has provided us are quite substantial and range from widening distribution, increase in advisor productivity, and increase in administrative efficiency to increase in customer satisfaction.?
+AUSYS is designed to support all digital insurance applications handled by Allianz?s ?Digital Advisors? who transact business via tablets and use a rule-based underwriting engine that integrates with the agent?s portal ?Allianz Advisor Arena?.?
+This allows advisors to almost immediately confirm the status of the application to the customer. Since the adaptation of AUSYS, Allianz has accepted nearly 70 percent of new business cases as a direct result of using the platform. Allianz Lanka is currently working towards enhancing AUSYS features for online policy delivery in the near future.
+Allianz Insurance Lanka Ltd. and Allianz Life Insurance Lanka Ltd., known together as Allianz Lanka, are fully-owned subsidiaries of Allianz SE, a world leader in integrated financial services. Having started out as a greenfield operation in 2005, it has emerged as one of the fastest growing insurance service providers in the country.?
+The company prides on supporting its clients? business strategy by understanding their risk profile and needs, and providing individual solutions from its world class portfolio of products and services.?
+Around the world, over 140,000 Allianz employees serve some 86.3 million retail and corporate customers in about 70 countries, who place their trust on the knowledge, global presence, financial strength and solidity of Allianz to support them in their moment of truth.
+ 
+		
+==============================
+## Title: Amana Bank?s main branch offers extended banking until 7pm on weekdays
+## Section: Financial News
+## Date: 19 October 2017 12:18 am
+Amana Bank?s main branch offers extended banking until 7pm on weekdays
+	
+With the objective of enriching the convenience of banking to its customers, Amana Bank?s main branch located in Colombo 3 has expanded its banking services to 365 days, with business hours on weekdays scheduled from 9.00am to 7.00pm and on weekends and holidays from 9.00am to 1.00pm.?
+Further, rest of the bank?s branches will be open for business till 4.00pm on weekdays with the bank?s Pettah branch being open until 6.00pm.?
+Additionally branches in Pettah, Dehiwela, Kandy, Galle, Kattankudy and Kalmunai Unity Square offer Saturday banking services from 9.00am to 1.00pm.
+As a result of extended banking hours, the bank?s same-day cheque clearing services have also been extended up to 4.00pm at all branches. Speaking on this initiative the bank?s Vice President Retail Banking and Marketing Siddeeque Akbar said, ?It was evident that our clients benefited from extended banking till 4.00pm as well as from Saturday banking services, and to add to their convenience we are happy to introduce 365-day banking at our main branch.?
+?
+ 
+		
+==============================
+## Title: Central Expressway: JVP urges forensic audit through PSC
+## Section: Breaking News
+## Date: 19 October 2017 10:15 pm
+Central Expressway: JVP urges forensic audit through PSC
+	
+Janatha Vimukthi Peramuna (JVP) MP Sunil Handunnetti said today a forensic audit should be carried out through a Parliament Select Committee on the Central Expressway.
+He told parliament that a forensic audit would reveal the truth behind the awarding of tenders for the Central Expressway.
+Speaking at the adjournment debate on the Central Expressway, Mr. Handunnetti said the fraud and corruption on the Central Expressway may surpass the Central Bank Bond scam.
+He said the JVP was not against the construction of the Central Expressway and added that it should be done free of fraud and corruption.
+Minister Lakshman Kiriella said the Auditor General's reports had revealed that there had been no major frauds in 2015, 16 and 17 when constructing expressways. (Ajith Siriwardana and Yohan Perera)
+ 
+		
+==============================
+## Title: CERT issues DoubleLocker ransomware warning
+## Section: Breaking News
+## Date: 19 October 2017 04:44 am
+CERT issues DoubleLocker ransomware warning
+	
+The Computer Emergency Readiness Team (CERT|CC) yesterday warned Android mobile users to be cautious of infecting DoubleLocker ransomware when viewing suspicious websites.
+Speaking to the Daily Mirror (CERT|CC) Principal Information Security Engineer Roshan Chandragupta said the DoubleLocker ransomware could be affected by installing fake Adobe Flash Player applications. Ransomware requests the mobile user to grant access which it uses to activate the device administrator rights and set itself as the default home application. This allows the ransomware to reactivate itself every time a user clicks on the home button on the phone and new Android ransomware, dubbed DoubleLocker, that has been uncovered, poses multiple threats, he said.
+?This ransomware can lock down the victim's phone, encrypting all data and changing the infected phone's PIN. This makes it nearly impossible for victims to retrieve data or access their phones without paying a ransom.
+According to foreign media, the DoubleLocker was based on a banking trojan and could become a "ransom-banker", which was essentially a "two-stage malware", that tries to wipe out victims' bank or PayPal accounts, locking the device and data down completely. In other words, victims would be unable to access their data, including bank credentials unless a ransom payment is made.
+The hackers operating DoubleLocker are demanding a ransom of $54, ?40 which the victim is required to pay up within 24 hours. However, if the ransom payment isn't made within 24 hours, the data is not deleted and instead remains encrypted.
+Apart from paying the ransom and obtaining the decryption key from the hackers, the only way victims can clean out the infected device of DoubleLocker is to perform a factory reset. (Chaturanga Pradeep)
+ 
+		
+==============================
+## Title: Ceylinco Life wins 3 ARC awards in Tokyo for 2016 annual report
+## Section: Financial News
+## Date: 19 October 2017 12:20 am
+Ceylinco Life wins 3 ARC awards in Tokyo for 2016 annual report
+	
+The 2016 Annual Report of Ceylinco Life has won three awards at the ARC Awards in Tokyo, one of the largest and most prestigious competitions in the world honouring excellence in annual reports.
+Sri Lanka?s life insurance market leader received the Silver award for ?Financial Data? and two Honours awards for ?Written Text? and ?Interactive Annual Report? improving on its showing at the ARC Awards last year, when the company won two awards.
+Presented by MerComm Inc., the ARC Awards are based on the values of creativity, clarity, effectiveness and excellence as represented by elements such as cover design, chairman?s letter, interior design, clarity of written text, photography, presentation of corporate information, expression of financial data and how well the spirit of the organisation is communicated.
+Annual reports scoring in the top 30 percent are awarded Honours, Bronze, Silver and Gold certificates of outstanding achievement.
+?We are naturally elated to be among the elite companies honoured at the ARC Awards for a second successive year,? Ceylinco Life?s Managing Director/CEO R. Renganathan said.?
+?We have always subscribed to the fundamental principle of the ARC Awards, that the annual report is the pinnacle of a company?s communications efforts and that it must reflect the company?s commitment to honesty and transparency with all stakeholder segments.?
+Themed ?Know Your Life Insurer,? the 297-page carbon neutral 2016 annual report of Ceylinco Life was the second since the segregation of Life and General Insurance into separate business entities under Section 53 of the Regulation of Insurance Industry (Amendment) Act No 3 of 2011, which came into effect in 2015.
+The report was produced by smart media using smart integrated reporting methodology, the international integrated reporting framework and guidelines of the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka).
+The ARC Awards presenter MerComm Inc. is the world?s only independent awards organisation dedicated to defining the standards of excellence in the communications fields and to recognise the individuals whose work has made an outstanding contribution to their organisations, corporations or clients. The MerComm Awards programmes have achieved world-wide recognition for their integrity and fairness in their judging procedures.?
+Adjudged Sri Lanka?s Best Life Insurer in 2017 for the fourth consecutive year by World Finance, Ceylinco Life has close to a million lives covered by active policies. The company is acknowledged as the benchmark for innovation in the local insurance industry for its work in product research and development, customer service, professional development and corporate social responsibility.
+?
+ 
+		
+==============================
+## Title: D.S. Senanayake: The Father  of the Nation
+## Section: News Features
+## Date: 19 October 2017 12:08 am
+D.S. Senanayake: The Father  of the Nation
+	
+130th Birth Anniversary - October 20, 2017
+Don Stephen Senanayake was born on October 20, 1884 at Botale Walawwa in Dedigama Electorate. DS, as he was popularly known, was the third Son of Late Mudaliyar Don Spater Senanayake. He obtained his education at S. Thomas? College, then situated at Mutwal, Colombo. He was married to Molly Dunuwila and he was the most outstanding political leader of Sri Lanka since Independence Era.??
+The present generation should know about this great exemplary leader of Sri Lanka who was associated with all the political Leaders and spearheaded the Independence struggle of the then Ceylon. He and his elder brother F.R. Senanayake and other associated colleagues namely Sir D.B. Jayathilake, Sri Ponnambalam Ramanadhan, Sir Ponnambalam Arunachalam, T.B. Jayah, E.W. Perera and many others led the Independence movement of Ceylon. This intelligent and enthusiastic group was the architect in the struggle to win the Independence without shedding even a drop of blood.??
+DS, although his family belonged to the dignified society, he never lost the common touch as he was very close with the common man. DS left the school at seventh standard and joined the family owned plantation and graphite company. He was a popular character in Ceylon known as ?Kale John?. He was a keen sportsmen who took part in cricket and wrestling, horse riding.
+Later proceeded to work in the State Survey Department for a short period. His Talents were purely identified by his father and admitted him to the government farm school at Gannoruwa which was set up by the British in order to provide Vocational Training to Youth in Agriculture and animal husbandry. After obtaining the basic training from the farm school, young DS was fully involved with their family?s plantation and graphite companies.
+In 1915, Sinhala-Muslim riots erupted in the Gampola area and later its spread to the other parts of the country. DS and other leaders were arrested by the British rulers to prove that DS was directly involved with the riots. However, they were released from jail due to lack of proof.?
+In 1924, DS became a member of the National Legislative Council, and subsequently with the dawn of the reforms of Donoughmore Commission, he became the Minister of Lands and Agriculture in 1931. The new Minister of Lands and Agriculture was able to restore the tanks and irrigation network of the dry zone of Ceylon.??
+?
+?The Father of the Nation? should be remembered by all Sri Lankans - as hitherto - the most outstanding political leader ever"
+The fertile lands were within the thick jungle in the dry zone; relocation of landless people was done by him under productive and well planned colonization schemes. He became the first people?s Prime Minister of Ceylon after Independence - September 24, 1947, DS inaugurated the United National Party (UNP) on September 6, 1946 with other political leaders of Ceylon and he was unanimously elected as the first leader of the UNP.
+During his tenure in office as first Prime Minister of Ceylon he was able to launch Minneriya, Higurakkgoda, Bakamuna, Kahagama, Kalawewa, Minipe and Huniluwewa colonization schemes and settled farmer families who were brought from the other parts of the country.? ?DS truly deserved to be the ?father of the nation? due to his honesty, integrity and sincerity he showed towards the people and the nation.? Therefore, D.S. Senanayake, ?The Father of the Nation? should be remembered by all Sri Lankans - as hitherto - the most outstanding political leader ever produced by the country since the Independence till this date.?
+The writer is a Justice of Peace, Rtd. Snr. Asst. Secretary and Asst. Secretary Committee of?Late D.S. Senanayake?
+Commemoration Society.
+?
+ 
+		
+==============================
+## Title: Ex- JMO Samarasekara granted bail
+## Section: Breaking News
+## Date: 19 October 2017 02:38 pm
+Ex- JMO Samarasekara granted bail
+	
+Former Judicial Medical Officer (JMO) of Colombo Professor Ananda Samarasekara, who surrendered to Colombo Chief Magistrate?s Court today, was granted bail by the Magistrate.
+He was released on two sureties of Rs.500,000 each by Additional Magistarte Jayram Trotsky.
+The ex-JMO today surrendered over the case of missing body parts of former rugby player Wasim Thajudeen. (Yoshitha Perera)
+ 
+		
+==============================
+## Title: Ex- JMO surrenders to court
+## Section: Breaking News
+## Date: 19 October 2017 01:33 pm
+Ex- JMO surrenders to court
+	
+Former Judicial Medical Officer (JMO) of Colombo Professor Ananda Samarasekara surrendered to Colombo Chief Magistrate?s Court today?over the case of missing body parts of former rugby player Wasim Thajudeen.
+However, Professor Samarasekara had not been named a suspect in the case so far. (Yoshitha Perera)
+?
+Video by Courts Prasanna
+ 
+		
+==============================
+## Title: Fifteen dogs, 70 pups and 1 bitch found dumped in paddy field
+## Section: Weird News
+## Date: 19 October 2017 08:30 am
+Fifteen dogs, 70 pups and 1 bitch found dumped in paddy field
+	
+Residents of Padaviya were in a rude shock yesterday to find 15 dogs, a bitch and 70 pups dumped in a paddy field in the area by some unknown persons.
+Many of the pups were already starving as there was only one bitch to feel all of them, the residents say.
+They had informed the Padaviya police and the Health Services office in the area of the incident.They said they had tried their best to find shelter for some of these pups but were still on the lookout for more kind-hearted people to take in and look after the others.
+ 
+		
+==============================
+## Title: Fitch affirms Amana Bank?s National Long-Term Rating
+## Section: Financial News
+## Date: 19 October 2017 12:19 am
+Fitch affirms Amana Bank?s National Long-Term Rating
+	
+In its latest rating review, Fitch Ratings Lanka has affirmed the National Long-Term Rating of Am?na Bank at BB(lka) with a ?Stable? outlook.??
+The global rating agency has commended the bank?s asset quality, which remained relatively better in comparison to its peers whilst also maintaining an above industry CASA (Current Accounts and Savings Accounts) ratio of over 50 percent as of June 2017.?
+Commenting on the bank?s future outlook, the Fitch Ratings communiqu? said, ?We expect the bank?s profitability metrics to improve in the medium term relative to better-rated peers as it capitalizes on existing infrastructure and enhances its franchise, leading to a lower cost to income ratio.?
+According to Fitch, a rating upgrade for Am?na Bank is contingent upon the expansion of the Bank?s franchise and improved and sustained financial profile, in particular, achieving profitability levels that are similar to higher-rated peers.? At the end of 1H 2017, the bank achieved a Profit After Tax of Rs. 151.7 million, which reflected a growth of 170 percent from the results achieved in the corresponding period of 2016.
+Sharing his views on the rating affirmation, the Bank?s Chief Executive Officer Mohamed Azmeer said, ?We are happy to have the bank?s long term national rating affirmed immediately after meeting the regulatory capital requirement of Rs. 10 billion which was met ahead of the deadline of 1 January 2018. This was achieved by way of a rights issue that was successfully completed with an oversubscription in July 2017. With the recent capital infusion the bank?s is on a strong footing to expand our operations further in line with the 5-year strategic plan whilst increasing value to our shareholders which will reflect positively on the bank?s rating in future.?
+?
+ 
+		
+==============================
+## Title: FR Petition on PC (Amendment) Bill: Ex-CJ lashes out at govt.
+## Section: Breaking News
+## Date: 19 October 2017 09:37 pm
+FR Petition on PC (Amendment) Bill: Ex-CJ lashes out at govt.
+	
+Former Chief Justice Sarath N. Silva today replying to the preliminary objections on the maintainability of his fundamental rights petition charged the Yahapahana government (Good Governance) of repealing all the original clauses and inserting new clauses in the Provincial Council (Amendment) Bill at the Committee Stage.
+He alleged that the Constitution was dismantled in the passage of the said Bill. He maintained that the Provincial Councils Amendment Bill ceased to exist.
+His fundamental rights application was take up before the Bench comprising Chief Justice Priyasath Dep, Justices B.P.Aluvihara and Nalin Perera.
+He submitted that the Bill which is statement of legal effect should have been published in the Gazette and it should be in the public domain.
+He submitted that the Supreme Court made its determination of the 20th Amendment and pronounced that certain provisions in the said Bill is inconsistent with the Constitution and if it is to be enacted, it be passed by 2/3 majority of the Parliament.
+He said the Government conveniently ignored the said Bill and inserted Clauses in another Amendment Bill for the Provincial Council.
+He complained that in the proposed original Bill for 30 percent of Female candidates in the nomination list, one page is removed and 21 new Clauses were inserted. He claimed that as such it is a new Bill and needed to be published in the gazette as a new Bill for people who are the depository of franchise and legislative power.
+He said that in the country, the Constitution includes the franchise of the people which is the right to vote and the people are denied their franchise.
+He said that in the Bill there is something concocted and the people had no notice on the proposed law.
+The intervenient petitioners and the Attorney General are directed to file their objections and the Court reserved its order on the preliminary objection on the maintainability of the petition filed by Sarath N. Silva.
+Additional Solicitor General Sanjay Rajaratnam appearing for the Attorney General raised three preliminary Objections on the maintainability of Sarath N. Silva?s fundamental rights on the ground of suppression of material facts, no jurisdiction and Parliamentary powers and privileges Act.
+He also pointed out that the petition did not mention in the threshold caption under which article he was coming to Court. He said if it is a fundamental rights petition he should seek administrative and executive reliefs but in his petition he is seeking a declaration from the Court that the Speaker is not empowered by law to certify the said Bill which was passed at the 2nd Reading by Parliament and that the Speaker is estopped in law from endorsing a certificate on such amended Bill as having been duly passed in Parliament.
+He said the Petitioner is challenging the validity of certification by the Speaker and the legislative process
+He brought to the cognizance that the Bill was certified by the Speaker on 22n September 2017 and the Petitioner filed his petition on 28th September 2017 so he has suppressed the material fact.
+M.A.Sumanthiran PC in his submission stated that the Supreme Court has no jurisdiction to hear or to determine the said application.
+He said that this application could not be entertained as it is matter of Parliament wherein the there is parliamentary powers and privileges Act.
+He cited and judgment delivered by three judges Bench consisting Chief Justice Sarath N Silva.
+In the judgment delivered on ?Monetary law 9Amendment) Act and Inland Revenue (Special Provisions) Bill, he stated that Citizen Silva in this petition who was the then Chief Justice pronounced that the petitioners are bound by the preclusive Clause and cannot invoke the jurisdiction of this Court in respect of the validity of the Acts of Parliament and that the petitioners are seeking to indirectly to achieve the result by challenging the Bills which preceded the respective Acts of Parliament.
+He submitted that former Chief Justice has ruled that therefore the petitioners cannot circumvent the preclusive Clause as contained in Article 80(3) in respect of the Acts of Parliament by seeking to challenge the validity of the provisions of the Bill which preceded those Acts of Parliament.
+Court fixed for September 19 the hearing of the further submission of the intervenient petitioners.
+Suren Fernando instructed by G.G.Arulpragasam appearing for Intervenient Hashim Kabir MP submitted that the petitioner Silva is indirectly attempting to challenge the legislative process, an act which is expressly prohibited in terms of the Constitution.
+He contended that which is in effect to violate the very constitution which the Supreme Court judges is sworn to uphold and defend.
+He submitted that the Bill was certified by the Speaker on 22nd September 20176 (6 days prior to the petitioner filing his petition), its validity cannot be challenged on any ground whatsoever in accordance with the constitution.
+He said in terms of the constitution, the constitutional validity of any provision of an Act of Parliament cannot be called in question after the certification of the President or the Speaker is given.
+He contended that the affairs of the Parliament is to be regulated by the House itself and the Court should not interfere in these matters.
+He submitted the judicial power of the people is to be exercised by Parliament with regard to matters relating to privileges, immunities and powers of Parliament.
+He pointed out that the petitioner?s onslaught on the Attorney General was unfounded, malicious and misconceived in fact and law.
+He said if this petition was to be allowed, it would open the doors for any person to challenge Acts passed by Parliament, by circuitous means.
+He submitted It is akin to what Chief Justice Sarath N. Silva had held when he nullifie the merger of the Northern and Eastern Provinces on a similar ground .
+Former Chief Justice Sarath Nanda Silva filed his fundamental rights violation petition challenging the enactment of the Provincial Council Elections Amendment Bill.
+The Former Chief Justice cited the Attorney General Jayantha Jayasuriya PC, the Speaker of Parliament Karu Jayasuriya and the Chairman and members of the Elections Commission as respondents charging that at the Committee Stage of enacting the Bill, all the operative Clauses of the published Bill passed at the Second Reading of the Bill were deleted and an entirely new set of provisions had been introduced. (S.S.Selvanayagam)
+ 
+		
+==============================
+## Title: Hirunika, UNP organizer for Ratmalana
+## Section: Breaking News
+## Date: 19 October 2017 09:15 am
+Hirunika, UNP organizer for Ratmalana
+	
+MP Hirunika Premachandra was appointed by the Prime Minster Ranil Wickremesinghe as the UNP organizer for Ratmalana yesterday.
+?
+ 
+		
+==============================
+## Title: IBSL discusses way forward for Sri Lanka?s insurance industry
+## Section: Financial News
+## Date: 19 October 2017 12:24 am
+IBSL discusses way forward for Sri Lanka?s insurance industry
+	
+Following the declaration of 1st September as National Insurance Day and Insurance Awareness Month well underway, it was a most opportune moment to consult two top professionals in the industry.?
+Indrani Sugathadasa, the Chairperson of the Insurance Board of Sri Lanka and Damayanthi Fernando, the Director General of the IBSL answered some queries about the insurance community of the country.?
+Speaking about the rectification of the low public image of today?s insurance advisor, the Chairperson of the IBSL stated, ?The industry must take the lead to emphasize the importance of the role of an insurance advisor in providing protection to people.?
+Further the job of an advisor remains a lucrative job if properly carried out. Therefore, the companies must undertake grooming sessions to better the outlook of advisors. The individual insurance advisor in Sri Lanka, as is in many other countries predominantly procures the insurance business.? As such the image of the insurance advisor is very important and it is this image that should be projected by the Insurance Industry at as many forums as possible and to this effect the individual Insurance companies must not only brand their products but their people as professionals in their chosen profession. Attracting the best talent by providing not only monetary incentives, but training and development is also key in this aspect of attracting better qualified and suited candidates to the industry?.
+?As the regulator, our mandate is limited to determining the minimum qualifications of persons who wish to become registered Insurance advisors, rates of commission to be paid to them and setting standards via guidelines. These actions are implemented and managed successfully through the Sri Lanka insurance Institute and the registered insurance companies that are supervised and monitored by the IBSL?, explained Sugathadasa when questioned about the manner in which the IBSL provides technical support to insurance advisors.?
+Sugathadasa was also keen to discuss a number of steps to be taken in order to improve the standard of the insurance services in Sri Lanka. ?This is a continuous process. The quality of Insurance arrangements and the practices employed by market participants are sound in that they see to a continuous improvement in service standards. The Insurance Board is also keen to implement some of the world?s best practices when it comes to improving the current standards of the industry and to this effect we have brought in many tried and tested methods in how we engage and do business to the Sri Lankan Insurance industry?.?
+In relation to the declaration of the 1st of September as National Insurance Day and the Insurance Awareness Month campaign, the Chairperson of the IBSL said, ?It progressed very well with several pre-arranged campaigns and talk shows etc. All in all this should end with as a very successful initiative to take the industry forward. To support this effort by the Insurance Association of Sri Lanka, the IBSL actively participated in some of the regional activations that took place across the island and engaged with stakeholders in taking the message of Insurance to the masses?.
+?Fernando, the Director General of the IBSL was asked to explain her observations in regard to the Insurance Awareness Month activities and she warmly commended the efforts of all those responsible in the organization of the campaign stating, ?The activities that were carried out during Insurance Awareness Month will provide a great boost for the development of the Insurance industry. The campaign has created greater awareness among the public about the importance of Insurance, whether it be life or non-life. I also witnessed the commitment and enthusiasm of the Insurance Association of Sri Lanka (IASL) and all those involved, in order to create greater awareness about the industry.?
+As 1st of September was marked as ?National Insurance Day?, it also signifies the government?s commitment to develop the Insurance industry of Sri Lanka. In the cities where IBSL officials took part we saw the insurance industry come together as one force and one voice, irrespective of the companies they represent, to ensure that as an industry, we take the message of Insurance to all. I see this as a very good endeavor to reach the goal of the insurance industry, ?a day when all Sri Lankan?s are insured?.??
+?
+ 
+		
+==============================
+## Title: Is ageing a boon or a burden?
+## Section: News Features
+## Date: 19 October 2017 12:01 am
+Is ageing a boon or a burden?
+	
+Sri Lanka experienced a dramatic increase in life expectancy which is attributed to the developments in the health sector, during the past few years. This achievement also brings with it a challenge; an ageing population. However, it?s certain that the country will have to face certain consequences in this regard.??
+According to the findings of the United Nations Population Fund (UNFPA), there are around 2.5 million people in Sri Lanka who are above the age of 60 years. It?s projected that by 2030, 1 in 5 people will be in this category.??
+With the purpose of generating a social discussion on the issue, the UNFPA recently organized a Generation-to-Generation dialogue on the theme ?Ageing Population in Sri Lanka and its Policy Implications? at the Cinnamon Grand, Colombo. The event was graced by UNFPA Regional Director for Asia Pacific Bjorn Anderson, who was in country on a five-day mission.?
+Addressing the gathering, Anderson said that the organization is committed to ensure that the discourse on ageing shifts from focusing on the cost and burden of ageing in Sri Lanka.??
+At the dialogue, a thematic report on Population Ageing in Sri Lanka, jointly published by UNFPA and Department of Census and Statistics (DCS), was disseminated. The first copy of this report was presented on October 1, to the Minister of Social Empowerment, Welfare, and Kandyan Heritage, S.B Dissanayake, at the National Event marking International Day of?Older Persons.
+The panel, discussing the report, comprised of the Author of the Report, Dr. Sunethra Perera ? Head of Department of Demography, University of Colombo; Ms. Ritsu Nacken - UNFPA Representative in Sri Lanka; Dr. Harischandra Yakandawala - Director (Medical) of the Family Planning Association of Sri Lanka; Dr. Shiromi Maduwage - National Programme Officer, Elderly Care, Ministry of Health and Ms. Piyumi Fonseka - Journalist, Daily Mirror, Wijeya Newspapers Sri Lanka. The discussion was moderated by Dr. Amara Satharasinghe - Director General, Department of Census and Statistics (DCS).??
+?
+?If the current authorities don?t take right precautions, the ageing population will be a huge burden?
+Dr. Amara Satharasinghe, Director General, DCS
+?The ageing population in our country is an achievement of humanity. We have invested a lot in education and health systems to achieve this status amidst much struggle, since the post Independence era. The age at which a person starts receiving retirement benefits is the cut off age. This is the age at which we recognize a person to be old. In Sri Lanka, we all know that this cut off age is 60.? ?
+The proportion of the Sri Lankan elderly population is the highest in South Asia. Nevertheless, this issue isn?t limited to South Asia. Even Singapore is intending to focus on this issue in their next development plan. The falling fertility rates and decreasing mortality rates in the country has caused a rise in the elderly population.?
+Sri Lanka is conducting population and housing census once in ten years. The last census was conducted in 2012; therefore the country has to wait until 2022 to survey its demographic profile. Considering the fact that the waiting period for another census is too long, our department has decided to conduct a mini census once in two years.?
+When a country is working to achieve sustainable development goals, all the groups of the society, including the elderly, should be taken into consideration. If the current authorities don?t take the right precautions, the ageing population will be a huge burden to the country,?said?Dr. Satharasinghe.?
+?
+?Population ageing isn?t a problem, but an achievement and a celebration of humanity?
+Bjorn Anderson, UNFPA Regional Director for Asia Pacific
+?As Mr. Satharasinghe said, population ageing isn?t a problem, but an achievement and a celebration of humanity which comes with a range of opportunities. We need to embrace those opportunities. It demonstrates that people of a country are happier, healthier and generally having their living standards. We need to discuss the demographic shifts, causes and implications. Finding holistic and pragmatic policy solutions is an integral aspect of this process.
+Health and active ageing can?t be achieved through a single initiative. It requires a range of policy shifts and actions. UNFPA is committed to being part of the effort to ensure that the discourse on ageing shifts from focusing on the cost and burden of ageing. UNFPA supports countries to recognize the enormous contribution that older persons can make in sustainable development,? said Anderson.?
+?
+?Not only doctors, we need more human resources in many categories?
+Dr. Shiromi Maduwage, National Programme Officer, Elderly Care, Ministry of Health
+?We have already set up policies and recommendations on how to address the ageing population issue. But, to our disappointment, all the recommendations are pilled up in cupboards. I believe that it?s high time for us to act. Programme planners should make the policy shifts and recommendations in a more practical way.? ?There is a suggestion to increase retirement age. But, it can?t be done overnight because it requires a lot of research.? ?
+The Health Ministry is currently in the process of collecting data to observe the readiness of our health system to face the ageing population issue. A lot of preparations should be made in the health sector. We have already taken measures to increase facilities in hospitals in terms of human resources and infrastructure. Recently, we introduced a national policy for the senior citizens.??
+At the moment, the country doesn?t have a special group of medical officers to treat elderly patients. Not only doctors, we need more human resources in many categories. The Health Ministry has identified what should be done and what?s being done at the moment,?Dr. Maduwage said.?
+?
+?Sri Lanka can learn a?lot from Japan?
+Ritsu Nacken, UNFPA Representative in Sri Lanka
+?There is a lot to learn from Japan on how Sri Lanka should address the ageing population issue. The definition of older people has changed in Japan now. As such, the people aged above 65 years are recognized as the elderly in Japan. It was 60 few years ago.? ?
+At present,? the population of ?older persons? in Sri Lanka is 26%. It is projected that this percentage will rise to 40% by 2040. The fertility rate has been around 1.4 in Japan, causing the ageing to accelerate.
+One of the best reforms made by Japan was introducing long term care and insurance for the elderly. Just like in Sri Lanka, in Japan too children, particularity women, were supposed to take care of their old parents. With the time, we realized that the system wasn?t sustainable and a different system should be set up. A new position named ?care manager? was introduced, so that decisions could be taken when caring for the elderly.?
+?
+?I think we need to set up mechanisms in order to address ageing related issues?
+Dr. Sunethra Perera, Head of Department of Demography, University of Colombo
+?The first step is to create public awareness about the positive aspect of ageing. I think we also need to set up mechanisms in order to address ageing related issues including feminization of ageing and employment. We need to see whether we are ready to face implications that would rise due to population ageing. The authorities should consider improving geriatric services in the country,?said Perera.
+?
+?
+?There is concern regarding the older population suffering from mental disease?
+Dr. Harischandra Yakandawala, Director (Medical) of the Family Planning Association of Sri Lanka
+?As the country hasn?t recognized positive impacts of ageing, I think it is a burden for the country at the moment. There should be a separate programme by the Government targeting older people of the country. While there is an increase in Non-Communicable Diseases (NCDs) among the elderly, there is concern regarding the older population suffering from mental disease.???
+?
+?
+?There is a need for the media to show more respect to older members of the community?
+Ms. Piyumi Fonseka, Journalist, Daily Mirror, Wijeya Newspapers
+?The media has a strong and pervasive impact on views regarding older people. It is a reality that increasing ageing population poses challenges to the society, but at the same time we shouldn?t forget the unique opportunities that it may provide.?
+Ageism is a social disease fed by stereotypes. These stereotypes matter because people act on the stereotypes and the assumptions that are harbored about older people. I believe that the elderly are severely under-represented in many types of advertisements and in other media.?
+There is scope for the media to assist in the breakdown of these stereotypes. There is a need for the media to actively break down stereotypes, particularly those to do with health and victimization.? ? Further, there is a need for the media to show more respect to older members of the community and to provide images and messages which strengthen the contribution that older people make to Sri Lanka. Media and marketing companies, including film, news, television and publishing, can increase the prevalence and diversity of older adults represented in their offerings. This visibility will send a strong message.?
+-Pics by Waruna Wanniarachchi
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+ 
+		
+==============================
+## Title: Malwatte Mahanayake Thera out of the country: PM
+## Section: Breaking News
+## Date: 19 October 2017 06:36 pm
+Malwatte Mahanayake Thera out of the country: PM
+	
+Prime Minister Ranil Wickremesinghe today charged that there is a move to mislead the public with regard to the statement issued by the Joint Karaka Sabha of Asgiriya and Malwathu chapters as the Mahanayake Thera of the Malwatte Chapter is not even in the country.
+Prime Minister Wickremesinghe who made this remark just after accepting a report on a research carried out on the new constitution by the Sri Lanka College of Journalism and several other organizations at the Parliamentary complex last morning.
+'One of the gentlemen gathered here said there are allegations with regard to the new constitution. Who is making those allegations? Look at the newspapers today. They are carrying a story saying the most venerable Maha Nayaka Theras are against the new constitution. I spoke to venerable Maha Nayaka Thera of the Malawathu chapter. He is out of the country at the moment. I spoke to him today. Therefore how can the media carry his picture? How can media mislead the public in this manner? The draft of the constitution is yet to be made. Will you give front page headlines for my story as well? You went ?Kade? for Rajapaksas once. Do you have to do it again," he said. (Yohan Perera)
+ 
+		
+==============================
+## Title: Malwatte Mahanayake Thera out of the country
+## Section: Caption Story
+## Date: 19 October 2017 05:43 pm
+Malwatte Mahanayake Thera out of the country
+	
+Prime Minister Ranil Wickremesinghe is displaying the Daily Mirror News paper during an event in parliament this morning referring to an article on the statement issued by the Joint Karaka Sabha of Asgiriya and Malwathu chapters. Pix by Pradeep Pathirana
+ 
+		
+==============================
+## Title: Meteor explosion cause for bright light, sound in SP - Prof. Jayaratne
+## Section: Breaking News
+## Date: 19 October 2017 12:11 am
+Meteor explosion cause for bright light, sound in SP - Prof. Jayaratne
+	
+Colombo University Physical Science Department Prof. Chandana Jayaratne confirmed that the bright light and sound which was heard from the Southern Province (SP) this evening was because of an explosion caused by a meteor.
+Speaking to the Daily Mirror he said the explosion was known as a 'fireball explosion' and occurs after an astroid enters the earth?s atmosphere.
+?The astroid could be a size of 50 centimetres. Every astroid enters the earth?s photosphere at a speed of 65 kilometers per second. With that speed one side of the astroid gets heated up due to friction and the other side does not, therefore causing an explosion,? Prof Jayaratne said.
+?People who saw the asteroid entering our atmosphere at about 8.30p.m, saw different colour lights. Most of it was green and yellow due to its elements reacting to the heat,? he said.
+?The explosion could have caused damage, but fortunately it broke into small pieces. People should not touch parts of the astroid because those astroid can contain radiation which cause harm to the human body and my contains unknown bacteria,? he warned.
+The light of the astroid was seen in several parts of the country including the Southern Province.
+Military Spokesman and Army Media Director Roshan Seneviratne, said they were yet to detect any incidents caused by the light. The Sri Lanka Navy and Air Force also confirmed that they did not detect any incidents. (Chaturanga Pradeep)
+ 
+		
+==============================
+## Title: No freedom of expression as bragged: SLPP
+## Section: Breaking News
+## Date: 19 October 2017 07:29 pm
+No freedom of expression as bragged: SLPP
+	
+The Sri Lanka Podujana Peramuna (SLPP) said today, Anika Wijesuriya, a key witness in the Bond investigation had left the country due to death threats though the government said it had enabled an environment where anyone could criticize anyone without being subjected to intimidation.
+SLPP Chairman Prof. G.L. Peiris said if it was not for Ms. Wijesuriya, the leasing out of penthouse by Arjun Aloysius in which former finance minister?s family resided in would not have come to light.
+?This was a significant part of the investigation into Bond scam. A close relative of former minister Ravi Karunanayake had phoned and threatened the witness with death. In reality, sprats can be criticized but not sharks. When a shark is criticized, people receive death threats,? he told a news briefing.
+He said the counsel of the Attorney General?s Department had bravely questioned and cross-examined all personnel who arrived at the Commission except for Ministers Kabir Hashim and Malik Samarawickrama.
+?The two ministers were not questioned at all by the AG?s counsel. Asking brave questions revealed the truth about the Bond scam. When questions are not asked, it will affect the investigations. It is hard to think that the entire truth will be revealed now,? he said.
+He said Prime Minister Ranil Wickremesinghe should also be questioned without being given a questionnaire to answer them in way of an affidavit.
+Meanwhile, he said the police in the Northern Province is operated by the Tamil National Alliance (TNA). ?The TNA, being the Opposition in Parliament, helps the government in delaying elections and the government rewards the TNA in return,? he said. (Lahiru Pothmulla)
+ 
+		
+==============================
+## Title: October Revolution marked a new epoch in world history
+## Section: News Features
+## Date: 19 October 2017 12:05 am
+October Revolution marked a new epoch in world history
+	
+Centenary Celebrations ( 1917-2017)
+The October Revolution was the first major attempt to create a society free from class exploitation. It was the first successful revolution by workers, peasants and other exploited sections to establish a new society.??
+The October Revolution in Russia marked a new epoch in world history. It created the first socialist state -- the Soviet Union. Pre-revolutionary Russia was controlled by the Tsarist monarchy. This presided over the whole of Central Asia. Large tracts of land were owned by landowners, and factories and the mining industry was owned by a?few monopolies.??
+The Europeans were entangled in a war to colonise the world. Russia too, was involved in the first world war in 1914. The Russian Tsar sent thousands of people to the battle front. Russia began losing the war with Germany. Death and hunger was widespread. This gave rise to mass discontent among the ordinary people. The Bolshevik party launched an insurrection against Tsarist rule. This resulted in Tsarist rule being replaced by a bourgeois-dominated government. Some social democratic parties were also represented.
+This took place in February 1917, and the provisional government began looking into the interests of a few rich people and landowners.? ?
+The February revolution had also given rise to a new form of peoples organization:the soviets. Soviets of workers, soldiers and peasants sprang up in all major cities and in rural areas. The Bolshevik Party became very popular among the worker soviets and armed forces.
+The provisional government became very unpopular by the end of September. Many soviets in Petrograd and Moscow formed armed detachments to defend the ongoing changes. The peasants took over land from the landowners. Soldiers in the army had elected their own soviets. They were calling for an end to the war.??
+The changes in the Russian society was well understood by the leader of the Bolshevik Party, V.I. Lenin. He said that power should be transferred from the first stage of bourgeois revolution to the next stage of workers and peasants. This gave rise to the formation of a Revolutionary government headed by V.I. Lenin with the Council of?peoples Commissars.
+The masses rallied around the Bolshevik Party for Peace, bread and land. The first step taken by the new government was to place a decree on land. The land decree adopted took over all landed estates and all lands of church and monastery with their livestock, implements and buildings and placed them under the authority of local land committees and soviets of peasants deputies. The decree on peace called for an end to the war with immediate peace negotiations between all governments and peoples involved in the war.??
+?
+"The Europeans were entangled in a war to colonise the world. Russia too, was involved in the first world war in 1914. "
+Other decrees were on the elimination of illiteracy , for universal primary education , provision of free medical health care and creation of the new Union of Soviet Socialist Republics. (USSR). The Russian Revolution liberated various non-Russian nationalities from the colonial yoke and gave them an autonomous setup as Socialist Republics within the Union.? Recital of a poem at the gathering of Peoples commissars:??
+?
+?You fell in the fatal fight, For the liberty of the people, For the honour of the people,? ?
+You gave up your lives and everything dear to you, you suffered in horrible prisons , You went to exile in chains,? ?
+?Without a word you carried your chains because you could not ignore your suffering, brothers, because you believed justice is stronger than the sword??????????
+?The time will come when your surrendered life will count,That time is near; When tyranny falls the people will rise, great and free!??
+?Farewell brothers, you chose a noble path, You are followed by the new and fresh army ready to die and to suffer???????
+?Farewell brothers, You chose a noble path, At your grave we swear to fight, to work for freedom and the peoples happiness?.???
+(Ten Days that shook the world ? John Reed)??
+Before the Soviet state could start on building socialism it had to face a counter- revolution. A bitter civil war erupted.The Red Army had to fight the white guards and the counter-revolutionary forces. Ten capitalist countries including Britain, France, Germany and the USA supported counter-revolutionary forces with money and weapons.? ?
+After four years of fighting the civil war the Red Army finally crushed the reactionary forces . Some of the finest comrades were killed in the battle front. Thousands of class-conscious workers and peasants sacrificed their lives .? ?
+The October Revolution was the first time in history the working class and its allies like the poor peasantry -- the exploited classes -- led a revolution to overthrow the ruling bourgeois and the exploiting classes. Lenin had stated that a revolution is successful only when the old state power is smashed and a new form of state power is established. This is what happened in the Russian Revolution which dismantled the old state power and put in place a new state In the form of Soviets which represents the interests of the workers and poor peasants.?
+The world before 1917 was very different from what it is today. The beginning of the 20th century was dominated by empires. The British and Americans , the French, the Austro-Hungarian, Russians and Japanese dominated and divided the world.The lesser empires such as Italy and Portugal had fewer colonies. The bulk of the world population lived in colonies subject to these empires.? ?
+The Russian Revolution put an end to the old-style colonialism. The October Revolution sparked off the chain of National Liberation struggles which overthrew colonial rule. The struggle against imperialism reached a higher plane with the success of the socialist revolution. The national liberation movements in Asia, Africa and Latin America drew their inspiration from the Russian Revolution and the Soviet Union lent its support to the national liberation struggles.??
+?
+"Nearly 27 million Soviet people lost their lives in defeating fascism. It was the Red Army which spearheaded the smashing of the Nazi war machine"
+The ?October Revolution? was based on the revolutionary strategy of the worker-peasant alliance . This strategy was well used by the national liberation movements to be free from colonial exploitation. Following these footsteps, three decades later the Chinese Revolution took place under the guidance of the Communist Party of China. This was followed by revolutions in Vietnam and Korea. All these revolutions were direct descendants of the worldwide anti-imperialist and anti-fascist struggles which developed in the 1930s.?
+The defeat of the greatest evil of the 20th century, that of fascism, was mainly due to the existence and the struggles waged by the Soviet Union. Nearly 27 million Soviet people lost their lives in defeating fascism. It was the Red Army which spearheaded the smashing of the Nazi war machine. The victory of Soviet Union cost the imperialist countries their colonial legacy. Many colonial pundits came and brought reforms so that the colonies do not breakaway from them and develop relationship with the Soviet Union.? ?
+The end of WW II saw a new alignment of nations. The Soviet Union was thrown into an arms race by the western countries led by USA. This resulted in huge nuclear arsenals and stockpiling them in third countries. The Soviet Union dismantled its military alliance, the Warsaw Pact, and also worked with the USA in dismantling nuclear weapons.?
+Although the Soviet Union kept its promises,the agreements made by US presidents had not been fulfilled. The US presidents? promises not to sell advanced weapons to eastern Europe or draw them into NATO has not been fulfilled. Instead many hotspots have been created in the Ukraine, Georgia, and Estonia, which are states bordering Russia. Many economic and trade embargoes are placed on Russia.? ?
+When Russia celebrates its centenary of the Russian Revolution, we salute them for their historic contribution to mankind.? ? ?
+ 
+		
+==============================
+## Title: People?s Bank celebrates Deepavali
+## Section: Financial News
+## Date: 19 October 2017 12:00 am
+People?s Bank celebrates Deepavali
+	
+In commemoration of Deepavali yesterday, People?s Bank organized a series of ceremonies at the Wellawatte branch.
+A special Hindu pooja was conducted to invoke blessings for the nation, customers as well as the staff of People?s Bank this was followed by cultural performances by school children.?
+Rasitha Gunawrdana ? Acting Chief Executive Officer / General Manager, K.B Rajapakse- Senior Deputy General Manager (Retail Banking), W.K.S.B Nanadana -Chief Law officer, A.U.L.A? Anzar - Assistant General Manager(Channel Management), R.A.D.K Kalyani - Regional Manager(Colombo South), W.K Weerasinghe - Wellawatte Branch Manager, People?s Bank, staff members and customers as well as a large gathering of residents around the area were present at the event.
+ 
+		
+==============================
+## Title: PM inaugurates Passive House Project
+## Section: Caption Story
+## Date: 19 October 2017 08:52 pm
+PM inaugurates Passive House Project
+	
+Prime Minister Ranil Wickremesinghe declared opened the first Passive House Building Project in South Asia and one of only eight such factory buildings in the world at Star Innovation Center in BOI Katunayake on October 19. Minister Malik Samarawickrama, American Ambassador to Sri Lanka Atul Keshap, President and CEO Charlie Komar and Group Managing Director S. Sukumar were also present. Pix by Pradeep Pathirana
+ 
+		
+==============================
+## Title: President will reveal govt. stance on SAITM on Mon. - Kiriella
+## Section: Breaking News
+## Date: 19 October 2017 05:55 pm
+President will reveal govt. stance on SAITM on Mon. - Kiriella
+	
+Higher Education Minster Lakshman Kiriella told Parliament today that President Maithripala Sirisena will reveal the government stance on SAITM on Monday.
+He said the government was prepared for any solution with regard to the SAITM other than abolishing it.
+He told parliament that if the anti-SAITM protesters agreed to resolve the SAITM issue without causing any injustice to its students, the government was ready to resolve it.
+In response to a question raised by Joint Opposition MP Dinesh Gunawardane on the government stance regarding the request made by the Mahanayake Theras, the minister said the government was in discussion with the Theras.
+He said the government had already carried out most of the recommendations made by professionals including the deans of the medical faculties.
+"We have had several rounds of discussions with parties concerned on the SAITM issue. We have taken over the Neville Fernando Teaching Hospital, suspended the admission of new students and we were taking steps to Gazette the minimum standards as demanded by the professionals," he said.
+Mr. Kiriella said Dinesh Gunawardane, who submitted the gazzete in parliament authorizing the SAITM, should apologise to the Mahanayake Theras for misleading them. (Ajith Siriwardana and Yohan Perera)
+ 
+		
+==============================
+## Title: Railway unions threaten indefinite strike from Friday
+## Section: Breaking News
+## Date: 19 October 2017 03:18 pm
+Railway unions threaten indefinite strike from Friday
+	
+The Railway Operations Supervisory Union (ROSU) and the Ceylon Railway Guards Union (CRGU) yesterday threatened to launch an indefinite strike from Friday, if their demand for a salary increase was not met.
+Speaking to Daily Mirror, ROSU Convener Lal Ariyaratne said the National Salaries and Cadre Commission had not followed the instructions given by Saman Ekanayaka, Secretary to the Prime Minister, on increasing their salaries.
+He said Mr. Ekanayaka had instructed the commission to grant a pay hike under the circular 6/2006.
+?During the previous strike, we demanded the Railways Department to increase the salary scale of Engine Drivers, Guards, Station Masters and Controllers to MP1 and MP2 categories,? he said.
+Mr. Ekanayaka has told the commission to assign a pay hike within one month starting from September 20. He said this decision was given during the previous 48-hour train strike.
+?The one month duration will come to an end on Friday. The only decision taken by the commission is assigning employees to a category which has a salary lower than the specified basic salary,? Mr. Ariyaratne said. (Chaturanga Pradeep)
+Video by RM
+ 
+		
+==============================
+## Title: Ravindra Randeniya: Reflections on a frown
+## Section: News Features
+## Date: 19 October 2017 12:04 am
+Ravindra Randeniya: Reflections on a frown
+	
+What makes Ravindra Randeniya stand out, what makes him, at the end of the day, Ravindra Randeniya, is his contemplative frown. You see that frown creep up everywhere, in almost every picture he?s in. It turns him, in varying degrees, into a meticulous detective, a pained lover, a mistrustful husband, even a compulsive trickster or conman or womaniser. The reason why he embodies all these characters, and their qualities, is because he?s so versatile; not the way Joe Abeywickrama or Tony Ranasinghe were, but in a less empathetic way. He is the only actor from here that I can think of who can frown in both a commercial and a serious movie and get away with it.?
+Randeniya is at his best, and his least empathetic, when he conceals his intentions with that frown. He is the great concealer, and is in fact so good at this role that nearly every other role is a variation of it. Not until the end of Duhulu Malak, the first real film he was in after supporting roles in a series of at best preparatory pictures, do we realise he is no more, and no less, than an irresponsible, prodigal playboy.
+We think he?s such an unlikeable womaniser but he?s not. (At the very end he throws his shoe, in frustration, to the sea, and in that act he is both resentful and upbeat about the fact that he?s lost his woman.) What conceals those intentions is his sense of debonair grace, which is so debonair that he can hide the vilest intentions of his characters with his charm.?
+That explains why Maya, Dadayama, Sagara Jalaya, and Anantha Rathriya work so well when he?s around: he?s so good at talking, at faking, but we believe him along with the (for the most) female protagonists, who in all these movies happened to be Swarna Mallawarachchi. When Rathmali from Dadayama has her illusions about the man who impregnated her twice and left her shattered, she threatens him and writes him a letter; when they meet the next time, he is flippantly ominous about her missive: ?Who are you to post letters ordering me? Who are you to boss me around??
+In the sequences that preceded this encounter, however, he is so charming, so apologetic about what he?s done to this woman, that both Rathmali and the audience know that she has every right to be intimidating and threatening towards him: because of his debonair grace he?s become a part of her, and all those dreams of hers about him are derived from that quality of his.? ?
+?
+"Randeniya is at his best, and his least empathetic, when he conceals his intentions with that frown. "
+Because he can be two people at the same time ? sometimes for the better (as with Chuda Manikye, Siripala Saha Ranmenika, and to a certain extent, Sagara Jalaya), and often for the worst (Dadayama, Bhava Duka and Bhava Karma, and Roy de Silva?s Sudu Piruvata) ? people choose to believe in the latter, which more or less indicates that we?re cynical enough to be swayed by villains. But Randeniya is not only a villain, though in the he was so typecast that he was thought fit to play no one else. In Vijaya Dharma Sri?s Aradana, which was almost a Dadayama turned the other way around, yielding a happy resolution and ending, he goes after the woman he befriended (Malini Fonseka) to reclaim her. There?s a Ravindra Randeniya that exists beyond all this too.?
+He was born Boniface Perera in Dalugama, Kelaniya on June 5, 1945 to a successful mudalali family. A self-made businessman, his father initially put his son into St Francis?s School, run by the Dalugama Church. Two years later, he was admitted to St Benedict?s College, Kotahena. This is where he was initiated into his first love: literature. His tastes at the time ? Martin Wickramasinghe with Gorky,
+Dostoyevsky, and Chekhov ? wildly diverged from those of his classmates, who preferred easier-to-digest pulp fiction from that era and teased him for his own preferences. It was a largely vernacular backdrop which greeted him at St Benedict?s, despite the fact that it was, all in all, a missionary school. ?There was only one period for English,? he remembered for me, ?During all other periods, we talked freely in Sinhala, though we had Tamil and Burgher and even Muslim friends. Race and religion didn?t matter. Not to us.?? ?
+What he read, he remembered, had for some time turned him into a leftist: ?Everyone?s a socialist at 20!? was how he reflected on it for me. Surprisingly though, none of these encounters got him to act. Apart from a Fifth Standard production of Sigiri Kashyapa, in which he was Kashyapa, he never acted at all. His first real initiation into his profession would therefore come from an outsider:
+Dhamma Jagoda, who with Sugathapala de Silva was openly spurning Ediriweera Sarachchandra?s stylised conception of the theatre. One thing led to another, and soon enough, he was studying at the Lionel Wendt Theatre Workshop, which Jagoda had founded after returning to Sri Lanka from an American tour. ?He brought Method Acting to this country, in fact. He had been to the Actors? Studio, he had met Elia Kazan and Strasberg, and he had seen Marlon Brando.??
+Jagoda had taken it upon himself to preach Strasberg?s gospel in the country, and Randeniya had obviously come under his influence. He had not, however, entered the Workshop to study acting at all, rather screenwriting, directing, stage decor. ?Somehow or the other, I found myself in an acting class. I had by this time been drawn to the whole idea of becoming a performer, instead of remaining backstage.
+That was also a common class: whether or not you had chosen the subject, you had to attend it for at least one or two hours.? The course lasted for two years, and Randeniya found himself being dragged into various roles and performances. His first production as such had been Gunasena Galappaththy?s Muhudu Puththu, controversial for its time owing to its depiction of adultery, but a culmination of sorts to everything he and his colleagues had learnt.? ?
+Muhudu Puththu had been a success; among those who thronged that night at the Wendt was the filmmaker and the iconoclast, Manik Sandrasagara, who after congratulating Randeniya?s performance insisted on taking him to his first movie, Kalu Diya Dahara (1970). Kalu Diya Dahara was another success; having watched it and been impressed by his portrayal of an estate labourer, another filmmaker came around, congratulated him, and took him aboard his next film.
+The director was Lester James Peries, the film, released two years later and lukewarmly received, was Desa Nisa. No two directors could have been more different. Randeniya himself was warm about both: ?Manika had a way of asserting himself. Dr Peries never asserts himself. In fact you never feel that he?s there overseeing you.? In Desa Nisa he was a morally ambiguous hermit, able to restore sight or stunt it at his will. It was followed by Duhulu Malak (1976), another hit.??
+None of these movies really ?awakened? the thespian in him. That would come a year later, in 1977, with Amaranath Jayatilake?s Siripala Saha Ranmenika, where he starred for the first time opposite Malini Fonseka and which took him back to a role which would creep up in the years to come: Samson, the Sinhalised version of Stanley Kowalski, from Ves Muhunu, Dhamma Jagoda?s adaptation of A Streetcar Named Desire. ?To become Siripala I had to become bestial, almost inhumane. It was the same story with Samson.
+? When we were young we were horrified when Kowalski (Samson, by the way, had first been portrayed by Jagoda himself, in 1963) jeers at Blanche DuBois; when we grew up, we realised that it was his way of asserting the truth, that Blanche was, in fact, a pretender, and that her gentility never rubbed off on an animalistic brute like him. It was that kind of animalistic brute, who never cares for affection and never even once feels sorry for anyone other than those who are closest to him ? he doesn?t even care for himself ? which is embodied in his subsequent, villainous performances.
+That they are among the best of their kind indicated, quite clearly, that he had found his signature.?
+There were of course other characters, other films: as Migara in The God King (1975); as a modern-day Rama in Sita Devi (1978); as the hero in Weera Puran Appu (1979); as the brother-in-law of Swarna Mallawarachchi in Sagara Jalaya (1988); as the troubled protagonist in Anantha Rathriya (1996), as the nouveau rich mudalali Lionel in Wekanda Walawwa (2005). In the first three movies he?s a beleaguered hero, and in the latter three he?s a beleaguered antihero.
+In Weera Puran Appu, which was made as an epic that dwelt on sharply and clearly defined heroes and villains, he was clear, concise, and direct. But as the cousin in Sagara Jalaya, by contrast, he leaves us in the dark.? ?
+And what makes this sense of indirectness, obliqueness, is that we are never entirely sure as to whether he?s going to stick to his word: he?s a talker, a consoler, but also a concealer. With one set of characters he?s a different man. (You see this in Dadayama, where to his fianc?e, played by Shirani Kaushalya, he is the perfect lover; he is anything but to the woman he impregnates, who demands at the end that he suffer for what he?s done to her.) It?s a call for condemnation, and his Priyankara Jayanath is so despicable that Regi Siriwardena, in an otherwise laudatory review, called him ?a solid, if less complex, character portrayal.? That was who his villains were, at the end of the day: solid, despicable, hateful, and one-dimensional. What made them all multidimensional and stand out, as I observed before, was that deceptively contemplative frown.? ?
+?
+ 
+		
+==============================
+## Title: Sampath Bank celebrates ?Thrift Month? with eco-friendly gifts
+## Section: Financial News
+## Date: 19 October 2017 12:18 am
+Sampath Bank celebrates ?Thrift Month? with eco-friendly gifts
+	
+Sampath Bank, in its continuing commitment to emphasize the importance of saving, has introduced an exciting gift promotion that will both incentivize and help depositors save money.?
+Once again Sampath Bank is celebrating ?Thrift Month? in October and during this period is rewarding general savings accountholders with SLS certified LED bulbs that will help them reduce their overall electricity bill while contributing towards an eco-friendly Sri Lanka.
+LED bulbs consume less electricity than CFLs, have a longer lifespan and are mercury-free. These gifts were chosen by the bank for the dual purpose of combating the rising cost of electricity and to help accountholders go green.
+Savings accountholders will receive one 7W LED bulb for a savings deposit of Rs 20,000 and two 7W and a 9W LED bulb for a savings deposit of Rs 50,000. The bank will issue special vouchers for accountholders to collect their gifts from over 700 dealers across the island.
+Commenting on this exciting new promotion, Tharaka Ranwala, Senior Deputy General Manager ? Consumer Banking, Sampath Bank PLC said, ?As a national financial services provider we see it as our responsibility to encourage our customers to be fiscally responsible by instilling the habit of saving in them.?
+?It is also important to consider our impact on the environment thus our choice in gift this year was a conscious effort on our part to help our customers to not only save more but also help them become more eco-friendly. Therefore, we see the introduction of this promotion as not only rewarding our customers but also serving the nation.?
+This endeavour will coincide with World Thrift Day on 31st October.
+Established in 1987, Sampath Bank has become a state-of-the-art financial institution that continues to be a market leader today thanks to their constant innovation and customer focused approach to business.?
+Their unique tailor-made solutions, superior services and convenience of access have allowed Sampath Bank to further differentiate themselves from the competition and make them the bank of choice for many in Sri Lanka.
+ 
+		
+==============================
+## Title: Showcasing the Talents of the differently - abled
+## Section: News Features
+## Date: 19 October 2017 12:03 am
+Showcasing the Talents of the differently - abled
+	
+Dirijaya Prathiba 2017- The Journey Continues
+Each day takes us closer to October 21. That is the date when ?Dirijaya Prathiba 2017 - The Journey Continues? takes centre-stage at Nelum Pokuna Theatre at 5:30 p.m. The event will focus the spotlight on the talents of persons with disabilities while ?Enable The Disabled (ETD)? foundation which organised the event moves backstage to allow their efforts to bear fruit.? ?
+The need to create a disabled-friendly nation where there will be no difference in the abilities between the able bodied and the disabled and live in harmony with each other was what inspired ETD to launch Dirijaya Prathiba.? ?
+?
+"The sight of the participants, practising for their performances with enthusiasm was a sight to behold. Their excitement was contagious"
+Dirijaya Prathiba 2017, will also be an opportunity to raise funds to provide parks with equipment such as swings, etc., for children with disabilities too could enjoy the outdoor activities of childhood.? ?
+There is no doubt that an event of this magnitude may have needed many days of practice to achieve a high level performance. Stopping by at the event?s final rehearsals, the Daily Mirror was welcomed to the sounds of music and laughter.
+At the end of the day, the event is all about those with disabilities.The sight of the participants, practising for their performances with enthusiasm was a sight to behold. Laughing and talking to one another, their anticipation and excitement was contagious.? ?
+Positive Perspectives?
+It was clear that Dirijaya Prathiba means a lot to the participants. An opportunity of a big platform where people with disabilities and their talents are recognized is truly a blessing. Parents expressed their delight over the event and the children were excitedly anticipating the day of the event.? ?
+?We are very happy. Our children do not get many opportunities like this. So we are grateful. This gives them a chance to engage in fun activities as well as display their talents,? 20-year-old Tharuny?s mother said.? ?
+?I am very happy. I like to dance. I will be dancing at the concert,? 16-year-old Denal said.? ?
+?My son loves to dance. He is waiting expectantly for the show. He is heals over head with anticipation to perform at this event. He is very lucky to get such an opportunity,? 18-year-old Ashan?s mother said.?
+?My daughter is a very talented dancer. The moment she is free, she listens to music and starts dancing. At school too, she likes to take part in every dancing event. The concert is a good exposure for our children,? 16-year-old Claire?s father said.? ?
+?My son loves dancing. He likes art too. In his spare time, he either dances or draws pictures. He is a talented dancer and to develop his talent, I send him to dancing classes. Dirijaya Prathiba is a good chance to showcase the talents of our children,? 18-year-old Lahiru?s mother said.?
+?My son is good at dancing. He is talented. My son and his classmates from school is taking part in Dirijaya Prathiba. The teachers from school support their talents and help develop them. It is because of the teachers that our children are doing well,? 16-year-old Nisal Peiris? mother said.? ?
+?
+"The Dirijaya Prathiba concert is a big event. We are delighted that our children?s talents will be showcased on such a big stage. Music and dancing are two things that my daughter loves"
+?The Dirijaya Prathiba concert is a big event. We are delighted that our children?s talents will be showcased on such a big stage. Music and dancing are two things that my daughter loves. Her teachers provide a lot of encouragement,? 25-year-old Amanda?s mother said.? ?
+?Witnessing the success of ETD?s efforts at the final rehearsals, the Daily Mirror spoke to some of ETD?s members.?
+?The kids are enjoying themselves so much. We are so glad that our efforts are bringing happiness to many lives. All that?s left is for the public to witness their talents and cheer them on October 21 when the concert takes place. I hope that these children don?t stop their dreams from here. We hope that they take it further and carve for themselves a niche in society. We have just given them a step up. It is now up to them to pursue their dreams and improve their talents,? said Jean, a member of Enable the Disabled.? ?
+?It has been a roller coaster ride. But when we see these happy faces, we feel that every single second that we have devoted towards organizing the event was worth it. When I look around and see how everyone came together to support our cause, it makes me feel that there is a lot of humanity in people even today,? ETD President Jezaayar Hassendeen said and summed up her feelings in four words, ?Together we are one.?? ?
+Let us also show that humanity is not lost and that hope is alive among all our people as we join each other to stand as pillars of strength by being there for them and provide the necessary space and the opportunity for the participants to overcome their disabilities and share their talents with the country through Dirijaya Prathiba 2017.? ?
+"I hope that these? children don?t stop? their dreams from here. We hope that they take it further and carve for themselves?a niche in society"
+ 
+		
+==============================
+## Title: Taiwan Bank breach: Fourth suspect surrendered to CID
+## Section: Breaking News
+## Date: 19 October 2017 10:10 pm
+Taiwan Bank breach: Fourth suspect surrendered to CID
+	
+Another individual turned himself into the Criminal Investigation Department (CID) today along with Rs.3 million said to have been part of what was taken out of the Far Eastern International Bank in Taiwan.
+Sources at the CID said the suspect was relative of J. C. Nammuni, who was the first suspect arrested over the international theft.
+Nammuni?s relative was the fourth suspect arrested over the incident. Earlier, former Litro Gas Chairman Shalila Moonasinghe and a relative of his, Chulapala De Silva, were also taken into custody.
+The CID commenced the investigation in connection with the alleged transferring of USD 1.1 million from the Far Eastern International Bank to Mr. Moonasinghe?s account in Sri Lanka.
+The suspect Nammuni had withdrawn Rs. 30 million from a local bank earlier this month and was arrested on October 7 when he attempted to withdraw another tranche of Rs. 80 million. (Darshana Sanjeewa)
+ 
+		
+==============================
+## Title: UL cabin crew supervisor nabbed with jewellery worth Rs.27 mn at BIA
+## Section: Breaking News
+## Date: 19 October 2017 10:30 am
+UL cabin crew supervisor nabbed with jewellery worth Rs.27 mn at BIA
+	
+Customs officers today arrested a cabin crew service supervisor attached to SriLankan Airlines carrying more than five kilogrammes of gold jewellery at the Bandaranaike International Airport (BIA) in his person, Customs Spokesman Deputy Director Sunil Jayaratne said.
+The 50-year-old suspect was arrested with five packets of gold jewellery wrapped around his waist and legs, he said.
+?The jewellery was hidden inside two specially made girdles and a belt worn around his leg,? he said.
+BIA Customs Director Parakrama Basnayake told the Daily Mirror that the suspect had served as a Cabin Crew Service Supervisor for about 29 years and a resident of Colombo.
+He was arrested at the arrival terminal after a flight from Jeddah at 4.15 a.m.
+?At the time of arrest three packets of gold jewellery were found packed around his waist wrapped with cellophane tapes and inside girdles especially made for the jewellery. The other two jewellery packets were found hidden in the knee guards,? Basnayaka said.
+The suspect is a senior staffer and a frequent flyer. After the detection the officers had searched the other crew members as well.
+He said initial investigations had revealed that the suspect had been in the practice of smuggling jewellery for a long time.
+He said the Customs had received information regarding the racket and was on the lookout for him for a long time.
+?The gold jewellery weighed 5.21 kilogrammes worth more than Rs. 27.32 million,? he said.
+The detection was made by Assistant Customs Superintendents Nuwan Abeynayake, Rasika Samanjith, Srilal Wijewardena. Nishantha Jayasinghe, Hasantha Guruge, M.K.U Gamini,
+Investigations were conducted under direction of Customs Directors Ruwan Sathkumara, and Parakrama Basnayake. (Chaturanga Pradeep and T.K.G Kapila)
+ 
+		
+==============================
+## Title: University of Sri Jayewardenepura: A gift to generations in Sri Lanka
+## Section: News Features
+## Date: 19 October 2017 12:06 am
+University of Sri Jayewardenepura: A gift to generations in Sri Lanka
+	
+?It is true that Piriven University status is set by the Parliament. However, it?s a blessing we endowed from all Gods who protect Sri Lanka.?? ?Dr. Wijayananda Dahanayake ? Minister of Education. On the debate on incorporating the university on 16-17, September 1958 in Parliament.
+?I believe establishing a University for Sri Lanka is a gift as well as having the honour to read for a degree in Sri Jayewardenepura (SJP) University is also another gift.? ?
+?Vijja Uppattam Setta? (among all that arise, knowledge is the greatest)?
+The Vision of ?Prosperity through Education ?with acquiring the knowledge and wisdom through Education towards the elevation of our Motherland for prosperity is the proud Mission of our University.
+All carrier achievements of the daughters and sons of who are at its highest echelon of success in government and non-governmental organizations to be tribute by SJP mother on October 20, 2017. Undoubtedly, she will value and accept all success sincerely, wholeheartedly with pride.?
+?Sri Jayewardenepura Pradeepa Pranama Ceremony 2017? is organized by the Alumni Organization of SJP as in the previous year. The utmost objective of this mission is to network among Alumni members, to be committed and to invest amongst each other, to honour and respect our mother SJP and to impart fame and recognition for her.?
+With the life-long bond the SJP University and its Alumni Association, we were able to organise ?Sri Jayawardenepura Pradeepa Pranama 2016? in a glamorous manner, which we believe marked its pinnacle of success. This year too, our effort is to select the ?best of out the best? to tribute and reward them for their yeomen service to our nation. ?Pradeep Awards? will no doubt will recognise the Award Winners, as well as, ignite and bring about fame and recognition to eciprocate our Mother University.??
+Each and every undergraduate and graduate is a different and a unique human being. They inherit innate talents and acquires a specialisation in multi disciplinary subjects coupled with core competencies. With their variety of skills and competencies they have one identity of belonging to the same family of Mother SJP University. Undoubtedly, needless to say she acquires the distinction and the pride of being a Mother to all the sons and daughters of SJP family. In turn, our beloved Mother ? SJP University have given us the SJP spirit, courage, commitment and energy to embark on our journey of specialisation.? ?
+?
+"Each and every Alumni member are children of one generation of our SJP mother; in spite of the differences in ethnic groups, religion and social standards"
+Whatever we do, we do to the best, whatever we achieve we achieve it to the pinnacle of success!? ?
+In achieving our mission,? ?The messages we pass to the society is that: Each and every Alumni member are children of one generation of our SJP mother; in spite of the differences in ethnic groups, religion and?social standards.?
+Irrespective of these differences our generation has only ?One University ?and that is SJP; within a strong networking cluster our sustainability is assured.?
+Henceforth, we most earnestly request each and every one of our Alumni members to rally around SJP University to:?
+Come again, to the campus to embrace her and to acquire the profound fragrance and to feel the warmth of excellence; to sing along the University song to take you back to your sweet momentous in the University; to enjoy each other?s company by talking of happy and sad moments of our life; to be together to commit that we will always stand for SJP University; to bestow the best we have to reciprocate to our own university, to our society and to our country.? ?
+The underlying reason for this request is that this University belongs to you, it cannot be changed and will not be changed!??Do bear in mind that, your bond with the University will not conclude, by you becoming a Graduate. This bond will be a continual relationship throughout your life time!?
+?
+?
+ 
+		
+==============================
+## Title: ?WHO? said that Sri Lanka?s suicide rate hasn?t dropped?
+## Section: News Features
+## Date: 19 October 2017 12:02 am
+?WHO? said that Sri Lanka?s suicide rate hasn?t dropped?
+	
+Lending an ear is all it takes to save a life!? ?
+As life goes on, various barriers are thrown at its path. Some challenges may be easy to meet while others may demand an extra effort to overcome.?
+In the heat of frustration, when one is unable to think clearly, a wrong decision might be made. This is the story behind every deliberate attempt to end a life. Problems can push us to our limits. Sharing our worries is the key to coping up with burdens. Listening to someone?s troubles is the door to saving a life!??
+Over the years there has been much scrutiny about Sri Lanka?s ?increasing? suicide rate. However statistics reveal that in reality the suicide rate has been rapidly descending. The Daily Mirror? approached specialists in various fields to discuss this issue under different perspectives, to create awareness about suicide and accentuate the value of life.? ?
+?It?s common in our part of the world to consider psychiatric problems as a sign of failure?
+- Dr. Lushan Hettiarachchi
+A person?s mental health and suicide are always co-related. Dr. Lushan Hettiarachchi, Consultant Forensic Psychiatrist of the National Institute of Mental Health, Angoda, spoke to the?on the factors that lead to a mentality which harbours suicidal thoughts. ?Mental disorders, substance use disorders, personality styles predispose a person to commit suicide,? he warned.? ?
+Mental disorders are one of the main reasons that give rise to suicidal attempts. ?Depression is the most significant cause leading to suicidal thoughts. Depression is very common. One in four people suffer from depression. It will be the leading morbidity in near future.? Dr. Hettiarachchi stated.
+?Sudden loss of expectations, desperation and frustration, loss of a loved one, relationship breakups and exam failures also contribute to suicidal thoughts,? said Dr. Hettiarachchi.? ?Media portraits given on suicides too have made a significant contribution towards the increase in suicidal ideations and attempts. According to him some reports promote suicidal behaviour rather than discouraging such acts.
+?It is common in our part of the world to consider psychiatric problems as signs of failure. Hence, people may be reluctant to seek help. Sri Lankans don?t talk about their mental and emotional issues, especially men. Suicide is more common among men. Western reports state that incidents of suicide are higher in the 15-25 age group. This is no different in Sri Lanka,? said Dr. Hettiarachchi.?
+Mental health literacy is not satisfactory in Sri Lanka. People are not aware of how to recognise a problem or where they could obtain help and services. ?It?s wise to seek help from a qualified doctor when you have a problem. Doctors can assess your problem and recommend treatment or management plans,? advised Dr. Hettiarachchi.?
+?If suicidal ideation arises due to trivial problems, that a person faces in day today life, then the person may benefit from counselling. Counselling should focus on problem solving and endurance,? he said. Most of the General and Base hospitals have qualified experts to handle these situations.?
+?People should have a clear idea that help is available. Service providers should be non-judgmental yet be empathetic towards the problem. The person suffering should be given hope. Currently these messages are given to general public through posters, newspaper articles and awareness programs. There are few befriending telephone lines available for any person to call free of charge at any time of the day,? Dr. Hettiarachchi elaborated.?
+Making a rational decision on how to face a critical situation, from where and whom we can seek help when having a problem, conflict resolution and assertiveness etc are some skills that need to be taught early in school life, Dr. Hettirachchi went on to state.?
+?
+?Sri Lanka is recognized globally for having reduced its suicides by 70% but this is not much known or appreciated within our country!??
+-? Nalaka Gunawardene
+Nalaka Gunawardene, science writer and media researcher, aired his views on the connection between social media and suicide. ?Humans are complex beings who are exposed to multiple factors. There simply isn?t research evidence yet to show that the rising use of social media is contributing to suicide deaths in Sri Lanka,?said Gunawardene.?
+?It is very difficult to determine a specific causative factor or phenomenon of suicide. Researchers say that it?s an accumulation of factors that increases an individual?s vulnerability to suicide.? he continued.? ?
+He further said that we need to be very careful in exposing the link between a particular factor and a person?s suicide.?
+Citing the statistics he said, ?Sri Lanka has experienced major changes in its suicide rates since the 1970s, and by 1995 it had one of the highest rates in the world. There were 8,514 reported suicide deaths that year, but since then it has come down significantly: there were 3,025 suicide deaths reported in 2016. Having peaked at 57 suicides per 100,000 people in the 1990s, the latest rate is 17 per 100,000?.?
+??Sri Lanka is recognized globally for having reduced its suicides by 70%, but this isn?t much known or appreciated within our country!? he added.?
+?
+?Mental isolation has become the aftermath of technology and modernization?
+- Prof. Daya Amarasekera
+Prof. Daya Amarasekera of the Sociology Department, University of Peradeniya, when contacted said that social issues provide the base for suicidal issues. ?Today Sri Lanka is identified as a modernizing nation. Mental isolation has become the aftermath of technology and modernization, that dominates our lives. Though we may be surrounded by many faces, people still feel isolated within,? he said.?
+The professor explained that lives have become more centred on gaining wealth, power and status. ?Education is one certain aspect that verifies the competitiveness that exists in society. From the grade 5 scholarships to higher education in Universities, students are placed under pressure. The inability to succeed in achieving their goals and getting left out, results in emotional conflict in these young minds,? he stressed.?
+Prof. Amarasekera went on to say that the internet and various media have misled audiences to engage in inappropriate behaviour and misconduct. This has resulted in luring the youth towards wrong doings.
+As a solution to reducing the risk of suicide attempts, the most important thing is to strengthen human relationships and prevent mental isolation. ?Social relationships have to be strengthened. An undeniable gap exists between parents and children. In schools, teachers and students have to share a close relationship. The teachers should develop a relationship that is open and friendly; one that allows easy communication with students,? the professor explained.? ?
+?
+?Although the rate has dropped the attempts at suicide are still very high??
+-- Sumithrayo
+Speaking to Sumithrayo, an organization focussed on suicide prevention, the Daily Mirror learned that the suicide rates aren?t increasing, but in fact decreasing.
+?There have been recurring suicides in the past few months, but when you look at the Police Department Statistics the rate has dropped. Even though, according to the WHO we are the 4th highest when it comes to suicide, but this is not true. In reality we should be in 22nd or the 24th place.
+We are urging them (WHO) to make this change, but the correction is still to be made,? representative from Sumithrayo, who spoke on terms of anonymity, said.? ?Although the rates have dropped the attempts at suicide are still very high. These fact can be observed through hospital records, police records, records held by rural centres and health centres.?
+This is due to the preventive measures taken by the Government and also because people have improved greatly. Infrastructure has improved and there is greater awareness in hospitals and in the public and there is also pesticide control etc.? the representative said.?
+Speaking of signs that someone who is contemplating would give, the representative said, ?They like to be isolated, are lonely, act in a depressing manner and might be heard saying something like ?I am fed up of life?. We should take the time to listen to people?s problems and help them through this difficult experience,? the Sumithrayo representative added.?
+Devoted to responding to people in crisis and preventing suicide, focusing on empathetic active listening and non-judgmental responses, Sumithrayo volunteers endeavour to take every person in crisis seriously. The goal of their befriending is to empower the caller to make life-enhancing choices.
+Sumithrayo provides Confidential Emotional Support and is a free service, open 365 days (including holidays) ? from 9 a.m. to 8 p.m. Please call: 011-2692909, 011-2683555 or 011-2696666. Visit: 60B, Horton Place, Colombo 7. Email: sumithra@sumithrayo.org
+?
+?
+?
+?
+?
+?
+ 
+		
+==============================
+## Title: Woman tries to profit from close friendship with another
+## Section: Weird News
+## Date: 19 October 2017 08:23 am
+Woman tries to profit from close friendship with another
+	
+A female teacher who had discussed her family life including details of her sexual life with a woman she got to know over the phone, had been put in a compromising position after the latter tried to blackmail her.
+The teacher and the woman in question had become bosom buddies quite by accident after the former got a call from the woman's mobile phone.Their discussions had become more and more frequent and started to include the teacher's sexual preferences as well after she got married while the friendship between the two, that was limited to phone conversations, was still going on.
+Out of the blue the teacher had received a call from her 'friend' threatening to reveal details of her sex life to the principal of the school she was teaching at.
+Perturbed by the call, the teacher has lodged a complaint with the Aluthgama police asking them to find the woman who had blackmailed her. (Thusitha Kumara de Silva)
+ 
+		
+==============================

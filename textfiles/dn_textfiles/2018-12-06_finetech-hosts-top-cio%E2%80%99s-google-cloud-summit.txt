@@ -1,0 +1,17 @@
+## Title: FineTech hosts top CIO’s to Google Cloud Summit
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, December 6, 2018 - 01:00
+
+FineTech hosts top CIO’s to Google Cloud Summit
+
+As the world evolves to embrace digitalization as a norm, the world’s best search engine Google is at the forefront of helping individuals and organizations to get on the bandwagon of “going digital”.
+Google’s largest local partner in Sri Lanka since 2010, FineTech Consultancy has followed suite in helping both the government and private sector in Sri Lanka, to create better business operations and gear up for the future.
+To introduce the latest technologies in the cloud platform FineTech together with Google Inc. recently hosted a GCP (Google Cloud Platform) event under the theme “Move with Next Generation Cloud” targeting country’s top CIOs. To speak on the latest Google’s AI vision, language, speech and conversation to organizations through cloud services, were many experienced professionals from the Google head office.
+Harshal Pendse Head of the Indian Sub-Continent Google Cloud Partnerships and Alliances, introduces the new Google cloud concept while, Sreenivas Makam responsible for Technical Enablement of Google Cloud Partners and Architecting Solutions for Google Cloud Customers at Google India spoke on “GCP Differentiators, GCP Infrastructure and Migration, GCP Data Engineering & Machine Learning”.
+Sreenivas illustrated on Google’s ability to build, organize, and operate a huge network of servers and fiber-optic cables with an efficiency and speed that rocks physics on its heels. This is what makes Google: its physical network, its thousands of fiber miles, and those many thousands of servers that, in aggregate, add up to the mother of all clouds.”
+Dr. Pasqual, from Moratuwa University, a renowned local IT expert and founder of Paraqum Technologies Pvt Ltd spoke on the benefits of Cloud-based Network Analytics. Sanath Premachandra, Chief Executive Director and Iran Udayanga, Principle Technical Consultant and Assistant Manager of Pristine Solutions also shared their views on how to “Migrate your SAP to Cloud”. The session was wrapped up by our Finetech’s Founder Clehan Pulle who presented on “OverC, the Workflow Management System” followed by a Q/A session.
+The Google Cloud Platform (GCP) used by many of these organizations is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search and YouTube.
+Alongside a set of management tools, it provides a series of modular cloud services including computing, data storage, data analytics and machine learning. Google’s G-Suite on the other hand is a brand of cloud computing, productivity and collaboration tools, software and products developed by Google. Worldwide more than one billion users currently effectively use GCP products to enhance productivity and maximize their workflows.
+Google’s Cloud platform solutions have been trusted and rated best among the largest brands in the world due to its robust infrastructure. Google’s platform is built on the largest infrastructure and also houses the largest data center in the world. With its own operating systems, servers and fibre network, security and data protection is utmost with Google.
+FineTech which began operations in Sri Lanka 8 years ago is the largest Google Cloud and Google for Education partner in Sri Lanka, Bangladesh and the Maldives. 

@@ -1,0 +1,30 @@
+## Title: Trump assails CIA on hacking leak
+## Supertitle: 
+## Section: World
+## Date: Saturday, March 11, 2017 - 01:00
+
+Trump assails CIA on hacking leak
+
+US: President Donald Trump's administration levelled fresh criticism at the CIA Thursday after WikiLeaks published a trove of documents describing the US spy agency's cyber espionage operations. Hours after WikiLeaks founder Julian Assange accused the Central Intelligence Agency of "devastating incompetence" for failing to protect its hacking secrets, Trump's spokesman echoed that, branding its systems "outdated."
+Trump has "grave concern... about the release of national security and classified information that threatens and undermines our nation's security," White House press secretary Sean Spicer said.
+"He believes that the systems at the CIA are outdated and need to be updated."
+The White House terminology was milder than earlier this year when the president blasted US intelligence agencies over media leaks, and accused them of playing politics with their findings on Russian interference in last year's election.
+But it added new pressure on the CIA and its chief, Mike Pompeo, as US intelligence agencies continue to suffer losses of top secret materials -- most famously with Edward Snowden's 2013 exposure of NSA spying. On Tuesday, WikiLeaks published nearly 9,000 documents it said were only part of a huge trove leaked from the CIA. WikiLeaks said the leaked archive represented the CIA's entire arsenal of cyber-attack plans, guides and malware programs -- though it held back the programs themselves from release.
+"This extraordinary collection, which amounts to more than several hundred million lines of code, gives its possessor the entire hacking capacity of the CIA," it said.
+On Thursday Assange gave a press conference on the leak, which again put the crusading anti-secrets group in the midst of US politics.
+Speaking via streaming video from Ecuador's embassy in London, where he has been living as a fugitive from justice since 2012, he waved off criticism of WikiLeaks while blasting the CIA for its poor controls.
+"This is a historic act of devastating incompetence, to have created such an arsenal and then stored it all in one place," Assange said.
+"It is impossible to keep effective control of cyber weapons... If you build them, eventually you will lose them."
+The documents show that, using a tool chest of malware like viruses and trojans, CIA hackers can turn a TV into a listening device, bypass popular encryption apps, and possibly control people's cars.
+Assange called the CIA "careless" for losing control of its cyber weaponry, which WikiLeaks suggested had reached it via private contractors that the US agency hires to develop hacking tools.
+He said it might already have circulated into the hands of criminals and US enemies.
+"It's quite possible numerous people already might have it," Assange said.
+He claimed that WikiLeaks possesses "a lot more information" about the CIA's hacking, but would refrain from publishing it until it can speak to tech manufacturers affected.
+Much of the agency's cyber operations focused on exploiting vulnerabilities in popular networking equipment, consumer electronics, and software, including Apple's iPhones and smartphones running the Android operating system.
+"We have decided to work with them to give them some exclusive access to the additional technical details we have so fixes can be developed and then pushed out," Assange said.
+"Once this material is effectively disarmed by us we will publish additional details about what has been occurring."
+The CIA defended itself while criticizing the WikiLeaks founder.
+"As we've said previously, Julian Assange is not exactly a bastion of truth and integrity," said spokeswoman Heather Fritz Horniak.
+"Despite the efforts of Assange and his ilk, CIA continues to aggressively collect foreign intelligence overseas to protect America from terrorists, hostile nation states and other adversaries."
+She reiterated that cyber operations are an integral part of the CIA's job, rebuffing Assange's suggestion that the agency had quietly gone into competition with the main US signals intelligence body, the National Security Agency.
+Hacking is a normal part of its mission "to be innovative, cutting-edge, and the first line of defense in protecting this country from enemies abroad," Horniak said. - AFP

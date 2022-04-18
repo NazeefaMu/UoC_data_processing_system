@@ -1,0 +1,43 @@
+## Title: Mastercard Introduces Mastercard Track™To Make the Business of Doing Business Easier
+## Section: Press Releases
+## Date: 18 September 2018 01:34 pm
+
+Mastercard Introduces Mastercard Track™To Make the Business of Doing Business Easier
+
+
+	
+
+
+
+introduced Mastercard Track™in collaboration with Microsoft(NASDAQ: MSFT). Track is a unique global trade platform that will simplify and enhance how companies around the world do business with each other. 
+
+While parts of the B2B process have been digitized, large and costly gaps still remain –an estimated $500 billionin annual administrative costs and rising .These costs are added to the inefficiency of the nearly half of all global business transactions – $58 trillion  – that are still done in paper. 
+
+Mastercard Track will address these fundamental challenges by further streamlining and automating the procure-to-pay-process – enabling businesses to manage business identity, compliance and payments in a more efficient way.
+
+“While there have been great improvements and innovations in the way consumers pay, the global B2B space remains highly inefficient and paper-based”,said Michael Froman, vice chairman and president of strategic growth at Mastercard. “This adds hundreds of billions of dollars of costs and burdensome delays to global trade. Mastercard Track is a tool that will help reduce frictions in the global trading system and promote increased exports – especially by small and medium-sized businesses.”
+
+Unlocking growth for businesses of all sizes
+
+While consumers have become accustomed toa broader choice of technology solutions, businesses too are looking for speed, security and convenience in their everyday operations.From reducing the steps it takes to identify a business partner,to making the payments process simpler and more transparent, Mastercard Track has the potential to unlock economic growth and to level the playing field for small- and medium-sized enterprises (SME).
+
+“Together with Mastercard, we’re helping companies around the world accelerate the pace of their own transformation by creating a more efficient buying and selling process at scale,” said Peggy Johnson, executive vice president, Microsoft. “By building Mastercard Track on Azure, Mastercard will be able to take advantage of our stringent security and compliance standards, our global footprint and our intelligent cloud solutions to help organizations of all sizes drive value from the back-office to the front of the enterprise.”
+
+Mastercard Track underscores the company’s commitment to address several pain points in the global business environment. The new platform draws on and complements the whole range of Mastercard innovation and B2B assets, from account-to-account and card payment solutions to fraud management, data analytics and payment gateway services.
+
+Addressing identity, compliance and payment management needs
+
+Initially, Mastercard is partnering with nineB2B networks and procure-to-pay solution providers –Basware, BirchStreet, Coupa, the Infor GT Nexus Commerce Network,Ivalua, Jaggaer, Liaison Technologies, Tradeshift and Tungsten Network – representing a wide range of global businesses, to roll out Track’s identity, compliance and paymentmanagement capabilities to buyers and suppliers. 
+
+Beginning in early 2019, customers of these organizationswill be able to maintain, retrieve and exchange key information relating to themselves and their trading partners through the Track Trade Directory, a secure, permissioned repository of over 150 million company registrations worldwide.This central directory will integrate feeds from more than 4,500 compliance lists into one place, making the screening and onboarding of suppliers more efficient.
+
+As the platform expands, suppliers will have better visibility into cash flow – when they can expect to get paid and for how much – across multiple networks. Track will help connect all types of payments – account-based, card-based or bank transfer – within the platform, while also connecting purchase order and invoice information. This will streamline and simplify back-office reconciliation, one of the largest burdens facing businesses today. 
+
+Through its partners, Track will enable B2B networks, banks, insurance companies and technology providers to extend value-added services to business customers, such as enhanced data analytics and trade finance. 
+
+Integrated with Singapore’s National Trade Platform
+
+In Singapore, Mastercard Track has already been integrated with the National Trade Platform, a one-stop digital trade eco system which brings together key logistics functions, such as movement of goods as well as regulatory and financial elements for players across the trade value chain. Mastercard Track facilitates secure and efficient electronic payments between buyers and suppliers, helping to strengthen the country’s position as the leading trading hub for the region.
+ 
+
+		

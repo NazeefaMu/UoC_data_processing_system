@@ -1,0 +1,14 @@
+## Title: Google now recognizes Sinhala, Tamil
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, August 16, 2017 - 01:00
+
+Google now recognizes Sinhala, Tamil
+
+On Tuesday morning, search-engine giant Google announced that it was expanding itsspeech recognition capabilities to support Sinhala and Tamil, among 28 other languages. Thisbrings the total number of supported languages to 119.
+In a post on the company’s blog, “The Keyword,” Daan Van Esch, Google’s Technical Program Manager for Speech, wrote that the language expansion would cover more than a billion people previously unable to use the technology, and that the expansion was part of its “quest to make the internet more inclusive.”
+Esch explained that the company used an authentic process to be sure its speech recognition technology operates effectively.
+“To incorporate 30 new language varieties, we worked with native speakers to collect speech samples, asking them to read common phrases. This process trained our machine
+learning models to understand the sounds and words of the new languages and to improve their accuracy when exposed to more examples over time.”
+Google will soon be incorporating speech recognition capabilities for these languages to its Cloud Speech API, and is currently working to incorporate them into other company products and apps, such as Google Translate.
+In addition to supporting new languages, Google now supports searching for emojis with speech. 

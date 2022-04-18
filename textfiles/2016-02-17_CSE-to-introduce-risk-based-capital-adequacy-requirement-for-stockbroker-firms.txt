@@ -1,0 +1,43 @@
+## Title: CSE to introduce risk-based capital adequacy requirement for stockbroker firms
+## Section: Financial News
+## Date: 17 February 2016 12:09 am
+
+CSE to introduce risk-based capital adequacy requirement for stockbroker firms
+
+
+	
+
+The Colombo Stock Exchange (CSE) is in the process of implementing a risk-based capital adequacy requirement to all stockbroker firms which are members/trading members of the CSE and licensed by the Securities and Exchange Commission of Sri Lanka (SEC). 
+
+
+The risk-based capital adequacy requirement would replace the minimum net capital requirement of Rs.35 million, which is currently applicable to stockbroker firms. 
+
+
+The net capital is derived by deducting the items which are not immediately realizable from shareholder funds of the stockbroker firm, as set out in the CSE stockbroker rules. 
+
+
+At present, the minimum net capital requirement is fixed for all stockbroker firms regardless of the risk undertaken by each firm. The current minimum net capital requirement does not provide sufficient weightage to different types of risks that a stockbroker firm would be exposed to, such as the risk exposure arising from trading activities and the operations of the stockbroker firm. 
+
+
+Also, the net capital positions are presently reported by the stockbrokers to the CSE and the SEC only on a monthly basis. 
+
+
+The Principle 30 of the International Organisation of Securities Commissions (IOSCO) ‘Objectives and Principles of Securities Regulations’ (issued in June 2010), which is considered as the benchmark for securities regulation, states: “There should be an initial and ongoing capital and other prudential requirements for market intermediaries that reflect the risks that the intermediaries undertake.” 
+
+
+Taking into consideration the aforesaid IOSCO principle and the limitations associated with the current minimum net capital requirement, the CSE has in concurrence with the SEC and the stockbroking industry developed a methodology of risk-based capital adequacy requirement. 
+
+
+The risk-based capital adequacy requirement compares the risks of stockbroker firms, arising from the transactions and operations carried out, with the amount of liquid capital that the stockbroker firm must maintain on an ongoing basis.  The methodology would identify the amount of liquid capital that a stockbroker firm should maintain as opposed to various types of risks the stockbroker firm is exposed to. 
+
+
+There are four types of such risk factors that have been identified by the CSE when developing the risk-based capital adequacy requirement, namely, operational risk, counterparty risk, large exposure risk and the position risk. The risk-based capital adequacy requirement is measured in the form of a ratio which would be called the capital adequacy ratio (CAR). 
+
+
+The minimum CAR ratio that has been recommended by IOSCO and practiced by most of the developed stock exchanges in the region is 1:2. The CSE, taking into consideration the best practices adopted by these markets and upon an analysis of the trading patterns and the operational capabilities of the stockbroker firms operating in the Sri Lankan market, has also recommended a minimum CAR ratio of 1:2 to be applicable to stockbroker firms. 
+
+
+Taking into consideration the limitations of the reporting requirements of the present net capital requirement, all stockbroker firms will be required to compute and report their respective CAR ratios to the CSE and the SEC on a daily basis.  The CSE has obtained the feedback of the SEC and the stockbroker firms when developing the CAR methodology. The board of directors of the CSE approved the CAR methodology and the rules on February 8, 2016 and the said CAR methodology and the proposed rules are pending approval by the SEC.  The implementation of CAR would be a significant landmark in the regulation of securities in Sri Lanka, which would enhance the financial and operational capabilities of the stockbroker firms.
+ 
+
+		

@@ -1,0 +1,18 @@
+## Title: H One launches Res.Q Machine Inventory
+## Supertitle: 
+## Section: Finance
+## Date: Friday, December 7, 2018 - 01:00
+
+H One launches Res.Q Machine Inventory
+
+Leading full-service IT solutions provider, H One, announced the launch of Res.Q MI; an all-encompassing machine management solution designed with both large and small-scale factories in mind.
+This cloud-based solution, developed by Sri Lanka’s trusted IT solutions provider, was launched at a private event attended by industry professionals.
+Res.Q Machine Inventory is a revolutionary new asset management solution which leverages the capabilities of NFC (Near Field Communication) technology for the management, protection, and maintenance of one of the most vital assets of the apparel industry: its machinery.
+The apparel industry is in a state of rapid change, where speed and efficiency are critical to a manufacturer’s success. Although the exchange of machinery between facilities - on a ‘loan’ or ‘rental’ basis- is a common practice across the industry, there has never been an efficient mode of automating and optimising these processes to productively monitor these movements.
+Each machine is assigned a specific uniquely identifiable NFC tag which contains information, from the machine’s unique ID, its transaction history, break downs and service records.
+Res.Q Machine Inventory also aids the commerce of the apparel industry with machine maintenance, for manufacturers can now ensure that their machinery is functioning at its optimal performance and also monitor a detailed record of its maintenance and service history of every machine.
+Repair work for every machine is updated to the system via a mobile application paired with the NFC tag, and as a result a comprehensive record of the service and maintenance history -including spare part management- of each machine is monitored and immediately accessible. Another responsibility factory managers bear is the tedious task of manually managing needle supply to each machine or operator.
+At the launch of this cutting-edge machinery management solution, key stakeholders and potential investors were introduced to the many benefits of this effective and paperless new technology. “The key to any IT service is to make it easy for clients to have access to information which may otherwise involve a tedious process to accumulate,” said H One Chief Executive Officer, Samath Fernando at the launch. “This is exactly why we designed Res.Q Machine Inventory: an all-in-one solution for factory maintenance, enabling precision in tracking and maintenance with enhanced flexibility so that they can manage their machinery requirements on-site, which ultimately allows for well-informed, and intelligent decision-making.”
+Since its establishment in 2008 -as a progression from the Hirdaramani Group legacy spanning over 120 years- H One has become the forerunner in business intelligence solutions.
+The launch of Res.Q Machine Inventory is the newest addition to its solutions portfolio following the release of the resourceful QMS (Quality Management System) just last year. 
+ 

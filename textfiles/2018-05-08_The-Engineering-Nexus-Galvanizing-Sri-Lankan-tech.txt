@@ -1,0 +1,31 @@
+## Title: The ‘Engineering Nexus’ - Galvanizing Sri Lankan tech
+## Section: Press Releases
+## Date: 8 May 2018 09:08 am
+
+The ‘Engineering Nexus’ - Galvanizing Sri Lankan tech
+
+
+	
+
+Hasitha Liyanage, Snr. Director Technology and Architecture at Sysco LABS introduced the ‘Island of Ingenuity – Sri Lanka Knowledge Services’ brand, launched recently to position Sri Lanka as an investment destination for tech companies looking to expand globally
+
+The inaugural Engineering Nexus meetup was hosted at the Sysco LABS engineering center recently, marking the launch of another initiative to help grow and develop the software engineering and technology development practice in Sri Lanka. Unlike other meetups, the Engineering Nexus intends to solve tech problems by bringing together ideas and methodologies from different disciplines within tech organizations together. Therefore, the three speakers who addressed the audience Anjana Chandrapala, IVS Security Lead at Virtusa (Pvt) Ltd, Roshan Razik, Director Hosting Operations, at Pearson Lanka (Pvt) Ltd and Hasitha Liyanage, Snr. Director Technology & Architecture at Sysco LABS (Pvt) Ltd all specialized in different areas but came together to discuss the problem of Engineering Productivity. 
+
+The Engineering Nexus was started with a desire to address a problem that exists within the industry; that technologists tend to think in silos when it comes to solving problems and fail to see that there may be simpler solutions to their problems if they can bring in practices from different disciplines. To this end the three speakers were not just from different organizations, but also had different technical areas of focus; Quality Engineering, DevOps and Software Architecture. They all spoke on techniques from within their technical focus area that can be used to improve an organization’s Engineering Productivity overall. 
+
+Roshan Razik – Director Hosting Operations at Pearson Lanka (Pvt) Ltd, Anjana Chandrapala – IVS Security Lead at Virtusa (Pvt) Ltdand Hasitha Liyanage – Snr. Director Technology and Architecture at Sysco LABS (Pvt) Ltd atthepanel discussion led by AsiriLiyanage –Senior Software Architect at Sysco LABS (Pvt) Ltd.
+
+Speaking on the event, Hasitha Liyanage said, “I spoke on using data as a tool to help you to be more productive by making smarter decisions about what work you should focus on. It was really interesting as a software architect to be able to share my viewpoint on the subject of Engineering Productivity because that is a subject that is usually the focus area of Quality Engineering, but that is the power of the Engineering Nexus. I think the Nexus has great potential and I really want to encourage other tech leaders in the industry to join and collaborate on future events.”
+
+As the recent launch of the ‘Island of Ingenuity’ brand for Sri Lanka’s Knowledge Solutions industries illustrates, the nation’s tech sector is on the rise and there is abundant scope and insight available in the industry. It is the support of this industry that will be key to the growth and expansion of the Engineering Nexus; as it will be the industry leaders who will host events, identify key focus areas to base the sessions around and share their valuable knowledge and best practices.
+
+Discussing his experience speaking at the Nexus, Anjana Chandrapala highlighted three key principles to adhere by, in order to optimize the traditional software development process to make it capable of delivering solutions to a consumer driven, fast paced market. “First, reduce waste by eliminating unwanted efforts during the life-cycle and by applying best practices such as defect prevention mechanisms. Second, focus efforts on what matters the most by utilizing scientific measures such as pair-wise algorithm. And finally, automate throughout the life cycle to get redundant jobs done faster, which leaves you room for creativity and quality.”
+
+Roshan Razik shared the challenges of managing and supporting large business critical platforms and infrastructure at Pearson and the Continual Service and Operational improvement initiatives employed to overcome them for increased productivity. “There are three facets to our approach; persistent productivity, continual improvement, and innovation. They have enabled our TechOps teams to transform into a service-aligned team. Our key success factors for 2018 are Agile, Enhanced Customer Experience, Enabling Cloud, and Automation.”
+
+If all goes to plan we should see more Engineering Nexus meetups within the year. Complete videos of the speeches from the first meetup can be viewed at syscolabs.lk.
+
+ 
+ 
+
+		

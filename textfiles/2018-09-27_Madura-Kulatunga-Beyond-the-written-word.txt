@@ -1,0 +1,57 @@
+## Title: Madura Kulatunga: Beyond the written word
+## Section: News Features
+## Date: 27 September 2018 12:00 am
+
+Madura Kulatunga: Beyond the written word
+
+
+	
+
+
+
+I didn’t like dictionaries as a child. I remember being chided by my teachers for attempting to guess the meaning of a word without opting for the Big Book and I remember escaping their censure by guessing correctly.  
+
+That was of course rare, but those rarities were (thankfully) enough to convince me that no one, not even self-proclaimed pundits in a language, can claim to know every word and phrase. More than anything else, I came to believe that one could not and would not master a language unless he or she is aware of the need for reference. That obviously needed the Big Book. Needless to say, I eventually took to it.  
+
+I remember trying to memorize each and every term in it. I remember failing and I remember trying again and again. I realised soon enough that a dictionary was nothing more than what it was touted as: a reference book, akin to a kitchen utensil and to be privileged for its use. And like all reference books, it was fun and great when it was readily available. For that reason, I despised having to flip through page after page in my quest to understand a word or term I didn’t understand. I am still flipping those pages, but thanks to the Internet, I’ve come to realise that we don’t need to.  
+
+Now the Internet is like the Wild West. There are no rules and there is no level playing field. You take things at their face value and if you think you are wrong, well then, there’s Google to refer to. Dictionaries have proliferated (as have fact-books and encyclopaedias), and in that free-for-all, interminable world online you never can be too sure about the truth. That, I suppose, is why we need a leveller, some fixed source which can be quoted and looked to in order to ensure that because of our need for a quick reference, we don’t shrug off the (as pertinent) need for accuracy. This is especially true for one’s mother tongue, more so than for English, I firmly believe.  
+
+Madura Kulatunga is a familiar name to most Sri Lankans. He is not too young but he hasn’t mellowed with the passing of time. He exhibits a kind of naïveté that is, for me, attributable to a sense of simplicity that he’s acquired and nurtured over many, many years. That simplicity has won him both friends and enemies. Well, it’s won him more of the former, but the point is that in a life as carefully sketched out as his it’s really no surprise to come across various pitfalls which have tripped lesser beings.  
+
+
+
+Madura, as Sri Lankans who know (of) him know, filled a need. He filled a need for a virtual dictionary, a translator from the mother tongue to the language of the oppressor, English (and vice-versa). We first heard of him when he came up with a program to this tune and we heard of him again when he released it online. He set a standard. Others copied him. Does he lament? Of course not. Still, that doesn’t belittle the need for a brief biographical sketch. This is his story.  
+
+He was born on March 23, 1980 in Matara. He entered Royal College eventually after his family moved to Colombo. I assume at the beginning that his school would have imparted to him a love for computers, but he is cautious about admitting to such a thing. And it’s not hard to figure out why: at a time when computers were owned by a few and mastered by even fewer people, schools couldn’t really afford to invest on the subject too much. Royal had a Computer Society, but this didn’t conceal the class discrepancies among those who owned PCs and those who did not. Because of that, not many from his school managed to master or be conversant in the subject.  
+
+He did, however, jaunt off with his friends to Union Place every day to that now rarely seen and even more rarely visited site, the Internet café. Being the eager boy he was, he naturally revelled in surfing the web.  
+
+ 
+
+He is, admittedly, full of surprises. He didn’t take to IT or even Science at Royal. He chose Commerce. Having passed out in 1999, he opted for the field he’d fallen in love with, and pursued a Diploma in Computing at the Youth Centre in Maharagama. After completing his course, he got himself enrolled at Abacus Computers in Nugegoda for a Special Diploma in Information Technology, by which time his parents (both civil servants who weren’t exactly reeking of wealth) bought him a Pentium III 733 MHz desktop: a dinosaur by today’s standards but worth its weight in gold back then.  
+
+People have their weak points. Madura soon understood, while doing these courses, that he was deficient in English. Being the eager student he always was, he wanted to move beyond his curriculum and learn more. This, he realised soon enough, clashed with his less than excellent command of the language. He realised it even more as he bought a book on an area he felt his classes weren’t covering properly: Visual Basic.  
+
+Naturally, he took to referring the Malasekara English to Sinhala dictionary, through which he was able to understand the intricacies of programming and coding he needed in order for his next endeavour: designing his own program.  
+
+Having groped around with various ideas, he eventually hit on designing a dictionary. It was, he tells me quite frankly, a way of giving back. He admittedly had to resort to Malasekara most of the time and this, he argues cogently, was done with no malice or intent to steal. After testing the program when he finally came out with it on his friends’ computers, he got their feedback, was encouraged by the fact that they loved it, and released it then and there. The date was November 23, the year 2002.  
+
+Madura has a knack for numbers and he remembers the cost-and-price structure of his dictionary even now. For printing the CD cover and later packaging it, he had to spend about Rs.75. He sold the programme for Rs. 200 to a retailer who then marketed it for Rs. 300. Madura’s profit, after all that, amounted to Rs. 125, which had to take into account various capital equipment, including a CD writer that cost Rs.10,000. The dictionary, given that he’d marketed it well through word of mouth, caught on. Soon enough, it became popular.  
+
+
+
+ 
+
+
+
+That was then. Six years later (in 2008), by which time more and more Sri Lankans were taking to the Internet, he made a website out of his program (maduraonline.com) and unveiled it to the world. It continues to gobble up users: as of November 28 this year it’s the 33, 803rd most visited website in the world and the 109th in Sri Lanka on alexa.com, which as Madura explains takes into account websites visited, not created, in a country (so that these include Facebook and Google).  
+
+Despite all these achievements, he did not abandon his personal life. He studied. He passed out as a Microsoft Certified Systems Engineer in 2005. He obtained an MSc in Information Technology from Sikkim Manipal University (ICBT Campus) five years later. He was then recognised by the University of Moratuwa, when in 2009 he was invited to address a Symposium by Prof. Gihan Dias (who was instrumental in founding Sri Lanka’s first email system). Regarding the latter, he told me that while he’d been asked to come and present his website, he took the opportunity to instead explain to his audience the nuts and bolts of what he’d done.  
+
+Madura Kulatunga has more reasons than one to be complacent. He is not. As I talk with him, I realise that despite the many offers that came his way from companies only too willing to buy him out, he stuck to ideals and refused them all. In one sense I believe he is correct: such companies hardly can do the kind of justice to the program that its owner did. He has also been careful in giving credit where it’s due. That, I suspect, has more to do with his idealism than anything else, a point I discern most clearly when it comes to his openness: the kind that makes him both an optimist and a firm believer in individual effort.  
+
+Can he aspire for more? I think so. Should he? Yes. Will we profit by that? Of course. Should we be grateful? By all means.  
+ 
+
+		

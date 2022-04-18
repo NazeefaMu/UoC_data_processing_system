@@ -1,0 +1,107 @@
+## Title: FB ushers in age of ‘Responsible Facebooking’
+## Section: News Features
+## Date: 27 April 2018 12:00 am
+
+FB ushers in age of ‘Responsible Facebooking’
+
+
+	
+
+Comprehensive Community Standards Introduced  
+
+
+
+
+
+Facebook has decided to refine and make their guidelines understandable to the public
+
+Facebook has its own description of a nude picture
+
+This difficulty in identifying doesn’t arise with regard to a video
+
+It is difficult to identify content as being aggressive or violent because it is written
+
+Although FB users stumble upon content including hate speech or sensitive content, not all users will go to the extent of reporting them
+
+ 
+
+When Facebook (FB) was first introduced after the Hi5 and Messenger revolutions, the youth were mesmerised by its glamour and various other options. From adding people you know to sharing your ideas, it became a global platform for people to connect, free-of-charge. In no time, Mark Zuckerberg became a hero among the global community. With gradual changes, Facebook became a point of discussion and debate as it was ‘open’ to anyone. People of all ages and various intentions started using FB, some to do good and some with ulterior motives on their minds.
+
+
+ At the onset of the recent violent incidents in Kandy District, FB fanned more flames than expected, thus forcing the Government to censor all social media sites till the matter was resolved. Taking this issue and various other matters which led to hate speech and violence from around the world into consideration, Facebook has decided to refine and make their guidelines understandable to the public. In doing so, the team believes that they would be able to convince the public to play a role in allowing them to realise their mistakes and upgrade their service.   
+
+
+Hence the Dailymirror sheds light on the users’ responsibilities and why content should be reported even if it doesn’t concern you or someone you know.   
+
+‘We will update content regularly and ensure that the public understands it’-
+
+
+
+In an exclusive newsroom call with the , Facebook’s Head of Product Policy and Counter-terrorism, Monika Bickert elaborated on the recently launched Internal Enforcement Guidelines for Community Standards. “The standards that we have are Community Standards. I have worked and visited several places in Asia and when I came to Facebook six years ago, Community Standards were already there and they were of a high level. They said we don’t support harassment, bullying etc., but we didn’t give a lot of detail about what we meant. We heard questions about people all the time and about what we meant. By 2015 we came out with a more detailed version of how we define some of these concepts such as hate speech. But we didn’t reveal all the details and we continued to receive questions from people about how we enforce these policies. For instance when it comes to harassment we would define something, so we would explain how we tell our content reviewers to enforce the policy. But today we are giving more importance to these policies and making them public. We are going to make sure that these policies are understandable to the audience and our goal is to make sure that when the public see the content they could look at the policies to understand and review our content. If not they will understand with reasons. We are also launching an appeal process for individual pieces of content. If there are certain pieces of content that should be removed we do have the opportunity to request for a review. We recognize that we make mistakes and we are trying to give our community an opportunity to play a role in the process and analyse these mistakes. So if the content should be removed the information goes to our operations team and if we find out that we have made a mistake we do make it a point to make sure that the content is restored.” Bickert said.   
+
+
+
+More users equal to more changes 
+
+
+Speaking further Bickert however mentioned that this is not a final version of the FB Content Policy because the Policy continues to evolve. “Part of that is because we see more and more people on Facebook and there are different communities around the world. For instance there are speech issues that continue to change. So we are always hearing about new trends and things that we need to include in our Policy. We have a meeting which we call the Content Standards Forum where people from all different teams of Facebook from all over the world come together and discuss certain issues that we see in different parts of the world. Here we check the possibilities of refining our Policy. So, somebody from the Australian team might see a new self-harm trend among young people in Australia and then we would take a decision to view the activities happening in Australia. Then we look at the data and the content on our servers and find out the information offline about their trends and we will talk to academics about this problem around the world and we will get their inputs about how to refine our Policy to best address whatever the new issue is. So from now on wards we will regularly update the content; maybe every month. One of the goals of this launch is to obtain feedback from the community. We have been reaching out to civil society organisations and academics to obtain their feedback on these Policies. So from now onwards, anybody can report any piece of content on Facebook and this could be a profile, a photo, a post etc. This report goes to a member of our Community Operations Team and they are the reviewers who are based around the world. There are over 75,000 of them who continue to grow and they speak many languages and we want to make sure that we respond quickly to the reports that we obtain from the people. We get millions of requests within a week and we try to review the majority of them within 24 hours. In terms of hate speech and harassment, a lot of this bad behaviour comes from people who use fake accounts. They are not using their real names and they are using their accounts to abuse other people. Therefore our technical tools to identify fake accounts are getting a lot better. We see over a million fake accounts every day. We will have an Image Matching software and various other tools for this purpose. During the recent French and German elections for instance we removed tens of thousands of fake accounts using these new tools,”she elaborated.   
+
+
+With gradual changes, Facebook became a point of discussion and debate as it was ‘open’ to anyone. People of all ages and various intentions started using FB, some to do good and some with ulterior motives in their minds
+
+
+Customised ‘Terms and Conditions’
+
+
+In his comments to the Dailymirror, Senior Information Security Engineer at the Sri Lanka Computer Emergency Readiness Team (CERT) Roshan Chandraguptha said that on social media, every site has its own terms and conditions. “On Facebook they have their Community Standards which is not available on other social media. On other sites, their terms and conditions might reflect their laws and cultures. Therefore they address our issues in a different manner. Since 2013 we have spoken to technical teams at Facebook and although they said they will look into the issues, they were never resolved. This is because they emphasized on the freedom of expression for people in countries among other reasons. But for the Asian culture they have their own concerns. These issues exist because people use Facebook for different matters. 
+
+
+
+
+If you use it in an ethical and a responsible manner there won’t be any technical issues. If anyone tries to misuse Facebook then there will be problems. Initially when someone identifies a nude picture, Facebook has its own description of a nude picture. Therefore just because you post a photo of a girl in a swimming pool or in a bikini, according to Facebook it might not be a nude picture. If you go by another category also it might state that you are not violating the terms and conditions of Facebook. But it’s of concern to our people and culture,” he explained.   
+
+ 
+
+ 
+
+
+But problems may arise in how we identify the offences because they may not match what Facebook defines as an offence. This is also because the law in US is applicable to most social media and not the law in our country
+
+
+
+He further said that other issues include people using Facebook to rob money, to threaten others and so on. “Regarding these incidents there is a legal process in which you could obtain Subscriber Information which is held by them. If someone publishes something targeting someone or asking for ransom then any country is supposed to send a court order and obtain information from them. But problems may arise in how we identify the offences because they may not match what Facebook defines as an offence. This is also because the law in US is applicable to most social media and not the law in our country. But there are numerous instances when people use Facebook to keep in touch with friends and to promote businesses. During the time we faced an issue we came across numerous accounts owned by businesses as their marketing strategy. Therefore they were affected as a result of the censoring. In addition to that you cannot trust all the content that you see in Facebook. 
+
+
+If you want to find out how many planets are there in the solar system and if I think I need to come up with a website with the scientific details of the solar system I can do that. Nobody will ask me to take down the content and it is my opinion as well. Therefore if you search it on my website you will think that my opinion is correct and what others say is wrong. So we need to see if the information we obtain from the Internet comes from a reliable source. Wrong information can spread like wildfire and if you don’t trust the person sharing it, then you will share that wrong information with the rest of the people in your profile,” he said.   
+
+The real issue of ‘reporting’ content 
+
+ 
+
+
+
+
+Although FB users stumble upon content including hate speech or sensitive content, not all users will go to the extent of reporting them. When asked about this trend, Chandraguptha said that unless someone sees his or her own photo or a photo of a person he or she knows is being used by another account, people generally don’t report content. “There was an incident where some photos of girls were used by an account and those particular individuals requested us to take down the page. But we don’t have the authority to do that and hence reported the page to FB. We then realised that although around 100 people have reported the page, it was ‘liked’ by over 70,000 people. In that case they count only the numbers. With Community Standards FB believes that people will have their own photo and that they will not take somebody else’s photo and publish it. Of course there are instances when FB was used to collect dry rations and aid during times of emergency. We also see advertisements of people who need blood donations and other assistance. If people use FB in such a way there won’t be issues and nobody’s life would be in danger. Unless somebody reports, FB remains as it is because it
+
+is a community requirement,” he said.
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+We are going to make sure that these policies are understandable to the audience and our goal is to make sure that when the public see the content they could look at the policies to understand and review our content
+
+
+ 
+
+“If we report a page or an account and they are able to remove it, it means that they have access to all accounts,” Chandraguptha further said. “This means they have a lot of intelligence. We need to understand that they have all our information because given that there is a court case they have to provide all necessary information. If you deactivate your account you can recover it after three months. When we create an account we agree to their Terms and Conditions which many people don’t read. But if you read it you will have a better idea of what you are using. It is the user’s responsibility to use it wisely. It is difficult to identify content as being aggressive or violent because it is written, but this difficulty in identifying doesn’t arise with regard to a video. This in turn makes it difficult to identify such posts to have violated terms and conditions of FB. Therefore users have a bigger responsibility in using FB wisely,” he said.   
+
+ 
+ 
+
+		

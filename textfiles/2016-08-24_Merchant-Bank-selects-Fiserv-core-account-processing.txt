@@ -1,0 +1,33 @@
+## Title: Merchant Bank selects ‘Fiserv’ core account processing
+## Section: Financial News
+## Date: 24 August 2016 12:00 am
+
+Merchant Bank selects ‘Fiserv’ core account processing
+
+
+	
+
+Fiserv, Inc,. a leading global provider of financial services technology solutions, announced that Merchant Bank of Sri Lanka & Finance PLC (MBSL) has selected the Signature core account processing platform and Teller front-end teller system from Fiserv.
+
+
+In January 2015, the MBSL PLC finance company, Sri Lanka’s pioneer merchant bank, merged with two subsidiaries, MBSL Savings Bank Limited and MCSL Financial Services Ltd. With the merger, the branch network grew from 30 to 49 branches with an increase to 100,000 customer accounts. In order to support this larger branch network and customer base, MBSL needed technology that was flexible, scalable and stable. The company chose Fiserv solutions to help streamline operations and simplify customer management and support.
+
+
+“As our network and the number of customers we serve on a daily basis grew, we realized we needed a new core infrastructure that could provide the stability, flexibility and scalability we require, while also bringing down the cost of supporting multiple systems,” said Merchant Bank of Sri Lanka & Finance PLC CEO T. Mutugala.
+
+
+“We sought a reliable technology partner to help us grow our retail financial business and continue to provide excellent service and meet customer needs. Fiserv offered everything we needed with a core banking platform that is proven locally in Sri Lanka and across the globe.”
+
+
+With the implementation of the Signature and Teller solutions, MBSL staff will have access to a new front-end teller system design that offers improved ease-of-use and a streamlined view of the customer. On the back-end, the company now will have real-time online transaction processing and simplified end-of-day processes that can save hours of manual work per day. In addition, Signature offers the capability to support ATM and digital banking channels as the company continues to grow. 
+
+
+“More financial institutions find themselves instantly serving a larger customer base as a result of a merger or organic growth. This increases the need for flexible technology to provide a consistent and seamless experience that fits the way people live and work today,” said Fiserv Managing Director Asia Pacific Marc Mathenz. “For MBSL, Fiserv provides a strong platform to offer 24/7 capabilities and support to customers across a variety of channels – helping to create rewarding long-term relationships.”  
+
+
+Signature from Fiserv is a multi-lingual, multicurrency core account processing solution designed to meet the enterprise needs of today’s innovative banks. With an agile design, banks can bring new products and services to market quickly and efficiently, responding fast to changing market and customer needs. 
+Fiserv has successfully implemented bank platforms around the globe in more than 
+40 countries.  
+ 
+
+		

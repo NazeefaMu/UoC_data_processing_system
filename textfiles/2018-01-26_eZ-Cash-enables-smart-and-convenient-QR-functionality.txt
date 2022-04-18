@@ -1,0 +1,43 @@
+## Title: eZ Cash enables smart and convenient QR functionality
+## Section: Financial News
+## Date: 26 January 2018 11:04 am
+
+eZ Cash enables smart and convenient QR functionality
+
+
+	
+
+Sri Lanka’s first and largest mobile money and payment service, eZ Cash, announced the launch of the Quick Response (QR) code feature on its cutting edge eZ Cash app, enabling ‘Scan to Pay’ and ‘Scan to Transfer’ services via smartphone for the first time in Sri Lanka.
+
+
+eZ Cash has been at the forefront of mobile payment technology innovation in Sri Lanka as well as globally. In 2015, eZ Cash was named the winner of the Global Mobile Award for the ‘Best Mobile Money Platform’ at the Mobile World Congress.
+
+
+eZ Cash services are now available to over 16 million mobile subscribers across Dialog, Etisalat, Hutch and Airtel mobile networks.
+
+
+The latest QR code based ‘Scan and Pay’ feature will be available via the eZ Cash app on any smartphone, and will enable eZ Cash customers to transfer money to any other eZ Cash customer or to make payments across the expansive eZ Cash merchant network by simply scanning the QR code of the recipient.
+
+
+eZ Cash customers and merchants can download their personalised secure QR code via their respective 
+
+
+eZ Cash apps, and choose to retain it in their eZ Cash app or print it as a display label. The enhanced convenience delivered by the Scan and Pay feature includes the elimination of the need to enter the recipient’s mobile number or merchant ID since this information is digitally encoded in the QR code of the recipient, in addition to a quantum reduction in transaction time required to make a digital payment via mobile.
+
+
+eZ Cash QR ‘Scan and Pay’ is set to transform the way money is exchanged between individuals as well as between customers and service providers, with an eco-system of millions of smartphone users – whether they be individuals, service providers or merchants, now being able to ‘Scan and Pay’ each other.
+
+
+While delivering a breakthrough in mobile money transfer and mobile payment convenience, Scan and Pay transactions via eZ Cash will conform to the highest level of mobile payment security standards. All transactions will be PIN protected and secured by Triple Data Encryption Algorithm widely known as 3DES authentication and transaction security protocols. All transactions will be further validated via a confirmation SMS being transmitted instantly to both transacting parties.
+
+
+During the first phase of introduction, Scan and Pay will be available at selected eZ Cash merchants, offering a 10 percent discount to all eZ Cash customers. The service will later expand to host over 20,000 retail merchants and small stores across the country.
+
+
+Commenting on the new QR Code feature, Dialog Axiata PLC Digital Services Vice President Fariq Cader said: “eZ Cash has been at the forefront of all mobile payments in Sri Lanka and will continue to innovate in the space of financial inclusion by leveraging mobile technologies. The QR code greatly enhances the convenience of mobile payments and money transfers and is the next chapter in our thrust to deliver inclusive payment solutions venturing beyond traditional methods, and to empower all citizens of Sri Lanka through cutting edge mobile payments telephony.”
+
+
+To subscribe for the eZ Cash service or to enable Scan and Pay via an existing eZ Cash account, subscribers on Dialog, Etisalat and Hutch mobile networks can download the eZ Cash app from Google Play Store or Apple Store.  eZ Cash subscribers can top-up their eZ Cash accounts via Commercial Bank, Sampath Bank, PABC and NSB online banking portals, or at over 20,000 retail outlets island wide in addition to Dialog, Etisalat and Hutch Customer Centres across the country.
+ 
+
+		

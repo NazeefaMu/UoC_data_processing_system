@@ -1,0 +1,39 @@
+## Title: Techno Sri Lanka 2016
+## Section: Caption Story
+## Date: 9 October 2016 11:11 am
+
+Techno Sri Lanka 2016
+
+
+	
+
+
+					
+
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/6231952/DM_MO_Inner_S1', [300, 250], 'div-gpt-ad-1563438593854-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1563438593854-0'); });
+  
+
+
+
+
+
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/6231952/AdStudio_DM_Home', [300, 250], 'div-gpt-ad-1571720635755-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1571720635755-0'); });
+  
+
+
+					
+									  

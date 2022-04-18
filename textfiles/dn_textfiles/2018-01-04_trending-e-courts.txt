@@ -1,0 +1,47 @@
+## Title: Trending e-Courts
+## Supertitle: 
+## Section: Features
+## Date: Thursday, January 4, 2018 - 01:00
+
+Trending e-Courts
+
+According to recent reports, Sri Lanka is exploring the possibility of introducing paperless e-Court services. Justice Minister Thalatha Athukorala has shown keen interest on the concept after having a conversation with a visiting Malaysian Minster - Azalina Othman said.
+Although the e-Court system is quite new to our country, it has been adopted by policymakers around the world to increase efficiency in the courts and to guarantee fair and speedy trials.
+An e-Court (or Electronic Court) is a location, which has a well-developed IT infrastructure, in which matters of law are resolved upon, with the participation of qualified Judge or Judges. The system uses minimum amount of paper work from the moment a case is filed until its disposal.
+With e-Courts, information is captured and passed on digitally, case management is automated, correspondence and payments are done electronically and forms are created to simplify and streamline court proceedings. All these are available online to court users.
+The e-Court system will offer considerable potential to improve the way courts operate incourt management, case management, case allocation, record keeping, archiving, the recording of witness’ testimony, the presentation of evidence and court reporting.
+It also will improve the systems that assist judges and other key professionals, through the provision of databases of current and past court decisions and legislation and electronic legal information and internal communication systems.
+Acceptance
+But will the concept of e-courts, be successful in Sri Lanka?
+To answer this question, we should know where do we stand in our e-Government Readiness Index, a composite measure of the capacity and willingness of economies to use e-government for development. This index is given by UN Department of Economic and Social Affairs. Our current (EGDI) E-Government Readiness Index, is 0.5445 with a rank 79, out of 193 countries. It is a good jump from 115th rank two years back. Our improvement is noteworthy, and compared with other countries, we are in a position to start planning for e-Courts system in Sri Lanka.
+Advantages and drawbacks
+It is obvious that there are a number of advantages of e-Courts:
+(1) The speed of court proceedings. Minimal paperwork. All actions automated therefore process speed improves.
+(2) Information available: 24/7 access to registries and court documents. It would be available to the attorneys, parties and the general on-line.
+(3) Easy filing of documents – Registered attorneys can file their case document directly from their home or office. They can create a docket sheet and update it immediately, when the documents are filed.
+(4) Increased transparency: This is because litigants can also access the system.
+(5) High document security: This is guaranteed by a high-tech information technology system.
+(6) Better court management – E-courts would help in the computerization of work flow management in courts. Thus, it would help to create a better court and case management.
+Of course, there are also a few drawbacks of the system.
+(1) Complicated process - The process of e-filing a document is a difficult process. All the evidence cannot be produced in a digital format.
+(2) Lack of techno legal expertise – This inadequacy can be a hindrance to implement an e-Court system in Sri Lanka unless corrective action is taken.
+(3) Lack of funds – The project of e-Court involves a fair amount of expenditure. It involves the use of a lot of IT equipment and infrastructures. However, this is not an issue.
+Budget
+Concerns about budget and technology limitations are among the most common reasons for not implementing e-Court features. That should not prevent us from looking into e-Courts.
+Rwanda and Tanzania, two countries with Gross National Income per capita is less than 25% of Sri Lanka, have also started computerizing their courts. Tanzania’s project received funds from several donors and provided the judiciary with modern information technology and training for judges and staff. Rwanda’s Strategic Plan of the Supreme Court has recruited new court officers well trained in the use of information technology. Thanks to donor funds, the country now has an e-filing system, electronic records management system and legal information portal.
+e-Courts can be implemented with donor assistance, and reforms can be inspired by peer learning from leading economies. The question which pops into anyone’s mind is what were we doing all this time.
+Malaysian experience
+Malaysia has implemented an ambitious computerization of its courts. In late 2008, with the appointment of a new chief justice, Malaysia initiated reforms targeting judicial delays and court backlogs. The results were astonishing. For example, 98 per cent of the Commercial Court cases were disposed within nine months. Cases which exceeded the nine months were disposed in a year. The Malaysian judicial system was also recommended by the World Bank for adoption by judiciaries facing similar problems and among countries which visited and adopted the practice were Sri Lanka, Thailand, Brunei, Nepal, Sweden and Taiwan.
+e-Court system in Malaysia has six main types of mechanisms.
+(VCS) Video Conferencing System: VCS allows “virtual court proceedings” to be conducted between two or more geographical locations. Witnesses and experts required to appear in court can conveniently and economically give evidence from anywhere in the country or the world - saving not only on time, but also on airfare and accommodation costs.
+VCS is also used for protected witnesses in the case of rape or cases involving children under the age of 18.
+(CMS) Case Management System: CMS allows court officials to manage the information and workflow of cases from registration to judgment. The system also features overall calendars of court activities as well as a master-listing module to allow for easy scheduling, tracking and viewing of cases and judges.
+(CRT) Court Recording and Transcription System: During court hearings, the Court Recording & Transcription System (CRT) facilitates the recording and tracking of audio and video in order to ease the development of court-transcripts of the proceedings.
+E-Filling: The e-Registration & e-Filing System allows the electronic filing of court cases and legal documents throughout court proceedings and enables legal firms to monitor the whole flow of cases, from registration to disposition.
+(CAP)Community and Advocate Portal System: CAP is the primary gateway for the Court to reach its external customers and stakeholders. Through CAP, information such as general court information, announcements, news, cause lists and trial judgements is made accessible.
+(CARE): Court-Advocate Resource Engagement System:CARE System enables the systematic and organised sequencing of the multiple court hearings of the day.
+Solutions
+The implementation of e-Court project helped Malaysia in clearing the backlogs within a short period of time. Malaysia’s Chief Justice TunMdRaus Sharif said, “No doubt we have made a good progress thus far, but reform is a continuous process. Our immediate concern is to dispose old cases which are more than a year or longer, while on long term, we intend to concentrate on the capacity building through continuous Training of Judges.”
+“Justice must not only be done, but also seen to be done,” he further said.
+e-Court solutions could unquestionably improve the transparency of court processes and speed up the flow of information through various organs of the Sri Lankan judicial system. They will also make the system much more open, both to public inquiry and to the entities with which it regularly communicates. In many countries, internet-based distance learning courses for judges, other court staff, Attorneys, public defenders and prosecutors are conducted with facilities for video conferencing.
+We are well behind with many other developing countries on computerization of our judiciary. It’s time we wake up. The good news is, if we are going ahead with the implementation, we can make use of the experience of those countries.

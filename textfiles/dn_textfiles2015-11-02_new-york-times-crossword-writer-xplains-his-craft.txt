@@ -1,0 +1,39 @@
+## Title: A New York Times Crossword Writer xplains His Craft
+## Supertitle: 
+## Section: Features
+## Date: Monday, November 2, 2015 - 19:30
+
+A New York Times Crossword Writer xplains His Craft
+
+Unless you’re the type who finishes The New York Times’ Sunday crossword puzzle in ink every week, you may not spend a lot of time thinking about the science behind puzzle-making. But if you’re anything like us, you do occasionally guffaw at a particularly brilliant clue, or sit befuddled at a stumper, wondering idly how they come up with those things. Today, a Times crossword creator (actually they call themselves constructors) named Brendan Emmett Quigley took to Reddit to answer questions about his craft, and the result was a fascinating bunch of information in the form of a dizzyingly long message board thread. But if you pull out just the pithy answers, they make for a neat FAQ that details how such puzzles are made.
+Of course, we couldn’t just leave the questioning to Reddit. We had to call Quigley up to get his take on today’s online exercise. “I didn’t have any preconceived notions for it. I thought I’d give it a shot and see what happened. I was completely shocked that it skyrocketed to the front of Reddit,” he said via telephone.
+“There are obviously crossword fans there.” Quigley told us his favorite part of puzzle writing was debuting a new word before his competitors. “There’s a little unspoken race among us constructors who can be the first one to get the new buzz word in there.
+Since I give away puzzles on my site, I’m afforded the opportunity, if something comes up today, for example, to put it in the Thursday puzzle.” His least favorite part? That’s a little more complicated, but fascinating:
+I’m not the hugest fan of cluing sometimes. It can be a bit of a drag to keep cluing the same words again and again, which unfortunately keep coming up. There’s only so many new ways to clue OLEO and OREO and AREA and that kind of thing, [but] they’re easy to work with. That’s what it boils down to.
+We don’t go out of the way to put OREO in there. OREO is like the cement holding the bricks together, the bricks being the real marquee entries. In order to make it work, following all the rules, we have to rely on these very trite, vowel-heavy words that are in puzzles all the time… They’re hopefully holding together MESHBASEBALLCAP and JOHNBOEHNER or some crazy new fun stuff.
+But he is a fan of answering questions from Redditors. Below are some of his most interesting from today’s session. We’ve condensed and edited some of the Reddit questions, but Quigley’s answers are verbatim:
+Reddit: How do you feel about the outlook for printed media, specifically newspapers such as The New York Times? Do you feel that this will impact your career in the near future? Is Times puzzle editor Will Shortz a nice guy?
+Quigley: Crosswords are transitioning just fine digitally: Across Lite, Crossword Solver for laptops. Stand Alone for PDAs, etc. Will is a nice guy. He came to my wedding.
+Reddit: How many of you crossword creators are there?
+Quigley: About 150 of us
+Reddit: Do you start with the clues and make them fit a template or the other way around?
+Quigley: I come up with the theme to the puzzle first, then the grid. Clues come last.
+Reddit: How do you go about filling in the words? I would assume you do the longer words first, followed by theme words?
+Quigley: You start with the longest entries first, then you put in the entries that span the longest entries, then you work simultaneously across and down until you hit a corner.
+Reddit: Is there any specific word that you love putting into crossword puzzles? Either because of its difficulty level or number of vowels in it?
+Quigley: Not a specific word per se, but typically each grid will have what I call a marquee answer. A marquee answer can a never-before used phrase, a name in the news, a consonant-heavy answer, etc. Just sayin’: The consonant-heavy answers are much harder to work with.
+Reddit: What is your invovlement with Will Shortz? What typical editting occurrs on a crossword?
+Quigley: I send him puzzles and he runs the ones he likes. If we bump into each other, we might have a beer.
+Editing typically means polishing up the answer grid to get rid of any lousy entries, then tightening up the clues.
+Reddit: I’ve been doing New York Times crosswords since I was 16 and I’m 22 now. I have never been able to complete one past Wednesday. Do you have any advice for improving my skills?
+Quigley: It sounds trivial, but doing it every day forces you to get better, even if you have absolutely no shot of even finishing any puzzle past Wednesday.
+It’s like working out, you have to tear muscle if you plan to build any. You’ll find that over time you’ll be able to see through the tricks in the clues. Eventually, you should be able to ask yourself what newfangled clue are they using to hide the most typical banal answer? We constructors do that a lot.
+Reddit: What are the “rules” that a crossword has to obey? I read some of them once, I thought: diagonal symmetry, no more than some percent black spaces, etc.
+Quigley: Odd number of squares on a side, grid should have 180 degree symmetry, no more than 1/6th of the grid is black square, word count something like 78 words for a 15x, 72 words if there’s no theme, no repeated words--even in the clues.
+Reddit: Why those specifics?
+Quigley: The first crossword editor, Margaret Farrar, came up with these rules to help her sift through the slush pile faster. She felt that anything else would be too easy to make and too simple to solve. Despite all the changes that the crossword has gone through, all of her rules stuck.
+Reddit: How did you get on the career path leading to your current job?
+Quigley: My career path entailed barely acquiring a BA at UNH, getting fired from miserable jobs in the publishing world, and slumming it in rock bands. That said, I’ve been selling puzzles to The Times since 1996.
+Reddit: Have you ever put secret messages into the answers to your puzzles?’
+Quigley: Once or twice.
+- The Wire 

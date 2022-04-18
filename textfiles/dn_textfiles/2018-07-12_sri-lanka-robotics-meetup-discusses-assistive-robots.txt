@@ -1,0 +1,13 @@
+## Title: Sri Lanka Robotics Meetup  discusses assistive robots
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, July 12, 2018 - 01:00
+
+Sri Lanka Robotics Meetup  discusses assistive robots
+
+The 5th edition of the Sri Lanka Robotics Meetup was held at Virtusa recently.
+The event, organized by IEEE Robotics and Automation Society Sri Lanka Section Chapter in partnership with IEEE Sri Lanka Section and facilitated by Virtusa discussed assistive robots.
+Kazuo Kiguchi, Professor in Systems and Control at the Department of Mechanical Engineering, Kyushu University, Japan started the session with a presentation on ‘Control of Human Assist Robot Based on Integrated Information’. His focus was on two types of assistive robots, power assist and perception assist robots. Professor Kiguchi concluded his session, highlighting the future direction of these human assisting robots.
+This was followed by a presentation by Dr. Thilina Lalitharatne, Senior Lecturer at Department of Mechanical Engineering, University of Moratuwa on ‘Brain Machine Interfaces for Assistive Robots’, where he elaborated on how brain signals can be used for assistive robots. His research background revolved around the aging society and the disabled population.
+Later, the two presenters joined Dr. AchalaPallegedara, Senior Lecturer at Faculty of Engineering, University of Peradeniya for a panel discussion, which discussed a range of topics from the current status of bio-robotics in the world to limitations of using BMI. 
+ 

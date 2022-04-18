@@ -1,0 +1,38 @@
+## Title: Mastercard opens-up access to Blockchain API  for partner banks and merchants
+## Section: Financial News
+## Date: 25 October 2017 11:23 am
+
+Mastercard opens-up access to Blockchain API  for partner banks and merchants
+
+
+	
+
+Mastercard announced that it will be opening up access to its Blockchain technology via its API published on Mastercard Developers.
+
+
+Mastercard’s Blockchain solution provides a new way for consumers, businesses and banks to transact and is key to the company’s strategy to provide payment solutions that meet every need of financial institutions and their end-customers. The Mastercard Blockchain API will be part of the Money 20/20 hackathon in Las Vegas. The company has tested and validated its Blockchain and will initially implement the technology in the business-to-business (B2B) space to address challenges of speed, transparency and costs in cross-border payments. The Mastercard Blockchain technology will complement the company’s existing capabilities including virtual cards, Mastercard Send and Vocalink to support all types of cross-border, B2B payment flows – account-based, Blockchain-based and card-based.
+
+
+There are four key differentiators of the Mastercard Blockchain – privacy, flexibility, scalability, and most importantly, the reach of the company’s settlement network.
+
+
+Privacy – Mastercard Blockchain provides privacy by ensuring that transaction details are shared only amongst the participants of a transaction while maintaining a fully auditable and valid ledger of transactions.
+
+
+Flexibility – Partners can use the Blockchain APIs in conjunction with a wider suite of Mastercard APIs to create a range of powerful, new applications. Software development kits are available in six different languages to make the APIs even easier to integrate.
+
+
+Scalability – Mastercard Blockchain is designed for commercial processing speed and extensibility by reaching consensus between a trusted network moderator and network participants. Reach – Mastercard Blockchain is integrated into the company’s payment network that includes 22,000 financial institutions to move funds that have been committed on the Blockchain.
+
+
+“By combining Mastercard Blockchain technology with our settlement network and associated network rules, we have created a solution that is safe, secure, auditable and easy to scale,” said Mastercard LabsExecutive Vice PresidentKen Moore. “When it comes to payments, we want to provide choice and flexibility to our partners where they are able to seamlessly use both our existing and new payment rails based on the needs and requirements of  their customers.”
+
+
+Mastercard Blockchain solution has the ability to power secure and seamless non-card payment transactions such as business-to-business payments and trade finance transactions. It also has the ability to power non-payment solutions such as proof of provenance that helps authenticate products across the supply chain.
+
+
+With this proprietary solution, Mastercard hopes to create new benefits for its partners and make the commerce ecosystem easier, faster and safer. In addition to building a new solution, the company has also filed for over 35 patents in Blockchain and invested in Digital Currency Group, a collaborator that builds, incubates and seeds Bitcoin and Blockchain technology-related companies. It recently joined the Enterprise Ethereum Allianceto explore the possibilities of the Ethereum technology across a wide range of potential use cases, many of them well outside the scope of Mastercard’s traditional payments environment. In addition, Mastercard is also working on new use cases with startups that are a part of its Start Path 
+Global programme.
+ 
+
+		

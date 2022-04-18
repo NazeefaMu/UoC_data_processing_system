@@ -1,0 +1,16 @@
+## Title: Veritas Technologies hosts partner  enablement event
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, April 11, 2018 - 01:00
+
+Veritas Technologies hosts partner  enablement event
+
+Veritas Technologies, a leader in multi-cloud data management recently hosted a partner enablement event for Veritas’ partners and customers, together with its partner in Sri Lanka, Avian Technologies.
+Veritas Technologies has successfully transformed itself from a traditional back-up and recovery company to a multi-cloud data management player and brought a 360 data management strategy to life. Building on this approach, Veritas offers a comprehensive array of data management solutions for the multi-cloud – ranging from data visibility and protection, to storage optimization, business continuity and compliance readiness.
+Speaking during his visit for the partner enablement event, Balaji Rao, Managing Director for India and SAARC stated, “We conductedthe partner enablement event in Sri Lanka to introduce the new products as well as to discuss the key challenges faced by the industry. With Sri Lanka being part of the India and SAARC region, we are focused on strengthening our footprint in the local market, in tandem with our partners. In our interactions with partners, the challenges faced by customers in the multi-cloud era, especially with the exponential growth of data, is high on our priority list”.
+The agility in moving data between clouds is another challenge faced by organizations with the expansion of the multi-cloud system.
+Ideally, a company would like to have the flexibility to sign up with multiple cloud vendors, depending on their varied requirements.
+Data hoarding is yet another common issue for many companies. According to the Veritas Databerg Report, 52% of all information currently stored and processed by organizations around the world is considered ‘dark’ data, whose value is unknown. A majority of companies are guilty of data hoarding and strict processes need to be put in place to avoid this.
+“Veritas provides customers with a holistic 360 data management tool through a comprehensive array of data management solutions. The knowledge, metadata management, techniques and skills that the company has built over the years are steeped in both depth and breadth, for a single service provider,” commented Balaji.
+Customers are able to receive the technology of Veritas in two ways.They can use the consulting services where the Veritas team would analyze their environment and provide reports and recommendations, which in turn can help them with their business decisions and policies.
+“Sri Lanka is an important market for us in this region. We look forward to share the experiences and skills we have in India, especially with the banks and telecommunication service providers, with our Sri Lanka partners, to help them add value when they deliver our products to their customers,” he added further.

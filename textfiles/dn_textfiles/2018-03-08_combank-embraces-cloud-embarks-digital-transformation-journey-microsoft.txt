@@ -1,0 +1,13 @@
+## Title: ComBank embraces cloud, embarks on  Digital  Transformation journey with Microsoft, partner N*Able
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, March 8, 2018 - 01:00
+
+ComBank embraces cloud, embarks on  Digital  Transformation journey with Microsoft, partner N*Able
+
+Commercial Bank of Ceylon PLC, the largest private-sector bank in Sri Lanka has chosen Office 365, the cloud powered productivity solution from Microsoft, to improve communication and collaboration among its workforce, addressing the bank's vision of supporting a digital culture change and engaging with customers.
+“Financial services looking for a competitive advantage will need to leverage emerging technology to thrive in the digital economy,” said Hasitha Abeywardena, Country Manager for Microsoft Sri Lanka and the Maldives. “Commercial Bank is taking a very strategic approach to technology, looking at it as a means to drive change and open up new business opportunities. With Office 365, the bank will be able to harness the intelligent cloud and benefit from Microsoft’s investments in security, trust and regulatory compliance. Microsoft has always been a partner-led company. As Commercial Bank looks to embark on its digital transformation journey, our partner N*Able will play an important role in being the bank’s technology advisor and enabler.”
+Commercial Bank will take advantage of the Microsoft Cloud for business transformation. Microsoft Office 365 will provide modern, cloud-based productivity and collaboration tools, such as Exchange, SharePoint, Yammer, Power BI and Skype for Business to many of the bank’s 4,987 employees, while Azure Active Directory will give them an all-inclusive cloud-based directory and identity management service.
+“Modernizing our technology infrastructure will enable current and future growth across all our lines of business,” said Sivakrishnarajah Renganathan, Chief Operating Officer/ Executive Director at Commercial Bank.
+“Our partnership with Microsoft aligns to our target of utilizing cutting-edge technology and focusing continuously on productivity improvement to further establish Commercial Bank as the digital leader for financial services.”
+Commercial Bank will reap the benefits from this digital transformation in three phases; making itself agile by rapidly upgrading to cloud-based technology, focusing on user adoption by identifying use cases based on work profiles, and transforming business by process alignment with the new tools, all of which together will ultimately enhance, both, branch and customer experience.

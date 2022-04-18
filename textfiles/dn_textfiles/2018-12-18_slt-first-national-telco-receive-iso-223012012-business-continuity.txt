@@ -1,0 +1,18 @@
+## Title: SLT first national telco to receive ISO 22301:2012 for business continuity management system
+## Supertitle: 
+## Section: Finance
+## Date: Tuesday, December 18, 2018 - 01:00
+
+SLT first national telco to receive ISO 22301:2012 for business continuity management system
+
+Sri Lanka Telecom (SLT), announced the achievement of two certifications from the world renowned certification body, Bureau Veritas.
+The company achieved the ISO / IEC 27001:2013 Certification for its Information Security Management System and the ISO 22301:2012 Certification for its business continuity management system. SLT is the first national telco in the country to attain this business continuity Certification ISO 22301:2012.
+An Information Security Management System (ISMS) is a systematic approach to managing sensitive company information by including people, processes and IT systems so that this information remains secure.
+SLT first achieved BS 7799 certification for its Information Security Management System back in the year 2006. It was then the first Company incorporated in Sri Lanka to achieve this security standard as well as to be listed in the prestigious ISMS Registry since 2006. Thereafter, SLT has continuously maintained its certification up to now. This is the latest re-certification received, following an audit conducted by Bureau Veritas Lanka (Pvt) Ltd in August 2018. As the national ICT solutions provider to the nation, SLT’s fully fledged ICT infrastructure and network that spans all corners of the country played an influential role in the company achieving this certification.
+SLTis responsible for handling business critical information pertaining to a substantial client base comprising of large multinational corporations, large and small corporate, public sector as well as retail organizations.
+This certification is a guarantee to SLT’s clients and business partners of the company’s employment of world-class mechanisms and standards to ensure that its obligation and duty to its valuable clients are fulfilled without any security breaches.
+Furthermore, SLT has also revealed its plans to extend its service portfolio to include information security consultations to other corporates in the near future.
+SLT received the 22301:2012 certifications for its business continuity management system applicable to its commercial network and infrastructure. This certification re-affirms to the clients of the company of SLT’s readiness to maintain optimum services even during times of natural disasters, man-made disasters or any other disruptive events.
+SLT, Shan Nanayakkara, General Manager of Bureau Veritas Lanka (Pvt) Ltd commented saying, “Through the audit that was conducted, we were fully satisfied that SLT’s management systems with regards to information security as well as business continuity were on par with international standards. The professionalism and expertise of their staff were also evident in the response and support that we received from them during the audit that was conducted.”
+P.G. Kumarasinghe Sirisena, Chairman of SLT Group, giving his comments on the new certifications achieved by SLT said, “This is good news for all corporates who choose to partner with SLT. With the acquisition of these key certifications, we guarantee them of the security of their business critical information even more than ever before. Further, the guarantee of uninterrupted optimum services 365 days a year is another incentive for other corporates to come on board with SLT as their partner. We also have plans to extend these certifications to the rest of the SLT Group, including SLT Mobitel in the near future.”
+ 

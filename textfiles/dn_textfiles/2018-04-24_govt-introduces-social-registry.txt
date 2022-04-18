@@ -1,0 +1,12 @@
+## Title: Govt introduces social registry
+## Supertitle: 
+## Section: Local
+## Date: Tuesday, April 24, 2018 - 01:00
+
+Govt introduces social registry
+
+As per an initiative taken by the National Policies and Economic Affairs Ministry in 2015, the Department of Project Management and Monitoring (DPMM) has taken steps to develop a social registry, which is a Management Information System (MIS) on social welfare programmes implemented under the Government of Sri Lanka.
+This MIS has been developed by the Information and Communication Technology Agency (ICTA) with the coordination and support from DPMM and the Policy Development Office of the Prime Minister’s Office.
+Currently the system contains information related to beneficiaries of 24 welfare programmes funded by the government, under 12 government institutions. All the district-level demographic information of the beneficiaries are available for access by the public at http://socialregistry.gov.lk/. Steps are being taken to eliminate the duplicated data entered in the system.
+This system will be beneficial to policymakers in developing evidence-based policies for social empowerment and also in designing better welfare programmes for the vulnerable groups in the society. Further, it is expected that this system will reduce the welfare cost of the government by eliminating the duplication of beneficiaries.
+Also, it is expected to utilise the information collected under the social registry to further develop Sri Lanka’s social protection programme under the Social Safety Nets Project (SSNP) funded by the World Bank under the Finance Ministry. 

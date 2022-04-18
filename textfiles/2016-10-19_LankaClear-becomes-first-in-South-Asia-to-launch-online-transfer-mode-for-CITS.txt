@@ -1,0 +1,37 @@
+## Title: LankaClear becomes first in South Asia to launch online transfer mode for CITS
+## Section: Financial News
+## Date: 19 October 2016 12:00 am
+
+LankaClear becomes first in South Asia to launch online transfer mode for CITS
+
+
+	
+
+
+
+LankaClear (Pvt.) Ltd, the operator of Sri Lanka’s national payment network – LankaPay, made yet another gigantic stride in the payment and settlement arena by completely automating the cheque clearing cycle by introducing the online transfer mode of the Cheque Imaging and Truncation System (CITS). 
+
+
+With this revolutionary initiative, Sri Lanka made history by becoming the first in South Asia to launch the online transfer mode of CITS, which replaced the current inefficient practice of transferring the last mile of cheque images via CD-ROMs. 
+
+
+This significant achievement is anticipated to further bring down human intervention and inefficiencies associated with the current cheque clearing process to a bare minimum, thus, allow the banks to further extend their service levels to their customers.
+
+
+Operating under the supervision and guidance of the Central Bank, LankaClear launched the Cheque Imaging and Truncation System (CITS) in 2006, which transformed the domestic interbank cheque clearing process by eliminating the cumbersome physical presentation of the cheque, which saved a significant amount of time and brought down the processing costs substantially. 
+Although the introduction of CITS eliminated the inefficiencies associated with physical presentation of cheques, the banks still had to submit the MICR data of physical cheques saved onto CD-ROMs and deliver to LankaClear, daily. 
+
+
+This process was found to be ineffective due to numerous practical issues encountered in delivering the CD-ROMs before the assigned cut off times and security vulnerabilities due to possibilities of the CD ROMs being damaged while transportation.
+With the launch of the online transfer mode of CITS, banks are now able to transmit the MICR data of physical cheques via direct online transfer mode to LankaClear through a secured Virtual Private Network (VPN) with end to end encryption. 
+
+
+This will be comparatively cost effective to the banks and will also eliminate the hassle of having to deliver the MICR data physically to LankaClear. The new system went live on October 18, 2016 with the participation of several member banks, namely Hatton National Bank, Commercial Bank, Cargills Bank, Standard Chartered Bank and NDB and subsequently the other banks would join the online mode. 
+The end objective of introducing CITS online mode is to offer greater flexibility to banks’ customers, reduce the clearing cycle and further enhance the security aspects of cheque clearing.
+Speaking of the launch of CITS online, LankaClear (Pvt.) Ltd Chairman Anil Amarasuriya said, “It gives me great pleasure to announce the launch of online transfer mode of CITS, which is in testament to Lanka Clear’s progressive journey towards empowering the nation with efficient, cost-effective, inclusive and secure payment infrastructure, leading the way as the country’s national payment network.”
+
+
+Speaking on this momentous occasion LankaClear General Manager/CEO Channa de Silva stated, “LankaClear has been continuously revolutionizing the payments and settlements landscape in Sri Lanka by introducing many technology innovations and this is only another milestone in our long journey, even though it is an extremely significant achievement for the country. By this initiative, we came one more step closer to help banks to increase their efficiencies and enhance customer experience.”
+ 
+
+		

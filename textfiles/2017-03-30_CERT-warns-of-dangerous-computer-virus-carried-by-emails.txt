@@ -1,0 +1,30 @@
+## Title: CERT warns of dangerous computer virus carried by emails
+## Section: Breaking News
+## Date: 30 March 2017 09:33 pm
+
+CERT warns of dangerous computer virus carried by emails
+
+
+	
+
+The Computer Emergency Readiness Team (CERT) today warns computer users to beware of a dangerous computer virus received in many forms as it was fast spreading throughout the internet and there was a risk of it infecting any computer through emails.
+
+Speaking to Daily Mirror, CERT Chief Information Security Engineer Roshan Chandragupta said the virus mainly infected to computers through emails.
+
+“Five incidents have been reported in the country so far of infection by the computer virus but there may be more incidents which have not been reported to us or detected yet,” he said.
+
+After the virus infects a computer, all information and data in the computer, including video files, would be encrypted (the information and data is converted into a code which cannot be read).
+
+No way has been found so far to decrypt (convert the unclear messages to a readable format) or recover the lost data using any software. The computer has to be reformatted (prepare the chosen computer hard drive partition to be used by an operating system by deleting all of the data and settings in a computer system) and the operating system reinstalled.
+
+The virus was identified as ‘ransomware’ and it was so described because the virus was designed to demand a ransom of a certain amount if the virus was to be removed and the encrypted data recovered.
+
+However those who had paid the ransom had not had their data restored by the creator of the virus .
+Therefore Mr. Chandragupta advised all the computer users to be wary of opening suspicious emails that contain highlighted documents such as newsletters, video attachments, PDF documents and bogus lottery winning results… etc.
+
+He also advised computer users to backup all their valid data and information on to external storage devices.
+
+“Also do not backup information or data while using emails, because there is a likelihood of infecting the backup devices as well with the virus. It is essential to keep the installed virus guards up-to-date. Reports had revealed several virus guards can defeat the virus. But many incidents of infection by the virus were reported even of computers with up-to-date virus guards,” Mr.Chandragupta said. (Chaturanga Pradeep)
+ 
+
+		

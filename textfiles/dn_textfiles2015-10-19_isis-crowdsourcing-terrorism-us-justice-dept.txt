@@ -1,0 +1,24 @@
+## Title: ISIS is 'crowdsourcing terrorism' - US Justice Dept.
+## Supertitle: 
+## Section: World
+## Date: Monday, October 19, 2015 - 19:30
+
+ISIS is 'crowdsourcing terrorism' - US Justice Dept.
+
+US: Ardit Ferizi, a well-known hacker, who sympathizes with Islamic State (IS, formerly ISIS/ISIL), and his Kosova Hackers Security (KHS) group, are suspected by the US Justice Department of illegally obtaining personal information, including home addresses and social security numbers of some 100,000 individuals by hacking into a US computer network belonging to an unidentified retailer in Phoenix, Arizona.
+Among the data was information about 1,351 US military personnel and federal governments, which Ferizi apparently datamined and shared with IS. The list was distributed in August through jihadist social networks and was intended as a 'kill list' for IS sympathizers in America. Many of the phones and emails on the records turned out to be out of service, but some were still in use.
+Although people from US-allied countries, such as the UK and Australia were included amongst the data, the majority of names belonged to Americans - everyone from lowly bureaucrats to those at the top of the chain. One person who's personal information was breached, a social-services provider, told NBC he was surprised to have been contacted by the FBI a month ago, but did not think much of it at the time.
+"They said they didn't think it was a high-level risk. I was a little more vigilant at first. But then I kind of forgot about it."
+A counterterrorism analyst with NBC, Evan Kohlman, believes Ferizi achieved his task by homing in on emails that ended with .gov and .mil (for military), and that his choice of people to condemn to death was not a specific. Kohlman called the idea "crude but effective."
+The authorities say Ferizi had been in contact with Junaid Hussain, who also calls himself Hussain Al-Brittani.
+He is a British-born hacker and a social media expert with the IS, according to the Justice Department. He is said to have been the inspiration for a number of lone-wolf attacks in the US, including at a Prophet Muhammad cartoon contest in Garland, Texas.
+Ferizi reportedly supplied the hit list to Hussain in July. The names were circulated to the terrorists a month later. There was a message attached for the US authorities, claiming jihadists are "in your emails and social media accounts" and would use the confidential data they extract to strike at Americans on their home soil.
+Hussain was assassinated in a drone strike two weeks later in Raqqa, Syria - the city, which IS, calls its capital.
+Apparently, Ferizi was also in contact with an Arizona-based hosting service, from where he sourced the names.
+He threatened the body, saying "bad things will happen to you," if they were to attempt to remove his malware from their systems.
+He also threatened to publish the entire list of 100,000 names with attached personal data.
+He had allegedly tried to blackmail the company for two bitcoins ($500, approximately) in return for stopping the attacks and revealing how he had carried them out, according to court papers.
+Ferizi was arrested in Malaysia.
+He had moved to Kuala Lumpur in August 2014 to study computer science and forensics. He is expected to be extradited to the US to stand trial, Malaysian police reported.
+The hacker group KHS claimed to have hacked more than 20,000 websites, including Serbian government sites, Interpol's website in 2012, and an IBM research domain in the same year, according to the criminal complaint.
+- RUSSIA TODAY

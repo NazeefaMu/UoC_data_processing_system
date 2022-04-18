@@ -1,0 +1,21 @@
+## Title: ICTA implements online ePolice Clearance Certificate system for SL Police
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 3, 2017 - 01:00
+
+ICTA implements online ePolice Clearance Certificate system for SL Police
+
+An ePolice Certificate system was developed by the Information & Communication Technology Agency of Sri Lanka (ICTA) for the Sri Lanka Police for the issuance of Police Clearance Certificates (PCC) online.
+This system was officially launched recently at a ceremony graced by the Inspector General of Police, Pujith Jayasundara accompanied by several other Senior DIGs, as well as Doctor Ajith Madurapperuma, Deputy Chairman from ICTA along with other senior officials.
+The comprehensive solution being implemented, fully automating the internal systems of the Police Clearance Branch will be a remarkable milestone in the history of the Sri Lanka police as it puts an end to the stringent manual process in use.
+In the prevailing context where countries all over the world are vigilant over the potential security threats caused by migrants, PPC is a mandatory requirement for anyone intending to migrate or apply for work permits and even for Sri Lankans living aboard, when seeking for new employment.
+Currently, the Clearance Branch receives approximately 150 applications per day from locals and nearly 300 weekly from Sri Lankans living abroad, while nearly 600 applications come in per day merely from locals residents.
+The Deployment of the Application for the Clearance Branch, as the first phase of the project, was implemented in 2016.
+Consequently, as of now, within the Clearance Branch, the internal systems have been fully automated including application processing, monitoring and tracking in order to ensure that applications are responded to with efficacy.
+In addition to that, reporting functions and audit trails are also in place to ensure accountability. Communication with and among 477 police stations located across the country and other agencies has likewise been automated, so that no more lagging takes place when sharing information. The end result is that the processing time has been brought down to 4-5 working days from 15 working days.
+With the launching of the Online Application Submission Service as the second phase of this particular project, applicants, irrespective of the fact of whether they are locals or locals living abroad, can now submit their applications online, while paying the administration fee online using either their credit cards or mobile payments.
+Further, citizens have also been facilitated to check the current status of the submitted applications online as well.
+Addressing the gathering, Doctor Ajith Madurapperuma said, “We are excited about the next generation of customer service which is being implemented on this state of the art platform which ICTA has developed. While ensuring that the highest levels of security standards are adhered to, the system is capable of further enhancement to provide digital certificates too. We are happy that the citizens of Sri Lanka will be the ultimate beneficiaries of such online services, which they can now access from their computers or mobile devices from anywhere at any time.”
+Pujith Jayasundara, Inspector General of Police said that this initiative is an extremely value added service to the Sri Lanka Police which brings about the promise that they are determined to serve the citizens of this country with greater convenience and efficiency.
+The Police Clearance Certificate online service is available via following websites of the Sri Lanka Police Official, namely www.police.lk and the Sri Lanka Government official web portal www.gov.lk.
+IGP, Poojith Jayasundera, Kanchana Thudugala, Director-Special Projects, ICTA/ Kamal Liyanage, Programme Manager,ICTA / Tharanga Widanachchi, Project Manager, ICTA/ Ajith Weerakoon, Project Officer ICTA, Doctor Ajith Madurapperuma,Deputy Chairman, ICTA/Nishan Mendis, Director Consulting, PWC/ Nadeeshani Senavirathna,Associate Tec Lead-Consulting -Technology, PWC

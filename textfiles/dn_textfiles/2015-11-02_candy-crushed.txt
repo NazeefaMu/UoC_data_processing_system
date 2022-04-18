@@ -1,0 +1,18 @@
+## Title: Candy Crush(ed)
+## Supertitle: 
+## Section: Features
+## Date: Monday, November 2, 2015 - 19:30
+
+Candy Crush(ed)
+
+Speaking at a question and answer session in India, Facebook founder says he will find a solution to the problem of annoying game notifications.
+It’s up there as one of the most irritating things about Facebook – along with the fact your entire extended family just joined. A few years ago, FarmVille invitation notifications were the scourge of the social network (I don’t want to play with virtual sheep, but thank you) – now it is invites to play the puzzle game Candy Crush Saga.
+But there is hope. Mark Zuckerberg has announced at a question-and-answer session that his team of developers are working on a solution.
+The top-rated comment, with 7,500 likes, in response to Zuckerberg’s call-out for users’ questions before his talk at the the Indian Institute of Technology (IIT) in Delhi was a straight-to-the-point: “I don’t want any more invitations to Candy Crush. How can I stop it?”
+When the question was read out at the talk, people cheered.
+“This is where these Town Hall Q&As are really useful because I actually saw this question, that it was the top voted question on my thread,” Zuckerberg said.
+“So I sent a message to the person who runs the team in charge of our developer platform and I said by the time I do this Town Hall Q&A, I think it would be good if we had a solution to this problem.”
+In response to a wider question about games notifications being an annoyance for people who don’t play games on Facebook, Zuckerberg added:
+“We hadn’t prioritised shutting that down because we just had other priorities but if this is the top thing that people care about then we’ll prioritise that and we’ll do it.”
+Zuckerberg didn’t elaborate further on how the changes would work in practice, and the maker of Candy Crush Saga, King, hasn’t commented. But if Zuckerberg implements changes that also stop our grandmothers asking us to play online Scrabble, it’s a win for us all.
+- The Guardian 

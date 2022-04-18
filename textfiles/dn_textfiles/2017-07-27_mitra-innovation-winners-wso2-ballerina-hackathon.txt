@@ -1,0 +1,16 @@
+## Title: Mitra Innovation winners at WSO2 Ballerina Hackathon
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, July 27, 2017 - 01:00
+
+Mitra Innovation winners at WSO2 Ballerina Hackathon
+
+Ballerina is a new integration language by middleware giants, WSO2. According to Sudaraka Jayashanka, CTO and Chief Architect at Mitra Innovation- a Sri Lankan/UK company specialising in Cloud integration, digital transformation, and product incubation -it is “the first ever appealing integration programming language built specifically for system integration”.
+To coincide with the development and soft launch of Ballerina, WSO2 organised a Hackathon in Colombo, Sri Lanka, on 22 July, where teams of developers could test its capabilities in real-life development situations.
+WSO2 said that the aim of the hackathon was “for a few passionate programmers to take Ballerina for a twirl, push it to its limits and give valuable feedback.” Feedback could encompass identifying bugs and providing suggestions for improvements.
+To take part in the Hackathon, participants had to apply and submit a real-life proposal for a problem that needed to be fixed, using a solution involving Ballerina.WSO2 selected 25 teams from many entrants. Two of the successful teams chosen - Team Oxygen and Team Cybus - were from Mitra Innovation, a preferred partner of WSO2, and a company with a strong commitment to open source initiatives.
+Both teams were also useful to WSO2 as they identified bugs, and made suggestions that could improve the Ballerina language.
+At the end of the day, WSO2 chose three teams who had not only submitted great proposals, but who had effectively demonstrated the power of Ballerina, as well as contributed the most in terms of feedback.
+Mitra Innovation were very successful on the day as their employees made up two of the three teams.
+WSO2 has developed another great tool, and Mitra Innovation were honoured to take part, and thrilled to be amongst the winners. 
+ 

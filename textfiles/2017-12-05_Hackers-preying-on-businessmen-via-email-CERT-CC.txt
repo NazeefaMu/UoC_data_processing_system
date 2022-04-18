@@ -1,0 +1,17 @@
+## Title: Hackers preying on businessmen via email: CERT|CC
+## Section: Breaking News
+## Date: 5 December 2017 10:55 am
+
+Hackers preying on businessmen via email: CERT|CC
+
+
+	
+
+During the last two months, the Computer Emergency Readiness Team | Co-ordination Centre (CERT|CC) has received four complaints over fraudsters attempting to hack email accounts of businessmen and luring them to make remittances.
+
+CERT|CC Principal Information Security Engineer Roshan Chandragupta said many people had fallen prey to one of the latest techniques where people’s accounts were being hacked and they were requested to change their bank account details due to a change of supplier details.
+
+“Many victims of this scam have suffered huge losses. The fraudsters learn from stolen emails the transactions between the seller and consignor as well as the buyer and paying company. Masquerading as the company, these fraudsters later generate emails requesting their client to credit the amount payable to a new account, claiming that the email address and payment receiving bank account number have been changed. It is only when the buyer contacts the bank that he or she finds they have been deceived. Recipients of these fictitious emails should be cautious as they look genuine. They should be careful when exchanging confidential details via emails. If anyone receives such emails, it is advisable to contact the bank or seller to verify. Over the past eleven months, we have received at least 3,400 complaints over fake facebook accounts. Surprisingly, all of them were related to sharing images or passwords and creating similar accounts. During investigations, it was revealed that most of the account holders had myriads of friends on their accounts, most of whom were unknown to them,” Mr. Chandragupta said. (Chaturanga Pradeep)
+ 
+
+		

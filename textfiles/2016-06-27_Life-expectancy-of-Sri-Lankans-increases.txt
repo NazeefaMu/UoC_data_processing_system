@@ -1,0 +1,29 @@
+## Title: Life expectancy of Sri Lankans increases
+## Section: Breaking News
+## Date: 27 June 2016 03:24 pm
+
+Life expectancy of Sri Lankans increases
+
+
+	
+
+The life expectancy -for both males and females-had increased since 2012 compared to 2001, the Department of Census and Statistics said today.
+
+The Department said it had published the life tables for Sri Lanka for 2011-2013 and these tables were used to get an idea about the life-expectancy of population in the country.
+
+Director General of the Census and Statistics Department A.J. Satharasinghe said in a statement that life-expectancy for years 2011-2013 was 72 years for males and 78.5 for females.
+
+“The life expectancy of both males and females was 68.8 and 77.2 respectively in 2001,” the statement said.
+
+The difference between female and male life expectancy at birth in 2012 is 6.6 years which is a reduction compared to the value of 8.4 years in 2001.
+
+Life table have been usually prepared for Census years since 1901 and before the years 2011-2013 the life tables were prepared for the years 2000-2002.
+
+Basically the age specific death rates are used to prepare life tables, Life expectancy at birth, life expectation of a person in a specific age group, the proportion of population in a specific age group that would survive to reach the next age group and the probability of surviving of a population in one age group to another age group could be measured from a life table. These information have immense practical importance in many disciplines, such as education, health, insurance and actuarial science.
+
+The standard principle of preparing the life tables is for males and females separately. The basic inputs for construction of life tables are age-specific mortality rates three years prior to the census year.
+
+The data required to obtain such rates are the distribution of population by age and sex and the distribution of deaths by age and sex. Population data are obtained from the ‘Census of Population and Housing’, conducted by the Department of Census and Statistics and the data on deaths are obtained by the ‘Civil Registration system’ of the Registrar Generals Department. Since the last Census was conducted in year 2012, population data from the ‘Census 2012’ and the deaths occurred in 2011, 2012 and 2013 are used to calculate the life expectancy for the years 2011-2013.
+ 
+
+		

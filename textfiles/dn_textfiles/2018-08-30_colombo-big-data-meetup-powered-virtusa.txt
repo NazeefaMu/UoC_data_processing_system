@@ -1,0 +1,16 @@
+## Title: Colombo Big Data Meetup powered by Virtusa
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, August 30, 2018 - 01:00
+
+Colombo Big Data Meetup powered by Virtusa
+
+Industry professionals, big data enthusiasts, academics and students congregated at the latest edition of the Colombo Big Data Meetup held recently at the Virtusa auditorium.
+Powered by Virtusa, the interactive sessions apprised participants of the latest developments in Big Data tools and technologies. Selvendra Selvarajah, Associate Architect at Virtusa and Sajeetharan Sinnathurai, Microsoft MVP and Senior Tech Lead at 99X Technology delivered the key note addresses of the evening.
+The session kicked off with a presentation by Selvendra Selvarajah on the increasing use of R programming language in industry. A leading open source programing language consisting of powerful functions to tackle all problems related to Big Data processing, it has been used only in academics, historically.
+“Microsoft has begun including R language in their development process making it more popular than ever. This makes the lives of programmers that much easier as they can directly apply what they learn in university to real world situations,” he said.
+Sajeetharan Sinnathurai came in next and delved into the practical applications of sentiment analysis. He took the audience through the different steps involved in building a sentiment analysis solution using the Azure platform. A live demo was run to extract data from Twitter and, with the participation of the audience, sentiment analysis was applied on the resulting data.
+“The key to business has always been knowing what your customer wants and at a time where customers are constantly updating their social media with their thoughts and emotions that information has never been more accessible. However, unlocking the hidden value of that raw data can be tedious and overwhelming if we were to do it manually by reviewing every post ourselves,: said Sajeetharan Sinnathurai.
+The Big Data meetup has been taking place each quarter since 2014 with the participation of many industry professionals and academics. The eventhas proven popular amongst its target audience with the community growing to almost 3000 strong. Having recognized this as a great platform to bring enthusiasts, students, academia and the industry together and engage and update them on the latest in the world of Big Data, Virtusa has been an active part of this forum, right from its inception.
+Tharindu Buddhika, Senior Software Engineer, Commercial Bank of CeylonPLC, has been an active member of this community and a key organizer of the event since its inception.
+“When we started these sessions about four years ago Big Data was only an emerging field but we knew right then that it would play a big part in IT simply because at that time in history there was more data being created and collected than ever before,: said Tharindu. 

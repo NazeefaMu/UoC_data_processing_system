@@ -1,0 +1,19 @@
+## Title: Mobitel hosts ‘Google I/O Extended Sri Lanka 2018’
+## Section: Press Releases
+## Date: 2 May 2018 10:55 am
+
+Mobitel hosts ‘Google I/O Extended Sri Lanka 2018’
+
+
+	
+
+
+
+Mobitel, Sri Lanka’s National Mobile Service Provider is organizing the biggest tech event of the year, the Google I/O Extended on the 8th of May 2018 at Stein Studio complex Ratamalana for the 5th time in Sri Lanka. This is one of the most awaited events of the year for the community to come together and see what marvels the tech giant Google has on offer in the coming year. The main highlight of the evening is the keynote session conducted by SundarPichai himself on the latest product and platform innovations at Google. This is followed by a wide range of highly technical, in-depth sessions focused on building web, mobile, and enterprise applications with Google and open web technologies such as Android, Chrome, Chrome OS, Google APIs, Google Web Toolkit, and App Engine and Google related technologies, including information on new products and upgrades to existing products.  At the huge amphitheater in Mountain View California, thousands gather to witness this annual event to be a part of the experience. The demand for this event is so high globally, that Google decided to live stream the event so that the same event can be extended in locations around the world. 
+
+In 2013, Mobitel introduced the first Google I/O extended event in Sri Lanka to the local tech community and has kept the enthusiasm flying high ever since. Over the years the event has been a grand success and caused a sensation among developers, ICT professionals, industry leaders, university students and young tech-savvy innovators.Similar to previous years the Mobitel has planned the event in great detail to make sure that the participants receive knowledge and entertainment with renowned speakers from the local industry poised to expand your horizon in a variety of technologies while keeping you energized throughout the night.
+
+Adding spice to the recipe, Mobitel partnered with Radical Ledgerto make things interesting by giving a first-hand experience of the blockchain technology for all the participants. The registration process for Google I/O Extended 2018 by Mobitel is handled using a blockchain based approach which makes it open, transparent, yet secure. When a participant registers for the event, a smart contract is created in the Ethereum based blockchain network with the relevant registration details. This smart contract serves as the anchor point in verifying the authenticity of your registration at the day of the event. It serves to demonstrate how blockchain technology can be used to build real world applications in a distributed fashion while maintaining the security and transparency. More information on how the blockchain technology works and how it is adapted for the Google I/O registration process can be found at the official Facebook page for Mobitel Innovation Center.
+ 
+
+		

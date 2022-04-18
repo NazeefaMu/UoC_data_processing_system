@@ -1,0 +1,15 @@
+## Title: Union Bank becomes SL’s first bank to receive PCI DSS Certification
+## Supertitle: 
+## Section: Finance
+## Date: Friday, September 15, 2017 - 01:00
+
+Union Bank becomes SL’s first bank to receive PCI DSS Certification
+
+Marking a significant turning point in data security protection, Union Bank became the first bank in Sri Lanka to receive the international Payment Card Industry Data Security Standard (PCI DSS) by the Security Standards Council.
+The PCI Security Standards Council is a global forum for the ongoing development, enhancement, storage, dissemination and implementation of security standards for account data protection.
+The PCI certification is a robust assurance of Union Bank’s data security standards across all systems and processes through which card and account transactions are effected.
+Commenting on the achievement, Chief Executive Officer of Union Bank, Indrajit Wickramasinghe said, “We are pleased to announce this significant security certification which is another industry first by Union Bank. The security of card and account data is of crucial importance to us as a financial institution. The breach or theft of card/account holder data would adversely affect the entire payment card ecosystem where customers would lose trust in merchants or financial institutions, and in turn business would get negatively affected. As a progressive bank that places greater focus on tech-enabled customer touch points, Union Bank is committed to advocating the highest levels of data security and following PCI security standards confirms our commitment to good business practices. The security benefits associated with maintaining PCI compliance are vital to the long-term success of the bank as well as our customers.”
+The PCI Standard Certification includes continual identification of threats and vulnerabilities that could potentially impact the organization. Such standards help ensure healthy and trustworthy payment card transactions for the multitudes of customers that maintain accounts linked to cards and credit facilities.
+Union Bank is one of Sri Lanka’s leading banks supported by the strength of TPG, the US based global private investment firm with over US$70 billion in capital under management and an extensive global network with significant presence in Asia and Europe.
+With a solid foundation etched with financial stability and international know-how, Union Bank is amongst the highest capitalised private commercial banks in Sri Lanka, offering a full range of products and services to personal and commercial financial sectors.
+More information could be obtained from www.unionb.com

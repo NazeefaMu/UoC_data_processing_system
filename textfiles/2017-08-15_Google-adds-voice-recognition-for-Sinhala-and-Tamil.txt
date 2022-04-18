@@ -1,0 +1,23 @@
+## Title: Google adds voice recognition for Sinhala and Tamil
+## Section: Breaking News
+## Date: 15 August 2017 08:50 am
+
+Google adds voice recognition for Sinhala and Tamil
+
+
+	
+
+Aiming to make its voice typing technology more inclusive, Google has added 30 new languages to voice search including Sinhala and Tamil, bringing the total number of languages supported by speech recognition via Gboard on Android to 119.
+
+Included among the languages are Bengali, Lao, Sundanese, Urdu and two of the most popular African languages — Swahili and Amharic. It has also added Georgian, an ancient language that dates back to the 10th century.
+
+The full list of languages listed as follows: Amharic, Armenian, Azerbaijani, Bengali, English (Ghana, Kenya, Nigeria, Tanzania), Georgian, Gujarati, Javanese, Kannada, Khmer, Lao, Latvian, Malayalam, Marathi, Nepali, Sinhala, Sundanese, Swahili, Tamil, Telugu and Urdu. In total, this brings the grand total of Gboard's voice recognition to 119 languages.
+
+Google is also adding the new languages to its Cloud Speech API and says it is working to integrate them into other apps like Google Translate.
+
+In addition to adding more languages, US users can also search for emojis using voice typing.
+
+“You can now say something like ‘winky face emoji’ to express yourself. Or, even ‘Colbert emoji’ to your friends when the occasion calls,” writes Daan Van Esch, Google’s technical program manager for speech who penned the announcement on Google’s Search blog. (searchengineland)
+ 
+
+		

@@ -1,0 +1,16 @@
+## Title: Hitachi named a leader  in Gartner Magic Quadrant  for solid-state arrays
+## Supertitle: 
+## Section: Finance
+## Date: Friday, August 11, 2017 - 01:00
+
+Hitachi named a leader  in Gartner Magic Quadrant  for solid-state arrays
+
+Hitachi Data Systems (HDS), a wholly owned subsidiary of Hitachi, Ltd ,announced it has been positioned in the Leaders Quadrant of the July 2017 Magic Quadrant for Solid-State Arrays by Gartner, Inc., a leading global research firm.
+Hitachi believes its significant growth and enhancements to its all-flash Hitachi Virtual Storage Platform (VSP) F Series product line resulted in the company improving its position, moving it from the Challenger’s Quadrant to the Leader’s Quadrant.
+According to Gartner: Vendors in the Leader’s Quadrant have the highest scores for their ability to execute and completeness of vision. A vendor in the Leader’s Quadrant has the market share, credibility, and marketing and sales capabilities needed to drive the acceptance of new technologies.
+These vendors demonstrate a clear understanding of market needs; they are innovators and thought leaders; and they have well-articulated plans that customers and prospects can use when designing their storage infrastructures and strategies. In addition, they have a presence in all four major geographical regions, consistent financial performance and broad platform support.
+Hitachi’s continued investments in the development of its flash software and hardware technologies have resulted in the delivery of a superior enterprise storage offering for its customers, backed by the most flash-related patents in the industry. Hitachi VSP F1500, which first debuted in October 2016, was purpose-built for businesses with large-scale data management requirements including mainframe.
+It provides seamless cloud tiering, integrated analytics software and a unique 100-percent data availability guarantee. All VSP F series models are enhanced with flat service pricing, ongoing media replacement, and quality of service (QoS) controls to provide consistent performance over time.
+For customers in highly regulated industries or where data security is mission critical, the VSP F series conforms with secure data eradication services and meets the National Institute of Standards and Technology (NIST) data security control standards.
+“Hitachi takes pride in bringing continuous breakthroughs to market that help our customers to be as competitive as possible in the digital age”, said Ryuichi Otsuki, CEO of Hitachi Data Systems.
+Otsuki further said that the company is pleased to be recognised as a leader in the solid-state array industry and will continue to challenge industry standards, while positioning its customers to succeed.

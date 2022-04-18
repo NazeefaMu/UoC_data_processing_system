@@ -1,0 +1,14 @@
+## Title: Constituent changes to the S&P SL 20 Index
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, June 15, 2017 - 01:00
+
+Constituent changes to the S&P SL 20 Index
+
+The Colombo Stock Exchange (CSE) announced changes in S&P Sri Lanka 20 index constituents made by S&P Dow Jones Indices at the 2017 mid-year index rebalance.
+A revision of the S&P SL 20 methodology in March 2017established the practice of a semiannual rebalance of the index (previously conducted annually), which is set to take place during the months of June and December each year.The revision also established the inclusion of non-voting ordinary shares listed by the respective companies of the S&P SL 20 Index, provided that such shares meet relevant liquidity requirements.
+The exclusions and inclusions as announced by S&P Dow Jones Indices, effective from 19 June 2017 (after the market close of 16 June 2017) are presented below in alphabetical order.
+index includes the 20largest companies, by total market capitalization, listed on the CSE that meet minimum size, liquidity and financial viability thresholds. The constituents are weighted by float-adjusted market capitalization, subject to a single stock cap of 15%, which is employed to reduce single stock concentration.
+The S&P SL 20 index has been designed in accordance with international practices and standards. All stocks are classified according to the Global Industry Classification Standard (GICS(r)), which was co-developed by S&P Dow Jones Indices and MCSI and is widely used by market participants throughout the world.
+To be eligible for inclusion, a stock must have a minimum float-adjusted market capitalization of 500 million Sri Lankan rupees, a six-month median daily value traded of rupees 0.5 million, have been traded at least 10 days of each month for the three months prior to the rebalancing reference date, and have positive net income over the 12 months prior to the rebalancing reference date. For information, including the complete methodology, please visit: www.spindices.com
+Effective from 19 June 2017 the stocks in the S&P SL 20 in alphabetical order (including four non-voting ordinary shares) are as follows. 

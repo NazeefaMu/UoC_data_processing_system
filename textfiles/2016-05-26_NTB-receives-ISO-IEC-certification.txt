@@ -1,0 +1,33 @@
+## Title: NTB receives ISO/IEC 27001:2013 certification
+## Section: Financial News
+## Date: 26 May 2016 12:00 am
+
+NTB receives ISO/IEC 27001:2013 certification
+
+
+	
+
+
+
+From left: (Buddhika De Alwis - Senior Manager Advisory – KPMG, Gayan Balachandra - Manager Sales and Marketing - Bureau VERITAS, Shan Nanayakkara - General Manager - Bureau VERITAS, Renuka Fernando – Director/Chief Executive Officer Nations Trust Bank, Thilak Piyadigama – Chief Operating Officer Nations Trust Bank, Rohitha Ganegoda - Chief Information Officer Nations Trust Bank, Nisala Kodippili - Deputy Chief Information Officer Nations Trust Bank, Suresh Emmanuel - Manager Information Security - NTB)
+
+ 
+
+Nations Trust Bank PLC reached yet another milestone in their relentless quest to provide world class service to their clientele by becoming the third bank to achieve ISO/IEC 27001:2013 certification in Sri Lanka. Nations Trust Bank PLC is also the first and only bank in Sri Lanka to certify both its primary and disaster recovery data center sites.
+
+
+This is a testimony to the strength and reliability of the Bank’s management of information security, particularly the IT services and the infrastructure provided by the information technology division. 
+“This is no small feat in an era where information systems are increasingly facing threats of unauthorized access, disruption, modification or destruction of data. Nations Trust Bank has been at the forefront in protecting clients’ as well as the bank’s data by introducing a number of stringent safeguards. ISO/IEC 27001:2013 certification is the end result of that commitment,” ­­­­­­ Renuka Fernando, Chief Executive Officer of Nations Trust Bank said.  
+
+
+ISO/IEC 27001:2013 is a specification for an Information Security Management System (ISMS). Organizations which meet the standard are certified compliant by an independent and accredited certification body on successful completion of a formal compliance audit. 
+
+
+The standard included 18 domains and 114 controls to ensure protection of information assets. It adopts an overarching management process to ensure that the information security controls continue to meet the organization’s information security needs on an ongoing basis. 
+
+
+ISO/IEC 27001:2013 certification enforces most stringent controls to ensure ample security measures are implemented to protect the Bank’s information assets. ISMS provides a framework for establishing information security policies, procedures and associated practices, risk assessment and risk treatment, management of information assets, human resources security, operational security, physical and environmental security, communication and operational security, acquisition and maintenance of information systems, information security incident management, vulnerability management, compliance, security in supplier management and business continuity and 
+disaster recovery.
+ 
+
+		

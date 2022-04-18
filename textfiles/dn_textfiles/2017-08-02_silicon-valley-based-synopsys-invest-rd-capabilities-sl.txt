@@ -1,0 +1,16 @@
+## Title: Silicon Valley-based Synopsys to invest in R&D capabilities in SL
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, August 2, 2017 - 01:00
+
+Silicon Valley-based Synopsys to invest in R&D capabilities in SL
+
+Synopsys Inc., a global high-tech leader enabling companies to innovate from silicon to software, yesterday announced that it is investing in R&D capabilities in its Sri Lanka operations.
+To extend its local R&D capabilities, Synopsys is working with the University of Moratuwa, the University of Peradeniya and the University of Ruhuna to build very-large-scale integration (VLSI) and electronic design automation (EDA) skill sets to help graduating engineers meet ever-evolving challenges in semiconductor design, EDA, semiconductor IP and software security and quality.
+Synopsys is the only EDA company to build a presence in Sri Lanka and has worked closely with the universities to develop the VLSI curriculum to help young engineers get hands-on experience with best-in-class technologies.
+In a recent trip to Sri Lanka,
+Dr. Aart de Geus, Synopsys' chairman and co-CEO, along with Dr. Pradip K. Dutta, group vice president and managing director of Synopsys India and Sri Lanka and Farazy Fahmy, R&D director of Synopsys Sri Lanka, met with the Minister of Science, Technology & Research Susil Premajayantha to discuss the growing technology ecosystem in Sri Lanka.
+Dr. Dutta, commenting on the roadmap, said, "We are building up competence in verification technology, which is core to EDA software.
+We plan to continue to invest and develop expertise in Sri Lanka as part of our R&D presence in South Asia." "Sri Lanka is the latest addition to our worldwide R&D operations, and we are impressed with the engineering talent here. We are collaborating with academia in Sri Lanka and across our operations in the US, Europe and Asia Pacific, allowing us to further strengthen our global R&D footprint," said Dr. de Geus.
+Synopsys established its operations in Colombo in 2015 and since then the R&D team has grown to approximately 100 engineers involved in the research, design and development of key EDA technologies and products that enable 'Smart, Secure Everything from Silicon to Software' in the global electronics market.
+The Sri Lanka operation is engaged in R&D activities across core EDA and its objective is to grow in advanced technology areas such as machine learning and artificial intelligence to embrace the era of 'smart everything'.

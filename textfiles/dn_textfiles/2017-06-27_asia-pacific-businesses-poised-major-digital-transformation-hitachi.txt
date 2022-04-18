@@ -1,0 +1,12 @@
+## Title: Asia Pacific businesses poised for major digital transformation - Hitachi
+## Supertitle: 
+## Section: Finance
+## Date: Tuesday, June 27, 2017 - 01:00
+
+Asia Pacific businesses poised for major digital transformation - Hitachi
+
+Hu Yoshida, Global Chief Technology Officer of Hitachi Data Systems Corporation (HDS), a wholly owned subsidiary of Hitachi Ltd. shared the key businesses and technology trends for Asia Pacific in 2017 at the Cinnamon Grand Hotel in Colombo, recently.
+“Digital transformation is fast becoming an organizational issue. It is no longer just CIOs who are championing the need for digital change, but leaders across all business functions. For example, CMOs are finding that traditional ways of marketing are not as effective any more, while CFOs are discovering that consumer and supplier transaction models are shifted. There is now an almost universal understanding within businesses that all functions need to look at how they transform their own practices through digitization,” said Yoshida.
+There are five key findings based on the 2016 survey sponsored by HDS. Enterprises in APAC generally believe they are further ahead in their digital transformation journeys than their global counterparts.One is productivity gains will be more about people, process and business outcomes; accelerating transition to cloud; bi-modal IT; a centralized data hub and the last, findings will be growing awareness of IoT in the Data Centre.
+“The integration of IT and OT with analytics is the first step. Today, IoT requires data scientists and researchers with deep domain expertise and most projects are in the proof-of-concept stage. This year, we will be at the stage where we have the recipe for IoT projects, like train-as-a-service or industry 4.0. Hitachi Data Systems, along with other divisions in Hitachi and outside partners, is developing an IoT core platform, Lumada, to develop these recipes and deliver baked IoT solutions that are open, adaptable, verified and secure,” said Yoshida.
+Yoshida adds, “This year’s trends are being driven by a clear enterprise demand to deliver on all the promises of digital transformation, with APAC set to lead the way. Regardless of industry, IT is seeing a fundamental shift as enterprises embrace the new revenue streams, efficiencies and possibilities provided by digitization.”

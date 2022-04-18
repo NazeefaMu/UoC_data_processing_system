@@ -1,0 +1,43 @@
+## Title: Undergrads develop  shoes with sensors for patients
+## Section: News Features
+## Date: 22 September 2017 12:00 am
+
+Undergrads develop  shoes with sensors for patients
+
+
+	
+
+A research group from the Department of Mechanical Engineering of the University of Moratuwa developed a novel biomedical system for the benefit of patients suffering from diabetics, high blood pressure, neurological diseases and Parkinson’s disease with remote monitoring of their walking patterns and activities in real time. Cutting-edge technologies such as Internet of Things and 3D printing were adopted to their system development. 
+
+
+
+ 
+ 
+This project was a final year undergraduate project done by Peshan Sampat
+
+h, Eranga De Silva and Lakshitha Sameera of the Department of Mechanical Engineering at the University of Moratuwa. The programme was carried out under the supervision of Senior Lecturer and in-charge of Mechatronic Engineering Stream Dr. Ranjith Amarasinghe.  
+The Internet of Things (IoT) is a system of interrelated computing devices, mechanical and digital machines, objects, animals or people and having the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction. 3D printing also expands new paths in the field of manufacturing engineering with its additive manufacturing techniques.  
+
+
+“First, we designed a pair of shoes and 3D printable shoe insoles to incorporate force sensors and aligned them to vital points in the foot. A microcontroller development board fixed inside the heel of the shoe is used to capture force sensor outputs of those vital pressure points at  heels.Then the system is developed so that it captures useful data to transmit to the main controller of the system located on a waist belt of the patient via Bluetooth. Further, we used GSM to transmit useful information to the IoT server for further processing and decision making,” is how the research group explained their technical description of the system.  
+
+ Dr. Ranjith Amarasinghe
+
+Their developed system, a combination of a pair of shoes and a waist belt transmitting information to IoT server, is further processed so that in real-time it could identify the activity of the patient who wears the system, remotely. Also, the Android application, specially developed for this system, allows the same to remotely identify activities carried out by the patient remotely. As an example the user is able to maintain an activity record of day-to-day activities such as walking, running, standing, sitting, sleeping and much more among the recognizable activities in the IoT cloud.  “A patient, who is recovering after a surgery, can be remotely monitored by physicians with this system. It is capable of generating a report with regard to activities carried out by the patient. It lets the physicians to remotely access information regarding the recovery stage of the patient. This developed system is also capable of sending notification to an assigned person in an emergency with the location identified using GPS, via SMS where urgent attention is needed. Due to this capability, our research can be incorporated as a remote caring platform for elderly persons to avoid any danger that a person can face,” the researchers said.  
+
+Eranga De Silva
+
+The research team was able to exhibit their research findings atThe 5th IEEE Global Conference on Consumer Electronics (GCCE 2016) held at Kyoto, Japan.  
+The research team extended its profuse gratitude to the Senate Research Committee (SRC) of the University of Moratuwa, Salith Ranasinghe and ChathuraJeewantha of Mechatronics Systems Laboratory of Mechanical Engineering Department for the support extended to them. Further, they thank every person who helped them in carrying out this research.    
+
+
+
+Peshan Sampath
+
+Lakshitha Sameera
+
+ 
+
+ 
+
+		

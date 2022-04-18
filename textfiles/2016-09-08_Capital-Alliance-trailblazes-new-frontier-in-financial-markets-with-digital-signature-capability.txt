@@ -1,0 +1,22 @@
+## Title: Capital Alliance trailblazes new frontier in financial markets with digital signature capability
+## Section: Financial News
+## Date: 8 September 2016 12:00 am
+
+Capital Alliance trailblazes new frontier in financial markets with digital signature capability
+
+
+	
+
+Sri Lanka’s leading investment banking firm and the preferred partner in financial markets, Capital Alliance (CAL), is taking its digital initiatives forward and is the first company in Sri Lanka to allow customers onboard in a fully paperless manner using e-Signatures. 
+This groundbreaking adoption of technology by CAL empowers customers to open an account by placing digital signatures while being anywhere in the world thus eliminating the need to fill application forms manually. The entire process has been formulated in compliance with the provisions of the Electronic Transactions Act No. 19 of 2006 and is expected to revolutionize convenience and speed related to investment banking transactions. 
+In rolling this out, CAL has partnered with eMudhra Ltd, which is a leading Certifying Authority in Asia and is a pioneer in e-Signatures, digital identity, and authentication solutions with marquee clients in BFSI (Banking, Financial services and Insurance) and various other sectors.
+Ajith Fernando, Managing Director, CAL, commented on this path-breaking innovation, “CAL is proud to introduce the digital signature facility for the first time in the country. This service will enable speedy transactions in a highly secure manner that protects customer data privacy. With this facility we have technically turned each smart phone into a branch, that’s approximately 6 million additional branches. 
+“We were an institutional player thus far as we didn’t see an economical way of taking our products to the retail market, but this service enables us to enter the retail space. Our company has always been technology-driven with a fully integrated software system that seamlessly integrates the back-office system with an online trading system. This is yet another digital innovation by CAL to demonstrate our cutting edge technology expertise. We are committed to leveraging technology and innovation to deliver the utmost convenience and benefits of digital banking.”
+Kaushik Srinivasan, Director, eMudhra, said: “Using eMudhra’s solutions helps in minimizing the use of physical documents and provides authenticity of e-documents. The ease of use and accessibility through various devices make it extremely convenient and easy for customers to access their documents quickly and securely from anywhere anytime.”
+The system comprises of both automatic and manual verifications to ensure the authenticity of customers. There are some foolproof automatic validation measures that are inbuilt in the system in order to safeguard client’s interest and data security. 
+Once the client fills in basic data (Name, email, mobile phone number and interested product), an auto generated URL and portal password will be sent to the users’ email box in order to complete the application form. This URL is valid for 24 hours only. Once the application is filled and customer wishes to place his or her digital signature, an OTP (One time password/passcode) will be generated and sent to client’s given mobile number. This is the two factor authentication in addition to the password via email.
+Adding another layer of security, the customer application forms will be encrypted using PKI infrastructure to ensure the authenticity of the user so that no tampering takes place during the application transmission from front-end to back-office. Apart from the above mentioned automatic verifications, two  manual verifications will be carried out, one by the back-office user to validate the supporting documents and content on the application; and the other by the Relationship manager to get to know the customer and validate submitted information in an in-depth manner.
+In addition to the above, the system has a practically unbreakable PKI encryption to validate the authenticity and the legitimacy of the application form submitted; auto generated passwords, SMS which are time bound and expires after a defined lifetime; ability to generate the internal workflow, therefore least manual interaction is required; detailed audit logs capable of providing information in case of a dispute; and is locally hosted at CAL, therefore, customer information resides within CAL.
+ 
+
+		

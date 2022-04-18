@@ -1,0 +1,15 @@
+## Title: Mitra Innovation hosts Hack’ed 2017 on October 7
+## Supertitle: 
+## Section: Finance
+## Date: Friday, October 6, 2017 - 01:00
+
+Mitra Innovation hosts Hack’ed 2017 on October 7
+
+Mitra Innovation, based in Sri Lanka and the UK will be hosting its first ever hackathon event, which will take place this weekend, on October 7, 2017 in Moratuwa, Sri Lanka. The 10-hour hackathon event titled Hack’ed, will bring eight teams of Mitra Innovation’s expert software engineers together to compete against time and each other to deliver the best and most relevant office productivity application.
+Software engineers from the company have previously taken part in many externally run hackathons but as a company that thrives on innovation and using technologies such as WSO2 and Amazon Web Service (AWS)s to bring new products and platforms to market, Mitra felt it was time to run their own hackathon.
+As an internal hackathon, Hack’ed 2017 focuses on the theme of using new apps to improve the office environment. Mitra Innovation’s CTO and Chief Architect, Sudaraka Jayashanka invited the teams participating in the Hackathon in order to brief them. “In our office environment, while carrying out day to day work, you must have felt If I had an app to do this, it would be more productive. Competing teams are expected to identify a scenario within Mitra Innovation’s office environment that is problematic and provide a brilliant solution in the form of an app.”
+Solutions must be built entirely from scratch and within a time frame of no more than 10 hours, after which competing teams will present their solution to the judges’ panel and the winning teams will be awarded exciting prizes. All participating teams will be provided with an AWS account to provision the services needed to run and deploy their app solution.”
+As part of the Hackathon, the eight teams can choose their technology of choice, as long as the solution is deployable on Amazon Web Services (AWS).
+Participating teams of Hack’ed 2017 will consist of five members and it is up to the teams to acquire the necessary skills required to build their solution.
+Mitra Innovation’s first ever internal Hackathon will be judged by an expert panel of esteemed IT and software development gurus. The judges are Hasith Yaggahavita, CTO of 99x, an award winning international software engineering company, Venura Mendis, CTO of WSO2.Telco, and Ashok Suppiah, CEO and Co-founder of Mitra Innovation.
+The results of the Hackathon will be published on the Mitra Innovation website next week.

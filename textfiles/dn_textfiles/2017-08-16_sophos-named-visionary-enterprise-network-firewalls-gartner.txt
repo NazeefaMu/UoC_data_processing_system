@@ -1,0 +1,15 @@
+## Title: Sophos named Visionary for Enterprise Network Firewalls by Gartner
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, August 16, 2017 - 01:00
+
+Sophos named Visionary for Enterprise Network Firewalls by Gartner
+
+A global leader in network and end point security Sopos has been named as a Visionary by Gartner, Inc.’s “Magic Quadrant for Enterprise Network Firewalls.” This is the first year that Sophos has been placed in the “Visionaries” quadrant of this report.
+Gartner, Inc. is an American research and advisory firm providing information technology related insight for IT and other business leaders located across the world. Its headquarters are in Stamford, Connecticut, United States.
+Sophos software which delivers premium protection against viruses and web threats, safeguards customer privacy and defends against identity theft has introduced its latest end point security software to the Sri Lankan market recently.
+“We believe that the placement of Sophos as a Visionary in the Enterprise Network Firewall Magic Quadrant recognizes the recent innovation in our XG Firewall series, the enhanced synchronized security capabilities and our strong roadmap for the future, and also reflects our growing market share in this highly competitive market,” commented Dan Schiappa, senior vice president and general manager of the Network and Enduser Security groups at Sophos.
+“The network security market has undergone significant development in the past three years; ‘next-generation’ is now the only generation of enterprise firewall that can protect against today’s sophisticated attacks. Sophos continues to invest heavily in the development of its next-generation portfolio of highly effective security products that are simple to deploy, use, and manage. Organizations of all sizes need solutions that offer the highest levels of protection and value for money, and the growth of our network security business demonstrates that we are delivering products that meet those needs.”
+In Sophos’ fiscal year ended March 31, 2017, reported billings for the network security business grew 17.8 percent to $319.1million. For the same period, the UTM and next-generation firewall (NGFW) business represented approximately half of Sophos billings worldwide.
+The Sophos XG Firewall is available on-premise as a hardware appliance or for all the major virtualization platforms, and through the Microsoft Azure marketplace for securing infrastructure-as-a-service deployments in the cloud. Available models range from a desktop appliance with integrated Wi-Fi to rack-mount appliances that are purpose built for the data center. Pricing is available from authorized Sophos partners worldwide.
+For additional information on Sophos next-generation firewall solutions, visit https://www.sophos.com/en-us/products/next-gen-firewall.aspx. For additional information on Sophos next-generation firewall solutions, visit https://www.sophos.com/en-us/products/next-gen-firewall.aspx.

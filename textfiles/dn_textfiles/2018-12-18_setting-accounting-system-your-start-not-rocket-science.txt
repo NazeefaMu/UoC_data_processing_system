@@ -1,0 +1,53 @@
+## Title: Setting up an accounting system for your start-up is not rocket science
+## Supertitle: So, you want to start-up and develop a small business – Part 15
+## Section: Finance
+## Date: Tuesday, December 18, 2018 - 01:00
+
+So, you want to start-up and develop a small business – Part 15
+Setting up an accounting system for your start-up is not rocket science
+
+Having a robust accounting system in place right from the early stages of your business will help you build a strong foundation for it. Apart from the people, a business’ systems act as a backbone. Give it the right ones at the right time and you will have a commercial entity that will thrive and withstand most of the storms that come its way.
+Most entrepreneurs look forward to setting up management control systems. This includes having certain monitoring tools and financial planning modules in place to be more aware of what’s going in the business.
+Because having accurate company information handy (in an organized manner) is crucial to correct decision-making, it makes sense to set them up as soon as possible. This especially holds true of accounting systems because it is important to be in the know of the financial health of your company.
+Benefits
+Let us see what special benefits you receive when you have a good accounting system?
+Accounting is simply a way of tracking, monitoring and managing every financial transaction or event. It’s the “pulse” of your business. In short, it gives you control over your business. At any time, you’ll have a handle on: Receivables – (the money that is coming into and owed to the business) and Liabilities – (the money you owe that is going out of the business).
+And each month, the system will should produce a minimum of two documents: Profit and Loss statement and Balance Sheet.
+Usually the P&L is accrual-based. That is, each monthly P&L statement reflects what you sold not what money you actually received. This is a more accurate reflection of your activity. It smooths out the variability of when your customers may actually pay you. This simple month-end statement shows the revenues you have sold in the previous month and the expenses you have incurred. The difference gives you a profit or loss for that month.
+Balance sheet will give you a picture of your company’s financial state. It includes your assets and your liabilities and equity (which means, your net assets minus your net liabilities)
+Another benefit is you can monitor cash flow. It tells you WHEN money is coming in or going out of the business.
+Receivables – if you take cash for a sale, it’s there. If you invoice clients, you could wait 30, 60 or 90 days to receive payment.
+Liabilities – you need to know when future loan repayments or bills for supplies are due. Your suppliers may give 30 days’ credit or more.
+The cash flow statement is different from your monthly profit and loss statement. It gives a clear and real picture of the health of your business. You could have an apparently good business on paper, but that’s meaningless if there’s no money flowing into the bank. If you are selling a great deal to one client and they are late with their payments, your P&L may look good but your Cash Flow statement may not. This is a key monitor of your company’s viability
+Building up
+Since you understand now the importance of an accounting system, let us take a look how to build it in your start-up firm.
+If you’re going to set up an accounting system for the first time then cough up a few thousands and obtain the services of a experienced accountant. He or she will advise you on the necessary accounts. This way you can be sure that it’s done the right way and the system will grow with your company. Remember – do what you do best and bring in experts to do what they do best.”
+Options
+You have three options to consider when determining which accounting system to employ: (1) An outside accounting services, (2) An in-house manual bookkeeping system, (3) An in-house computer-based accounting system.
+If you decide to go the outsourcing route (using an outside accounting service), you need to make that decision before you open your business’s doors. If you decide to use an in-house computer-based accounting system, you have to find out more about the manual and computer-based options.
+In those cases where your business is a relatively uncomplicated sole proprietorship or partnership, you may decide to carry the manual process. Unless you have a good knowledge of Book Keeping and Accounting with few years practical experience, it is advisable to get a professional’s advice to set up the manual books initially and follow-through.
+Computer-based systems
+If you can afford to purchase good computer, using it to accomplish your bookkeeping and accounting functions almost always makes sense. The least expensive computerized software package available is a tad more expensive than a comparable manual system, but if you use it properly, should save you time, provide you with more information, and establish a base for you to grow into a more sophisticated system as your business expands.
+You can consider four categories of computerized systems when shopping for your first accounting package. The system you ultimately select depends on the size and complexity of your business. A description of the four categories follows, along with several basic questions and a collection of tips intended to help you make the final choice.
+Category 1:
+This includes those quick-and-easy accounting systems used by many families, as well as by small businesses. They’re basically an electronic cheque book register with the capacity to categorize and cumulate expenses and generate both profit and loss statements and balance sheets. Most systems also include the capability to pay bills electronically. For eg.,Quicken.
+There are shortcomings in category 1 systems but when your business is small and you know it’s going to remain small for few years, and you’ll be the only person signing the checks, such systems may be satisfactory for you.
+Category 2:
+Category 2 systems provide a number of services that Category 1 systems don’t. For example, it can perform the following functions: Compute, write, and compile employee payroll: Track and age receivables and payables: Aging, which means determining the amount of time your receivables have been due to you or your payables have been due to your vendors: Establish customer receivable ledgers: Maintain a basic inventory system:
+Using an automatic system to keep track of your inventory, especially when you have a large number of SKUs (stock keeping units), is the best way to make sure you’re getting good numbers.
+The primary disadvantage of Category 2 accounting software programs is also it does not provide an audit trail. (An audit trail enables you to track every Rupee of income and expenses, thus making theft much more difficult.)
+Category 3:
+Category 3 programs provide their owners with all the benefits that Category 2 systems provide, as well as the audit trail.
+Category 4:
+Unlike the software packages in Categories 1, 2, and 3, which are purchased in a single package, Category 4 systems are purchased in modules, or stand-alone units. However, Category 3 and 4 programs overlap to some degree because a few of the Category 3 programs also come with modules, thus making the choice between the two a bit complicated. Category 4 packages have more horsepower/bandwidth, as well as more module options, they work best for larger companies (more than 200 employees).
+Buying a computer-based system
+The first two questions you need to ask yourself when choosing a computer-based system. How big is my business? What can I afford?
+Generally speaking, the smaller the business, the more likely you are to use a Category 1 or 2 system. A home-office business can easily get by with a Category 1 system, while most non-home-office businesses with 25 employees or fewer can use a Category 2 system.
+You also need to take into account how much inventory you’ll be managing and whether or not you’ve decided to outsource your payroll. In other words, the more you ask of your system, the more horsepower you need.
+When making your final system decision, consult with your Accountant or computer professional and keep the following reminders in mind:
+Don’t waste your time purchasing and figuring out a system that you’re going to outgrow in six months or a year. Don’t waste money on a system you’d get such little use out of. Don’t buy a system that you think will take you three years or more to grow into. That’s too far out to accurately project.
+Buy a system that you think will work for you for the next three years. In addition to considering the software system itself, consider the company behind the package you’re buying. Consider the following criteria: the support that the company provides, the history of its program updates (as a general rule, better companies provide more frequent updates), and the future of that company (will it be around to provide upgrades in future years?).
+In the likely event that you can’t answer these questions yourself, call (or email) the company and ask direct questions. Your Accountant may also be able to give you an educated opinion.
+There are a number of reputed companies of reliable accounting software represented in Sri Lanka.For example, QuickBooks or MYOB. They are affordable, easy to use and give you all the facilities for recording, reporting and analysing your transactions.
+It’s clear you need to record all these transactions in real time to understand and analyse the figures, and to get a clear picture of how your business is doing. It’s the only way to find out what you need to do to make your business better. That is why a good software is needed.
+(Lionel Wijesiri is a retired company director with over 30 years’ experience in senior business management. Presently he is a freelance newspaper columnist and business writer. He could be contacted on [email protected])

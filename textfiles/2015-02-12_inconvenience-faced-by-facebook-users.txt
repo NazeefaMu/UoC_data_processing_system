@@ -1,0 +1,19 @@
+## Title: Inconvenience faced by Facebook users
+## Section: Breaking News
+## Date: 12 February 2015 03:49 am
+
+Inconvenience faced by Facebook users
+
+
+	
+
+
+	The Sri Lanka Computer Emergency Response Team Coordination Centre (SLCERT) said a web link which was sharing on the social media network had inconvenienced Facebook users.
+	CERT|CC Information Security Engineer Roshan Chandragupta said, when this link was opened; footage of adult content gets shared among the users’ friends.
+	“Some of the Facebook account walls contain inappropriate contents and it was caused by some requests one of your friends or some unknown people you might receive as a link.  Click on the link for persuading you to click and see some news or whatever contents. When you click on the link it would create a wall posting on your friend’s accounts and it will be tag on to some other friends,” Mr. Chandragupta said.
+	He further said as a precautionary method what we can do is to click on the link and make sure that you don’t click on unnecessary links and make sure that you have your friends and people selected and get to know whatever the messages you get is only from them. You must specify the received messages are real and genuine.
+	The link containing photographic contained images or videos is another threat which was circulating in the face book community.
+	“We have not received any information about this link relating to a computer virus but can be mentioned as an unusual friends tagging system. We can go for another step as complaining about the issue to the Facebook Company. There are millions of links sharing in the Facebook. This malicious link can also get changed while sharing with the community. In that case it is hard to identify. After we specify the situation we can ask for the Facebook Company for necessary solution” he said. (Chaturanga Pradeep)
+ 
+
+		

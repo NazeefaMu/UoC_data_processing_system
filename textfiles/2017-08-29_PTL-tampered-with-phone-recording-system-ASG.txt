@@ -1,0 +1,73 @@
+## Title: PTL tampered with phone recording system: ASG
+## Section: Breaking News
+## Date: 29 August 2017 01:01 pm
+
+PTL tampered with phone recording system: ASG
+
+
+	
+
+Additional Solicitor General Dappula de Livera today requested the PCoI to take appropriate legal action against Perpetual Treasuries Limited (PTL) and its CEO Kasun Palisena under Contempt of Commission for fabricating material submitted as evidence.
+
+This request was made after Metropolitan Ltd confirmed that the original recording system installed by Metropolitan Limited at PTL stored all details relating to caller IDs and call times, contrary to the evidence submitted by the PTL CEO and its IT officer.
+
+ASG de Livera informed the PCoI that Metropolitan Ltd had inspected the recording system of PTL and submitted a report on August 28, 2017 as directed by the Commission.
+
+Metropolitan Ltd said the recording system had been re-installed on July 6, 2017 without informing the service provider (Metropolitan) while the backup system had also been re-installed on the same day.
+
+The report says the original system had the options to identify the caller ID and the time duration as opposed to what PTL CEO and its IT officer had testified earlier.
+
+The ASG said PTL IT officer Sachith Devathanthri, in his statement to the PCoI on August 28, 2017 said he was unaware about such re-installation.
+
+He said he was of the view that the re-installation had taken place on the very same day that PTL was suspended by the CBSL from business activities as a primary dealer in government securities.
+
+ASG Livera said he was of the view that PTL had tampered with the data during the re-installation process and subsequently submitted fabricated material to the PCoI.
+
+Earlier, PTL CEO Kasun Palisena had submitted an affidavit with the assistance of the IT officer Devathanthri and informed the Commission that its recording system did not show any details of the caller number or time duration other than the serial number of each call.
+
+Therefore, the ASG asked the PCoI to take appropriate legal action under Contempt of Commission against the witness and PTL.
+
+It was also revealed that the CID officers had taken over the current computer in which the system’s software was running. However, the ASG said they had found that the current computer was not the one PTL had used before July 2017 and therefore requested the Commission to issue an appropriate order to obtain the old computer which was used in the phone recording system’s software and data base.
+
+The ASG said they could prove the allegations by way of an affidavit from the Metropolitan Chief Engineer and subsequently Metropolitan Ltd Chief Engineer Nalin Dharmaratne testified before the Commission explaining the matter.
+
+Additional Solicitor General Yasantha Kodagoda led the evidence.
+
+Mr. Dharmaratne said Metropolitan Ltd had installed a phone recording system at PTL on June 2015 which had the capacity of receiving calls from both digital lines and analog lines to the extensions at PTL’s office.
+
+Initially, PTL had only eight ports for the extensions and subsequently in September 2016 another 16 ports had been installed by Metropolitan Ltd.
+
+The incoming and outgoing calls were routed through these 24 extensions using both Digital and Analog lines. Thereafter those call details go through another two devices attached to the extensions and finally saved in a main computer which has a voice logger system.
+
+These devices were also provided by Metropolitan Ltd as PTL’s service provider.
+
+The witness explained that all voice recordings of calls go to one folder file as ‘wave format’ in the main computer while all call details relating to those calls are also saved in a different format as data base.
+
+He confirmed that every call detail, such as caller number (incoming or out going), time duration and date will be in the data base of the recording system which Metropolitan Ltd had initially installed in the system with all those facilities.
+
+He explained the method to be used to extract the previous call data by using the software options (backup data) of the recording system.
+
+Mr. Dharmaratne said that after a complaint was lodged by PTL in June 2015 they had examined the system and prepared it by December 2015. The complaint was about some missing digits of outgoing numbers which were recorded in the system.
+
+However, PTL had earlier only provided its voice recordings with sequential serial numbers to the PCoI. During Last Friday’s cross examination, DSG Milinda Gunathilake pointed out that some phone conversations were missing from the recordings that PTL had provided.
+
+On being questioned by ASG Kodagoda yesterday, Mr. Dharmaratane said they had identified a re-installation of the software on July 6 ,2017
+
+When they were examining the back up data, the witness said they had identified that the previous voice recordings (wave files) had been replaced in the data base.
+
+He said it could have been done by copying voice recordings from the ‘wave’ folder before the re-installation. He said all other call data other than the voice recordings had subsequently been deleted in the re-installation process.
+
+The witness said such re-installation and re-positioning had been identified by the Indian mother company of the system by accessing the system online.
+
+When Justice Prasanna Jayawardena questioned the witness, he said that PTL could have easily asked Metropolitan Ltd's assistance if they wanted to carry out a re-installation. Justice Jayawardena highlighted the fact that according to the service agreement with Metropolitan Ltd, PTL was also prohibited from making any modification or alteration to the system without informing the service provider.
+
+Justice Jayawardena: Have you come across such an incident before?
+
+Witness: No I have not come across such an incident in Sri Lanka with regard to our customers.
+
+When ASG Kodagoda showed details provided by PTL CEO and its IT expert in an affidavit to the PCoI and questioned whether they were true or false, the witness said they were not technically true according to the phone recording system he had installed at PTL.
+
+President’s Counsel Kalinga Indatissa who was appearing for PTL CEO Kasuna Palisena subsequently requested time to cross examine the witness as he had to obtain instructions from technical experts on the matter. (Shehan Chamika Silva)
+ 
+
+		

@@ -1,0 +1,65 @@
+## Title: Wake up, mum!
+## Section: Caption Story
+## Date: 6 February 2018 10:08 am
+
+Wake up, mum!
+
+
+	
+
+
+
+This is the adorable moment a baby elephant clung to his sedated mother after being rescued from a pit in Zambia
+
+Vets had been forced to knock the mother out as they rescued her calf from a man-made pit in South Luangwa National Park because she was so agitated.
+
+Once the calf had been lifted to safety he ran over to his mother and clung on to her ear with her trunk until she could be revived.
+
+Villagers were alerted to the baby's plight after hearing the mother's cries, and called rescue workers to the scene.
+
+Vets arrived the following day to find both animals very distressed, having been struggling at the pit all night.
+
+As vets were administering drugs to bring the mother around, the calf walked up alongside them and place a tender trunk on her mother's ear.  
+
+Rachel added: 'She got a bit defensive for a minute when we put her down and then decided our vet was helping and wouldn't leave him alone.
+
+'The baby did not mind Dr Sichande administering the antidote in his presence and ended up getting in the way trying to help.
+
+'We reversed the mum with the antidote and as soon as she started to get up the baby suckled immediately.
+
+'She must have been really hungry from all night in the pit. Everyone then happily wondered off.' (Daily Mail)
+
+
+
+
+
+
+					
+
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/6231952/DM_MO_Inner_S1', [300, 250], 'div-gpt-ad-1563438593854-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1563438593854-0'); });
+  
+
+
+
+
+
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/6231952/AdStudio_DM_Home', [300, 250], 'div-gpt-ad-1571720635755-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1571720635755-0'); });
+  
+
+
+					
+									  

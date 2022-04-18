@@ -1,0 +1,52 @@
+## Title: A landmark shift in insurers’ financial reporting: EY
+## Section: Financial News
+## Date: 16 October 2017 12:00 am
+
+A landmark shift in insurers’ financial reporting: EY
+
+
+	
+
+The International Accounting Standard Board (IASB) issued a new insurance contracts standard, International Financial Reporting Standards (IFRS) 17 Insurance Contracts. Ernst & Young (EY) finds that this will trigger a landmark shift in the financial reporting of insurers under IFRS and Sri Lanka Standards and marks a fundamental change to the current practice across the industry. 
+
+
+The IASB’s objective in introducing the new standard is to increase transparency in the insurers’ financial statements of life, non-life and reinsurance. The insurers providing long-term contracts will be most affected.
+
+
+The new standard will require the insurers to provide a balance sheet valuation of their insurance liabilities that combines a measurement of the expected probability weighted future cash flows based on updated assumptions, with the recognition of profit over the period that services are provided, under the contract.
+
+
+EY Sri Lanka Partner and Assurance Leader Manil Jayesinghe said, “The new model requires the insurance contract liabilities to be reported on the balance sheet using the current assumptions at each reporting date. This is a profound change in terms of the current accounting requirements. The profit and loss account, however, will reflect the results from the provision of insurance services in the reporting period. 
+
+
+Hence, the model combines a current balance sheet measurement with reporting an entity’s performance in profit or loss over time. The new model is likely to have a significant impact on profit and total equity for some insurance companies and groups. The changes to the key performance indicators are likely and there could be an increase in volatility in the reported equity and earnings compared to today’s accounting models.”
+
+ 
+
+IFRS 17 in a nutshell
+*The IFRS 17 model combines a current balance sheet measurement of insurance contract liabilities with the recognition of profit over the period that services are provided.
+
+
+*Certain changes in the estimates of future cash flows and the risk adjustment are also recognised over the period that services are provided.
+
+
+*Entities will have an option to present the effect of changes in discount rates either in profit and loss or in OCI.
+
+
+*The standard includes specific guidance on measurement and presentation for insurance contracts with participation features.
+
+
+*IFRS 17 will become effective for annual reporting periods beginning on or after January 1, 2021; early application is permitted.
+
+
+The effective date of January 1, 2021 for this standard will provide entities with an implementation period of around three and a half years. Whilst this implementation period is relatively long, the complexity of IFRS 17 is such that companies cannot afford to wait and will need to start preparing for implementation now.
+
+
+“As a starting point, insurance companies will need to separate components such as, embedded derivatives, if they meet certain specified criteria, distinct investment components and distinct performance obligations to provide non-insurance goods and services through an insurance contract,” said EY Partner Financial Accounting Advisory Services Hiranthi Fonseka.
+
+
+With the issue of IFRS 17, the insurance industry will have a commonly agreed foundation for accounting and reporting of revenues, profits and liability positions for insurance contracts. It is much more than a complex accounting change. This standard triggers fundamental changes in the way in which insurance companies will generate and report their financials, both internally and externally. 
+It also requires a new dimension of data granularity, to be accommodated by already stretched IT infrastructures that legacy applications used by most insurers will struggle to deliver. Last but not least, it introduces a new language for measuring and reporting financial performance that all stakeholders need to get used to, from the preparers and the investors, to the auditors and regulators. 
+ 
+
+		

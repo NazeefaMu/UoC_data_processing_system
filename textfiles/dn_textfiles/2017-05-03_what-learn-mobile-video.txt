@@ -1,0 +1,24 @@
+## Title: What to learn in mobile video
+## Supertitle: 
+## Section: Features
+## Date: Wednesday, May 3, 2017 - 01:00
+
+What to learn in mobile video
+
+Christian Payne is a photographer who teaches organisations like the BBC, the UN and Al Jazeera how to do in-the-field reporting using mobile phones. He also orders pizza to his train seat.
+Last week I was lucky enough to spend some time picking Christian’s brain about using phones to make professional-looking video. At Fluxx, we use video all the time; for recording interviews and sharing how we work.
+Everything Christian said was interesting, but here are some highlights…
+Keep the camera and your eyes slightly higher than the speaker. Filming from above is more flattering (fewer double chins) and they’ll look more alert and engaged if they’re looking slightly upwards.
+Study your subject’s eyeballs before filming and after editing. They should be perfectly in focus, so you can see tiny sharp spots of reflected light. If they’re soft (because the focus is elsewhere, or the iPhone lens is dirty, or you saved the file at low resolution) it makes it harder to connect with the speaker.
+Set the scene: At the start of your video, try to tell the viewer three things: Who is talking?Where are they?Why are they here?
+It doesn’t take much to do this: just a shot of the outside of the building or the room they’re in, perhaps a caption.
+Framing the speaker: The classic interview technique has the interviewee on one side of the frame, looking across the screen towards the interviewer on the other side of the camera. So the camera is between you and the speaker.
+Get as close as you can with the microphone. Recording sound is a battle with the laws of physics. As a general rule, if the microphone is closer to the source, it’s more likely to pick up a clear recording and less likely to pick up background noise or the acoustics of the room. That said, sticking a microphone under someone’s nose can make them less relaxed, so it’s a trade-off.
+While filming, maintain eye contact and really react to what the interviewee is saying. You need to stay silent, so express yourself through facial expressions.
+When filming several people for one film, try to be consistent. The viewer needs to understand that these people are alike, and part of the same story. Set up a style —how large the speaker is in the frame, the camera height in relationship to the eyeline, their placement in the frame<U+200A>—<U+200A>then stick to it while changing the location and placing them on the left and right of the frame. If several people are filming, send round a couple of stills from the first session so everyone knows what to aim for. This video is a great case study in the different ways to frame people, even though there are no people in it.
+That said, being too consistent is weird: Cutting between different people sitting in the same position against the same background from the same angle looks freaky (it’s the trick Danny Boyle uses here in Shallow Grave).
+Clip-on lavalier microphones are almost always a good choice for recording interviews. Christian uses Smartlav+ microphones (here he is testing one). They plug directly into an iPhone (use an official Apple headphone socket adaptor if you have an iPhone 7), with various extension cords and accessories for connecting multiple microphones.
+Try to keep vertical lines vertical. It’s not always possible, but makes a shot feel more comfortable.
+iPhones normally record in mono, but stereo recordings are particularly important for blind people. A clearly recorded stereo conversation can transmit a mass of information about the environment the speakers are in and their location. You need an external microphone to record in stereo on an iPhone; the Shure MV88 is an expensive but good option.
+If you’re at a conference in a hotel, ask the front desk if you can borrow a room to film an interview. You’d be surprised how often they say yes.
+- Medium.com

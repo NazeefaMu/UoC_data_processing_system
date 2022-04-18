@@ -1,0 +1,27 @@
+## Title: EGUARDIAN and Nutanix Shed Light on Hyperconverged Infrastructure
+## Section: Press Releases
+## Date: 20 December 2018 11:34 am
+
+EGUARDIAN and Nutanix Shed Light on Hyperconverged Infrastructure
+
+
+	
+
+Faiz Shakir, Regional Director - India South and Sri Lanka, Nutanix Inc
+
+EGUARDIAN Lanka, Sri Lanka’s leading value added IT distributor, hosted a knowledge sharing session on hyperconverged infrastructure for enterprises in partnership with Nutanix, Inc., a leader in enterprise cloud computing, at The Hilton Colombo, recently. Experts from EGUARDIAN and Nutanix engaged with senior IT decision makers from leading public and private sector enterprises at this forum.
+
+Apprising the audience of the importance of hyper-converged infrastructure for enterprises, Mafaz Fahrid, Head of Businesses and International Operations, EGUARDIAN Lanka Private Limited,said, “The pace of business transformation and the demand forenterprise applications continues to grow, legacy IT systems with separate storage, storage networks and servers face the risk of failure. Ever more enterprises around the world are combining server and storage resources with intelligent software through hyperconverged infrastructure to streamline the deployment, management and scaling of resources.”
+
+Elaborating on how Nutanix could help them in this regard, Faiz Shakir, Regional Director – India South and Sri Lanka, Nutanix Inc., noted, “At Nutanix, we seek to enable IT teams to build and operate powerful multi-cloud architectures. Having pioneered hyperconverged infrastructure, we continue to evolve the hyperconverged platform. Our Enterprise Cloud OS software melds private, public and distributed cloud operating environments and provides a single point of control to manage IT infrastructure and applications at any scale.Working together with partners like EGUARDIAN, we look forward to helping enterprises in Sri Lanka build fast, efficient and highly scalable datacenters.”
+
+Amarish Karnik, Director - Channel and Commercial Business - India, Nutanix Inc.
+
+Nutanix was positioned as an MQ Leader again in the November 2018 Gartner Magic Quadrant for Hyperconverged Infrastructure. The company was also named as a leader in “The Forrester Wave: Hyperconverged Infrastructure, Q3 2018,” published by Forrester Research, Inc, earlier this year.The report evaluated 11 vendors on Strategy, Market Presence and Current Offering, and Nutanix was positioned as a leader. These ratings and recognitions further solidify Nutanix’s place as a continued market leader across enterprise cloud and hyperconverged infrastructure.
+
+Nutanix is a global leader in cloud software and hyperconverged infrastructure solutions, making infrastructure invisible so that IT can focus on the applications and services that power their business. Companies around the world use Nutanix Enterprise Cloud OS platform to bring one-click application management and mobility across public, private and distributed edge clouds so they can run any application at any scale with a dramatically lower total cost of ownership. The result is organizations that can rapidly deliver a high-performance IT environment on demand, giving application owners a true cloud-like experience.
+
+EGUARDIAN Lanka commenced operations in 2010 and has already established a strong presence in the market as the sole authorized distributor in Sri Lanka for global leaders such as Fortinet, HP Enterprise Security, Algosec, Arista, and Radware. With offices in Bangladesh and Oman the company has grown and succeeded in building a strong reputation for seamless service and exceptional performance.
+ 
+
+		

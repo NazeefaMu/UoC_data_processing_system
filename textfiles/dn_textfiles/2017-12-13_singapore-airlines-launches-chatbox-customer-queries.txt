@@ -1,0 +1,11 @@
+## Title: Singapore Airlines launches chatbox for customer queries
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, December 13, 2017 - 01:00
+
+Singapore Airlines launches chatbox for customer queries
+
+Singapore Airlines (SIA) today launched a beta chatbot, as it expands digital servicing channels for customers. The bot, named ‘Kris’, will initially be available on the SIA global Facebook page, and will later be made available on singaporeair.com.
+Customers who visit the SIA Facebook page and reach out to the Airline via Facebook Messenger will be able to chat privately with Kris and receive assistance for pre-flight-related queries. As a beta bot, Kris will be in constant learning mode and its capabilities will develop over time. The bot is currently trained to address queries in English related to baggage, check-in, online booking, as well as travelling with infants and children.
+Based on historical data, the beta bot has been trained to address the most frequent queries customers search for on singaporeair.com or reach out to reservations offices for. Using variations of actual questions received from customers, Kris’ responses have been fine-tuned through rounds of iterations using artificial intelligence, with the aim of training the bot to provide conversational replies that can meet the needs of customers promptly and efficiently. SIA has been progressively enhancing its digital capabilities and the development of Kris was led by an in-house team.
+“SIA is committed to offering our customers more choices and greater convenience in how they engage with us - at any time of the day or night. Kris will be under constant development as we further develop its knowledge library based on what our customers are most frequently reaching out to us for,” said Marvin Tan, Senior Vice President Customer Services & Operations. “Customer preferences are changing and with Kris we are taking feedback into account by expanding our servicing platforms beyond traditional contact centre and email channels.” 

@@ -1,0 +1,17 @@
+## Title: Meltdown and Spectre: All Mac devices affected says Apple
+## Supertitle: 
+## Section: World
+## Date: Friday, January 5, 2018 - 08:56
+
+Meltdown and Spectre: All Mac devices affected says Apple
+
+ 
+Apple has said that all iPhones, iPads and Mac computers are affected by two major flaws in computer chips.
+It emerged this week that tech companies have been racing to fix the Meltdown and Spectre bugs, that could allow hackers to steal data.
+Apple said it had already released some patches but there was no evidence that the vulnerability had been exploited. But it advised only downloading software from trusted sources to avoid "malicious" apps.
+Mac users have often believed that their devices and operating systems are less vulnerable to security issues than, for example Android phones or computers running Microsoft systems.
+But the Meltdown and Spectre flaws are found in all modern computer processing units - or microchips - made by Intel and ARM, and together the firms supply almost the entire global computer market.
+All Mac systems and iOS devices are affected, but there are no known exploits impacting customers at this time," Apple said in blog post on the issue. "These issues apply to all modern processors and affect nearly all computing devices and operating systems.
+" Apple said that it had already released "mitigations" against Meltdown in its latest iPhones and iPad operating system update - iOS 11.2 and the macOS 10.12.2 for its MacBooks and iMacs.
+Meltdown does not affect the Apple Watch, it said, as the bug was an issue with Intel processors which are not contained in that device.
+Patches against Spectre, in the form of an update to web browser Safari, will be released "in the coming days".

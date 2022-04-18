@@ -1,0 +1,15 @@
+## Title: LAUGFS Group, Microsoft talk of maximising IoT efficiency
+## Supertitle: 
+## Section: Finance
+## Date: Monday, May 29, 2017 - 01:00
+
+LAUGFS Group, Microsoft talk of maximising IoT efficiency
+
+LAUGFS Holdings Limited, a diversified conglomerate known for downstream LPG-related activities, held discussions with Microsoft to promote digital architecture and internal IoT solutions, recently—in preparation for the group’s transition to app development, automation and analytics.
+In response, Microsoft opted to provide Azure-based technologies to improve service efficiency and productivity at LAUGFS.
+The GNTracker device—an IoT solution developed in-house by LAUGFS—is a remote monitoring tool that enhances the service delivery of LAUGFS International, the authorized distributor for Yamaha and Airman generators in Sri Lanka.
+When embedded to a generator, the device allows maintenance teams to proactively trigger service calls by remotely monitoring and tracking generator performance using an intuitive dashboard, SMS alerts, and a mobile application.
+Prior to consulting with Microsoft, the group’s innovation team had implemented Azure App Service and Web SQL to develop and host the GNTracker.After discussions, LAUGFS will look to adopt additional Azure-based technologies in order to stream analytics, incorporate machine learning, and employ Power BI—an interactive data visualizer—for their next generation of GNTrackers.
+“The GNTracker has allowed our maintenance teams to address critical alerts immediately, and thanks to technologies backed by Microsoft, the devices provide a premium service to our customers at no additional cost. Partnering with Microsoft has allowed our maintenance teams to have complete access to the information related to the generator-sets they are responsible for,” said Shameera Prajapriya, Solutions Architect for Group IT Innovations at LAUGFS Holdings Limited. “We are now in the process of maximising the efficiency of our devices thanks to additional technologies provided to us by Microsoft.”
+“Azure has allowed LAUGFS to deploy reliable and bi-directional communication between IoT devices and back-end software architecture. As a result, the GNTracker can be attached to other equipment which requires triggered alerts related to the device’s operation, making it a highly scalable product for the conglomerate,” said Ruwan Hewawitharana, Director Sales, Corporate Accounts, Microsoft.
+“The GNTracker won an Award at the 2016 APICTA Awards as a result of the proven innovation and creativity within LAUGFS. With Azure-based technologies, customer experience has transformed and we can manage our IoT assets with ease,” said LAUGFS Holdings Group Chief Information Officer, Indika Gunawardena.

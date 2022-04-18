@@ -1,0 +1,14 @@
+## Title: VMware accelerates shift to digitalization and Cloud in Sri Lanka
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, August 24, 2017 - 01:00
+
+VMware accelerates shift to digitalization and Cloud in Sri Lanka
+
+VMware Inc. (NYSE: VMW), a global leader in cloud infrastructure and business mobility, today reinforced its commitment toward enabling digital transformation in Sri Lanka by helping local companies modernize data Centres, empower the digital workspace, integrate public clouds and transform security.
+Through VMware technology, businesses in Sri Lanka can gain a competitive edge, allowing them to diversify into new markets, develop new solutions and applications, and deliver better customer experiences.
+Sri Lanka’s technology sector has matured over the past few years, with the information and communications technology (ICT) sector now the country’s fifth largest revenue driver. Expected to be worth US$4 billion in revenue by 2022, the local industry is focusing on intellectual property development and software engineering, which are expected to create 20,000 jobs and 1,000 new businesses .
+“Businesses in Sri Lanka are undergoing digital transformation to differentiate themselves through new products and value-added services. By strategically applying IT solutions that are consumer simple and enterprise secure, these businesses can become more agile, efficient and scalable,” said Adrian Hia, General Manager, Nascent Markets and Vietnam, VMware. “VMware is committed to collaborating with organizations in Sri Lanka to equip them with the capabilities to accelerate innovation and growth in today’s digital era.”
+Through virtualization technologies, VMware helps organizations modernize their data Centres for greater flexibility, security and scalability, which in turn drives tangible business outcomes like faster expansion into new markets. Companies looking to develop and deploy modern applications and services for customers can then easily extend their IT infrastructure to public clouds and mange hybrid cloud environments through VMware Cross-Cloud Architecture™.
+VMware solutions like VMware vSAN™ and VMware vSphere ® allow rapid deployment, simplified management and the ability to scale horizontally and vertically.
+Meanwhile, vRealize ® Automation™ and VMware NSX ® help organizations automate their IT processes so that they can rapidly configure, provision, deploy, test, update and decommission infrastructure and applications. For organizations to run modern applications and services, VMware Photon™ Platform provides an agile, flexible infrastructure that enables IT to deliver the best experience for applications and services.

@@ -1,0 +1,12 @@
+## Title: Sri Lanka  hosts Informix User Group Conclave
+## Supertitle: 
+## Section: Finance
+## Date: Friday, October 5, 2018 - 01:00
+
+Sri Lanka  hosts Informix User Group Conclave
+
+CyberSoft in partnership with HCL Technologies, hosted the Informix User Group Conclave in Colombo recently. 
+Informix (a registered trademark of IBM Corp) is one of the most widely used database servers globally, deployed by some of the world’s largest corporations as well as new start-ups. Informix incorporates design concepts that are significantly different from traditional relational platforms, resulting in extremely high levels of performance and availability, distinctive capabilities in data replication and scalability, and minimal administrative overhead.
+Informix is a world class data platform solution for high-volume online transaction processing (OLTP), embedded database, edge processing, integrated applications, and breathtakingly fast data warehouse/analytical workloads.Informix has built an incredible reputation over time as the database server that just works. Informix has kept pace with its customers as they’ve grown and expanded without costing them a fortune for ongoing maintenance and administration. In most cases, these companies have grown without requiring significant infrastructure upgrades or additional personnel because Informix is so efficient.Informix version 12 is the first enterprise-class database ported to ARM V6 (and above) and most popular operating systems that run there. In April 2017, IBM made a significant and positive announcement regarding the Informix product family: a 15-year IP Partnership with HCL Technologies Ltd., a major IT Indian Corporation, where HCL took over for the development, advanced support and professional services of Informix products while IBM will continue to sell Informix and handle all current of their current Informix customer interactions. 
+A revised product roadmap has been published covering the next 12 to 18 months. In Sri Lanka, CyberSoft has been the sole Informix supplier since 1996 and continues to support the large Informix customer base.
+ 

@@ -1,0 +1,23 @@
+## Title: Pigeons can manage multitasking better than humans
+## Supertitle: 
+## Section: Features
+## Date: Monday, October 2, 2017 - 01:00
+
+Pigeons can manage multitasking better than humans
+
+Pigeons are capable of switching between two tasks as quickly as humans - and even more faster in certain situations, despite their small brains, a study suggests.
+Researchers performed behavioural experiments to test birds and humans and found that the cause of the slight multitasking advantage in birds is their higher neuronal density.
+“For a long time, scientists used to believe the mammalian cerebral cortex to be the anatomical cause of cognitive ability; it is made up of six cortical layers,” said Sara Letzner from Ruhr-University Bochum in Germany. In birds, however, such a structure does not exist.
+“That means the structure of the mammalian cortex cannot be decisive for complex cognitive functions such as multitasking,” said Letzner, researcher of the study published in the journal Current Biology.
+The pallium of birds does not have any layers comparable to those in the human cortex, but its neurons are more densely packed than in the cerebral cortex in humans.
+Pigeons, for example, have six times as many nerve cells as humans per cubic millimetre of brain, researchers said.
+The average distance between two neurons in pigeons is fifty per cent shorter than in humans, they said.
+As the speed at which nerve cell signals are transmitted is the same in both birds and mammals, researchers had assumed that information is processed more quickly in avian brains than in mammalian brains.
+They tested this hypothesis using a multitasking exercise that was performed by 15 humans and 12 pigeons.
+In the experiment, both the human and the avian participants had to stop a task in progress and switch over to an alternative task as quickly as possible. The switchover to the alternative task was performed either at the same time the first task was stopped, or it was delayed by 300 milliseconds.
+In the first case, real multitasking takes place, which means that two processes are running simultaneously in the brain, those being the stopping of the first task and switching over to the alternative task.
+Pigeons and humans both slow down by the same amount under double stress.
+In the second case - switching over to the alternative task after a short delay - the processes in the brain undergo a change.
+The two processes, namely stopping the first task and switching over to the second task, alternate like in a ping- pong game.
+For this purpose, the groups of nerve cells that control both processes have to continuously send signals back and forth. The researchers had assumed that pigeons must have an advantage over humans because of their greater nerve cell density. They were, in fact, 250 milliseconds faster than humans.
+The Scientist

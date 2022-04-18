@@ -1,0 +1,26 @@
+## Title: China disrupts WhatsApp ahead of Communist Party meeting
+## Supertitle: 
+## Section: World
+## Date: Tuesday, September 26, 2017 - 11:45
+
+China disrupts WhatsApp ahead of Communist Party meeting
+
+ 
+The messaging service WhatsApp has been disrupted in China as the government steps up security ahead of a Communist Party meeting next month.
+Users have faced problems with the app for more than a week with services dropping in and out.
+At times, it has been completely blocked and only accessible via virtual private networks which circumvent China's internet firewall.
+WhatsApp is Facebook's only product allowed to operate in mainland China.
+Facebook's main social media service and its Instagram image sharing app are not available on the mainland.
+The BBC's China based correspondents said the WhatsApp messaging service started going offline more than a week ago.
+A test of its services on Tuesday showed users in China could not send video messages or photographs to people outside China.
+The disruption follows restrictions on WhatsApp video chats and photographs in July, which were later lifted.
+The tightening of online censorship comes as China steps up security ahead of the Communist Party's national congress which is held every five years.
+"The run-up period to a gathering is a normally a time of greater restrictions of all kinds to assure that the critical Party Congress is held under ideal social conditions and is not disrupted", Robert Lawrence Kuhn, long-time advisor to China's leaders and multinational corporations told the BBC.
+However, he said it is not yet clear whether the restrictions will be relaxed as has happened after previous party congresses, adding that many analysts do not believe they will be.
+Cyber security experts said WhatsApp most likely came under the attention of China's censors because it has a strong reputation for security.
+The app provides end-to-end encryption which ensures only the sender and recipient can view the content of messages.
+It also prevents Facebook from knowing what is said in any text, voice and video conversation being communicated on WhatsApp.
+"China has shown little tolerance to encryption especially on platforms that can be used to share materials or potential propaganda," Bill Taylor-Mountford, Asia Pacific vice president for LogRhythm told the BBC.
+The latest disruption to WhatsApp appears to be part of a broader crackdown on the internet and online content in China.
+On Monday, China's cyber watchdog handed down maximum penalties to some of the country's top technology firms including Tencent, Baidu and Weibo for failing to properly censor online content.
+The penalties were imposed for failing to remove fake news and pornography, as well as content that authorities said "incites ethic tension" and "threatens social order".

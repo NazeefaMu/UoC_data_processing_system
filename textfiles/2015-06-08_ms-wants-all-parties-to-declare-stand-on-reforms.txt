@@ -1,0 +1,47 @@
+## Title: MS wants all parties to declare stand on reforms
+## Section: Breaking News
+## Date: 8 June 2015 05:45 pm
+
+MS wants all parties to declare stand on reforms
+
+
+	
+
+
+	President Maithripala Sirisena requested all political parties to come forward within the next few days and declare their respective positions on the proposed electoral reforms. He stressed that the passage of the 20th Amendment to the Constitution (that would do away with the weaknesses of the Proportional Representation System) was the need of the hour.
+	Addressing a public rally held in support of the 20th Amendment at Viharamahadevi Park last afternoon, President Sirisena went on to say that attempts to sabotage the passage of the 20th Amendment, or to prevent its presenation in parliament or scuttle it would be treason and a betrayal of the trust the people had placed in their representatives.
+	"If the current electoral system remains for another few years in in this country, only those mudalalis who can spend millions on their election propaganda would enter parliament, and there would be no place in politics for educated, decent people who have a genuine desire to serve the people," he said.
+	The country had seen the ill effects of unsuitable persons getting elected to parliament as a result of the current PR system. However the people of the country had given a mandate on January 8 to prune the unfettered powers of the Executive President and introduce a new electoral system through the 20th Amendment to the Constitution. By enacting the 19th Amendment, the absolute powers enjoyed by the Executive President were removed to a certain extent after 37 years of struggle. And it was a victory for all those responsible for the good work, he said.
+	It was vital that the 20th Amendment also be enacted, with same enthusiasm that was displayed in approving the 19th Amendment, as only then could the people's aspirations be fulfilled and people's rights protected, he said.
+	Opposition Leader Nimal Siripala De Silva, UPFA General Secretary Susil Premajayantha, Communist Party leader D. E. W. Gunasekara, Health Minister Rajitha Senaratne and SLFP media coordinator Thilanga Sumathipala also spoke.
+	The rally had been organised by the SLFP on the theme 'Let's Abolish the Preferential Voting System - Bring Victory to 20A'. (Sandun A Jayasekera)
+Video by Chaturanga Pradeep
+					
+
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/6231952/DM_MO_Inner_S1', [300, 250], 'div-gpt-ad-1563438593854-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1563438593854-0'); });
+  
+
+
+
+
+
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/6231952/AdStudio_DM_Home', [300, 250], 'div-gpt-ad-1571720635755-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1571720635755-0'); });
+  
+
+
+					
+									  

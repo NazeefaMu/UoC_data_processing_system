@@ -1,0 +1,17 @@
+## Title: Etisalat transforms business processes with Oracle Cloud applications
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, August 17, 2017 - 01:00
+
+Etisalat transforms business processes with Oracle Cloud applications
+
+Etisalat Sri Lanka, a leading mobile telecommunications provider in Sri Lanka, has successfully deployed Oracle Cloud Applications to modernise its IT systems and transform its business by simplifying and standardising the performance of key business functions including human resources (HR), finance, and supply chain.
+An industry leader for more than 25 years, with a mission to extend its reach, Etisalat Sri Lanka was facing difficulties in integrating its core business functions with an aging and highly customised Enterprise Resource Planning (ERP) system.
+Productivity and efficiency were reduced drastically due to significant manual effort. Additional issues facing Etisalat Sri Lanka were report data integrity and integration between the front-end billing and sales force automation systems.
+The organisation successfully deployed Oracle Cloud Applications, including Oracle Enterprise Resource Planning (ERP) Cloud, Oracle Supply Chain Management Cloud and Oracle Human Capital Management (HCM) Cloud, because of Oracle’s ability to provide a single, integrated platform across HR, financials, and procurement.
+Etisalat opted for Oracle’s Cloud Applications suite on the strength of its integrated breadth and depth of offerings, embedded analytics, and the modern, easy-to-use interface of its applications.
+“As we continue to grow rapidly, we were looking for a solution to simplify and modernise our business processes, for a comprehensive view across our entire organisation with the ability to seamlessly integrate across multiple systems,” said Perihane Elhamy – chief technology and information officer, Etisalat Sri Lanka. “With Oracle Cloud Applications, we now have access to modern innovative tools that will enable us to grow our business operations, simplify our existing business processes, and increase employee productivity through true talent management.”
+Etisalat Sri Lanka is taking advantage of Oracle ERP Cloud’s industry-leading capabilities. As the most complete, modern, and secure solution, Oracle ERP Cloud helps organizations drive innovation and business transformation by increasing business agility, lowering costs, and reducing IT complexity. Critically, Oracle ERP Cloud enables the seamless integration with Oracle HCM Cloud which allows Etisalat to tightly align talent requirements and investments to its strategic growth plans. Built on Modern Best Practices, Oracle Cloud Applications provided an ideal platform for Etisalat to complete their transformation successfully and quickly.
+“Oracle Cloud Applications are helping organisations around the world to drive innovation and transform their businesses by helping to increase business agility, lower costs, and reduce IT complexity,” said Chandita Samaranayake, regional sales director of the application business, Oracle SAGE. “We are proud to help Etisalat Sri Lanka simplify and modernise their business processes by providing them with offering that are in line with global best business practices.”
+Etisalat awarded the contract to Oracle in December 2016 and the project went live in April 2017. 
+ 

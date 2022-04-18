@@ -1,0 +1,14 @@
+## Title: Data science enthusiasts gather  for Colombo Big Data Meetup
+## Supertitle: 
+## Section: Finance
+## Date: Monday, February 20, 2017 - 01:00
+
+Data science enthusiasts gather  for Colombo Big Data Meetup
+
+The fourth session of the Colombo Big Data Meetup was held at VirtusaPolaris recently, where industry professionals discussed the latest findings in Big Data tools and technologies.
+SamudraKanankearachchi, Software Architect/Data Science Specialist 99X Technology, presented on the topic, “Forecasting Seasonal Effects in Business Data (Time Series Modeling) Using Microsoft Azure Machine Learning Studio”.
+He discussed the extensive use of forecasting in business to make predictions about demand, capacity, budgets and revenue. Starting with an introduction to Time Series Modeling and walking through a few use cases, he then discussed the technical aspects of Time Series Modeling.
+In the next session, Dinesh Priyankara, Microsoft MVP, Founder/Principal Architect at dinesQL, discussed the topic, “Processing data using Apache Hive”.
+He discussed how previously ignored data has suddenly become the most important part of the business, and how it needs to be processed similar to how we process standard, relational data, which is called BigData, unstructured data or semi-structured data. In addition, he discussed how initially it was a big challenge for engineers because processing data with unfamiliar languages was not easy but the introduction of Apache Hive, which provides a SQL-like interface, changed that. He also talked about Apache Hive and how it assists in processing Big Data.
+The meetup was moderated by Dinesh Asanka, Microsoft MVP and Senior Architect at VirtusaPolaris.The Colombo Big Data Meetup, held every quarter, gives those interested in the field the opportunity to interact and discuss how the latest research and findings can influence real life problems and thus create solutions.
+ 

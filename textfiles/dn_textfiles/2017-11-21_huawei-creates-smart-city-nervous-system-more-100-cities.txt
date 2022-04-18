@@ -1,0 +1,16 @@
+## Title: Huawei creates smart city nervous system for more than 100 cities
+## Supertitle: 
+## Section: Finance
+## Date: Tuesday, November 21, 2017 - 01:00
+
+Huawei creates smart city nervous system for more than 100 cities
+
+Huawei is participating in the Smart City Expo World Congress 2017 (SCEWC) in Barcelona under the theme of “Leading New ICT, Creating a Smart City Nervous System,” highlighting how a Smart City can be like a living organism that works seamlessly to continuously learn and enhance the city’s services.
+Together with its global partners, Huawei is demonstrating joint ICT solutions to connect the digital and physical worlds across city administration, public services, and industrial economies.
+Alongside the SCEWC, Huawei hosted the Global Smart City Summit, where representatives from the European Union, international standards organizations, world-renowned consultancies, relevant research institutions and leading Smart Cities shared their insights and experiences in driving Smart City development with over 400 city administrators from around the world.
+Becoming a Smart City involves the digital transformation of a city to address challenges in the physical world. This demands data-driven systems that combine management and IoT data to help authorities manage the city and enable the physical and digital worlds to be integrated.
+Smart City development requires a fundamental change to city administration and for the development to flourish it needs to be a priority for the government. In addition, there must be a strong and capable Smart City project team, long-term and stable investment, and city leaders need to partner with a leading digital provider that can facilitate the transformation.
+Yan Lida, President of Huawei Enterprise Business Group, said: “A Smart City is like a living organism, which is powered by a nervous system. This Smart City nervous system comprises a “brain” [the control center] and “peripheral nerves” [the network and sensors], gathering real-time information about the status of the city, transmitting the data, enabling the “brain” to analyze and make informed decisions, delivering feedback commands, and ultimately carrying out intelligent actions. This creates a seamless link between the physical and digital worlds.”
+During the Global Smart City Summit, Huawei released the Intelligent Operation Center (IOC), a solution that functions as the “brain” of the Smart City, connecting the digital and physical worlds.
+The underlying infrastructure of the IOC comprises distributed cloud data centers and ubiquitous city networks that collect, integrate and share city information, enabling real-time visibility of the city. The IOC uses an Integrated Communications Platform (ICP) that enables intelligent collaboration across city functions and emergency dispatch of all services. By using Big Data, machine learning and AI technologies, the IOC delivers valuable insights to facilitate city planning and management of vital services such as transportation and security.
+Huawei also provides wired and wireless broadband, IoT platforms, and LiteOS – a secure, lightweight and intelligent operating system, that serve as the peripheral nervous system, collecting data to assist the brain in making decisions, which bring about changes in the physical world.

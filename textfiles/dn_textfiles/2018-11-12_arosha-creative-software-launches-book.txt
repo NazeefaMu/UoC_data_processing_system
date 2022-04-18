@@ -1,0 +1,13 @@
+## Title: Arosha of Creative  Software launches book
+## Supertitle: 
+## Section: Finance
+## Date: Monday, November 12, 2018 - 01:00
+
+Arosha of Creative  Software launches book
+
+Arosha, an associate Tech Lead at Creative Software, with more than eight years’ experience in Mobile application development and Java, has authored the book “Swift and Kotlin”, an educational guide for Sri Lankas Android and iOS developers.
+Swift is the native language for iOS (Apple products) development and Kotlin, mainly based on Java, is the language used by Android developers. At the last Google developer conference in 2018, it was announced that around 35% of Android developers are using Kotler. They are hoping to increase that number. The Android API will be on Kotlin hereafter.
+The book, written in simple language and easy to understand, will enable developers to use both Swift and Kotlin in projects, thereby giving them better career prospects and opportunities. Each chapter of “Swift and Kotlin” demonstrates how to implement a program in both languages. While comparing the two, it is explained how syntax and theory compares. In every chapter there are code-based examples.
+The book is not meant to be an A to Z for Swift and Kotlin development but provides valuable insights for any mobile developer wanting to work on both the iOS and Android platforms.
+“Swift and Kotlin are the languages of the future in the mobile industry. Currently, developers who know both platforms are quite rare and I wanted to give our local talented developers the chance to learn both of these languages, so that they in turn can uplift their careers through this knowledge. This was my main aim in writing this book “stated Arosha.
+Sushena Ranatunga, Director of Creative Software, commented “Creative Software has been in existence for almost two decades. Today it employs over 200 of Sri Lanka’s finest software professionals. We have always believed in harnessing the talents of our employees and Arosha publishing this book, is a good example of this fact.”

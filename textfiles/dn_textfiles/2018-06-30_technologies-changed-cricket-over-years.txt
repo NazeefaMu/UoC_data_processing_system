@@ -1,0 +1,46 @@
+## Title: Technologies that changed cricket over the years
+## Supertitle: 
+## Section: Sports
+## Date: Saturday, June 30, 2018 - 01:00
+
+Technologies that changed cricket over the years
+
+There is absolutely no doubt that over the years, technology has become an integral part of the game. In cricket’s rich history of more than 140 years, technology has grown with every passing year and decade.
+In 1922, the first-ever radio broadcast of a cricket match took place in Australia covering a domestic game which took place at the Sydney Cricket Ground (SCG). The first time a match was televised was way back in 1938. Since then, there were constant ball-by-ball coverage, detailed coverage of the matches being played (at least international ones).
+Slowly, but surely, the technology kept up pace as the game evolved and grew. More and more games started being broadcasted, there was radio commentary like never before. Third umpires came into the fray as the 20th century went into its last decade. Replays became better, the quality of broadcasting was constantly improving.
+Technology in cricket kept up pace with other things around the world. More and more cameras were involved, speed guns were invented, spider-cams came into the picture, Decision Review System (DRS) which involves ball tracking, Snicko, Hotspot and we can go on and on and on. Hence, technology is an integral part of the game today and players, umpires, analysts, everyone is dependent on it some way or the other.
+With Anil Kumble’s Spektacom technology which gives an in-depth analysis on batting (bat speed, power, ball contact with the bat among other things) making its debut in this year’s Tamil Nadu Premier League (TNPL) which begins on the 11 of July, let’s take a look back at some of the technologies that have impacted and changed the game of cricket over the years.
+SPIDERCAM
+Spidercam is a type of a camera that is suspended from the stadium’s roofs and poles. It offers a complete three-dimension view of the game.
+The Spidercam gives a complete and a detailed view of every small part of the game. It functions as the game progresses and moves. As the bowler runs in to bowl a delivery, it captures his/her run up all the way until the batsman plays a shot and the ball becomes dead. It then covers how the bowler is going back to his mark or how the batsman is preparing to face the next delivery.
+Hence, the Spidercam has been a great help not only to the broadcasters but also the match officials if they want to watch specific parts/details of an instance that took place during the game. Every game played now (that is covered) has a Spidercam and it has become an integral component of broadcasting.<U+200B>
+STUMP CAMERAS
+In today’s game, we often have a hawk-eye view and how the game looks from the stumps. This is because of a camera installed in the middle-stump (mostly) at either end of the pitch.
+This stump camera often helps third umpires making some crucial runout or stumping decisions, especially in cases when the bat (or leg) is on the line (popping crease). It provides them with a different angle which helps them determine whether the bat (or leg) is in or not. It also helps in recording every moment of the game from a stump’s view.<U+200B>
+GUN (SPEEDOMETER)
+We’ve often heard about former fast bowlers who were champions and how they intimidated even the best batsmen in the world. The likes of Dennis Lillee, Jeff Thomson, the famous West Indies pace quartets and many others ruled international cricket in their time. As the experts and former batsmen say, they were quite quick and it was sometimes a nightmare to face them at their peak. However, nobody knows at what speed they operated at. Or who was the quickest during their time.
+Hence, the advent and the introduction of the speed gun helped in determining whose bowling at what speed or which bowler is/was the quickest. The speed gun measured at what speed the ball was delivered i.e the estimated speed of the delivery bowled.<U+200B>
+BALL TRACKING (HAWK-EYE)
+Ball Tracking is a technology used to determine the path of the ball after it has been released from the bowler’s arm i.e. it is generally used to determine the how the ball might travel if the ball was not in contact with the batsman. In other words, it gives a detailed view of how particular deliveries have been bowled and what their paths were.
+It helps in determining how much swing/seam, spin, bounce or any kind of movement that was there on the ball. It has helped in reviewing LBW decisions. It is one of the key components of the Decision Review System (DRS).<U+200B>
+SNICKO (SNICKOMETER) AND HOTSPOT
+Snicko (or Snickometer as it is known as) is a type of a sensitive microphone which picks up any sound when the ball passes through (whether it hits the bat, pad or the body of the batsman). It was invented to pick up edges for caught-behinds or inside-edges for LBWs.
+This Snicko usually detects the presence of an edge i.e. if the batsman has nicked a delivery or has got an inside edge onto the pad. The Snicko has become an integral part of the Decision Review System (DRS) and has helped the third umpires detect edges.
+Hotspot is currently an integral part of the Decision Review System (DRS) in most places around the world. It is a very expensive technology but it is used in conjunction with Snicko to detect edges and faint nicks. Hotspot is an infrared technology used to capture images of whether the batsman has made any contact with the ball.
+Sometimes, the Snicko might fail if there is too much disturbance around the batsman and the Snicko might detect a lot of sound waves but Hotspot works on heat waves and sometimes can determine faintest of edges as well. Like Snicko, Hotspot is used to help third-umpires detect edges for caught behind, or an inside-edge for LBW and more such decisions.
+WAGON-WHEEL AND PITCH-MAP
+Here are two technologies that help teams analyze and strategize. The Wagon-wheel is that technological innovation which shows how a particular batsman has scored runs i.e. which region or part of the ground, where does he get his boundaries, where does he look for ones and twos and so on. It gives a detailed view of a batsman’s or team’s innings or multiple innings as well.
+On the other hand, pitch-map gives a detailed view of the bowlers. It gives a complete view on a particular bowler or a team has bowled in a particular innings or multiple innings. It helps them figure out what line and length they’ve bowled and what improvement can be made.
+These two technologies not only help in the improvement of the respective teams but also helps in analyzing the strengths and weaknesses of opposition bowlers and batsmen.
+LED BAILS
+The stumps and bails have also evolved with time. The stumps started having cameras and were used to record the stump-view of the game.
+But now the bails have evolved too. There are LED bails used in today’s game. They were brought into the picture to eliminate touch and go cases during runouts and stumpings while determining when the bails were off the groove. Hence, with the advent of LED bails (and stumps), we can easily know when the bails (and stumps) were completely dislodged.
+Also known as Zing bails, these contain sensors which light up when the bails are completely off their groove and hence, decisions on runout and stumpings can be made when these bails light up and where was the batsman when these lit up.<U+200B>
+SOME OTHER TECHNOLOGIES SUPER SLO-MO:
+This is nothing but an advancement in the cameras which record the motion of the video in very slow motion. It gives a complete picture of how a particular event happened. For example, take the recent ball tampering incident where Cameron Bancroft was caught putting the sandpaper back in the pocket and then in his trousers.
+<U+200B> BOWLING MACHINES:
+These are machines which are fed balls (any kind of balls) and a particular speed is set for a batsman to practice. It can help a batsman face a particular kind of delivery while practising.
+<U+200B>BALL RPM:
+This is a technology that measures the revolutions put behind a delivery. This is usually measured for spinners as to check the revs behind the ball.
+– topbuzz
+ 

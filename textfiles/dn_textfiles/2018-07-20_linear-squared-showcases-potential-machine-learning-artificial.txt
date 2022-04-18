@@ -1,0 +1,20 @@
+## Title: Linear Squared showcases potential  of Machine Learning, Artificial  Intelligence in driving business
+## Supertitle: 
+## Section: Finance
+## Date: Friday, July 20, 2018 - 01:00
+
+Linear Squared showcases potential  of Machine Learning, Artificial  Intelligence in driving business
+
+A recently concluded forum held at Cinnamon Grand, Colombo, organised by Linear Squared (Pvt) Ltd., Sri Lanka’s pioneers in Machine Learning & Advanced Analytics Solutions, showcased the potential of Machine Learning and Artificial Intelligence in driving business impact.
+The event was organised to create awareness amongst the Sri Lankan business leaders about the current trends and developments in the use of ML and AI technology around the world and the opportunities to apply them in the local context.
+Event participation was by invitation only and included heads of several top local corporates as well as multinational companies from a variety of sectors including FMCG, Telco, Banking and Manufacturing.
+Welcoming the participants, Sankha Muthu Poruthotage, CEO and Co-founder of Linear Squared spoke about the importance of data platforms, and that Prescriptive Analytics are proving to be the competitive advantage of Enterprises. He also spoke about companies in Sri Lanka who have started using these cutting edge technologies and are seeing huge business benefits.
+The event featured a keynote address by Rajan Anandan, VP & MD - Google India and South East Asia, and Chairman, Linear Squared.
+Rajan highlighted the impact of Artificial Intelligence, and how technology companies like Google are taking an AI-First approach in products to make lives better for consumers globally.
+Dr. Rainer Deutschmann, COO Dialog Axiata PLC, represented the business community and illustrated the power of analytics across all business domains. He gave examples from the customer journey, such as lead qualification, targeted cross-and up-selling, churn prevention, and customer care – all to improve the customer experience. Also, analytics significantly improves technical operations, network planning, continuous network improvement, and fault prevention.
+Dialog has transformed to an analytics driven company, based on a best in class real-time analytics infrastructure which connects data sources through a 360 degree data lake to real-time dashboards and machine learning models.
+Dialog has attracted a team of leading analytics experts which is continuously being built upon, and further strengthens its capabilities by being part of the international Axiata analytics center of excellence.
+Also presenting at the event was Mohit Pande, who has just joined Linear Squared as Senior Vice President. Mohit is the former Country Manager – India, Google Cloud. Prior to Google, Mohit held senior leadership roles with Microsoft in India and South East Asia.
+In his previous role, Mohit founded and led the Cloud business for Google in India. Speaking at the event, Mohit commented on how Cloud is giving entry to unprecedented and economical access to Computing Power - enabling massive data processing. This, combined with sophisticated mathematical and statistical frameworks which are available today, allows Machine Learning models to be developed to address business problems which we thought were unsolvable till now. He illustrated how Linear Squared has democratized these Machine Learning models, and hence addressing some core business issues for Enterprises.
+Linear Squared (Pvt) Ltd is one of the pioneering companies based out of Sri Lanka, providing Machine Learning and Advanced Data Analytics solutions, and home to the largest pool of Data Scientists in the country.
+The company specializes in developing end-to-end solutions leveraging on a combination of cutting-edge technology (Machine Learning, Artificial Intelligence, Cloud Platform) and statistical models to deliver solutions to business problems across multiple domains including Apparel, FMCG, Financial Services and Telecom. 

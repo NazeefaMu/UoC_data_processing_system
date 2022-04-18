@@ -1,0 +1,35 @@
+## Title: A look into the evolution of data centre storage
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, June 22, 2017 - 01:00
+
+A look into the evolution of data centre storage
+
+It has been over 60 years since IBM introduced the first disc, the IBM 350, which was the size of a large wardrobe, with a capacity for storage of 3.75MB.
+Since then storage has evolved as more and more capacities were contained in smaller and smaller volumes.
+In the present age, the typical IT infrastructure Head would explore the possibility of keeping at least the data which is less frequently accessed and less critical, hosted on the cloud.
+Computer storage prices have dropped below US$ 0.10 per terabyte (TB), and it is simply not worthwhile to spend for the footprint, power and cooling for a category of data that can be stored elsewhere, and accessed on demand at a much less cost.
+Evolution of network storage
+By the 1990s, as enterprises needed to overcome the limitations presented with local storage, the concept of JBOD (just a bunch of discs) caught on where a disc array connected via a SCSI (small computer system interface) bus could be connected to a server, to provision storage.
+Some models offered a split bus option, where two servers could share the storage with RAID (redundant array of independent discs) protection.
+They offered better usage of storage resources comparatively and were restricted by the speeds imposed by the SCSI connectivity.
+With the decline of prices in computer hardware over time, storage area networks which were considered as affordable only to the large-scale enterprises now became viable to be considered for the small and mid-range business enterprises.
+As such we saw storage area network (SAN) based solutions being installed in state and private banks around 10 years back in Sri Lanka, with some of the then high performance Enterprise Class SAN systems being deployed at service providers like Sri Lanka Telecom.
+Over the last decade or so we have seen SAN systems become a commodity. The product range varied, with high performance models with multiple controllers for large enterprises with heavy workloads and dual controller models for mid-range and small businesses.
+The latter-day models for small businesses have become so user-friendly that they are designed to be rolled out by the customers themselves with minimum involvement from the manufacturer or systems Integrator.
+Furthermore in the decade, the main pain points of the infrastructure chiefs have shifted from price of hardware to a different set. Decisions about the cost of the foot print in the data centre, cost of power and cooling, and efficient use of computers have started complimenting the large-scale integration that has been happening over the last so many decades in the field of semi-conductor electronics.
+Storage today – the trends
+Today we have network switches with very low latency and deep buffers that can guarantee lossless networks, which is a 'given' storage networking.
+These trends in the networking field, complimented by the efficient use of compute power as availed via virtualization, have today brought to the forefront such technological trends as software defined storage aka, hyper-converged storages.
+In one way the methodology of storage has taken the full circle as local storage is again being used.
+But by today the software stack which operates on these discs have advanced over the last decade and half, where each compute node works in unison with each other to present a common storage layer.
+The building blocks here are its local discs connected via a high performance network, ideally at a minimum of 10Gbps.
+Entry-level solutions of this design have already been deployed in Union Assurance Life and Sci-com. The major hurdle that Sri Lankan businesses have at the moment is that their network infrastructure is slow to move forward from the 1GB limit, which is an essential element to guarantee an acceptable level of performance, to match the speeds of the FC-based, (now traditional) SAN, which operates at minimum of 8Gbps (the newer models support 16Gbps).
+Future of storage and beyond
+Yet, software defined storage is part of a small picture. The bigger picture is cloud-based services. The trend is for cloud-based collaboration services such as Google’s G-Suite, Amazon’s AWS or Microsoft Azure where cloud-based application and collaboration applications could be used for a much lesser fee than if they were to be hosted inhouse.
+This trend has already started in local banks and other mid-range businesses. This would allow businesses to deploy only their core applications from within. So while SaaS (or software as a service) is already catching up in the local business sector, IaaS (or infrastructure as a service) would probably be the future, as prices decline so that businesses can host their core applications, use HPC (high performance computing) and carry out Big Data Analytics using the hosted infrastructure.
+This would release the business from the responsibility of managing a complex storage infrastructure which requires a skilled staff while meeting legal and compliance requirements too. More importantly, the business would not have to make the capital investment for storage and other compute resources. These trends in combination (SDS, SaaS, IaaS), have made the designers of storage solutions to revisit their road maps.
+Flagship products by certain principles could very well be obsolete and the models retired in the years to come, as advanced software which is hardware agnostic, coupled with diminishing hardware prices (for example, solid state drives are fast becoming a commodity), offer more storage using simpler designs with the software layer delivering what hardware did a couple of years back.
+Just In Time Group, a wholly Sri Lankan Company has been a key partner and implementer of several cutting edge mission critical ICT projects in the country over the last two decades. With the dawn of 2016, Just In Time Group completed a two decade (20 years) mammoth journey in the ICT arena of Sri Lanka. This growth throughout the years is a vital milestone with their longstanding strategic partnerships with principals, customers and employees.
+The writer is a solutions architect at Just In Time Group
+ 

@@ -1,0 +1,16 @@
+## Title: Rocell implements Carbon Black Defense
+## Supertitle: 
+## Section: Finance
+## Date: Friday, September 28, 2018 - 01:00
+
+Rocell implements Carbon Black Defense
+
+Royal Ceramics Lanka (Rocell), one of the largest tiles and sanitary ware manufacturers in Sri Lanka, recently deployed Carbon Black Defense to protect its IT infrastructure from any vulnerabilities from cybercrime.
+The cloud-based Carbon Black Defense (Cb Defense) system will provide Next-Generation Antivirus (NGAV) and Endpoint Detection and Response (EDR), enabling Rocell to defend itself against the most advanced cyber threats, including malware, ransomware, and non-malware attacks. MS Technologies as the local partner, collaborated with SAT to implement the software.
+Sanjaya Padmaperuma, Chief Executive Officer of South Asian Technologies, Authorised Distributor for Carbon Black in Sri Lanka said, “Cyber attackers are innovating faster than traditional defenses can keep up.
+Therefore, installing a virus guard today is like sticking a band aid for influenza. Today, companies need a solution that captures data from every endpoint and analyses each event stream in context, identifying emerging attacks that yesterday’s security technologies might miss and deploy a suitable response in real time and to any location without any delay. This is the solution Carbon Black can bring to customers to ensure their digital transformation journey is secure and complete.”
+“Operating one of the most advanced manufacturing facilities and largest distribution networks spanning over 50 owned showrooms and a wider dealer network, Rocell relies on IT to keep the system operational and expanding,” said Isanka Attanayake, Manager IT Infrastructure. Carbon Black Defense, the solution deployed at Rocell, draws from its global footprint, to use advanced predictive models to analyse complete endpoint data and uncover malicious behaviour to stop all types of attacks before they compromise an organisation’s IT infrastructure.
+Carbon Black Defense also allows for quickly visualisation of the attack chain to see exactly what attackers are trying to do and create a secure shell to any endpoint on or off the network to address critical issues.
+“Another key advantage of Carbon Black Defense is that it can automate operational tasks and integrate with your existing tools to boost the productivity of everyone on your team, taking it a step ahead of traditional antivirus applications that lag behind emerging attacks and requires too much manual effort to stay effective.
+It can also deploy seamlessly, with less than 1% CPU and disk space per endpoint,” Regional Sales Leader for Carbon Black Singapore Pte Ltd, Kang Yeong Wong said.
+ 

@@ -1,0 +1,35 @@
+## Title: World braces for more cyberattacks as work week begins
+## Supertitle: 
+## Section: World
+## Date: Tuesday, May 16, 2017 - 01:00
+
+World braces for more cyberattacks as work week begins
+
+UK: Governments and computer experts girded Monday for a possible worsening of the global cyberattack that has hit more than 150 countries, as Microsoft warned against stockpiling vulnerabilities like the one at the heart of the crisis.
+European policing and security agencies said the fallout from a ransomware attack that has already crippled more than 200,000 computers around the world could deepen as people return for another work week.
+The indiscriminate attack began Friday and struck banks, hospitals and government agencies, exploiting known vulnerabilities in older Microsoft computer operating systems.
+US package delivery giant FedEx, European car factories, Spanish telecoms giant Telefonica, Britain’s health service and Germany’s Deutsche Bahn rail network were among those hit.
+In China, hundreds of thousands of computers at nearly 30,000 institutions and organisations were infected by late Saturday, internet firm 360 Security said.
+Government agencies and universities were among those hit as well as petrol stations, ATMs and hospitals, said the firm, one of China’s leading software security providers.
+Europol executive director Rob Wainwright said the situation could worsen on Monday when workers return to their offices after the weekend and log on.
+“We’ve never seen anything like this,” the head of the European Union’s policing agency told Britain’s ITV television Sunday, calling its reach “unprecedented”.
+Wainwright described the cyberattack as an “escalating threat”.
+“I’m worried about how the numbers will continue to grow when people go to work and turn on their machines on Monday,” he said. The warning was echoed by Britain’s National Cyber Security Centre: “As a new working week begins it is likely, in the UK and elsewhere, that further cases of ransomware may come to light, possibly at a significant scale.”
+‘Ooops’ message, $300 ransom
+The attack looks like this: images appear on victims’ screens demanding payment of $300 (275 euros) in the virtual currency Bitcoin, saying: “Ooops, your files have been encrypted!” Payment is demanded within three days or the price is doubled, and if none is received within seven days the locked files will be deleted, according to the screen message.
+Bitcoin, the world’s most-used virtual currency, allows anonymous transactions via heavily encrypted codes.
+Experts and governments alike warn against ceding to the demands and Wainwright said few victims so far had been paying up.
+Security firm Digital Shadows said on Sunday that transactions totalling $32,000 had taken place through Bitcoin addresses used by the ransomware.
+The culprits used a digital code believed to have been developed by the US National Security Agency -- and subsequently leaked as part of a document dump, according to researchers at the Moscow-based computer security firm Kaspersky Lab.
+A hacking group called Shadow Brokers released the malware in April, claiming to have discovered the flaw from the NSA, Kaspersky said.
+Brad Smith, Microsoft’s president and chief legal officer, said in a blog post Sunday that it was in fact the NSA that developed the code being used in the attack.
+He warned governments against stockpiling such vulnerabilities and said instead they should report them to manufacturers -- not sell, store or exploit them, lest they fall into the wrong hands.
+“An equivalent scenario with conventional weapons would be the US military having some of its Tomahawk missiles stolen,” Smith wrote.
+“The governments of the world should treat this attack as a wake up call.” The attack is unique, according to Europol, because it combines ransomware with a worm function, meaning once one machine is infected, the entire internal network is scanned and other vulnerable machines are infected.
+The attack therefore spread faster than previous, smaller-scale ransomware attacks.
+Banks, trains and automobiles
+Symantec said the majority of organisations affected were in Europe.
+Europol’s Wainwright said few banks in Europe had been affected, having learned through the “painful experience of being the number one target of cyber crime” the value of having the latest cyber security in place.
+Russia’s interior ministry said some of its computers had been hit, while the country’s banking system was also attacked, although no problems were detected, as was the railway system.
+French carmaker Renault was forced to stop production at sites in France, Slovenia and Romania, while FedEx said it was “implementing remediation steps as quickly as possible”.
+England’s National Health Service said 47 organisations providing care had been hit and on Sunday afternoon seven hospitals were continuing to divert patients from the emergency room. - AFP 

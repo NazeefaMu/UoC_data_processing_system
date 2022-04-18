@@ -1,0 +1,25 @@
+## Title: US govt. seeks a few good hackers for cybersecurity
+## Supertitle: 
+## Section: World
+## Date: Tuesday, October 27, 2015 - 19:30
+
+US govt. seeks a few good hackers for cybersecurity
+
+US: Alejandro Mayorkas, a high-ranking Department of Homeland Security official, opened a speech over the summer in Las Vegas before hundreds of hackers with a dare.
+“I challenge you all to make my phone ring during my remarks,” he said, brandishing a flip phone the size of a soda bottle. “Take a shot,” he said, urging the crowd to hack his phone. Then he sweetened the deal: There would be a government job for anyone who succeeded.
+The conference's volunteer organizers, known as goons, soon interrupted Mayorkas for a long-standing tradition at the cybersecurity convention DEF CON: First-time speakers take a shot of whiskey on stage.
+“That was my first of the day, by the way,” Mayorkas said after downing the Jack Daniels, “but it won't be my last.”
+Mayorkas was just one of a fleet of federal officials who attended Black Hat and DEF CON this year. The two gatherings have grown into annual pilgrimages for security researchers, hackers and hangers-on. Their mission? Enlist hackers to protect the homeland.
+Black Hat attracts cybersecurity companies that are eager to mingle with government officials and secure government work. The DEF CON crowd skews toward the Hollywood hacker stereotypes of geeks in casual or slightly punk attire. But people at both events share a passion for tearing apart computer code to figure out how to make systems safer.
+And they just might be the government's best hope as cyberthreats, including financially motivated hacks and digital espionage, continue to increase.
+That's why Mayorkas was just one of many government officials to descend on Las Vegas over the summer. Elsewhere at the conferences, a Justice Department official tried to calm fears about a controversial computer crimes law that security researchers often say criminalizes their work. And Federal Trade Commission representatives were seeking hackers to help find technical threats to consumers.
+They are all struggling with a cybersecurity recruitment gap: Federal agencies trying to beef up their cyber skills are battling everyone from tech giants such as Google and Microsoft to Nike for talent - and all too often losing.
+Even when trying to recruit for its most elite roles, the federal government is striking out. In July, the Justice Department's inspector general reported that the FBI's flagship cybersecurity program had not filled 52 of the 134 computer scientist jobs authorized under the Justice Department's Next Generation Cyber Initiative, a 2012 effort to predict and prevent cyberattacks.
+The audit cited the agency's relatively low salaries and extensive background checks as roadblocks. One agency official told auditors that “the FBI loses a significant number of people” to its drug policies, namely that applicants must not have used marijuana in the previous three years and other illegal drugs in the past 10.
+In some hacking circles, that's a dealbreaker.
+“I got weird looks from some computer security friends in the Bay Area when I turned down pot because, among other reasons, I was considering jobs in the government,” said Jonathan Mayer, a Stanford computer scientist and lawyer who recently relocated to Washington.
+FBI Director James Comey acknowledged the pot problem during a 2014 speaking engagement, according to the Wall Street Journal. “I have to hire a great workforce to compete with those cyber criminals, and some of those kids want to smoke weed on the way to the interview,” he said, adding that the agency was “grappling with the question” of its evolving talent pool.
+The background check can be particularly drawn-out for those who self-identify as hackers, said Peiter Zatko - better known by his online handle Mudge - who worked at the Defense Advanced Research Projects Agency's cybersecurity research division for three years starting in 2010 and later at Google. “Because I came from an area that included the word ‘hacker,’ I had a huge target on my back,” he said, citing his extensive background check.
+It took more than five years to receive a security clearance, Zatko said.
+And then there is the issue of pay. “Quite frankly, we're not going to be able to match some of the private-sector opportunities financially,” Mayorkas said in an interview.
+- THE WASHINGTON POST 

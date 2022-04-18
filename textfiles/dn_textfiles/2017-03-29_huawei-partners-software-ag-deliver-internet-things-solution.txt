@@ -1,0 +1,16 @@
+## Title: Huawei partners Software AG  to deliver Internet of Things solution
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, March 29, 2017 - 01:00
+
+Huawei partners Software AG  to deliver Internet of Things solution
+
+ Huawei announced a new partnership with Software AG to support the increasing demand from companies for a complete one-stop-shop, Internet of Things (IoT) solution.
+The partnership will deliver the hardware and software needed to provide a cloud based IoT platform and the streaming analytic capabilities at the edge of the IoT that will allow for maximum speed and flexibility in operational and strategic decisions and responses.
+Huawei's hardware and software offerings for Cloud and Edge computing, Huawei's Open IoT Platform and Network Infrastructure capabilities combined with Software AG's streaming analytics, hybrid enterprise integration, and predictive analytics, will result in an unparalleled offering for customers to adopt and deploy a full IoT infrastructure from the cloud to the edge of the Internet of Things.
+"The Internet of Things, whether through Smart Industries, Smart Cities, Smart Energy and Connected Cars will impact society and the global economy on a massive scale. It will be truly game changing for every enterprise", stated Eric Duffaut, Chief Customer Officer, Software AG.
+"The power and breadth of Huawei's Cloud and IoT platforms combined with the software based intelligence and integration capabilities of Software AG's Digital Business Platform will allow any enterprise to harness the IoT and develop global, innovative digital product or services."
+"With Software AG's capabilities and solutions, we are able to maximize the value of IoT and make it accessible to our customers wherever required. It fits seamlessly into our IoT vision," said Vincent Pang, President of Huawei Western Europe.
+"This cooperation continues to reflect our ongoing commitment to building cloud ecosystems with partners, and helping our European customers achieve greater business success."
+The partnership between Huawei and Software AG will have an initial focus on Europe. In the spirit of a modern partner ecosystem both companies are keen to broaden and complete the offerings via additional partners who can add specific industry, integration and technology expertise. 
+ 

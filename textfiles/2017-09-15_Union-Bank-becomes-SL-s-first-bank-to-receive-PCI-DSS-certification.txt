@@ -1,0 +1,28 @@
+## Title: Union Bank becomes SL’s first bank to receive PCI DSS certification
+## Section: Financial News
+## Date: 15 September 2017 11:40 am
+
+Union Bank becomes SL’s first bank to receive PCI DSS certification
+
+
+	
+
+Marking a significant turning point in data security protection, Union Bank became the first bank in Sri Lanka to receive the international payment card Industry Data Security Standard (PCI DSS) by the Security Standards Council. 
+
+
+The PCI Security Standards Council is a global forum for the ongoing development, enhancement, storage, dissemination and implementation of security standards for account data protection. The PCI certification is a robust assurance of Union Bank’s data security standards across all systems and processes through which card and account transactions are effected.  
+
+
+Commenting on the achievement, Union Bank Chief Executive Officer Indrajit Wickramasinghe said, “We are pleased to announce this significant security certification, which is another industry first by Union Bank. The security of card and account data is of crucial importance to us as a financial institution. 
+
+
+The breach or theft of card/account holder data would adversely affect the entire payment card ecosystem where customers would lose trust in merchants or financial institutions and in turn business would get negatively affected. 
+
+
+As a progressive bank that places greater focus on tech-enabled customer touch points, Union Bank is committed to advocating the highest levels of data security and following PCI security standards confirms our commitment to good business practices. The security benefits associated with maintaining PCI compliance are vital to the long-term success of the bank as well as our customers.” 
+
+
+The PCI Standard Certification includes continual identification of threats and vulnerabilities that could potentially impact the organisation. Such standards help ensure healthy and trustworthy payment card transactions for the multitudes of customers that maintain accounts linked to cards and credit facilities. 
+ 
+
+		

@@ -1,0 +1,15 @@
+## Title: Google launches Datally,  an app that saves data
+## Supertitle: 
+## Section: Finance
+## Date: Monday, December 4, 2017 - 01:00
+
+Google launches Datally,  an app that saves data
+
+Google has announced the launch of Datally, a smart and simple Android app that helps smartphone users understand, control, and save mobile data. Datally works on all smartphones running Android 5.0 (Lollipop) and higher, and is available today on the Google Play Store globally.
+Datally helps solve one of the biggest pain points for smartphone users around the world — worries about data usage. Google found during extensive user research around the world that many smartphone users worry about running out of data. This is an especially acute problem for the newest generation to come online, known as the 'Next Billion Users'. Not only are these smartphone users constantly thinking about data balances, but they do not understand where their data is going, nor do they feel in control over allocating data to the apps they really care about.
+Datally empowers users to solve these problems with four key features:
+Data Saver.Apps frequently use data in the background for updating content and information. Datally’s Data Saver feature lets users control data on an app-by-app basis, so that data only goes to apps they care about. People testing the app saved up to 30% of mobile data, depending on the way they used Datally.
+Data Saver bubble.Once Data Saver is turned on, Datally’s Data Saver bubble will appear when a user goes into an app that is allowed to use data. Whenever that app uses data, the Data Saver bubble will show the current rate of data usage, and users can easily choose to block that app’s data use if things start to get out of control. The Data Saver bubble is like a speedometer for mobile data.
+Personalized alerts.Datally alerts users when apps start consuming a lot of data, and it allows them to see how much data they’ve used on a daily, weekly, and monthly basis.
+Wi-Fi finder.There are also times when users want to use more data than they have on their mobile plans, such as when they want to watch HD videos. Public Wi-Fi is an important access point for high-bandwidth connectively, so Datally’s Find Wi-Fi feature reveals the networks nearby, rated by the Datally community. Once connected, users can rate the Wi-Fi networks themselves based on their own experience.
+More information could be obtained from the Datallywebsite datally.google.com.

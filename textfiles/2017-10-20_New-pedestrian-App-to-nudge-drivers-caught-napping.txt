@@ -1,0 +1,83 @@
+## Title: New pedestrian  App to nudge drivers caught napping
+## Section: News Features
+## Date: 20 October 2017 12:00 am
+
+New pedestrian  App to nudge drivers caught napping
+
+
+	
+
+ 
+
+If there is any assistance, equipment or even a mobile app available to reduce road accidents, especially the accidents which occur at pedestrian crossings, there is no doubt that we should use such assistance for our own safety.   
+
+
+
+Statistics collected by the police states that road accidents have been responsible for more than 2,000 deaths between January and September. It must be noted that 681 of these accidents have taken place on pedestrian crossings.   
+
+
+Police stated that many of the deaths on the pedestrian crossings take place at night due to reckless driving and the lack of safety measures taken by pedestrians, when crossing.   
+
+
+We couldn’t determine exactly why pedestrians are victims while they use pedestrian crossings, but many speculate that these accidents that happen during the night occur largely because drivers have become so aggressive and don’t bother to stop their vehicles. It is also said that these accidents happen because drivers find it hard to detect pedestrians using the pedestrian crossings at night.   
+
+The solution 
+
+Sankha Ratnayaka (22), a past pupil of St. Joseph College, who wihes to study computer science at the Colombo University, has invented a mobile app which offers aid in the form of a crossing assistant. 
+
+ 
+The app aims to reduce the number of deaths which occurs on pedestrian crossings. Ratnayake has also roped in IGP Pujith Jayasundara in a bid to promote the app while having the safety of the public in mind.   
+
+
+The crossing assistant has the ability only to increase the safety of its user by making him or her more visible to motorists before they appear in their range of vision. The public is advised to follow all routine steps when crossing the road in addition to using the app.   
+
+
+
+Using the app in the real world   
+
+If you try to cross a busy road at night, the possibility of a driver not seeing the pedestrian is very high. This is because the flash of headlights, coming from vehicles used by other drivers, disturb the visibility of the drivers who have to negotiate pedestrians walking on the crossing. It’s also possible that the driver wouldn’t spot a pedestrian until he or she is illuminated by the light and appears in their range of vision. 
+
+But if the driver notices you before entering his lane, he will have ample time to stop the vehicle and let you cross to the other side. That’s where you need the crossing assistant. It can help you get noticed by the driver and allow you to cross the road safely.
+
+Sankha Ratnayaka
+
+However, the app is only available on android and windows mobile phones.   
+How to use the app   
+
+
+Hold the phone horizontally allowing drivers to see the blinking light which will indicate the direction the pedestrian is moving towards.   
+
+Warning sound    
+
+When you are crossing the road, even when the vehicles have stopped to let you pass, accident can still occur due to approaching vehicles which are unable to spot the pedestrian due to vehicles that have already stopped and blocked the view of the crossing.   
+
+To avoid such unfortunate incidents, pedestrians can also use the warning sound, a feature in the app. 
+
+ 
+When you touch the play button on the app, it will trigger a warning sound in your app as a safety precaution, allowing the drivers to know that you are crossing. This feature will come in handy even during the day. These features will be mostly effective when pedestrians have to negotiate motorcycles and three wheelers.   
+
+
+If you try to cross a busy road at night, the possibility of a driver not seeing the pedestrian is very high. This is because the flash of headlights, coming from vehicles used by other drivers, disturb the visibility of the drivers who have to negotiate pedestrians walking on the crossing
+
+
+Other features  
+
+The screen will switch off while the app is in operation and the brightness of the display screen will be maximized temporarily (only on android). The warning sound volume can be adjusted using your mobile phone’s volume rocket.   
+
+Inventor’s vision 
+
+Speaking at a press briefing held recently, Rathnayake said that the app wasn’t a pass given to pedestrians to cross the road irresponsibly.   
+
+
+“This is something which will make the pedestrian visible to drivers during night. That means they must still follow all the routine steps that they use when crossing the road. Police usually ask people to raise their hands towards the traffic when they are crossing the road. Instead of hand, now you can use your phone to alert the drivers during the night.   
+
+
+Drivers also shouldn’t arrive at the conclusion “No crossing assistant (app) - no pedestrian”. There are thousands of people who can’t afford a mobile phone which supports this app. So drivers still need to pay attention to the road and keep an eye out for pedestrians,” he said.   
+
+
+The app was available free. “I don’t earn anything from this app. My main target is to reduce the number of accidents and the number of deaths, with the help of this app,” he said.   
+
+
+ 
+
+		

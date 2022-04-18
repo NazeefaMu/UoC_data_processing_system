@@ -1,0 +1,28 @@
+## Title: Liquor prices up with Budget
+## Section: Breaking News
+## Date: 22 November 2015 02:51 pm
+
+Liquor prices up with Budget
+
+
+	
+
+The prices of liquor both Arrack and beer had been increased with immediate effect as proposed in the 2016 budget that was announced on Friday.
+The price of a liter of government authorized Arrack (Palm/Coconut) has been increased by Rs.255 which was from Rs.1, 595 to Rs.1, 850.
+According to the Ministry of Finance a liter of locally manufactured foreign liquor has been increased by Rs.170 which is from Rs.1, 860 to Rs.2, 030.
+A bottle of beer with alcohol volume exceeding 5% has been increased by Rs.70 which was from Rs.245 to Rs.315.
+Meanwhile a bottle of beer with alcohol volume less than 5% had been decreased by Rs.30 which was from Rs.190 to 160.
+ 
+
+	 
+(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));
+	
+		
+			
+				Liquor prices up with BudgetRead more : http://www.dailymirror.lk/96429/liquor-prices-up-with-budget
+			Posted by Daily Mirror on Sunday, 22 November 2015
+	
+
+ 
+
+		

@@ -1,0 +1,41 @@
+## Title: Aircraft manufacturing: Limitations and enabling technologies
+## Section: News Features
+## Date: 12 June 2018 12:10 am
+
+Aircraft manufacturing: Limitations and enabling technologies
+
+
+	
+
+
+
+Aerospace companies are continuously experiencing globalization, intense competition, reduced time-to-market, faster build rates and the need to reduce costs while maintaining strict quality-assurance. These factors are forcing all the large players to move from traditional craft-based assembly and dedicated hard tooling jigs towards more agile and flexible solutions. A significant amount of work has been carried out to support the automation of aircraft assembly. 
+
+
+However, considerably more work has been directed towards the automation of wing assembly as compared to the assembly of the fuselage or other parts of the aircraft. Conventionally, dedicated tooling is used in the aircraft manufacturing industry for the assembly of aero-structure components to ensure that the final assembly meets design requirements (Fig. 1). However, the size and the resulting weight of aero-structure components is increasing and cost of the fixtures and labour are steadily rising. The use of manual assembly also represents a significant health and safety problem and an increased likelihood of component damage during assembly. Relying on product specific fixtures to provide part location and support during assembly offers advantages in terms of consistency, accuracy and quality, but has the disadvantages of high costs, long lead times and inflexibility in product types and production volumes. At present these jigs and fixtures are product specific and cannot be economically modified for use on other aircraft types.     
+
+
+Currently the majority of automation solutions are based around large dedicated fixed systems
+
+
+Currently the majority of automation solutions are based around large dedicated fixed systems. These systems are inflexible and involve high capital cost as well as long lead-time and can lead to capital bottlenecks. These factors have led to a renewed interest in the development of low cost flexible automation approaches (Fig. 2 and Fig. 3). One way of achieving this flexibility is by introducing robots. However, the application of robotics to the assembly of large aero-structures has been limited by the large size and inherent compliance of the components involved. The compliance of the components is significant and simple ‘pick and place’ approaches cannot be used due to the inherent dimensional variability between mating parts.    
+
+
+Background literature suggested that there was limited work on flexible robot based systems used in the aerospace applications. In the past a number of robotic systems have been developed with varying degrees of success. All these systems require accurate positioning and fixture of the components within the cell to overcome the inherent flexibility of robot structures. However, robotic applications in the aerospace industry demonstrate that there is a significant amount of interest in the adoption of external metrology systems to improve the capability of robotic systems. Most of the existing research utilise metrology systems such as laser tracker, photogrammetry, and vision systems to provide vision-guided assembly and manufacturing operations. These installations have all supported greater levels of automation but they all required sophisticated expensive software and hardware for their implementation including training and familiarity with the technique. Each of the metrology system has its own particular merits and limitations. It is very rare that the use of a single sensor is sufficient for the aerospace applications. Integration of network of metrology either similar of different allow data from one set of metrology to constrain the analysis of another, takes advantages of their respective strengths while partially cancelling the weaknesses and results in a measurement system that provides maximise precision, breadth of coverage, long term stability, and fast response. Therefore a method of integrating an arbitrary number of metrology systems for the purpose of controlling automated assembly cell is important.    
+Author of this article has published number of research papers regarding assembly of Aero-structure components, Aero-engine and Aircraft system components to show the possibility of solve the above problem by integrating an off-the-shelf laser metrology system, standard industrial robots, re-configurable end-effects, and ‘best-fit’ mathematical algorithms. The metrology system used in this research is a low cost laser seam finder and provides a standard interface to the robot controller. This provides the ability to adapt to variability in the assemblies. This metrology system was used to determine the real position of the part before processing, accurate positioning of the tool, increased productivity and flexibility, simple set-up, and improved quality of assembly. The data can also be used to check gross distortion of components and to reject those outside the specification limits. The real innovation of this research is to develop a low cost system for the automated assembly of aero-structure components using low cost standard industrial robots. The use of non-contact metrology within the resulting cell will also considerably reduce the reliance placed on traditional Jigs and fixtures.     
+
+ 
+
+
+Each of the metrology system has its own particular merits and limitations
+	In the past, a number of robotic systems have been developed with varying degrees of success
+
+
+
+The next generation of composite aircraft are likely to be a replacement of the current aluminium alloy based aircraft. Due to the potential increased demand for this class of aircraft, the considered production rates will be higher than the current rates for the single aisle aircraft. In order to achieve the rate existing manufacturing technologies have to be improved and new technologies and build concepts have to be developed.    
+
+
+The writer is a Senior Lecturer at the Department of Mechanical Engineering, University of Moratuwa and can be contacted via niroshj@uom.lk   
+ 
+
+		

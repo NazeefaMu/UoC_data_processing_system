@@ -1,0 +1,59 @@
+## Title: New and improved privacy management tools on Facebook
+## Section: Technology - Main
+## Date: 19 July 2018 03:44 pm
+
+New and improved privacy management tools on Facebook
+
+
+	
+
+In an increasingly digitalized world, shielding your personal data and information is becoming a constant challenge. As part of its commitment to protecting people’s data and details, Facebook advises that users learn more about the new and improved tools that are available via the social media platform. Obtaining a better understanding of these tools will empower users to take privacy into their owns hands. 
+
+Users can now download all of the data that Facebook has access to, by simply choosing the general settings tab from their profiles. Facebook has taken extensive measures to ensure that privacy settings and tools are as accessible as possible, here is an overview of these measures: 
+
+ 
+
+1. New privacy shortcut: Gone are the days of navigating different menu options to find your privacy settings. This quick and easy to find shortcut menu, enables users to access controls over their data in just a few clicks. The features also provides a thorough overview with clearer explanations on how the privacy controls on the platform work. 
+
+ 
+
+2. Controls that are easier to find and use: The entire settings menu has been redesigned taking the requirements and visual presentations on mobile devices into account. The menu now drops down from top to bottom, making key buttons much easier to find. Instead of having the settings spread across 20 different screens – they can now be accessed from a single place. 
+
+ 
+
+3. Tools to find download and delete your Facebook data: Facebook recently introduced the ‘Access Your Information’ tab- a secure way for people to quickly and easily access their information such as posts, reactions, comments and things that they have searched for. You can go to this tab and delete anything from your timeline or profile that you no longer want appearing on Facebook. 
+
+ 
+
+4. Two-factor authentication: The social media site recently improved its two-factor authentication process, to add another layer of protection over all accounts. The ways in which this authentication can be enabled have been expanded, to cover even users without a phone number. Previously, Facebook required for you to submit your phone number, to receive a six-digit code via text message that would grant access to your account. Now when you sign up for two-factor authentication, Facebook will walk you through the entire process, offering you a text message or app option such as Google Authenticator or Duo Mobile, to generate login codes. 
+
+ 
+
+5. Turn access off for unused apps: If you haven’t used an app within a span of three months, Facebook now turns off the app’s ability to access your information. This ensures that personal details aren’t left exposed for long periods of time. 
+
+ 
+
+6. Restrict Facebook login data: With its new login system, Facebook has reduced the data that an app can request from you without a preliminary review, to include only your name, profile photo and email address. 
+
+ 
+
+7. Search and account recovery: Previously people could enter another person’s phone number or email address into a Facebook search to help find them. This feature has now been disabled and Facebook is making changes to account recovery protocols to reduce the risk of malicious individuals scraping public profile information through search and account recovery. 
+
+ 
+
+8. Call and text history: Call and history, used to be part of an opt-in feature for people using Messenger or Facebook Lite on Android. The company however has reviewed this feature and has now reconfirmed that Facebook does not collect the content of any messages and will delete all logs older than one year altogether. 
+
+ 
+
+9. Rewarding people who identify vulnerabilities and notifying those affected by misuse: Ever committed to constantly improving its privacy protocols and measures, Facebook’s Data Abuse Bounty has been set up to rewards people who report any misuse of data by app developers, or those who identify substantial vulnerabilities in the system. This in turn also motivates users to report any violations and is ensuring that app developers are held accountable for protecting people’s privacy online. Facebook is now also making an ongoing effort to inform people who may have been affected by apps that have misused their data, to ensure that they are aware and able to collectively act on violations and negligence. 
+
+ 
+
+10. Clear history: This new feature once introduced to the platform, will enable you to see the website and apps that send out your information. You can then choose whether you want to delete this information from your account or turn off the apps’ ability to store it. This is a new feature that is still under development and will be activated in the near future. 
+
+ 
+
+Being more aware of Facebook’s new and improved privacy tools and protocols will ensure that you have the knowledge required to keep your personal details and information protected, and out of the wrong hands. 
+ 
+
+		

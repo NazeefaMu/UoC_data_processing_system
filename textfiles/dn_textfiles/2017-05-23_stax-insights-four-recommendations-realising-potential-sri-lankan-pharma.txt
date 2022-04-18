@@ -1,0 +1,51 @@
+## Title: Stax insights: Four recommendations for realising the potential of Sri Lankan pharma
+## Supertitle: 
+## Section: Finance
+## Date: Friday, May 19, 2017 - 01:00
+
+Stax insights: Four recommendations for realising the potential of Sri Lankan pharma
+
+Picture a class of diagnostic tests with the capability to assess health at a molecular level and shed light on an individual's predisposition to disease. Instead of a generic therapy for lung cancer, imagine a clinician empowered with knowledge of the molecular profile of an individual's cancer and its specific gene mutations to prescribe personalised medicine.
+Globally, the field of molecular diagnostics is driving the discovery of 'biomarkers' - genetic markers of a specific condition or disease - and leading towards targeted therapies around these biomarkers.
+Prominent biopharmaceutical companies like Roche Diagnostics and Abbott Laboratories invest heavily in the field. In turn, molecular diagnostics research is undergirded by a network of supporting organisations.
+Biobanks are an example - these public and private repositories of biospecimens (such as human blood, saliva and tissue) provide the much-needed ‘raw material’ for biomarker discovery. Altogether, these interconnected organisations have the potential to deliver unprecedented leaps in scientific understanding.
+Now, visualise this landscape in Sri Lanka. For many, this is where the reverie ends.
+In advanced healthcare ecosystems across Europe and the USA, the complex nexus between pharma, molecular diagnostics and biobanking is only one of many. Synergies also stem from connections between adjacent businesses such as cold chain logistics, drug delivery companies, pharmacy management software and analytics for pharma.
+Collectively, these organisations make for a forward-thinking approach to population health management. However, to a large extent, they hinge upon the impetus provided by a well-functioning pharmaceuticals industry.
+In Sri Lanka, noncommunicable diseases (NCDs) cause over 75% of all deaths. Not only is a thriving domestic pharma market necessary to improve our ability to tackle this disease burden locally but it is also the next step in discovering an area of comparative advantage in an export market flooded by Indian and Bangladeshi generics.
+After its inception in the 1950s however, Sri Lanka's pharmaceutical industry stayed dormant for nearly 50 years.
+
+It was only recently, with the advent of public-private partnership for the local manufacture of pharmaceuticals, that the market experienced a much-needed boost.
+
+Currently, there is significant scope for local manufacturers. From an estimated Rs. 35 billion in 2015, the market for branded and branded generics is expected to grow 8% annually to Rs. 51 billion by 2020.
+
+Ground realities in pharma have been complex, however. The past year was witness to the departures of prominent personnel in the National Medicinal Regulatory Authority (NMRA), as well as clashes with the medical community around pending approvals for the import of innovative medicines - like Cuban drug Heberprot-P for diabetic foot ulcers.
+Price controls were also instituted on 48 drugs during the final quarter of 2016 - much welcome from the vantage point of consumers, but resulting in several pharmaceutical firms having to compensate pharmacies for losses made.
+Amidst these growing pains, the idea of an advanced ecosystem with the potential to foster unique synergies might seem like a pipe dream for Sri Lanka.
+However, if regional players like India and Bangladesh are anything to go by, certain efforts can better position Sri Lankan pharma for success in the long run:
+1. Implement well-regulated clinical trials and bio-equivalence studies
+Clinical trials have an important purpose in establishing quality assurance for medication. Bioequivalence studies in particular are a means of promoting an understanding of generic medicine and brand substitution practices among doctors and discerning patients alike.
+However, as of January 2017, ClinicalTrials.gov listed South Asian countries as having a paltry 1.5% share of global clinical trials.
+
+There are some promising studies in the pipeline. In 2014, the Sri Lanka Clinical Trials Registry logged a randomized controlled trial investigating the performance of the generic brand of sodium valproate (Epilex 200 mg) - used to treat epilepsy - relative to its innovator Epilim 200 mg.
+If the two drugs are proven to be bioequivalent, users can rest assured that the generic has the same effectiveness as the innovator drug.
+Not only are such studies an important means of ensuring the quality of homegrown generics versus imported pharmaceuticals but they are relevant for local pharma players that are interested in exporting.
+The main caveat is that these studies must be conducted within a framework wherein the rights of participants are safeguarded, in line with global best practice.
+2. Be intentional about global positioning
+Relative to countries like India, Sri Lanka lacks the economies of scale to ensure low cost manufacturing and is not uniquely poised for success as a pharmaceutical exporter.
+In particular, export potential is constrained by a global emphasis on the Pharmaceutical Inspection Co-operation Scheme (PIC/S).
+PIC/S is an informal co-operative arrangement between 49 participating pharmaceutical authorities in the area of Good Manufacturing Practice (GMP). PIC/S members increasingly look for compliance with their standards when placing government orders for pharmaceuticals. Although some Sri Lankan pharma manufacturers currently export to less regulated markets like the Maldives and Mauritius, future access to lucrative export destinations in Asia and Africa is likely to be curtailed as a result. While PIC/S membership takes several years to achieve, Sri Lanka's ability to capture these markets depends upon how the NMRA positions itself within the broader global regulatory landscape.
+3. Invest with a view towards drug discovery
+For the most part, the local industry only formulates generics which have gone off patent, with limited capability to develop some of the most important drugs as far as the therapeutic needs of the population are concerned.
+Collectively, Sri Lanka still lacks the technology to manufacture oncology medicines, advanced anti-hypertensive drugs, top-end antibiotics and neurological drugs. Like Sri Lanka, India also lags behind in terms of securing access to drugs under patents but has tried to tackle the problem in different ways.
+
+The tuberculosis medication Risorine is, for example, the outcome of a public-private partnership between the Indian Institute of Integrative Medicine, Jammu, the Council of Scientific and Industrial Research (CSIR), Government of India, and Cadila Pharmaceuticals.
+The drug's efficacy was established through a multi-centric clinical trial conducted across India in patients with a radiologically confirmed diagnosis of pulmonary tuberculosis.
+Over 90% of the patients treated with Risorine were cured of tuberculosis, with a better safety profile and relatively few side effects. Taking the long view towards drug discovery and development, Sri Lanka needs to start by developing knowledge and facilities in biomedical research.
+4. Assess the long-term viability of an API park
+Active pharmaceutical ingredients (APIs) or bulk drugs are the raw materials necessary for a self-sustaining pharma ecosystem. India, for instance, manufactures 30% of global generics drug consumption but currently meets 80% of demand for bulk drugs through Chinese imports.
+Starting in 2013, the Indian government set up the ‘Katoch Committee’ with the goal of achieving self-sufficiency in API production.
+Aside from identifying the most important APIs and developing a package of incentives to build domestic production capacity, the Katoch Committee also assessed the viability of mega API parks.
+Likewise in Bangladesh, where 80% of the total need for APIs is met through imports, efforts to build an API park began in 2008 under a public-private initiative with the Bangladesh Association of Pharmaceutical Industries (BAPI).
+By producing raw materials at the API park, the country is expected to save 70% on the cost of imports. While it is possible to achieve success in manufacturing, marketing and exporting finished pharmaceutical products, developing an API park provides end-to-end control of the pharma value chain.
+In the large scheme of things, Sri Lankan pharma is unlikely to achieve these much-lauded advances overnight. However, laying the groundwork for some of these recommendations could set local players on a promising trajectory for the future. 

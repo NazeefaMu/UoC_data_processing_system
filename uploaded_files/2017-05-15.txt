@@ -1,0 +1,515 @@
+## Title: A peon is better off than my post as State Minister: Sujeewa
+## Section: Breaking News
+## Date: 15 May 2017 09:57 pm
+A peon is better off than my post as State Minister: Sujeewa
+	
+State Minister of International Trade Sujeewa Senasinghe said he could not perform even a duty assigned to a peon with his portfolio as State Minister.
+?I don't have powers. According to the gazette my duty is 'settlement of disputes'. That has not prevented me from doing my duty despite the problems. I continue with my welfare work. I will quit politics when I am unable to do so. I will not change my party either.?
+Addressing an event in Kolonnawa, State Minister Senasinghe also said, ?I work with restraint. I know how J.R. worked with patience. Some people ask me whether I have plans to join the opposition. I will remain in the party and not join the opposition. I will rather leave the party and go home without changing the party when I feel that I am unable to do my duties. Even if I am given a powerful post, I will refuse to accept it. We should stick to our principles. If we are neglected, we have nothing to do. Those below our ranks, had gone to the top. They are the favourites. They get top posts. I was deprived of getting a top post above my lawyer?s position. I could have become a President?s Counsel. This government should take advantage from us . There are other MPs who think like me.? (Shantha Seneviratna)
+ 
+		
+==============================
+## Title: Amana Bank March quarter profits surge amid better pricing, other incomes
+## Section: Financial News
+## Date: 15 May 2017 10:17 am
+Amana Bank March quarter profits surge amid better pricing, other incomes
+	
+Amana Bank PLC put on a better show during its March quarter ahead of its Rs.4.75 billion rights issue announced earlier this month. The performance reflected better management of margins while the fee and commission incomes also rose cushioning the bottom line.?
+According to the interim accounts released to the Colombo Stock Exchange last week, Sri Lanka?s first non-interest-based licensed commercial bank reported a profit after tax of Rs.66.6 million or 5 cents a share for its January-March quarter, a 74 percent increase from Rs.38.3 million profit made a year earlier.?
+The net finance income or the net interest income in general banking terms rose by 38 percent year-on-year (YoY) to Rs.562.5 million as the bank managed to maintain its net interest margin at 3.7 percent, slightly up from 3.6 percent in December 2016. ?
+The net fee and commission income rose by 22 percent YoY to Rs.57.9 million for the quarter. ?During the three months, the bank gave Rs.1.6 billion in loans, which is a 4.1 percent increase from December 2016. ?The bank has a total financing and receivables portfolio of Rs.40.3 billion. ?The bank?s deposit base grew by Rs.2.2 billion or 4.7 percent during the three months to Rs.49.1 billion.?
+Earlier this month, Amana Bank announced a rights issue of one new share for every one held to raise Rs.4.75 billion to meet the Central Bank?s interim minimum core capital target of Rs.7.5 billion by June 30, 2016.?
+Earlier the bank said it was holding talks with a foreign fund to meet this requirement in return for a substantial state in the bank. ?
+By March 31, 2017, Bank Islam Malaysia Berhad and AB Bank Limited held a 14.44 percent stake each in Amana Bank while Akbar Brothers Private Limited, Islamic Development Bank and Expolanka Holdings PLC held 9.98 percent, 9.62 percent and 7.22 percent, respectively, being the third, fourth and fifth largest shareholders.
+Amana Bank operates with 28 branches and 714 employees with a total asset base of Rs.57 billion, up 5 percent from December 2016. ?
+ 
+		
+==============================
+## Title: Britain?s Labour plans ?Robin Hood Tax?, tax avoidance crackdown
+## Section: Financial News
+## Date: 15 May 2017 10:19 am
+Britain?s Labour plans ?Robin Hood Tax?, tax avoidance crackdown
+	
+REUTERS: Britain?s opposition Labour Party would crack down on tax avoidance and introduce a ?Robin Hood Tax? on financial transactions to fund public services if it wins next month?s national election, it said on Saturday.
+Labour, which is trailing Prime Minister Theresa May?s ruling Conservatives badly in opinion polls, said that 4.7 billion pounds (US $ 6.1 billion) could be raised through a Robin Hood Tax by modernising the tax regime on share trading.
+It would close a loophole for banks and hedge funds and make other forms of financial assets, including financial derivatives, like options on shares, liable.
+Labour would also take on those in Britain who dodge paying tax, closing loopholes and clamping down on tax havens.
+?All we?re asking for is fairness in our tax system,? said Labour?s finance spokesman John McDonnell.
+Last week Labour said middle and low earners would not face tax hikes to fund its spending plans if it wins power. According to a leaked copy of its draft manifesto Labour will also promise to renationalise rail and mail services and take some of the energy sector into public hands, betting that a shift to the left will win over voters.
+The document was mocked by Conservative supporters for echoing Labour?s left-wing 1983 election manifesto, described at the time by one Labour lawmaker as ?the longest suicide note in history? for helping the Conservatives to victory.
+ 
+		
+==============================
+## Title: China-led AIIB expects to have 85 members by end-2017: president
+## Section: Financial News
+## Date: 15 May 2017 10:18 am
+China-led AIIB expects to have 85 members by end-2017: president
+	
+REUTERS: China-backed Asian Infrastructure Investment Bank (AIIB) expects to have 85 members by the end of this year, its president Jin Liqun said yesterday.
+?Now we have 77 members. By the end of this year, we expect to have about 85 members, including Hong Kong SAR,? Jin said at the Belt and Road Forum in Beijing.
+On Saturday, AIIB said its board of governors had adopted resolutions approving seven applicants to join the bank, bringing the bank?s total approved membership to 77.
+The seven prospective members - Bahrain, Cyprus, Samoa, Bolivia, Chile, Greece and Romania - will officially join AIIB once they deposit their first instalment of capital with the bank.
+Beijing-based AIIB, formed in January 2016, aims to provide infrastructural financing in the Asia-Pacific region. The multilateral development bank has been viewed as a rival to the Western-dominated World Bank and Asian Development Bank.
+ 
+		
+==============================
+## Title: Cyber-attack: CERT tells users to update windows
+## Section: Breaking News
+## Date: 15 May 2017 12:27 pm
+Cyber-attack: CERT tells users to update windows
+	
+Although there have been no incident reported from Sri Lanka so far about the global cyber-attack, the Computer Emergency Readiness Team (CERT) advised users to keep their Windows systems updated with a backup as a precautionary measure.
+It said the ?ransomware virus?, which attacked at least 99 countries including China, Russia, the US and Britain on Saturday affecting several organisations had spread via an email.
+?The virus had spread because of a fault in Windows. Having the updated windows and antivirus version could prevent such an attack. Since the virus encrypts files, it is wise to keep a backup of files in an external drive,? CERT Chief Information Security Engineer Roshan Chandragupta said.
+He said the hackers who spread the virus demanded money to restore the data but added that there was no guarantee that the hackers would do so.
+A massive cyber-attack using tools believed to have been developed by the US National Security Agency had struck organisations worldwide.
+Hundreds of thousands of computers had been locked by a programme that demands $300 (?230) in Bitcoin.
+Meanwhile, Microsoft said it had released a Windows security update in March to tackle the problem involved in the latest attack, but many users were yet to run it. (Darshana Sanjeewa)
+ 
+		
+==============================
+## Title: Exciting new features in ComBank?s relaunched ?Dotcom Teen Account?
+## Section: Financial News
+## Date: 15 May 2017 10:20 am
+Exciting new features in ComBank?s relaunched ?Dotcom Teen Account?
+	
+Banking has just become more exciting for teenagers and pre-teens with the relaunch of ?Dotcom Teen Account? ? the popular youth savings account of Commercial Bank of Ceylon, with a host of new features and benefits.
+Dotcom Teen Account holders, who are between the ages of 10 and 18 years, can now obtain loans for educational purposes, use their debit cards to make purchases or withdrawals and enjoy online banking and mobile banking free of charge, the bank said.
+Additionally, the parents or guardians of Dotcom Teen Account holders can transfer funds to their children?s accounts via standing orders free of charge and receive SMS notifications on all transactions carried out with the Dotcom debit card.
+Extending the benefit of cutting-edge technology to this youthful customer segment, the Dotcom debit cards are near-field communication (NFC) enabled for secure ?tap and go? transactions. Cardholders are also eligible to receive ComBank Max Loyalty Rewards points on all payments, the bank said.
+?The Dotcom Teen Account was introduced to stimulate the savings habit among teenagers and provide them an opportunity to manage their own finances from a young age,? Commercial Bank Deputy General Manager Personal Banking Sandra Walgama said.
+?The features of the account have been periodically enhanced in keeping with changing trends and technological advances, to provide accountholders the maximum benefits possible.?
+Any Sri Lankan between 10 and 18 years can open a Commercial Bank Dotcom Teen Account with a minimum initial deposit is Rs.1,000. The account pays an interest rate of 1 percent above the prevailing savings rate. Every account holder receives an attractive Dotcom-branded personalised debit card, which can be used to make purchases wherever point-of-sales machines are available or for online purchasing.
+Dotcom Teen Account holders can receive quarterly e-statements or use Commercial Bank?s sophisticated e-passbook facility via their smartphones or tabs.
+Once a Dotcom Teen account holder reaches 18 years of age, he or she may convert the account to standard savings account at Commercial Bank and apply for a Commercial Bank international credit card or a ComBank Shopping debit card.
+ 
+		
+==============================
+## Title: France?s Macron takes power, vows to overcome division
+## Section: International
+## Date: 15 May 2017 08:58 am
+France?s Macron takes power, vows to overcome division
+	
+REUTERS, 14th MAY, 2017- Emmanuel Macron took power as president of France on Sunday in a solemn ceremony heavy with tradition at the Elysee Palace and he pledged to work to heal divisions in society - a nod to the bitter campaign he fought to defeat a far-right leader.
+His inauguration marked a first for the world?s fifth largest economy and founding member of the European Union, installing a 39-year-old centrist newcomer unknown to the wider public three years ago and who stands outside any traditional political grouping.
+The former investment banker becomes the youngest post-war French leader and the first to be born after 1958 when President Charles de Gaulle put in place the country?s Fifth Republic.
+In his first word in office, he addressed himself to the fraught and fiercely contested election campaign in which he overcame the National Front?s Marine Le Pen but which was a disappointment for almost half of France?s 47 million voters.
+Many people feel dispossessed by globalization as manufacturing jobs move abroad and as immigration and a fast-changing world blur their sense of a French identity.
+?The division and fractures in our society must be overcome. I know that the French expect much from me.?
+ 
+		
+==============================
+## Title: Galle District Secretariat website under cyber attack
+## Section: Breaking News
+## Date: 15 May 2017 10:46 pm
+Galle District Secretariat website under cyber attack
+	
+The official website of the Galle District Secretariat (http://www.galle.dist.gov.lk/) is reported to have been hacked by an alleged group identifying itself as the ?Pakistani Cyber Team Experts?.
+The attackers had however entered the official website and posted a message hailing their success saying ?Pakistan Zindabad, Islam Zindabad, Muslims Zindabad ,Pakistan Army Zindabad, Pakistan ISI Zindabad and #Free Kashmir #Free Syria #Free Palestine.?
+When contacting the Computer Emergency Readiness Team (CERT) Chief Information Security Engineer Roshan Chandragupta said, this website attack was not reported to them and however this was not related to the ?ransomware virus? threat which is widespread across at least 99 countries in the world.
+?This type of incidents could happen when people try to do experimental things on website hacking using various hackings tools. They try it while seeking the weak Security Vulnerabilities of the websites,? he said.
+The website is now being restored, according to sources. (Chaturanga Pradeep)
+ 
+		
+==============================
+## Title: Geetha at Court
+## Section: Caption Story
+## Date: 15 May 2017 05:07 pm
+Geetha at Court
+	
+The Supreme Court today extended the stay order on the Appeal Court ruling issued disqualifying Geetha Kumarasinghe from functioning as an MP. Mrs. Kumarasinghe is seen leaving the Supreme Court premises. Pix by Pradeep Dilrukshana
+ 
+		
+==============================
+## Title: Geetha Kumarasingha: If unseated, need an interpretation
+## Section: News Features
+## Date: 15 May 2017 12:23 am
+Geetha Kumarasingha: If unseated, need an interpretation
+	
+The Court of Appeal judgement clearly describes that the considered opinion of the court is that the first Respondent is disqualified to be a member of the parliament in terms of Article 91(1)(d)(13) of the 1978 Constitution. MP Geetha Kumarasingha has appealed to the Supreme Court against this judgement and obtained a stay order until May 15.
+?If the Supreme Court endorses the same judgement delivered by the Court of Appeal, she can vacate her seat under Article 91(1)(d)(13) where a citizen of Sri Lanka who is also a citizen of any other country and 66 (G) of the Constitution that the seat of a Member shall become vacant if among other things, if his election as a member is declared void under the law in force for the time being; where he becomes subject to a disqualification under?these Articles.?
+The main legal issues arising here are that her disqualification has not been challenged after one-hour of handing over the nominations or within one month after she has been elected as a Member of Parliament. When contesting for Parliament elections the applicable law is Parliamentary Elections Act (No. 1 of 1981). According to Section 115 of the Act, which say that death, withdrawal or disqualification of such person or persons, the nomination paper of that party or group nomination paper shall not be invalidated and accordingly, the candidature or election of any other person nominated by the party or group is only invalidated. Therefore one argument is to appoint the next person who secured the most number of votes in that parliamentary election. But when you analyse the Constitutional provisions in the 1978 Constitution whereby a MP disqualified from his or her seat under Article 66(G) the relevant provision of law filling vacancy is clearly described in Article 99(13) of the Constitution.
+?
+?
+"The main legal issues arising here are that her disqualification has not been challenged after one-hour of handing over the nominations or within one month after she has been elected as a MP"
+?
+?
+Article 99(13) of the Constitution provides for the filling of vacancies in Parliament by nominating the candidate who received the next highest number of preferential votes on the relevant list, for vacancies created in the event of Members resigning from their parties or being expelled there from or any vacancies occurring in terms of Article 66. Article 66 of the Constitution provides for the ways in which a parliamentary seat may fall vacant. However, 66(g) - instances where the election of a sitting MP is declared void in terms of a law in force - is expressly exempt from the application of Article 99(13) of the Constitution. On this basis, what should happen in the event of Kumarasinghe being declared unqualified is the entire list of the UPFA being rejected. Neither the Constitution nor the Parliamentary elections Law says what should be done in instances falling under Article 66(g) - where the election of a sitting MP is declared void in terms of a law. Depending on the interpretation that the Supreme Court gives on this matter, things could be much messier than the government anticipates. Under the present Constitution, the ?constituency? or the ?electorate? that elects MPs to Parliament is the District, and there are no individual electorates as under the first past the post system.
+As such Kumarasinghe is not the MP for Bentara-Elpitiya but for the Galle District. She was elected not as an individual nominated for that district but as a member of a list submitted by her party. The party secretary signs the entire nomination paper and not just the nomination paper of Kumarasinghe. If Geetha is disqualified from contesting elections to Parliament at the time she signed the nomination paper, the entire nomination list should be deemed to have failed. Therefore the final interpretation should be taken from the Supreme Court of Sri Lanka where filling the vacancy under Article 99(13) where MP becomes disqualified under prevailing law. The possibilities are cancellation of the full list of MPs of Galle District in such case other parties in the Parliament from that district are entitled to the UPFA seats, including the national list or call for by election for the same district. Therefore the Independent Election Commission has a duty not only to name the next candidate but to consider the Constitutional provisions of filling the vacancy. ? ??
+ 
+		
+==============================
+## Title: GMOA tells Govt. to reveal stance on SAITM by May 29
+## Section: Breaking News
+## Date: 15 May 2017 05:15 pm
+GMOA tells Govt. to reveal stance on SAITM by May 29
+	
+The Government Medical Officers? Association (GMOA) has requested President Maithripala Sirisena to inform the Attorney General or the High Court, the government's stance on the South Asian Institute of Technology and Medicine (SAITM).
+GMOA Secretary Naveen De Zoysa told a news briefing that the government had changed its stance on the SAITM from time to time.
+?The government?s stance keep changing. Nothing has been finalised yet and we cannot depend on the government's statements,? he said.
+Dr. De Zoysa said Health Minister Rajitha Senaratne had informed the Appeal Court that SAITM students received a quality education, but the government issued a statement on April 7 admitting that these students should receive better clinical training.
+He warned the government that its final decision on the SAITM issue should be revealed by May 29.
+?The subject minister should brief the court about the government?s final decision on SAITM by May 29 and only then we can accept it as the government?s stance on this matter,? he said. (Thilanka Kanakarathna)
+?
+Video by Buddhi
+ 
+		
+==============================
+## Title: Govt. asks SAITM to stop recruitment pending policy changes
+## Section: Breaking News
+## Date: 15 May 2017 09:02 am
+Govt. asks SAITM to stop recruitment pending policy changes
+	
+Higher Education and Highways Minister Lakshman Kiriella said the government had requested the South Asia Institute of Technology and Medicine (SAITM) to stop the admissions of fresh batches of students until the policy decisions regarding it and private medical education were implemented
+He said the request was made by the Ministry through the University Grants Commission (UGC).?We hope SAITM will respond to positively to this,? he said.
+The government has decided to list SAITM and any other private organization involved in medical education on Colombo Stock Exchange. Additionally, it has been decided to appoint an administration board to maintain standards in medical education. The government had also taken a decision to take over the Neville Fernando Hospital, and to increase scholarship slots at these institutions.
+He said the government should speed up work with regards to the takeover of this hospital. He said this should take place within the next couple of months.
+ 
+		
+==============================
+## Title: Investment incomes, contraction in fair value losses boost Union Assurance March profit
+## Section: Financial News
+## Date: 15 May 2017 10:20 am
+Investment incomes, contraction in fair value losses boost Union Assurance March profit
+	
+The John Keells group insurance subsidiary, Union Assurance PLC reported earnings of Rs.108.3 million or Rs.1.84 a share for the January-March quarter, rising as much as 77 percent from a year earlier supported by modest growth in life premiums.
+But much of the gains were made through the investment income and substantial decline in net fair value losses, the interim results released to the Colombo Stock Exchange showed. ??
+The gross written premiums (GWP) rose by 18 percent to Rs.2.3 billion from the same quarter last year amid challenging operating environment.?
+After the sale of a 78 percent stake in the group?s general business to Fairfax Asia Ltd, the Asian subsidiary of Canada?s Fairfax Financial Holdings PLC, in 2014, the company has been solely operating in the life insurance space.
+On February 28, 2017, Union Assurance General Limited and Fairfirst Insurance Limited were amalgamated with the latter now being the continuing entity of which a 22 percent stake is held by Union Assurance PLC.?
+The share of profits from Fairfirst Insurance to the group was Rs.54 million, up from Rs.28.8 million during the corresponding period a year earlier.?
+Life insurance business is somewhat prone to economic cycles as affordability of premiums becomes a concern with changing disposable incomes of the policyholders.?
+Life insurance penetration in Sri Lanka still stands below 2.0 percent of the gross domestic product. ?
+Meanwhile, the company?s net investment income rose by 31 percent year-on-year (YoY) to Rs.888.2 million, probably helped by the higher interest rates in the market.?
+The company has held-to-maturity financial investments of Rs.15.6 billion by end-March 2017, mostly consisting of government and corporate bonds.?
+The net fair value losses fell to Rs.50 million from Rs.375 million a year earlier providing a significant boost to the March performance. ?
+The company?s available-for-sale investments were Rs.6.7 billion, up from Rs.6.0 billion at the beginning of the year. ?
+The company also made a net realised gain of just Rs.3.0 million from a loss of Rs.100 million during the same quarter, last year.?
+Meanwhile, the company paid Rs.512.2 million worth of net insurance benefits and claims during the three months, up from Rs.318.7 million during the corresponding quarter in 2016.
+By March 31, 2017, John Keells Holdings had a 86.51 percent stake in Union Assurance while group company Whittall Boustead Limited held a 7.4 percent stake being the second largest shareholder. The public free float was at 6.1 percent.?
+ 
+		
+==============================
+## Title: Investor relief, tax structure gazetted: Ravi K
+## Section: Breaking News
+## Date: 15 May 2017 08:46 am
+Investor relief, tax structure gazetted: Ravi K
+	
+The Government yesterday Gazetted the new income tax structure, introduced in the budget 2017, while introducing an investor incentive scheme, which provides new concessions to investors.
+Minister of Finance Ravi Karunanayake said the new tax structure would come into effect, when the Gazette notification was approved by Parliament.
+The corporate tax system will be simplified to 3 tier rate structures under which Small and Medium Enterprises, export of goods and service, local IT industry, manufacturing furniture, education, tourism, fisheries, renewable energy, freight forwarding, EPF, ETF, Pension Funds and Charitable institutions, will be subjected to a concessionary rate of 14 percent.
+Banking, finance, insurance, manufacturers and traders will be subjected to standard Corporate Tax rate of 28 percent and liquor, tobacco, betting/gambling will be subjected to a higher Corporate Tax rate of 40 percent.
+According to the Gazette Notice several areas of businesses such as hub activities (Entire Port, international logistics) export of IT, export of gem and jewellery, solid-waste management, agriculture, poultry, dairy and middle-income housing will be exempted from the Corporate Tax.
+As per the Gazette a person will not be levied income tax if his or her annual earnings were up to Rs. 1.2 million per year and will not be liable to Pay As You Earn (PAYE) if the monthly salary was less than Rs. 100,000.
+However, it was announced by the Minister that the Government had come up with an investor incentive scheme, which was formulated with an enhanced depreciation allowance for a person who incurs expenses in respect of depreciation of assets other than intangible assets.
+Accordingly investments in the Northern Province less than US $ 3 million will be entitled to a depreciation allowance of 200 percent, while investments made in other areas will be subjected to a depreciation allowance of 100 percent.
+However, the investments will have to be carried out within three years in order to qualify for the scheme.(Yohan Perera)
+Investments between US $ 3 to 5 million and provides employment to not less than 250 persons will be entitled to 200 percent depreciation allowance, while the investments between $ 3 to 5 million in other provinces will be subjected to 100 percent depreciation allowance provided they generate 250 employment opportunities
+For investments between $ 50 to 100 million there will be a deprecation allowance of 100 percent while unrelieved losses can be claimed in 10 years, while for investments between $ 100 million to 2 billion will be subjected a depreciation allowance of 150 percent while the unrelieved losses can be claimed in 10 years.
+Investments over $ 2 billion will be subjected to a depreciation allowance of 150 percent while unrelieved losses could be claimed in 25 years.
+Depreciation allowance of 100 percent has been given to investments more than $ 2 billion on ports developments, while unrelieved losses can be claimed in 25 years these kinds of investments will exempted from Corporate Tax up to the period, which the investment allowance is fully absorbed. The Corporate Tax would be 7 percent for the ensuing 15 years.
+Video by Buddhi
+Pics by Nisal Baduge
+ 
+		
+==============================
+## Title: Iran?s Sunni leader endorses Rouhani for re-election
+## Section: International
+## Date: 15 May 2017 09:02 am
+Iran?s Sunni leader endorses Rouhani for re-election
+	
+TEHRAN AFP May13, 2017 ?- -A leading figure of Iran?s minority Sunnis endorsed moderate President Hassan Rouhani on Saturday ahead of this week?s election, despite the government?s ?shortcomings?. ??
+Sunnis make up around five to 10 percent of Iran?s 80 million population, which is overwhelmingly from the Shiite sect of Islam. ??
+Religious leader Molavi Abdol Hamid said ?the atmosphere for Sunnis has been a little more relaxed? since Rouhani took power in 2013, and that most would support him in Friday?s election. ??
+ 
+		
+==============================
+## Title: Kalutara shooting: Prison Commissioner transferred
+## Section: Breaking News
+## Date: 15 May 2017 07:37 pm
+Kalutara shooting: Prison Commissioner transferred
+	
+The Kalutara Prison Commissioner has been transferred with immediate effect by the Prison Reforms, Rehabilitation and Resettlement Minister D.M. Swaminathan in connection with the Kalutara prison bus shooting.
+The Minister had instructed ministry secretary to conduct an independent inquiry regarding the incident.
+Ministry sources said according to the investigation carried out by the Three Member Committee, it had been revealed that Samayan had not been hand cuffed while he was being taken to Courts.
+?It was also found Samayan was wearing jewellery including rings and chains. The prison bus usually takes 5 to 10 minutes to reach the destination of Ethanapitiya. However, on the day of the shooting, it had taken about an hour for the bus to pass this stretch,? sources said.
+A mobile phone had also been recovered in the Kalutara Prison kitchen. ?The decision to transfer the Commissioner was taken after taking into consideration all these facts,? sources said.
+The Minister earlier stated, if the prison officers were found guilty to these incidents, they will be punished without considering their status.
+Seven people including notorious underworld figure Aruna Damith Udayanga Pathirana alias ?Samayan? and two prison guards were killed, when gunmen opened fire at the Black Maria when they were being transported from the Malwatte Prison in Kalutara on February 27. (Darshana Sanjeewa)
+ 
+		
+==============================
+## Title: Modi?s speech paints SL as an Indian state: PHU
+## Section: Breaking News
+## Date: 15 May 2017 03:34 pm
+Modi?s speech paints SL as an Indian state: PHU
+	
+Indian Prime Minister Narendra Modi?s brief visit and the speech he made in Sri Lanka confirm that India has turned Sri Lanka into one of its semi-colonies, the Pivithuru Hela Urumaya (PHU) said today.
+It said the speech made in Dikoya by Premier Modi flanked by President Maithripala Sirisena and Prime Minister Ranil Wickremesinghe proved that Sri Lanka had become another state of India.
+?Mr. Modi pledged to expand the Indian-funded ambulance service to cover the entire country and build 10,000 housing units for residents in the estate sector. What right has he to make decisions on behalf of Sri Lanka? He spoke as if Sri Lanka was the 30th state of India with President Sirisena as the Governor and Premier Wickremesinghe as the Chief Minister of that state,? PHU General Secretary and MP, Udaya Gammanpila told a news briefing.
+He said government leaders had repeatedly said Mr. Modi was arriving here as the chief guest for the UN Vesak Day festival held in Colombo and that his visit was purely based on cultural ties and not politics.
+?However, Mr. Modi?s speech at the festival focused rather on Indo-Sri Lanka relationships than UN or Vesak Day. The Indian Premier commented on trade, investments and technology ties between the two countries. Indirectly, he indicated that the Economic and Technical Cooperation Agreement (ETCA) should be signed,? the MP said. (Lahiru Pothmulla)
+Video by Sanjeewa, RM
+ 
+		
+==============================
+## Title: NCP Governor rejects JO affidavits against CM
+## Section: Breaking News
+## Date: 15 May 2017 02:40 pm
+NCP Governor rejects JO affidavits against CM
+	
+The affidavits submitted by 17 North Central Provincial Councillors, supporting the joint opposition calling for the ouster of Chief Minister Peshala Jayaratne, was rejected by NCP Governor P.B. Dissanayake today, councillor S.M. Ranjith said.
+Those supporting the JO submitted the affidavits individually to the Governor demanding that Mr. Ranjith be appointed as Chief Minister. (Dayaratne Ambogama)
+ 
+		
+==============================
+## Title: NDB balance transfer now at 2.5% minimum from 3 months up to 5 years
+## Section: Financial News
+## Date: 15 May 2017 10:19 am
+NDB balance transfer now at 2.5% minimum from 3 months up to 5 years
+	
+NDB introduced its credit card balance transfer option earlier this year to support you from overcoming your credit card balances through attractive interest rates. ?NDB has continued to successfully offer options of choosing your own repayment period in equal instalments from three months and now up to five years.?
+NDB is the only bank to offer this option for as long as 60 months. The one-time upfront fees start from as lowest as 2.50 percent and the upfront fee would be charged on day one on the amount transferred and no other charges/interest would be levied. This option will be beneficial especially during this time where consumers are most likely to be overwhelmed by credit card bills due to seasonal spends.
+April deliberately becomes the month of expressing joy and spending time with family and friends but often resulting in severely stretched finances with credit card bills hitting record highs. The natural inclination to ?buy now, pay later? is quite standard during the festive seasons, up until it becomes reckless and financially pressured due to post spends.
+However, using credit cards is of absolute convenience and offers great benefits if used responsibly. Therefore, it is advisable to stick to a planned budget, which would stop you from overspending and by making an effort to pay your credit card balance on time, in full to avoid additional charges piling. There are many ways of getting the most from your credit card rather than having to face unwanted financial pressure. Hence, developing good financial habits and understanding the purpose of your credit card is imperative.?
+Applications for NDB ?Good Life? credit cards could be made at any one of the NDB branches islandwide.?
+ 
+		
+==============================
+## Title: North Korea fires missile that lands in sea near Russia
+## Section: International
+## Date: 15 May 2017 09:00 am
+North Korea fires missile that lands in sea near Russia
+	
+REUTERS, 14th MAY, 2017- North Korea, defying calls to rein in its weapons programme, fired a ballistic missile that landed in the sea near Russia on Sunday, days after a new leader in South Korea came to power pledging to engage Pyongyang in dialogue.
+The U.S. military?s Pacific Command said it was assessing the type of missile that was fired but it was ?not consistent with an intercontinental ballistic missile?. The U.S. threat assessment has not changed from a national security standpoint, a U.S. official said.
+Japanese Defense Minister Tomomi Inada said the missile could be a new type. It flew for 30 minutes before dropping into the sea between North Korea?s east coast and Japan. North Korea has consistently test-fired missiles in that direction.
+ 
+		
+==============================
+## Title: 'One Belt, One Road' will benefit Sri Lanka: PM
+## Section: Breaking News
+## Date: 15 May 2017 10:42 pm
+'One Belt, One Road' will benefit Sri Lanka: PM
+	
+Prime Minister Ranil Wickremesinghe who is on an official visit to Beijing said China?s ?One Belt One Road? would help Sri Lanka to become a hub of the Indian Ocean.
+He said this at the high level talks on ?One Belt One Road? programme in Beijing.
+The Prime Minister said development in Asia depends on freedom of maritime navigation in the Indian Ocean. ?It is important to establish peaceful non military ties among the countries in the region. Therefore it is essential to establish multilateral trade ties based on a commercial basis,? he said.
+He said Sri Lanka expects to become a hub in the Indian Ocean using its strategic location.
+The Prime Minister said all countries that are part of the ?One Belt One Road? programme should strive towards ensuring its success. He said the off shore financial city is a part of the ?One Belt One Road? programme. He called for the cooperation of all the countries involved in the project to achieve the intended targets.
+Chinese President XI Jinping said all countries should come together because no single nation would be able to overcome the global challenges that have arisen today. He said ?One Belt One Road? did not belong to one group but to the whole world.
+More than 30 heads of state and institutions participated at the talks.
+ 
+		
+==============================
+## Title: Reading character from the Thumb
+## Section: Jyotisha News
+## Date: 15 May 2017 11:09 am
+Reading character from the Thumb
+	
+BY A.S. Fernando.
+In the last article, we discussed the Thumb angled in relation to the Index Finger. That of course, is only one aspect of the formation of the Thumb.
+In this article, we propose to examine several other aspects of the shape of the Thumb under following categories.
+1.?? ?Elementary Thumb
+2.?? ?Nervous Thumb
+3.?? ?Broad Thumb
+4.?? ?Hard Thumb
+5.?? ?Short Thumb
+6.?? ?Long Thumb
+7.?? ?Flexible and Supple Thumb
+?
+1.The Elementary Thumb:
+This is shapeless and has the appearance of a chunk of flesh stuck on the hand. It is coarse and heavy. Its owner is tactless and is brutal in imposing his will on other persons.
+2.The Nervous Thumb
+This thumb is soft and fleshy and flat in appearance. Its owner lacks nervous balance.
+?
+3.Broad Thumb
+Viewed from the nail side, it looks broad. This thumb also has a strong and healthy appearance. The owner possesses strong determination supported by physical strength. Aggressive and violent by nature, the owner requires guidance and restraint to contain him/her within reasonable bounds of decent behavior.
+?
+4.The Hard Thumb
+This thumb is usually erect and close to the side of the hand. The owner Is endowed with a lot of common sense and pragmatism. He is intelligent, but lacks emotions.
+?
+5.The Short Thumb
+Owners of this thumb need guidance and supervision, because they are so sentimental, it is seldom they use their intelligence. They like to live in a world of their own. They are often poets, painters and musicians.
+?
+6.The Long Thumb
+The owners of this thumb are self-willed and self-reliant. They occupy positions of authority. They are intellectuals guided by intelligence rather than by emotions.
+?
+7.The Flexible and Supple Thumb
+This thumb bends back at the first joint. Owners of this Thumb are brilliant, versatile, sentimental and generous. They are capable of adjusting themselves to suit any occasion.
+ 
+		
+==============================
+## Title: Rising Hygiene Standards of Dansalas
+## Section: News Features
+## Date: 15 May 2017 12:26 am
+Rising Hygiene Standards of Dansalas
+	
+Every year during Vesak, people crowd the streets to observe the brilliantly-lit decorations and pandals. It is the season when people set up stalls and hand out food and drinks for free, adding excitement to the public?s evening. Although hygiene has been an issue over the years, the Daily Mirror learns through the CMC Chief Food Inspector M.D. Lal Kumara and the President of the Public Health Inspector Union Sri Lanka Upul Rohana, that our standard of hygiene and quality is rising and that many monitoring systems are in place to ensure that we can accept food and drinks from dansalas without any problem.
+?
+?
+Speaking of the standards set for dansalas, Mr. Kumara said there were many factors to consider when it came to hygiene standards, including the type of ingredients used, the water and the cooking environment. ?For example, if they are having a rice dansala, we tell them that instead of using old grains with unclean objects in it, they should get clean, standardized rice. Most of the time we are concerned about the water, since the usage of water from tube wells is banned in Colombo. Only tap water is allowed. If they are storing water in tanks, they must keep them clean and closed at all times, otherwise dirt can get inside. We go around and check for discrepancies like this. We also inspect the chilli powder, pepper, salt and turmeric to ensure they are of good quality. We have advised people to use packeted products instead of making their own.?
+?The cooking in dansalas may be done outside. A tent must be put up, otherwise dust and other objects can fall into the food. Some people are used to cooking bare-bodied but we don?t allow this. The cooks should also keep themselves clean and use soap to wash their hands. We have also advised that those with contagious illnesses and colds should not be allowed to work in dansalas,? he added.
+He pointed out that when it came to drinks, dansalas had many standards to follow. ?We have told them how to store water and advised that clean water should be used when making these drinks. When using packets to make these, they are told to check the expiry and manufacture dates. We have also told them to store packets in the correct manner and asked them to use clean containers when making food and drinks.?
+Mr. Kumara added that in many instances he had seen plates and utensils being washed in basins, which he discourages. ?Running water rather than stagnant water should be used to wash cups and plates.?
+?
+?
+"We have informed the public that they need to register the dansalas they are putting up.When they register, we ask them about the kind of dansala they will be running and give relevant advice"
+?
+Citing the waste issue, Mr. Kumara said, ?We have encouraged people to use cups and plates that can be recycled. Because of the waste issue it is better to have reusable utensils. Sometimes when they put hot food into Styrofoam boxes, there is a higher chance for it to go bad. We have advised them to use banana leaves as they are easily disposable and environment-friendly.?
+Speaking of reducing the use of polythene and plastic, Mr. Rohana said, ?We have asked people to stop using plastic and polythene in dansalas. This year, although we saw that some places were using it, the use of lunch sheets has greatly reduced. However, plastic plates and cups were being used to serve drinks and rice. Even though food can be placed in plastic, it is still quite harmful. Next year we hope to completely eradicate the use of plastic.?
+Speaking of how dansalas are monitored, Mr. Kumara pointed out ?We have informed the public that they need to register the dansalas they are putting up.When they register, we ask them about the kind of dansala they will be running and give relevant advice. Afterwards, health officers and food inspectors in those areas go to inspect the dansalas. We also have a special team to look into the dansalas in Colombo.?
+Adding to the registration factor, Mr. Rohana said, ?When they register, they are informed of the relevant standards they need to follow. We look into the materials used, how they are stored, how they serve, the instruments used, how the food is processed and the entire running of it.?
+Voicing his concerns, Mr. Kumara added ?Most of the time when cooking rice, the bacteria Bacillus Cereus can enter the grains, which is why we tell people to be careful when cooking outside and to make sure there is no dirt near the food.?
+"This year people were more aware of the health standards they needed to maintain. They knew we would come to inspect them which is why they kept everything clean."
+?
+?Those preparing food in the dansalas have also been advised not to chew betel, to smoke cigarettes or to spit,? he said.
+?Up to now we have not received any complaints about the dansalas and there have been no reports of food poisoning? said Mr. Kumara.
+?This year people were more aware of the health standards they needed to maintain. They knew we would come to inspect them, which is why they kept everything clean.? Speaking of his observations, Mr. Kumara added,?What we saw was that the dansalas were kept clean but the people who came were littering. However, the dansalas are much better than what they were last year, because people follow the hygiene standards we have set out. We don?t fine or take them to court because they are doing this for free, so we encourage them to keep the dansalas clean.?
+Mr. Rohana spoke of the figures they had gathered this year, ?We were able to collect data on the dansalas registered on Vesak Poya day and the day after and we took necessary action against those who didn?t followed the standards.?
+?
+?
+This year the number of dansalas registered countrywide was 5,217, the dansalas we conducted pre-inspections on were 4,481 and the dansalas inspected on Vesak Poya and the day after came to 7,125, including registered and unregistered dansalas.
+The number of dansalas that served spoiled food and those which were unsatisfactory came down to 121. Out of these, five drink dansalas were closed. One reason being that the water they used was unclean, secondly, because the containers used to store drinks were of an acidic nature. The highest number of dansalas closed down were in the North Western Province, followed by the Western Province and finally the North Central Province.?
+?We will only be taking legal action on the advice of medical officers in the area. The dansalas were held after religious observances so we could not take action. There is the problem of registering them however, as money doesn?t need to be paid. Officials will only advise and help people run the dansalas.?
+Next year we will have to take some action in order to increase awareness on the necessity to register.? ?There were less dansalas this year when compared to last year. However, each year the hygiene levels improve. We started the dansala inspections in formally only six years ago. Now the quality of the dansalas are getting better,? he concluded.
+?
+"We have asked people to stop using plastic and polythene in dansalas. This year, although we saw that some places were using it, the use of lunch sheets has greatly reduced"
+ 
+		
+==============================
+## Title: SAITM will be shut down if proper standards not met
+## Section: Breaking News
+## Date: 15 May 2017 06:38 pm
+SAITM will be shut down if proper standards not met
+	
+SAITM will be closed down if it fails maintain the required standards, Deputy Minister Ajith P Perera said today.
+He said it would be decided upon by the committee to be set up soon to monitor educational institutions.
+The deputy minister this at a media briefing held last afternoon to explain the government's official stand on SAITM.
+The deputy Minister said this committee would monitor all private educational institutions including those which were to be set up in the future.
+He said SAITM owners had agreed to hand over the Nevile Fernando Hospital to be operated as a state teaching hospital.
+The government has proposed that SAITM students should sit the Act 16 exam and undergo further clinical training at the Homagama and Avsissawella hospitals and that SAITM should suspend the enrollment of new students.
+Deputy Minister Eran Wickramaratna said the government had also decided to introduce laws making it compulsory for profit-making private education institutions including SAITM to be listed in the Colombo Stock Exchange. (Yohan Perera)
+ 
+		
+==============================
+## Title: SC extends stay order on Appeal Court ruling on Geetha
+## Section: Breaking News
+## Date: 15 May 2017 04:36 pm
+SC extends stay order on Appeal Court ruling on Geetha
+	
+The Supreme Court has further extended the stay order on the Appeal Court ruling issued disqualifying Geetha Kumarasinghe from functioning as an MP.
+It has done so until the final determination of the appeal. (S.S. Selvanayagam)
+?
+Video by Courts Prasanna
+ 
+		
+==============================
+## Title: Seerock: The King?s Domain
+## Section: Travel Getaways
+## Date: 15 May 2017 12:02 pm
+Seerock: The King?s Domain
+	
+Surrounded by jungle and in the shadow of an ancient and historic rock fortress, Seerock is a luxury boutique hotel that recently opened its gates to guests visiting Dambulla.?
+Situated on a path off the Habarana main road en route to some of Sigiriya?s most well-known hotels and villas, the hotel is built on the concept of water dwellings, with the main building and individually situated guest rooms perched on concrete beams over ponds. As you enter the main building, you are greeted by a striking replica of Sigiriya?s lion paws, and this theme emerges again in the rooms named after historical Sri Lankan legends and artwork inspired by the Sigiriya frescoes.?
+With stunning architecture and interior, here?s what we thought of our stay at the Seerock hotel!?
+Accomodation?
+There are 12 luxury rooms to choose from at Seerock. The Superior Deluxe rooms are fitted with jacuzzis or jetted tubs while the Premium Deluxe room come with a plunge pool and private deck. The Grand Deluxe Suite, also known as 'The King Kashyapa?s Suite, is fit for a king with its own private pool and secluded surroundings. All rooms include a front and back balcony and with a 650 sq. ft floor area, it's spaciously designed with elegantly handcrafted wood furniture. All rooms are air conditioned and fitted with amenities such as a 50" colour TV with satellite, WiFi, hair dryer, toiletries and mini bar with complementary non-alcoholic beverages, biscuits, organically produced savoury bites and tea and coffee.?
+The rooms are truly luxurious. The ambience of the room is designed in such a way that not only is it pleasing to the eye; it also has a very homely atmosphere. The beds are extremely comfortable and guests are guaranteed a good night?s sleep. One of the things that we loved about the hotel is the sense of privacy it affords its guests. The rooms are all situated a comfortable distance from one another so all guests can enjoy some peace and quiet. And there was something utterly serene and beautiful waking up to find peacocks running about the gardens.?
+And if guests are lucky, the staff tells us they can even get a glimpse of a few elephants occasionally!?
+Dining?
+The hotel has one main restaurant and a bar/lounge area. As a luxury boutique hotel accommodating selected guests, all meals are served a la carte.?
+The food at the hotel was exceptional at every turn. Each meal was simple but lavishly executed. While their continental cuisine was absolutely divine, it was their Sri Lankan meals that were truly outstanding. Even as a local who has had more than their fair share of rice and curry - the dishes at Seerock were delectable, and with just the right balance of heat and coconut-y goodness for us to proclaim the dishes as one of the best rice and curry meals we?ve ever had! All vegetables used are organic, and grown in the hotel's own vegetable garden.?
+Having been trained in Switzerland, the Executive Chef at the hotel has many years of culinary experience from working in Carnival Cruise liners and in resorts in the Maldives. During our stay, he made sure to inquire into our meals and ensured that our favourite dishes were at the table. We loved this personal touch because all meals were tailormade to suit our taste buds so there were no complaints!?
+The bar/lounge area adjoining the dining area gives guests an eyeful of the magnificent Sigirya Rock at a distance. The bar menu offering a range of drinks and cocktails also offers guests shisha upon request.?
+Facilities?
+Surrounded by jungle, Seerock offers privacy to all its guests. The outdoor swimming pool is hidden behind the main building which offers guests a bit of seclusion. The pool consisting of an adjoining baby pool is levelled at one depth (as someone who can?t swim, this writer is grateful!) and is beautifully designed with an artificial waterfall as its backdrop as it once more incorporates the cultural background of Dambulla in its theme.?
+The hotel also has a spa with their own masseuse and offers a range of services from aromatherapy to full body massages. If you?ve been trekking all day or recovering from your long climb at Sigiriya or a walk at Ritigala, the spa offers a relaxing foot massage that cures all aches and pains at the end of the day.?
+The hotel also offers village tours to travel in bullock carts and canoes in the lake and even arranges activities like cycling, hiking, elephant back rides and hot air balloon rides.?
+Service?
+Seerock has one of the highest guest satisfaction ratios in the area according to Trip Advisor and it is easy to understand why. From the beginning to the very end of our stay the service provided was of high calibre where our needs were met with prompt attention and warmth. Not only are the staff courteous, helpful and efficient, they also engage with the guests frequently and go out of their way to cater to any special needs or comforts. Guests even have the option of requesting for butler service.?
+Service can really make or break your stay and Seerock has trained its staff well to ensure you have the perfect holiday without wanting for anything!?
+WiFi?
+Yes!?
+Overall?
+The Seerock hotel is the ideal place for a relaxing getaway. Secluded from the busy town, the hotel offers guests a quiet place to stay with luxury accommodation and food, great staff and beautiful surroundings.?
+Whether it?s a romantic getaway or a family trip - Seerock is recommended for anyone looking to take a break from their busy lives.?
+Things to do in Sigiriya?
+Visit the iconic Lion?s Rock.?
+	Walk through the calming Ritigala forest.?
+	See the Golden Rock Temple in Dambulla.?
+	Take a trip to the historical Polonnaruwa.
+==============================
+## Title: Shangri-La Resort Hambantota launches ?The Table by Golden Circle?
+## Section: Travel - Main
+## Date: 15 May 2017 12:19 pm
+Shangri-La Resort Hambantota launches ?The Table by Golden Circle?
+	
+Shangri-La?s Hambantota Resort & Spa framed by swaying coconut trees, overlooking the pristine southern coast of our beautiful Sri Lanka which spans 58.8 hectares, making it the largest resort in the country announced the launch of 'The Table by Golden Circle'. This new food and beverage loyalty programme offers unparalleled benefits to members who dine at Shangri-La properties both on the road and close to home. The dining programme is the latest initiative in the ongoing transformation of Golden Circle, which has rolled out industry-leading member benefits, new partnerships and exclusive offers.?
+The programme was launched with an exclusive event that took guests on a culinary journey throughout the resort. The many visually pleasing dining locations played host to a myriad of dining experiences including canap?s and cocktails on the Putting Green with a fun "shoot for shots" concept, a cheese and wine pairing at Ulpatha, the club house lounge and bar, a South Asian style hawker market at Sera restaurant, followed by a barbecue under the stars on the beach, and to conclude the culinary feast, guests were treated to desserts and live entertainment at Gimanhala lounge. 
+"At Shangri-La, we offer guests a variety of culinary authenticities with a modern twist," said Iain McCormack General Manager for Shangri-La?s Hambantota Resort & Spa speaking at the launch.?
+The serene atmosphere of the open air lobby adorned with local handicrafts made of natural materials, the turquoise sea view at a distance and the beautifully landscaped gardens with peacocks just strutting around makes you feel like you?ve come to another world. We had an absolutely fabulous time at the Resort experiencing all the dining areas and what 'The Table' had to offer. The quality of the food was of another level. Every dish was prepared with precision. Perfection seemed to be the theme of Executive Chef Nonky Tejapermana who stated, "Our Dine by Design experiences further add to the dining pleasure with tailormade menus highlighted by exquisite locations available around the resort, for a truly personalised and emotional experience."?
+From the time of arrival we were surrounded with by warm smiles and efficient service of the staff who seemed to have got the proper essence of what is expected from the hospitality industry. The warmth that was extended to us and the hospitality we experienced was exceptional and highly commendable. What I loved most about the Resort was the fact that they had so many fun activities and so much to do. Exactly what one would expect when visiting a resort.?
+The resort boasts of 300 spacious rooms, including 21 suites which offer magnificent views of either the bountiful Indian Ocean, the well-manicured golf course, the sparkling lagoon or the extensive gardens from their balconies. Comfortable bedding that you don?t want to get out of, hand-woven rugs and ocean blue panels complement the modern luxury style. The spacious bathrooms are accessories with rain showers and bathtubs.?
+For recreation and activities, they have an 18 hole golf course which is one of the best in the island, pool tables, 3 exotic swimming pools, a 7m trapeze, a drone flying area, trampolines and a huge waterpark. The Hotel offers kids a range of activities at the Cool Zone Kid?s Club which includes, painting, craft designing, climbing areas, doll houses etc., and they have childcare facilities as well. Undoubtedly, this is a resort that your kids will not want to leave.?
+For relaxation you can drop by the expansive Chi Ayurveda Spa and if you want to buy local handicrafts the artisan village has it all. A wide variety of dining destinations can be found throughout the resort to suit any mood. While offering a magnificent banquet hall which can easily seat 1000 or more guests, they also provide an outdoor environment to inspire destination weddings under the palms.?
+This level of luxury makes time stand still while the enchantment lives on.?
+For more information, please call on (+94) 47 788 8888.?
+Email: slht@shangri-la.com?Website: www.shangri-la.com/hambantota?
+PHOTOGRAPHS by Samantha Perera
+ 
+		
+==============================
+## Title: Survivors achieve greatness
+## Section: Jyotisha News
+## Date: 15 May 2017 11:13 am
+Survivors achieve greatness
+	
+?
+By Sandagomi
+Those who read our previous articles on Shani Erashtaka should by now be familiar with the three types of Shani Erashtaka, Jamma, Lagna and Ashtamaya.
+You also should know by now that of the three Erashtakas, the most evil one is Jamma Erashtaka and the impact of this Erashtaka is more severe on Cancer natives than on others.
+Impact severe on Cancer, Scorpio and Pisces natives ??
+It should also be noted that the Ashtamaya Erashtaka is not very severe on all natives except on those whose ascendants are Cancer, Scorpio and Pisces. ?When the native happens to be born in Libra, Aquarius, Capricorn or Sagittarius, he would hardly feel the malefic influence of Saturn. Saturn attaining exaltation in a sign/House while being the lord of the eighth House would endow the native with long life. ?However, he would undergo much misery and suffering during the Jamma Shani Erashtaka.?
+Impact of second round mild on those ? surviving the first at birth ??
+Saturn takes nearly 29 ? years to traverse through the 12 signs of the Zodiac or to make one circuit round the Zodiac. The Jamma Erashtaka becomes very severe on those natives undergoing it at an age between 12 and 20, 42 and 50 or 72 and 80. Natives who survive the Jamma Shani Erashtaka at birth would not undergo much suffering when they come under the Erashtaka for the second time, say veteran astrologers.
+Survivors become great men and women
+Besides, natives who survive the Jamma Erashtaka at birth would become great men and women endowed with uncommon courage, perseverance, resolution and the capacity to undergo much suffering.?
+According to certain renowned Indian astrologers, Prince Siddhartha who came to be known as Gautama Buddha after achieving Great Enlightenment was subject to Jamma Shani Erashtaka at birth.?
+Fall victim to paralysis, convulsions, arthritis and phlegmatic diseases
+When Saturn enters the Cancer sign, the native would become victim to paralysis, convulsions, arthritis and phlegmatic diseases.?
+If a native suffers a disability or an injury during a Shani Erashtaka, the effect of it would last a life-time.?
+?
+Universal law
+According to Vedic Astrology, a certain ethereal power pervades the entire universe and the earth inhabit is also is subject to it.?
+People generally believe that man is subject to the influences of ?planets. They also believe that man is subject to the influences beyond the comprehension of the ordinary human beings.?
+However, it is a truism that the human potential is so vast man could develop the strength necessary to withstand the forces of nature.?
+We all face vicissitudes of life. Mental and physical suffering, disease and death are common facts about life. ?The rich and the poor, the king and the beggar alike are subject to this universal law.?
+Shani Erashtakas too should be considered as a reminder of this law and also as a challenge to tap on the power inherent in us to successfully meet that eventuality. ??
+ 
+		
+==============================
+## Title: Suu Kyi requests SL help to ensure Myanmar's democracy
+## Section: Breaking News
+## Date: 15 May 2017 10:03 am
+Suu Kyi requests SL help to ensure Myanmar's democracy
+	
+State leader of Myanmar Aung San Suu Kyi has called for Sri Lanka?s support to strengthen her country's Parliament and ensure democracy there.
+Suu Kyi made this request when she met Prime Minister Ranil Wickremesinghe in China yesterday.
+The Sri Lankan Premier had assured her of Sri Lanka's support and had invited the state leader to visit Sri Lanka soon.
+Ms Suu Kyi had expressed a desire to visit the city of Kandy. The talks between the two leaders had focused mostly on enhancing diplomatic ties between the two countries.
+ 
+		
+==============================
+## Title: Two Lankans arrested during brothel raid in Kuwait
+## Section: Breaking News
+## Date: 15 May 2017 10:29 am
+Two Lankans arrested during brothel raid in Kuwait
+	
+A man and a woman of Sri Lankan nationality were arrested from a brothel in Khaitan area.
+According to security sources, when Farwaniya securitymen received a tipoff about a Sri Lankan expatriate who turned his apartment into a brothel, they monitored his movements.
+After confirming the information, they raided the apartment and arrested him and a woman with him.
+During interrogations, the suspect confessed that he brings clients to his apartment and offers them with sex services at a cost of KD 5 per person. He also revealed that he has been involved in this business for three months. The two suspects were referred to the concerned authorities for necessary measures. (arabtimesonline)
+ 
+		
+==============================

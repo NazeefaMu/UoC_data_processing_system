@@ -1,0 +1,22 @@
+## Title: Mystery of Voyager 1's journey into space solved
+## Supertitle: 
+## Section: World
+## Date: Tuesday, November 3, 2015 - 19:30
+
+Mystery of Voyager 1's journey into space solved
+
+US: Scientists have answered why NASA's Voyager 1, when it became the first probe to enter interstellar space in 2012, observed a magnetic field that was inconsistent with that derived from other spacecraft.
+Voyager 1 sent back several different indications that it had punched through the edge of our Sun's massive protective bubble inflated by solar wind - the heliosphere - after a 35-year journey.
+But the magnetic field data gathered by the spacecraft was not what scientists had expected to see.
+"There are still naysayers out there regarding Voyager 1 crossing through the heliopause - the edge of the heliosphere," said astrophysicist Nathan Schwadron of the University of New Hampshire and lead author of the paper. "And the reason for this doubt is that when the spacecraft supposedly broke through the heliopause we should have seen some sort of distinctive shift in the magnetic field from one medium to the other," Mr Schwadron said.
+Adding to the mystery, researchers found that the magnetic field direction observed in local interstellar space deviated by an angle of more than 40 degrees from what was expected.
+Some scientists posited that this deviation was an indication of Voyager 1 still being embedded in the solar wind inside the heliopause.
+Mr Schwadron and colleagues solved the discrepancies using triangulation of four different datasets gathered by other spacecraft, including the Interstellar Boundary Explorer (IBEX) mission that in 2009 discovered a mysterious "ribbon" of energy and particles believed to be associated with the interstellar magnetic field.
+The scientists discovered that Voyager 1 - like an orienteer through the outer solar system - measures the magnetic field moving the needle on a compass with cardinal directions provided by the IBEX ribbon.
+The ribbon centre is the direction of "true magnetic north" for the pristine interstellar magnetic field.
+The study shows that the initial direction of the magnetic field observed by Voyager 1 is deflected by the heliopause, like an elastic cord wrapped around a beach ball.
+Therefore, the spacecraft is moving through a special region of space where magnetic fields are rotated away from true magnetic north.
+This means that while Voyager 1 did cross the heliopause in 2012, it is still travelling through this "muddied" magnetic field region and won't reach the "pristine" region of interstellar space until at least 2025, researchers said.
+"Our analysis confirms two things for the first time: that the centre of the IBEX ribbon is the direction of the interstellar magnetic field and, secondly, that Voyager 1 is now beyond the heliopause," Mr Schwadron said.
+Scientists now know they will need to wait at least another decade before Voyager enters the region of interstellar space that is beyond the reach of the Sun.
+- PTI 

@@ -1,0 +1,22 @@
+## Title: How 'The Revenant' - and Big Data - Will Change Movies Forever
+## Supertitle: 
+## Section: Entertainment
+## Date: Monday, January 18, 2016 - 01:00
+
+How 'The Revenant' - and Big Data - Will Change Movies Forever
+
+The critics have spoken: The Revenant is gripping, gorgeous, and at times grotesque. Now we have the data to prove it.
+Before the Leonardo DiCaprio epic hit wide release, Fox Studios partnered with a small bioanalytics software company called Lightwave to measure how audiences were reacting to the film. It was a marriage of Hollywood and technology that could potentially change the way movies are made.
+Last fall, Lightwave monitored approximately 100 moviegoers in four cities - Boston, Chicago, Philadelphia and Washington, DC. All were there to see a pre-release version of this brutal tale of survival and revenge set in 1820.
+Lightwave strapped a medical-grade fitness tracker on each volunteer's wrist. It then measured their heart rate ten times each second, as well as their body temperature, movements, and how conductive their skin became as their autonomic nervous systems took over, indicating a fight-or-flight response.
+(Spoiler alert: If you haven't seen the movie yet, you might want to skip this next paragraph.)
+Lights, camera, reaction!
+The first big surge in the audience's fight or flight happens roughly 26 minutes into the film, when Hugh Glass (DiCaprio) has a near-fatal encounter with a grizzly bear. It then happens 14 more times during the movie, as characters are shot, knifed, impaled with arrows, buried alive, hanged, chased through a series of majestic winter landscapes, and drowned in icy cold rivers.
+When the audiences' hearts weren't pounding, they were transfixed - spending more than 76 minutes of the film's 156-minute runtime motionless, according to Lightwave's sensors, which communicated wirelessly in real time with the company's software.
+By the time the credits were rolling, Lightwave had collected "hundreds of millions of rows of data," says Rana June, Lightwave's founder and CEO.
+Of course, Hollywood has been pre-screening films to gauge audience reaction since before there were talkies. Stories of famous films that were heavily revised after a negative screening are legion. But previous methods of audience measurement were crude and inaccurate, says June. "People would sit through a two-hour movie and then asked if they liked it, or they were told to fill out a questionnaire," says June. "It's difficult for anyone to remember what happened at minute 13 of a movie. This removes the bias from the equation and gives filmmakers a robust set of data to work with."
+Screen gems?
+Surprisingly, Lightwave started out developing technology to help club DJs measure the reactions of their dub-stepping, mosh-pit-diving audience, says June, a former club DJ herself. It's since brought this technology to concerts, sporting events, reality TV shows, and, now, major motion pictures that have Oscar written all over them.
+The ultimate goal is for filmmakers and other artists to use this data as they're creating the works, says June. It offers a way to test whether that Adam Sandler comedy really is funny (it isn't) or if the Hunger Games franchise has totally jumped the shark (it has), theoretically giving studios a way to fix these films well before they hit the theaters. "A lot of people don't realize this, but the body has a lot of physiological indicators into the emotional experience people are having," says June. "Artists can use this as a new color to paint with. It's a brand new world of data that's never been available before."
+Whether this results in more engaging, well-paced and thoughtfully constructed films - or simply more movies that pander to the universal lizard brain - is unknown. But it looks like we're going to find out.
+Yahoo 

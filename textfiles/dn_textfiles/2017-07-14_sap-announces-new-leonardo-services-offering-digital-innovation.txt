@@ -1,0 +1,24 @@
+## Title: SAP announces new Leonardo Services offering Digital Innovation
+## Supertitle: 
+## Section: Finance
+## Date: Friday, July 14, 2017 - 01:00
+
+SAP announces new Leonardo Services offering Digital Innovation
+
+SAP announced new digital innovation services and tools for SAP Leonardo to help customers become digital and realise business value from data across their organisation.
+The recently announced SAP Leonardo digital innovation system has been enhanced to include new accelerators for industries and the Internet of Things (IoT), extended tools for SAP Build and new Cloud Foundry packages for SAP Cloud Platform for partners.
+Building on SAP’s industry and process expertise together with industry-leading software capabilities, these updates further help customers not just to innovate, but to scale innovation and become digital businesses.
+“More than 70 percent of global CEOs think the next three years will be more critical than the last 50 years, yet only 5 percent feel they have mastered digital innovation as a competitive advantage,” said Mala Anand, executive vice president and president of SAP Leonardo, Data and Insights at SAP.
+“We’re helping customers drive business model and process changes by building innovative capabilities that integrate with our core business applications, making it easier for customers to quickly realize the value of digital transformation and at reasonable cost.”
+Enabling the Customer Experience
+SAPoffers customers a simple path to rapid implementation at scale, with compelling business cases. By providing end-to-end services from exploration of use cases through discovery and design to delivery, SAP helps customers quickly achieve business value with solution ideation and vision, rapid prototyping, business case development and technology blueprinting.
+SAP Leonardo industry accelerator packages allow a drastically reduced time to value from the implementation of new technologies that solve the complex task of digital transformation, using a step-by-step approach to enable rapid return on investment.
+Additionally, new SAP Leonardo IoT accelerator packages provide solutions for Asset Management, SAP Vehicle Insights, SAP Distributed Manufacturing and SAP Digital Manufacturing Insights.NewSAP Leonardo Innovation Services combine the tools, technology and expertise of SAP’s business and IT professionals to help customers easily jump-start and customize their innovation journey.
+Customers can select from new editions including SAP Leonardo Innovation Services, express edition; SAP Leonardo Innovation Services, open innovation edition and SAP Leonardo Innovation Services, enterprise edition, based on their specific needs.
+Additionally, an express edition of the SAP IoT Application Enablement toolkit is now available for seamless, low-touch digital purchase via a credit card at SAP Store. It allows developers to build and pilot IoT applications that they can scale quickly with a low commitment through a consumption-based pricing model.
+SAP Build Delivers Everything Needed to Design Business Apps That Users Love
+SAP Build allows nontechnical users to create interactive prototypes and quickly get feedback from users and stakeholders no matter where they are located. It now includes features to guide users through the design-led development process on each phase of the project, which enables consistency so that customers can scale innovation without losing focus on end-user needs, usability and quality.
+Users can jump-start projects with access to a gallery of industry and IoT accelerator packages in the SAP Build tool, speeding the design and prototyping phase. SAP Build integrates technologies such as analytics, Big Data, machine learning and IoT to creates ophisticated interactive prototypes. Business users can generate code from a prototype to jump-start development.
+Cloud Foundry Packages - Flexible Development for IoT and Machine Learning Apps
+New Cloud Foundry packages for SAP Cloud Platform enable partners to develop next-generation apps that leverage SAP Leonardo capabilities, including machine learning, IoT and Big Data.
+The new SAP Cloud Platform SDK packages allow developers to apply existing skill sets to rapidly develop new applications with their preferred language and tools, ultimately resulting in new innovative apps, lower development costs and accelerated time to market.

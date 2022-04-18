@@ -1,0 +1,108 @@
+## Title: Civil Procedure Code (Amendment) Act No. 08 of 2017
+## Supertitle: 
+## Section: Local
+## Date: Monday, October 16, 2017 - 01:00
+
+Civil Procedure Code (Amendment) Act No. 08 of 2017
+
+(Continued from September 25)
+XIV. After all the pre-trial steps are completed (on the parties informing the judge that all the pre-trial steps had been taken and the judge is satisfied that all such pre-trial steps have been taken), the pre-trial judge must call the case within 14 days(two weeks) to fix the date for trial.
+§ Sections 146, 147 and 148 of the principal enactment are hereby repealed.
+It is important to note that the pre-trial process is a novel feature introduced by the Amendment, which can expedite the trial procedure.
+However, a distinctive feature is that, all preliminary steps of the trial procedure are dealt with at the pre-trial stage and the trial judge is vested with the examination of the witnesses.
+XV. Concerns relating to the pre-trial procedure
+i. The admission and issues are to be filed 14 days prior to pre-trial stage and the pre-trial procedure is to be concluded within three months (postponement of one month).
+• Accordingly, steps such as settling of issues, calling for commissions and return thereof, filing list of witnesses, filing interrogatories, discovery of documents, admission of documents and content of documents, identifying witnesses appointing a Court expert, consideration of agreements between parties, calling witnesses if necessary (to determine issues) etc. must be concluded within the specified time as aforesaid, which may cause a practical issues.
+• It is too premature for us to gauge whether the impact in all of those steps referred to above could be concluded within a period of three months, particularly in view of provisions for calling commissions which generally take a period beyond three months.
+ii. Furthermore, the Amendment does not provide provisions relating to the following;
+• Filing of list of witnesses and documents prior to the pre-trial procedure. (Section 121 of the CPC)
+• Service of interrogatories (Chapter XVI)
+· The mode admission/ exchange of documents ( although provisions have been set out for admission of the content of the documents)
+iii. The Amendment does not facilitate Provisions for Computer (Evidence Special Provisions) Act No 14 of 1995.
+iv. Section 149 A (1) and (2) empowers a pre-trial Court to order, consolidate actions which may result in expeditious conclusion of action; however, it is subject to the agreement by the parties, which may nullify the effect of the provisions.
+8. Consolidation of actions
+Consolidation of actions is dealt with in terms of the Section 149A.
+Where two or more actions in which the questions of law or fact in issue are substantially the same,
+i. Court can consolidated - upon terms as the court may deem fit and on the agreement of parties. (149A. (1))
+ii. The Court may order,
+• Where there is the same evidence, several actions to be tried at the same time
+• the evidence in one action to be used as evidence in another,
+• one of several actions to be tried and other actions to be stayed to abide by the result, with the consent of the parties.
+However, in the above circumstances, on the application of any party the court shall have power to try one of the other actions so stayed where the selected action fails to be a real trial of the issues involved.
+9. Affidavit evidence
+Under the new Act, with the insertion of Section 151A provisions have been set out for Affidavit evidence, accordingly;
+Court can on its own motion or at the request of one of the parties order affidavit evidence from a witness to be substituted for an oral examination in chief of a witness.
+• However, such affidavit shall be tendered on a date fixed by the Court at least one month priorto the date of the trial.
+• The affidavit must be tendered together with the documents referred to the Registrar of the Court with the proof of service of a copy.
+• On the date of the trial;
+1. The affidavit and the documents should be produced through the witness
+2. The opposing party is entitled to object to its being received, either on the inadmissibility of such evidence/inadmissibility or authenticity of any documents annexed
+3. then court may make a ruling on such objection, prior to cross examination provided that in appropriate circumstances, permit the leading of oral evidences, in addition to the evidence contained in the affidavit
+4. hearsay or any matter which is scandalous can be deleted by court and proceed with the rest of the matter
+10. Legal representation and substitution
+A significant feature in the new Amendment to the Code lies in the requirement set out in Section 27(2)(a) to file a memorandum setting out legal representatives
+I. Appointment of legal representatives
+Accordingly, section 393 (1) requires that a party at the time of filing proxy, to nominate at least one person and a maximum number of three persons in order of preference to be his legal representative(s).
+• This is to proceed with the action, in the event of his death of a party pending the final determination.
+• Upon a failure to file a memorandum–the court or on an application of a party–can require a party to the action or any person eligible to file a memorandum, to file such memorandum on or before a date appointed for such purpose by the Court.
+II. Death of the nominator or representative
+• Upon the death of a nominator party, the persons nominated (in order of preference) is deemed to be the legal representative of the party (Section393 (2)(a))
+• In the event of the death or incapacity of the legal representative, person nominated next in order of preference is deemed to be the legal representative.
+III. Consent of the nominees
+• The persons nominated as legal representatives must give their consent and sign the memorandum, before an Attorney-at-law, a Justice of the Peace or a Commissioner of Oaths.
+• A Nominee can apply by way of a motion to withdraw his consent and court shall make an order, removing his name as the nominee.
+IV. A party may at any time before the final determination tender a fresh memorandum nominating one or more nominees, à therein the previous memorandum is deemed revoked à and the nomination contained in the fresh memorandum shall take effect.
+V. The legal representative of a deceased nominator can take necessary steps as the deceased nominator party would have been entitled to take, had he been alive, if the cause of action survives
+• It must be noted that the legal representative can take steps only where the cause of action survives upon the decease of the party (hence action in personams can only proceed subject to the laws governing the continuation of an action upon a death of a party)
+VI. Section 393 (6)
+(a) states that a Nominee cannot refuse to act as the legal representative of the deceased nominator.
+• However, he may, with the leave of the court,(made by way of petition and after giving notice to the other nominees if any), apply for permission from Court to be released from the office of legal representative.
+• The application must be made within two months from the date of the death of the nominator.
+(b) where Court releases a representative from office, the nominee who is next in order of preference is deemed to be the legal representative of such deceased.
+(c) Where there is a sole nominee or the last remaining nominee, the nominee shall notify the heirs of the deceased nominator, of the application and the court will appoint an heir to act as the legal representative.
+VII. Upon the death of a party to an action who had failed to file a memorandum.
+Section 394 reads that; on the death of a party who had failed to file a memorandum,
+• any party to the action may apply to the court by ex-parte application by way of a petition supported by an affidavit, requesting that an executor or administrator or (in the case of an estate which is below the administrable value) the next of kin who have inheritance of the deceased party to be substituted in the place of such deceased party.
+• However, the proviso enables the person appointed as executor or administrator next of kin to object to such appointment
+· Thereafter, the Court on being satisfied that the appointment is necessary and where the cause of action survivesappoint such person.
+· The person so appointed shall be bound by proceedings prior to his appointment).
+VIII. Application for legal representatives removal
+Section 395 provides that;
+(a) An executor or administrator next of kin may apply to court for the removal of any of the legal representatives of the deceased nominator.
+• And the representative shall be the respondent to such application.
+(b) Court upon being satisfied, may remove such legal representative and appoint a next person set out in the memorandum in order of preference or appoint the person named in the application, as the legal representative.
+• No proceedings shall be postponed or adjourned or any step in the action postponed by reason of the death of a nominator party.
+IX. Action to be proceeded where the right to sue survives on the surviving plaintiffs
+Section 396;
+• If there are more than one plaintiff or defendants and any of them dies, and the right to sue on the cause of action survives to the surviving plaintiff alone, or against the surviving defendant alone,
+the Court shall on the ex-parte application by petition supported by affidavit, make an order to the effect that the action be proceeded at the instance of the surviving plaintiff or plaintiffs, or against the surviving defendant or defendants.
+X. Action to be proceeded where the right to sue does not survives on the surviving plaintiffs
+Section 397
+If there are more than one plaintiff and any one of them dies, and the right to sue does not survive on the surviving plaintiff or plaintiffs alone, but survives on the legal heirs of the deceased plaintiff jointly, the legal representative of the deceased plaintiff must be made a substituted plaintiff in the place of the deceased plaintiff,
+• It shall be recorded and action will proceed.
+XI. Section 398
+• In case of the death of a sole plaintiff or sole surviving plaintiff,
+• the legal representative of the deceased may, where the right to sue survives, apply to the Court to have his name substituted on the record in place of the deceased plaintiff and
+• the court shall thereupon cause an entry to that effect to be made on the record and proceed with the action.
+XII. 398A deals Abatement of an action.
+• If no application is made to Court by any legal representative of a deceased plaintiff within six months from the death of the plaintiff, the Court may make an order that the action shall abate and award to the defendant the costs which he may have incurred in defending the action, to be recovered from the estate of the deceased plaintiff.
+• However, the Court may, if it may deem appropriate, on the application of the defendant, any time after the death of the plaintiff, make an order appointing the legal representative of the deceased plaintiff, in the place of the deceased plaintiff for the purpose of proceeding with the action in order to arrive at a final determination of the matter in dispute.
+XIII. 398B (1)
+a. If there be more defendants than one, and any one of them die before entering a decree and the right to sue on the cause of action does not survive alone against the surviving defendant, or where
+b. death of a sole defendant, or sole surviving defendant, where the right to sue survives to the plaintiff,
+the plaintiff may apply to the court to substitute the legal representative of the deceased defendant in place of such deceased defendant for the purpose of the continuance of the action.
+• The Court must enter the name of the legal representative on the record in the place of the deceased defendant, and issue notice to appear and defend the action.
+• The legal representative of a deceased defendant nominated in the memorandum, may apply to be a defendant in place of the deceased defendant. (Section 398 B (2))
+11. Obtaining copies of documents maintained by any public office, corporation
+In terms of section 440B, a party can make an application by motion supported by an affidavit, affirming the relevancy of such certified copy to the judge conducting the pre-trial hearing and is entitled obtain certified copies of the relevant documents from such public authorities
+• A certified Copy so obtained from a public office is deemed to be prima-facie proof of the contents therein. (440B 2)
+• However, the Court, on its own motion or by application of a party, can ask for the production of the original document by the officer in charge.
+• It is not necessary to prove any document which is, ex-facie, an original document or a certified copy issued by a Public Officer, Public Corporation, Provincial Councilor any Local Authority, unless the authority of such document is impeached by the opposing party for reasons to be recorded and the court require such proof.
+• Where the genuineness of any document is impeached by a party, the party has to state reason for impeaching its genuineness and the court shall record the same.
+• If the Court accepts the document after leading evidence, a party who sought to impeaches the genuineness of a document, liable to pay incurred cost of proving the document.
+12. Section 744 an insertion that; A judgment, order or directive pronounced under this section by an Appellate Court shall be deemed to be a judgment, order or directive pronounced by the original Court from which the appeal was preferred.
+13. This Act applies to all cases including matters which have been filed in the District Court, but no date has been fixed for the trial.
+14. In the event inconsistency between Sinhala and Tamil, the Sinhala text shall prevail.
+Conclusion
+As these provisions have been introduced with a view to expedite legal proceedings and thereby reduce the time consumed in adjudication, it is a duty of all stakeholders to make an effort to see the provisions achieve its objective.
+Like with any other provisions, there will be challenges and problems with the implementation of these provisions. Nevertheless, the effort to address the laws delays should be applauded.

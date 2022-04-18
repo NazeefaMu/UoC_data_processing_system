@@ -1,0 +1,130 @@
+## Title: What is Science  ? why Empiricism and Rationalism depend on each other
+## Section: Opinion
+## Date: 7 August 2018 12:10 am
+
+What is Science  ? why Empiricism and Rationalism depend on each other
+
+
+	
+
+The jump from observed to unobserved is not empiricism but rationalism, which cannot be solved in empiricism alone in Western Philosophy
+	Induction, as mentioned, however could be tested, which brings us back to a form of empiricism
+ 
+
+Is there a specific method of acquiring knowledge, which is peculiar to Western science? Starting with Francis Bacon up to Thomas Kuhn, perhaps the Philosophers of Science had thought so, though the methods that they had identified were not the same.
+
+
+They agreed that Science differed from other subjects and systems of knowledge mainly because there was a “Scientific Method” in acquiring knowledge. Paul Feyerabend on the other hand was of the opinion that there was no scientific method as such.
+
+The Western science that is supposed to “understand” an already existing nature, is not very much different from other disciplines but that does not mean that there is no difference at all between Science and other systems of knowledge.
+
+
+Western thinking is based on dualities and the so-called scientific methods are categorized under either empirical or rationalistic headings.
+
+
+In empiricism, sense experience is primary, while rationalists are associated with the deductive method.
+
+
+Bacon is supposed to be an empiricist while Galileo is called a rationalist who followed the deductive methods.
+
+
+This is an unnecessary categorization, as there are neither pure rationalists nor pure empiricists from the time of ancient Greeks in the Western tradition.
+Induction (inductive reasoning) does not come under logic, but arises from the extension of a property of some members of a population from a limited number of observations in a sample(s) of the population to the entire membership of the population, whether on a statistical basis or not. The population could be infinite. It is not different from having an idea in rationalism in the Western tradition.
+
+
+Rationalism begins with basic ideas that may be in the form of axioms or hypotheses or whatever one calls them, all of which will be called “axioms” hereafter.
+The jump from observations of a property of a limited number of members of a population to all the members of the population, whether it is finite or not, will be called a generalization.
+
+
+There is no empirical basis for this jump, and is based on an “axiom”. Neither is there any logic in an Aristotelian sense.
+
+
+It does not follow any rule of inference. It is an idea or a hypothesis as in Western Rationalism.
+
+
+Generalizations come under rationalism in Western Philosophy. Generalizations in a finite population are said to be concrete, when the generalization could be imagined.
+
+
+Otherwise, a generalization is said to be abstract. These generalizations are results of a process known as inductive reasoning.
+
+
+When it is said that induction does not come under logic, it means that induction is not deductive starting from a set of “Axioms” using rules of inference and Aristotelian two valued two-fold logic.
+
+
+Inductive statements are not different from “axioms”, which need not be observed for the entire population. They are ideas imposed on the population. For example, the oft quoted statement “All men are mortal” cannot be observed, and it is an abstract generalization.
+
+
+The syllogism in a way can also be considered as a test. For example, consider the syllogism:
+
+
+All men are mortal
+Socrates is a man
+Socrates is mortal.
+
+
+The statement “All men are mortal” is obtained from a limited number of observations by generalization. It is an induction.
+
+
+If one considers syllogism as a deduction, it is not significant, as Socrates is mortal is included in the premise “All men are mortal”.
+
+
+It is transparent at the very beginning and the so-called deduction has no significance.
+
+However, one can consider it as a test of the generalization or the “Axiom” all men are mortal. Here is Socrates. If Socrates is mortal as implied by the “Axiom” then the axiom holds. Otherwise, the “Axiom” is invalid, and inductive knowledge “all men are mortal” is not consistent with observations.
+
+
+The jump from observed to unobserved is not empiricism but rationalism, which cannot be solved in empiricism alone in Western Philosophy.
+
+
+This is one of the problems that David Hume associated with induction, which has no solution within the sphere of pure empiricism.
+
+
+Most of the problems of Hume including causality arose from being a pure empiricist, if one may say so. Western thinking, or more specifically Chinthanaya (it is much more than thinking) is dualistic, and empiricism and rationalism are considered as two tight compartments without any interaction or association (ontology and epistemology constitute another duality).
+
+
+Induction, as mentioned, however, could be tested, which brings us back to a form of empiricism.
+
+
+On the other hand, deductions in rationalism in Western Knowledge make use of rules of inference, which are obtained through induction.
+
+
+The rule if a=c and b=c, then a=b is nothing but a generalization from limited observations such as if two people are equal in height to a third person, then the two people concerned are themselves equal in height to one another.
+
+
+The rule if a=b then b=a, or the rule a=a are rules of inference obtained through induction by observing a limited number of cases. These rules are not God given.
+Reasoning which depends on rules of inference, obtained by induction cannot be justified without induction that does not come under logic.
+
+
+These rules of inference are static in the sense “change” has been ignored. The rule a=a is valid only if a does not change. If a changes then what is identified as a does not exist as it is not the same ‘a’ that is encountered. To say that a= a, one needs to consider a as an object that does not change. This is generalized from the observation of “non-changing” properties of objects.
+
+ 
+
+
+This is an unnecessary categorization, as there are neither pure rationalists nor pure empiricists from the time of ancient Greeks in the Western tradition
+
+
+
+Change itself is a property that cannot be deduced using two valued two-fold logic as exemplified by Zeno’s Arrow. However, we shall not discuss it here as it is beyond the scope of this essay.
+
+
+If one considers a finite population, makes a limited number of observations of a certain property of members of the population and then extend the observations for the unobserved as well, it may be called a concrete induction.
+
+
+However, if the population is infinite then the induction is abstract as the conclusion cannot be grasped through the senses or even imagined.
+
+
+What we have tried to explain so far is that empiricism and rationalism do not belong to watertight compartments but depend on each other. Some people without being aware of it call themselves both empiricists and rationalists, which seems to be correct even though according to strict dualities in Western Chinthanaya, an empiricist cannot be considered as a rationalist as well. What is discussed here is not related to the so-called Copernican Revolution of Kant.
+
+
+In Western science, very often with or without experiments observations are made (In Astronomy no experiments as such are designed). Most of these observations depend on some basic knowledge that has been acquired by the observers (experimenters as the case may be) through concepts and “Axioms”.
+
+
+The observations are very often limited to samples of a population, and induction is called into play in arriving at an “Axiom” whether concrete or abstract.
+
+
+These inductive “axioms” could be tested by considering other members of the population, but until a member is found to the contrary the “Axiom” is held to be valid. As Hume has observed people have a tendency to come to conclusions by induction. 
+
+
+ 
+
+		

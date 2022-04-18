@@ -1,0 +1,87 @@
+## Title: Management of step-in risk in banks
+## Section: Financial News
+## Date: 2 January 2018 12:31 am
+
+Management of step-in risk in banks
+
+
+	
+
+
+
+The growth of the global banking system is a function of synergy between banks and non-bank entities. They coexist and complement the role to support the growth of the economy. As a result, many times, banks have to enter into dealings even with less regulated/unregulated financial entities. 
+
+
+Alternatively, the prime customers of banks may in turn be in business league with such entities transmitting their inherent risks on to banks. The experience of global financial crisis in 2008, leading to the collapse of Lehman Brothers, indicated that interdependency of banks on non-bank fragile financial entities led to the crystallization of systemic risks that eventually led to its dubious collapse. 
+
+
+As a consequence, the Basel Committee on Banking Supervision aimed to evolve an appropriate framework in October 2017 to mitigate the potential spillover effects from such interconnectedness between the banking system and financial entities forming part of a shadow banking system. 
+
+
+The Bank for International Settlement (BIS) terms such non-bank entities as unconsolidated entities, defined as a non-bank unit not falling within the scope of the regulatory consolidation. According to the Basel Committee framework, the regulatory consolidation includes all banking and relevant financial entities meeting the prescribed regulatory criteria of the central bank. The existence of such informal financial constituencies in any economy cannot be ruled out. 
+
+
+The financial intermediation by such entities leads to shadow banking. Since banks have to coexist in such systems, it is more important to be able to apprehend and manage such risks. Since they are not compliant to the regulatory dispensation, they tend to be riskier. 
+
+Shadow banking
+
+
+Thus, the shadow banking system is business done by a set of institutions that carry out the functions very similar to those of traditional banks but that are largely unregulated. They perform the same kind of maturity transformation traditionally performed by commercial banks. 
+
+
+Thus, the shadow banking system, despite its somewhat unwholesome sounding name, provides a useful service to society. Thus, shadow banking is not necessarily a bad thing. The problem is that, under certain circumstances, these financial institutions can become fragile — that is, subject to panics professing incomprehensible risks to regulated entities.
+
+
+An important fact about the shadow banking system is that it has grown significantly in the last 30 years. It is estimated that just before the financial crisis of 2007-08, the assets of the shadow banking system began to grow as fast as the assets of commercial banks. Thus, informal and unaccounted financial intermediation began to add to risks. 
+
+
+Another important fact about the shadow banking system is that it has grown outside the oversight of regulators. As banking and finance in general have expanded in recent decades, part of that growth has occurred in the shadow system, largely to avoid the costs associated with regulation.
+
+Global surge in volumes
+
+
+The Financial Stability Board (FSB) measures shadow banking as “credit intermediation involving entities and activities (fully or partly) outside of the regular banking system”. Some authorities and market participants prefer to use other terms such as ‘market-based finance’ instead of shadow banking. The use of the term shadow banking is not intended to cast a pejorative tone on this system of credit intermediation. 
+
+
+However, the FSB uses the term shadow banking as this is the most commonly employed and in particular, has been used in earlier G20 communications. According to its Global Financial Stability Report – 2016, out of the total global financial assets of US $ 321 trillion (based on the data from 27 jurisdictions and Euro area representing 80 percent of global GDP), the volume of shadow banking assets are put at US $ 34 trillion as of end-2015. 
+
+
+The data only provides an inkling of emerging trends of share of shadow banking as a global phenomenon. No economy, including the South Asian Association for Regional Cooperation (SAARC) nations, of which Sri Lanka is a member, cannot be completely immune from the shadow banking practices. Thus, banks operating in different economies will have to be aware of the risks but need not necessarily be averse to such risks. 
+
+
+It needs to be better managed by understanding its nuances. Wherever non-bank financing is involved in bank-like activities, transforming maturity/liquidity and creating leverage like banks, it can become a potential source of systemic risk, both directly and through its interconnectedness with the banking system. Such risk is broadly associated with ‘step-in risk’.
+
+Step-in risk
+
+
+It is the risk when a bank decides to provide financial support to a shadow banking entity that is facing stress, in the absence of, or in excess of, any contractual obligations to provide such support. The main reason for step-in risk might be to avoid the reputational risk that a bank might suffer were it not to provide support to an entity facing a stress situation.
+
+
+Indeed, the experience of past financial crisis provided enough evidence that a bank might have incentives beyond contractual obligation or equity ties to ‘step-in’ to support such non-bank financial entities to which it is connected. 
+
+
+In this context, the Basel Committee defined reputational risk that automatically emanates from step-in risk. In fact, it is effectively the risk arising from negative perception on the part of customers, counterparties, shareholders, investors, debt-holders, market analysts, other relevant parties or regulators that can adversely affect a bank’s ability to maintain existing or establish new business relationships and continue access to sources of funding. 
+
+
+As such, step-in risk is associated with a possible source of reputational risk as well. It arises when a bank considers that it is likely to suffer a negative impact from the weakness or failure of an entity and concludes that this impact is best mitigated by stepping into provide financial support to bail out the entity.
+
+Mitigation of step-in risk
+
+
+The central bank and banks in the ecosystem mutatis mutandis endeavour to ring fence the financial system against such precipitating risks. It is more important for individual banks to be aware of the risks associated with shadow banking and those transmitted from the financial derivatives. 
+
+
+The systemic controls have to be more robust in dealing particularly with risky investment products, financial pawnshops and loan shark operations and informal peer to peer lending that is not adequately insulated by the regulatory authorities. The common narrative is that these products and practices thrive outside the regular banking system threatening the safety and soundness of financial architecture. 
+
+
+In developing economies, the market players have to be mindful about the step-in risk and its impact on the stability of banks and financial entities. Shadow banking proliferates for a reason: free from regulation, funds flow to where it is needed but can jeopardize the interest of regulated entities like banks. 
+
+
+Hence, it may not be possible not to deal with non-bank entities creating shadow banking but what is more important is to be aware of the extent of step-in risk and take appropriate preventive measures, more so when the financial system is on upsurge to support the burgeoning economies. 
+
+(Dr. K. Srinivasa Rao is Director, National Institute of Banking Studies and Corporate Management (NIBSCOM). The views are his own) 
+
+ 
+ 
+
+		

@@ -1,0 +1,14 @@
+## Title: Update Windows, save backups, Sri Lanka CERT advises
+## Supertitle: 
+## Section: Local
+## Date: Monday, May 15, 2017 - 17:00
+
+Update Windows, save backups, Sri Lanka CERT advises
+
+ 
+The Computer Emergency Readiness Team (CERT) has warned users to update their Windows software and save backups of data in an external hard drive to circumvent any harm caused by ‘Ransomware’.
+Sri Lanka CERT Chief Information Security Engineer Roshan Chandragupta told Daily News Online that although there were, thus far, no reports of ‘Ransomware’ having affected Sri Lankan PCs, it is wise to update Windows and save a backup given the widespread nature of the ‘Ransomware’ attack.
+ “Ransomware is a malicious software that penetrates the Widows system and takes data ‘hostage’,” Chandragupta explained.
+“A ransom is thereafter demanded in exchange for the data, as the name implies,” he said.
+Over 150 countries were targeted in a synchronized cyber attack across the world on Friday, including China, Russia, United States and Britain.
+USD 300 in Bitcoin is demanded as ransom to decrypt the data and restore the system to normalcy.

@@ -1,0 +1,39 @@
+## Title: Cargills Bank pioneers use of cognitive security in Sri Lanka
+## Section: Financial News
+## Date: 19 January 2018 10:33 am
+
+Cargills Bank pioneers use of cognitive security in Sri Lanka
+
+
+	
+
+
+
+IBM announced Cargills Bank Ltd, a licensed commercial bank based in Sri Lanka, has deployed IBM’s cognitive cyber security solutions to enhance its existing defensive capabilities, enable improved monitoring and implement stronger preventive protocols to guard against sophisticated threat incidents.
+
+
+With the financial services industry being targeted the most by cyber criminals, Cargills Bank has taken a proactive approach to better safeguard customers and becomes the first commercial bank in Sri Lanka to deploy AI technology to augment its operations and security capability.
+
+
+With the significant increase in the number of cyberattacks, the volume and rate of security information (both structured and unstructured) has continued to grow at a rate and speed which makes its near impossible for security teams to stay up to date and armed with accurate intelligence to make decisions quickly. By introducing AI technology like Watson for Cyber Security, the process of quickly and accurately identifying critical threats becomes automated and enables security analysts to respond at a speed and scale not imagined before. 
+
+
+Cargills Bank is leveraging IBM QRadar, an industry leading security intelligence platform, along with QRadar Advisor with Watson, the first security solution which takes advantage of IBM Watson’s unique augmented intelligence capabilities, to facilitate early detection and classification of cyber threats and alerts. 
+
+
+The solution helps Cargills Bank’s cyber defence team to manage and analyse the large volumes of unstructured information coming from multiple external streams and compare it with the latest information about potential threats coming from within their systems to get a complete picture of the threat and thereby correlate the data to obtain actionable insights. This was implemented locally through IBM Business Partners Blue Chip Engineering Co. of Sri Lanka and Secbounty Services Private Limited of India.
+
+
+Cargills Bank Chief Operating Officer Rohan Muttiah said, “We are committed to enhancing our customers’ digital banking experience while being mindful of emerging security threats. With cybercrime becoming more organised and sophisticated, it is imperative to deploy highly adaptive prevention and response capabilities based on proven technology. IBM’s best-in-class cognitive security portfolio will help us pre-empt threats and mitigate risk, thereby supporting our position as a leading digital bank.” 
+
+
+“Cybercrime is the organised crime of the 21st century and possibly the single largest threat to any company in the world today. The increasing frequency of cyber attacks also brings up an overwhelming volume of related data, which is near impossible to comprehend quickly. 
+
+
+Watson for Cyber Security has been trained in the language of cyber security and has ‘read’ two million cybersecurity documents which means it can help security analysts parse thousands of natural (human) language research reports that have never before been accessible to modern security tools,” said IBM Software Sales Sri Lanka and Maldives Head Manori Unambuwe.
+
+
+“We are proud to associate with Cargills Bank on the first adoption of cognitive security capabilities in Sri Lanka, which will give them a distinct advantage in the industry,” she added.
+ 
+
+		

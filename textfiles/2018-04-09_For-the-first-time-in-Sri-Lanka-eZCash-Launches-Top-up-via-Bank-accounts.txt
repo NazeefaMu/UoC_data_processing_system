@@ -1,0 +1,22 @@
+## Title: For the first time in Sri Lanka, eZCash Launches ‘Top-up’ via Bank accounts
+## Section: Press Releases
+## Date: 9 April 2018 08:28 am
+
+For the first time in Sri Lanka, eZCash Launches ‘Top-up’ via Bank accounts
+
+
+	
+
+Sri Lanka’s first and largest Mobile Money and Payment Service, eZ Cash, announced the launch of a new feature that enables customers to top-up their eZ Cash wallets via bank accounts on its cutting edge eZ Cash app. The Bank top up feature supplements the recently introduced QR Scan and pay option which enables smart and convenient money transfer amongst eZ Cash customers or payments across the expansive eZ Cash Merchant network. 
+ 
+This featurewill be available via the eZ Cash app on any smartphone, and enable eZ Cash customers to use their current and savings bank accounts to top-up the eZ Cash wallet at no transaction fee. The new feature enables enhanced convenience,providing customers access to top-upanytime, anywhere.  Customers are required to select the ‘Top-up from Bank Account’ icon on their eZ Cash app interface, verify bank details and register, enter the amount and simply Top-up their digital eZ Cash wallet. Currently all banks integrated with JustPay platform of Lanka Clearwill be accessible for eZ cash top-up. The feature is facilitated by LankaClear, a company co-owned by the Central Bank of Sri Lanka (CBSL) and all Licensed Commercial Banks operating in Sri Lanka. 
+
+Mr. Channa de Silva, General Manager/CEO – LankaClear stated, “In an era where digital payment modes are gaining popularity worldwide, LankaClear has laid the foundation by establishing LankaPay National Payment Network to support platforms such as eZ Cash to move Sri Lanka towards a less cash society. Dialog has enabled the JustPay payment mode of LankaClear for all eZ Cash subscribers, thus, providing further convenience and ease of access for top-up, anytime, anywhere for all its customers. Further, added security for all electronic transactions is ensured via the digital certificates issued by LankaSign Certification Service Provider (CSP) managed by LankaClear.”
+
+Transactions via eZ Cash will conform to the highest level of Mobile Payment security standards. All transactions will be PIN protected and secured by Triple Data Encryption Algorithm widely known as 3DES authentication and transaction security protocols. Top-ups will be further validated via a confirmation SMS being transmitted instantly to customer. 
+
+Commenting on the new Top-up feature, Fariq Cader, Vice President - Digital Services, Dialog Axiata PLC said, “eZ Cash has been at the forefront of all mobile payments in Sri Lanka and will continue to innovate Sri Lanka’s payment eco system. The recently launched QR Code is gaining immense popularity amongst our subscriber base,whilst transforming the mobile payments landscape in 
+Sri Lanka. Leveraging mobile technology, the Top-up feature greatly enhances convenience for subscribers and we look forward to JustPay on boarding more banks in future.”
+ 
+
+		

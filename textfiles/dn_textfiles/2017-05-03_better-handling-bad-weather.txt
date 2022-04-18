@@ -1,0 +1,52 @@
+## Title: Better handling of bad weather
+## Supertitle: 
+## Section: Features
+## Date: Wednesday, May 3, 2017 - 01:00
+
+Better handling of bad weather
+
+When heavy rains fall in the catchment areas of reservoirs, they can cause overflows and floods in the surroundings areas. This is precisely what happened last May at Anuradhapura’s Nachchaduwa reservoir when intense rainfall led to extensive flooding that damaged both property and crops.
+But flooding can be avoided in these situations, researchers from the International Water Management Institute (IWMI) pointed out, if reliable data on rainfall is collected and distributed to Department of Irrigation officials in a timely and efficient manner.
+The locally-made circuit board-1
+To this end, IWMI, with financial backing from the UK government and the World Bank, pioneered a low-cost mobile weather station that uses open-source hardware and software to measure rainfall, as well as wind speed and wind direction. The stations can also be modified to measure other variables, such as soil moisture, atmospheric pressure and temperature.
+While the Department of Meteorology has the requisite technology to measure rainfall, it lacks the ability to provide hourly rainfall updates to the Irrigation Department. It provides data on rainfall only once per day.
+The IWMI weather stations, by contrast, record data on microSD cards every five minutes. If there is little or no rain, the stations will send text messages to Irrigation Department officials or tank managers with rainfall measurements once daily.
+But whenever there is significant rainfall in a short period, over 10 millimetres in one hour, the station will immediately send a text message to officials who can then take appropriate measures, such as letting some water out of the reservoir so that the inflowing rainwater does not cause floods.
+The water in many tanks throughout the country is used for irrigation and power-generation, so tank managers and officials from the Irrigation Department try to keep the tanks full at all times. The IWMI stations allow these authorities to calculate exactly how much water to release from the tanks before rainwater infiltrates them.
+It is difficult, according to Nachchaduwa tank Manager Lasindu Kotawilarachchi, to account for rainfall when you receive only one update per day.
+“Before we had these stations, it was almost impossible to keep track of how much rain was coming into Nachchaduwa by the hour. This technology has transformed the way we manage the tank. We now know when to release water and approximately how much we should release,” he said.
+The IWMI weather stations cost between $500 and $750, which makes them an excellent alternative to weather stations certified by the World Meteorology Organization (WMO) that, at $10,000, are quite expensive. On top of the initial cost, the WMO stations must be maintained at significant expense.
+But these new, cheaper stations consist of a solar panel, batteries and microcontrollers that send text messages to Irrigation Department officials and upload the rain or wind data to the web. All of the parts can be purchased off the shelf, including the instruments that measure rainfall and wind speed and assembled with minimal training.
+Yann Chemin, a Technical Consultant for IWMI, noted that he bought most of the stations’ components at the Pettah market.
+“This is a self-sustaining system that functions very well on its own. You only need a little training to be able to operate these stations,” said Chemin.
+Incorporating open-source technology
+A key to the stations’ low cost is their incorporation of open-source technology, which unlike proprietary computer systems and software, is freely available and may be modified and distributed without incurring fees.
+This technology allows those in the field to adjust the weather stations to fit exact specifications. Once trained, officials can use the stations without the help of experts.
+“We want to build these systems, but we want others to take ownership of them and use and control the data they produce,” said David Wiberg, head of Hydro informatics at IWMI.
+“The feeling of ownership is more important than the technology itself,” said Chemin.
+The issue of ownership and control of data is especially important, since several countries have turned over the management of their weather records to private corporations.
+These arrangements often turn out badly, as Haiti lost 30 years of weather data when a company recently shuttered.
+Wiberg also noted that the weather stations are crucial to generating data that experts can use to address problems posed by climate change.
+“These stations can help solve local, small-scale problems, but they can also be used as part of a larger network that can help scientists gather information on climate change and problems that occur on a global scale.”
+“They are especially important because the scientific community needs more weather data. We have less and less information because old systems are being degraded and are not being replaced. These stations provide a cheap alternative to traditional weather stations and it would be in the scientific community’s interest to adopt approaches to weather data collection like this one,” he said.
+Because the technology is open-source, IWMI has uploaded the instructions on how to build these weather stations to the web, and several countries have already started building and using the stations in various capacities.
+Pakistan is using the stations to monitor rainfall in the Indus river valley so that officials can predict floods and reduce threats to both people and private property.
+In Togo, authorities are using the weather stations to monitor water levels in sewers so that they can clean them before significant rainfall comes.
+Tanzania, for its part, is using the technology in a similar manner to the Irrigation Department: monitoring water reservoir water levels.
+The way forward
+Though the technology is already of a very high standard, IWMI is working with engineers at the University of Moratuwa to perfect the weather stations’ rainfall, wind speed, and wind direction measurement abilities.
+Furthermore, a local start-up company, A&T Labs, installs and maintains weather stations using the same technology. Sanasa Development Bank has enlisted A&T to set up a weather station in Batticaloa to establish eligibility for flood and drought insurance.
+The Lanka Rainwater Harvesting Forum has set up a number of stations at schools throughout the island and is using them to educate children and to warn of rain-related risks.
+“We are building a community of practice that will lead to greater cooperation and information-sharing that should, in turn, lead to better responses to risks linked to weather,” said Wiberg.
+While University of Moratuwa engineers are working on improving the accuracy of the stations’ measurements, IWMI is working on ironing out some battery power issues that occur with cloudy weather. On top of this, officials from the Coordinating Secretariat for Science Technology and Innovation (COSTI) are looking into creating and maintaining a central repository of weather data generated by the stations.
+Last year, IWMI provided training on how to properly use the technology to officials from COSTI, the University of Moratuwa, and the Irrigation Department.
+But the main problem that the system is facing is one of institutional practice. It is sometimes difficult to get organizations that have been using the same systems for years to adopt another technology.
+Making best use of technology
+“Having great technology does not mean that people will use it. We are dealing with some challenges in implementation, and chief among those is that a lot of people don’t understand what open-source technology is and how it works. We are working on disseminating that information,” said Soumya Balasubramanya, a researcher in Environmental Economics at IWMI.
+She added that IWMI plans to set up a classroom-style training session that explains open-source technology and how to build and programme the weather stations.
+“We also want to provide a troubleshooting and maintenance manual so that the local officials can repair and reset the devices if necessary,” she said.
+But the technology is just one piece of the puzzle. Central to the project is getting all stakeholders to buy in. The Irrigation Department has been very enthusiastic about the project. The Department of Meteorology, conversely, has not attended any meetings on the weather stations.
+“We have invited the Department of Meteorology to participate in workshops and join in the project, but they have not responded to our offers. We would like to have them on board,” said Balasubramanya.
+For now, the project is going ahead as planned, as IWMI works with other local stakeholders to perfect the technology and bring it to other areas of the country that could benefit from using the weather stations.
+Pictures courtesy of International Water Management Institute 
+

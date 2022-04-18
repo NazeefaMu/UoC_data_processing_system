@@ -1,0 +1,16 @@
+## Title: Mitra Innovation launches  squirrel bucket list app
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, April 11, 2018 - 01:00
+
+Mitra Innovation launches  squirrel bucket list app
+
+Squirrel is the ultimate bucket list app, created by former Australian bankers and a travel marketer, that has taken the world by storm.
+The app enables members ‘Squirrelers’ – to create, plan and achieve their bucket list goals in life, set budgets against their goals and have savings targets to achieve those goals.
+Squirrel features a highly intuitive interface and seamless connectivity with major social platforms such as Facebook and Pinterest.
+The app was first developed and launched as a minimum viable product (MVP) in Australia in 2016 and soon gained a loyal followingwithactive users in more than 60 countries, particularly in North America, China, UK and Australia. It was only available for download on iOS devices however, which left millions of eager android users unable to access the app.
+Squirrel founder, Mandy Andrews, said: “We ran a couple of Facebook campaigns that went viral and the overwhelming device that we saw being used by our target customers was Android. So, we prioritised an Android version of Squirrel on our development roadmap.”
+Mitra Innovation knew they could help and were excited to begin work on the Squirrel app. Using ‘React Native’ (a Java Script framework for building user interfaces), an agile approach to delivery, and strictly following ‘Acceptance Test Driven Development’ and ‘Zero Dev to QA Defect Leakages’ the development team made fast progress. In under three months they presented the Squirrel team with a new Android version of Squirrel.
+Andrews commented, “We are thrilled to be able to expand the user base of Squirrel and be able to offer a seamless experience for both Android and Apple users. It is very exciting!”
+Dammika Ganegama, Managing Director at Mitra Innovation thinks the Squirrel partnership has been new and exciting. He said, “A lot of the projects we get involved in are with big, global companies and governments. Working with an innovative, bootstrapped business means we have to work harder than ever to deliver smart, cost efficient, quality results.”
+Since Squirrel launched the Android version of the app growth has taken off, said Andrews, “In the first five months we’ve seen our customer base increase 250% and we haven’t even started promoting yet. We know android would be popular but not even we were expecting that type of growth.”

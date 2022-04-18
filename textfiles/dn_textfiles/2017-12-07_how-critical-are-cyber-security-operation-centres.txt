@@ -1,0 +1,33 @@
+## Title: How critical are Cyber Security Operation Centres
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, December 7, 2017 - 01:00
+
+How critical are Cyber Security Operation Centres
+
+ 
+(Managing Director and Chief Executive Officer of eCybersec)
+In the day and age of sophisticated digital hackers, your concern should not be if you are going to get hacked, but what you are going to do when it happens. Cyber Security today is ubiquitous and enormously complex.
+Advanced Cyber attacks have become so sophisticated that they can hardly be distinguished from normal events or system failures. While businesses learn to protect themselves better, criminals are simultaneously devising ever more sophisticated techniques to penetrate their security perimeters.
+Attracted by the unprecedented financial rewards a cyber attack can deliver, increasing numbers of threat actors are actively seeking and targeting corporate security flaws.
+In response, Security Operations Centers (SOCs) are being established to combat security issues as they arise, and to provide a swift response and resolution. For this reason cyber security requires continued deep insight into systems.
+Enterprises and organizations are putting ever-stronger emphasis on their cyber security ecosystem, and with good reason. As digital and data and information assets continue to gain in strategic importance, cyber threats are also rising.
+Attackers and hackers have access to a wide variety of sophisticated technologies and techniques to breach an organization’s defenses. Consequently, cyber security is a crucial part of safely and successfully managing business, technology, processes, and people. Stakeholders are looking for reassurance that an organization’s security posture matches its needs today and preferably tomorrow as well.
+There is a growing awareness that traditional approaches to safeguarding financial transactions, customer data, and confidential assets are no longer enough to protect against advanced cyber-attacks.
+The adoption of more modern defensive techniques has become mandatory. Using the right building blocks, including a suitable IT security platform and team, next generation security operations can be implemented to keep innocent parties safe and cyber criminals at bay.
+Just like the companies themselves, every cyber security team is different. Companies that recognize the importance of Information security will invest the necessary amount to ensure that their data and systems remain safe and that their SOC team has the resources necessary to deal with modern threats.
+The cyber security operations center roles and responsibilities are fairly
+Straight forward, but distinct in their requirements. Investing in a cyber security operations center (SOC) can be your saving grace during an attempted advanced cyber security attack.
+Cyber security is no longer just an IT problem, it is an organizational issue. Find out if a cyber security operations center is the ideal solution for securing your enterprise against modern sophisticated cyber threats.
+Further a cyber security operations center continually monitors a business’ cyber security, preventing serious breaches in real time. Many enterprises now find that expanding detection capabilities begins with setting up a Security Operations Center (SOC) a virtual nerve center that coordinates a business’ information security functions.
+Leaders with managerial and technical experience can aid in workflow
+Management and provide security analyst training. Having a well integrated, easy to-use case-management system that doesn’t get in the way of investigations and seamlessly interacts with other SOC tools is key.
+This tool ideally provides metrics on how effectively your SOC monitors, detects, and contains cases and will allow an organization to identify gaps in people, processes, and technologies.
+Cyber incident will happen, and every organization should have proportionate incident response and management strategy, and incident readiness processes in place. Forensic readiness should be considered important and business requirements should focus on this.
+The need for and relevance of a SOC has never been more pressing and pertinent. Cyber-crime and cyber-attacks are daily events that need to be defended against.
+An effective SOC provides considerable assurance and the ability to respond appropriately and effectively in the event of an attack. However, a SOC in isolation is futile, it needs to be viewed as a coherent package alongside IT and physical security, which are all mutually supporting; if one element is weak the overall security is fragile.
+Having properly trained, motivated and appropriately supervised personnel in each area is an essential element to the holistic security solution. In tandem, appropriate policies and well-practiced procedures will mean that timely and suitable responses can be enacted to mitigate the impact of all security incidents.
+Organizations are inundated with security information overload coming from disparate and often decentralized security systems operating in individual silos.
+To address these problems, organizations must carefully plan and deploy an SOC that centrally manages and monitors the network and security systems across a diverse IT environment.
+To be effective, the SOC demands the use of a comprehensive security
+Information management (SIM) solution. Security information management tools offer a comprehensive security management and incident response platform designed to improve the effectiveness, efficiency, and visibility of security operations and information risk management. Take the time to know your business needs and technical requirements for an SOC based on your security policies and network infrastructure. 

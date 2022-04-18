@@ -1,0 +1,16 @@
+## Title: 99X Technology powers Sri Lanka’s first-ever Serverless Meetup
+## Supertitle: 
+## Section: Finance
+## Date: Monday, July 31, 2017 - 01:00
+
+99X Technology powers Sri Lanka’s first-ever Serverless Meetup
+
+99X Technology held Sri Lanka’s first-ever technical meetup on the open source web framework Serverless earlier this month.
+The event saw some awesome cutting-edge globally trending tech insights shared with an eager audience.
+A new technological trend that has been changing the way developers think about writing web applications. It’s a free and open source web framework that has been gaining popularity globally in recent times.
+The meet up last week was to bring to the Sri Lankan IT community the new developments surrounding the Serverless framework, which is also gaining traction fast locally.
+The speakers featured a mix of the local and global, with sessions by Serverless Inc. Lead Front-End Engineer Nik Graf and 99X Technology Associate Technical Architect Ashan Fernando, and the Meetup was seen as a great way of bringing together people with shared interests in open source technologies and frameworks.
+Held at 99X Technology, the Meetup kicked off with Serverless Inc.’s Nik Graf who conducted a remote session from Vienna, Austria, delivering an insightful introduction to Serverless Architecture, exploring the benefits and challenges associated with using it. In addition to being the perfect icebreaker for professionals who were new to the framework, the session gave other participants the vital opportunity to clarify issues they had faced while using Serverless in their work.
+Ashan Fernando from 99X Technology reached out in his session to the participants who had already started using Serverless in their work, by relating his personal experiences with which the audience connected well. The session grew to an interactive forum with great takeaways for the Sri Lankan IT community.
+Given the welcome by the local IT community and embracing of the concept of this gathering, it was decided by 99X Technology to proceed with more meetups of this nature with a view of powering knowledge sharing across the industry.
+Being a thought leader in the local IT sphere, many more events are lined up by 99X Technology for the coming months with international speakers.

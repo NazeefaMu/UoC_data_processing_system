@@ -1,0 +1,12 @@
+## Title: VTA signs up with Oracle Academy for computer education
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, April 20, 2017 - 01:00
+
+VTA signs up with Oracle Academy for computer education
+
+Building on Oracle's commitment to expanding its support of education globally, Oracle Academy and the Vocational Training Authority (VTA) of Sri Lanka, have signed an agreement to integrate Oracle Academy's programs into 35 VTA's Training Centers located island-wide supporting over 10,000 students on the pathway to future IT careers.
+Over the next three years the agreement will also facilitate the training of 150 faculty members to help develop their skills in order for them to become instructors for Oracle Academy courses in Sri Lanka. Once the initial group of faculty is trained, they will be permitted to use the Oracle Academy infrastructure to train their students.
+Under this agreement, Oracle Academy will facilitate a ‘train-the-trainer’ course to ramp up VTA faculty members as instructors for five Oracle Academy courses including Database Foundations, Database Design and Programming with SQL, Programming with PL/SQL, Java Foundations, Java Fundamentals, and Java Programming. After completing their training with Oracle Academy, the faculty members will leverage the Oracle Academy infrastructure and materials to train other faculty members and students.
+Established with the principal intention of providing skills to the rural masses of the country, in particular, to enhance the employability of rural youth, the VTA today is the largest technical, vocational Education and training (TVET) provider in the government sector.
+As a statutory body, VTA is governed by a Chairman and Board of Directors and caters to both the private and public sector. The VTA provides career guidance and counseling to school leavers and youth, conducting competency based assessments and issuing the recognized National Vocational Qualification (NVQ). VTA's collaboration with Oracle Academy will also help meet the growing local demand for a highly-skilled technology workforce.

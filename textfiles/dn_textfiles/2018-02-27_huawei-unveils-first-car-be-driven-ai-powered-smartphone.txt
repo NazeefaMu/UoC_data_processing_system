@@ -1,0 +1,14 @@
+## Title: Huawei unveils first car to be driven by AI-powered smartphone
+## Supertitle: 
+## Section: Finance
+## Date: Tuesday, February 27, 2018 - 01:00
+
+Huawei unveils first car to be driven by AI-powered smartphone
+
+Huawei, the global technology leader, has become the first mobile device manufacturer in the world to use an AI-powered smartphone to drive a car.
+The ‘RoadReader’ project pushes the boundaries of Huawei’s object recognition technology and puts the learning capabilities, speed and performance of its AI-powered devices to the test.
+Unlike other driverless cars, which simply detect obstacles, Huawei has transformed a Porsche Panamera into a driverless vehicle that doesn’t just see, but crucially, understands its surroundings. This means it can distinguish between 1,000s of different objects including a cat and a dog, a ball or a bike and learn to take the most appropriate course of action.
+Most autonomous cars currently being developed rely on the computing power of purpose-built chips developed by third party technology providers.
+However, as part of its ongoing mission to make the impossible possible, Huawei has used technology already available in its smartphones, demonstrating its superior functionality and ability to stand up to even the most advanced technology developed for use in self-driving cars.
+Andrew Garrihy, Chief Marketing Officer of Huawei Western Europe stated “Our smartphone is already outstanding at object recognition. We wanted to see if in a short space of time we could teach it to not only drive a car, but to use its AI capabilities to see certain objects, and be taught to avoid them. If our technology is intelligent enough to achieve this in just 5 weeks – what else can it make possible?”
+Huawei will be showcasing the ‘RoadReader’ project and the vehicle’s capabilities at a two-day event at Mobile World Congress in Barcelona (MWC) from February 26-27. 

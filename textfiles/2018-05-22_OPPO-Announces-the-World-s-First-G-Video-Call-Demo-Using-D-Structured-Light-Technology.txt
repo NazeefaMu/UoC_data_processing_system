@@ -1,0 +1,36 @@
+## Title: OPPO Announces the World's First 5G Video Call Demo Using 3D Structured Light Technology
+## Section: Press Releases
+## Date: 22 May 2018 11:35 am
+
+OPPO Announces the World's First 5G Video Call Demo Using 3D Structured Light Technology
+
+
+	
+
+3D dynamic modeling is the basis for 3D video calling 
+
+•The innovative technology demo showcased cutting-edge 5G and 3D structured light technology, demonstrating the potential of these technologies and exploring 5G applications and terminals that support UR (Ubiquitous Reality).
+•The 3D structured light technology that supports diversified application scenarios will be commercialized in OPPO phones in approximately 6 months.
+
+OPPO Global Research Institute (Shenzhen) announces the company successfully demonstrated the World's First 5G Video Call Demo using 3D Structured Light Technology. The demonstration reproduced a 3D portrait image on a remote receiver using portrait information collected structured-light 3D camera of an OPPO phone and 5G NR terminal prototypes from Qualcomm Technologies. The success of this innovative technology demo marks a milestone in applying 5G technology standards to real practices in the industry and facilitates the exploration of new application in the 5G era.
+
+The OPPO’s demonstration, 5G Video Call with 3D Structured Light Technology, utilized a customized OPPO R11s with integrated structured light camera. The demo collected the color and 3D depth information of the target object by using RGB and the structured light camera of the phone. This information, transmitted under a 5G environment, finally displayed the target object in a remote display screen. 
+
+Bai Jian, the Director of the Hardware Research Center of OPPO Research Institute 
+
+Bai Jian, the Director of the Hardware Research Center of OPPO Research Institute, said, ‘The success of the 5G video call utilizing 3D structure light technology demonstrates our innovation direction powered by the understanding of users’ need and cutting-edge technology. OPPO will commercialize the application of 3D structured light technology in smartphones and bring the groundbreaking technology to our customers in approximately 6 months.’
+
+‘OPPO engaged in 5G research and development as early as 3 years ago, and has been actively participating in the international standardization to develop 5G products. In January 2018, we announced the 5G pilot program with Qualcomm Technologies, and are dedicated to becoming the first smartphone manufacturers to launch 5G handsets in 2019. ’ said Tang Hai, Director of the Standardization Research Group of OPPO Research Institute.
+ 
+Featuring the high speed (eMBB), large capacity (mMTC), and low-latency (URLLC), the 5G technology is considered as a new start of mobile telecommunication of industry. As early as the standardization and the maturity of the eMBB, OPPO is to integrate the 5G network with other new imaging and sensor technologies, and to realize the core user scenarios with Ubiquitous Reality, Virtual Reality, Augmented Reality and Joint Reality. 
+
+Chen Yan, the Director of Software Research Group of OPPO Research Institute, said that the Mobile internet is blurring the boundary between the physical world and digital world, while 3D content will be a factor to further improve the immersive user experience. With imaging technology and a unique insight into the needs of our users, OPPO commits to provide innovative application scenarios in the future. By utilizing 3D structured light technology, users will be provided unprecedented mobile experience and possibilities such as Secure Payment, 3D Reconstruction, AR and Gaming, etc.
+
+Chen Yan, the Director of Software Research Group of OPPO Research Institute Bai Jian, the Director of the Hardware Research Center of OPPO Research Institute
+
+Tang Hai, Director of the Standardization Research Group of OPPO Research Institute 
+
+ 
+ 
+
+		

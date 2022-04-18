@@ -1,0 +1,25 @@
+## Title: 3D-printed ear implants  can improve treatment for hearing loss
+## Supertitle: 
+## Section: Features
+## Date: Wednesday, December 6, 2017 - 01:00
+
+3D-printed ear implants  can improve treatment for hearing loss
+
+Scientists have 3D-printed accurate, custom-designed prosthetic replacements for damaged parts of the middle ear, paving the way for improved surgical treatments for hearing impairment.
+The technique has the potential to improve a surgical procedure that often fails because of incorrectly sized prosthetic implants, researchers said.
+Conductive hearing loss can be treated through surgical reconstruction using prostheses made from stainless steel struts and ceramic cups.
+The surgery, which generally involves tailoring a prosthesis for each patient in the operating room, is plagued by high failure rates.
+“The ossicles are very small structures, and one reason the surgery has a high failure rate is thought to be due to incorrect sizing of the prostheses,” said Jeffrey D Hirsch, assistant professor at the University of Maryland in the US.
+“If you could custom-design a prosthesis with a more exact fit, then the procedure should have a higher rate of success,” said Hirsch.
+Researchers studied 3D printing as a way to create customised prostheses for patients with conductive hearing loss.
+The technology has been used successfully to solve a number of other medical prosthesis problems, including in the areas of joint replacement and facial reconstruction surgery.
+The researchers removed the middle linking bone in the ossicular chain from three human cadavers and imaged the structures with CT.
+They employed an inexpensive 3D printer to create prostheses to restore continuity for each of the middle ears.
+The prostheses were made from a resin that hardens when exposed to ultraviolet laser light. Each of the prostheses had unique measurements.
+Four surgeons then performed insertion of each prosthesis into each middle ear, blinded to the bone from and for which each was designed. The researchers then asked the surgeons to match each prosthesis to its correct source.
+All four surgeons were able to correctly match the prosthesis model to its intended temporal bone - the bone containing the middle and inner parts of the ear.
+The chances of this occurring randomly are 1 in 1,296, said Hirsch.
+“This study highlights the core strength of 3-D printing - the ability to very accurately reproduce anatomic relationships in space to a sub-millimetre level,” Hirsch said.
+The results suggest that commercially available CT scanners can detect significant anatomic differences in normal human middle ear ossicles, and that these differences can be accurately represented with current 3D printing technology.
+More significantly, surgeons are able to detect these differences, which should not only increase the likelihood of a proper fit, but also decrease surgical time, according to Hirsch.
+Deccan Chronicle 

@@ -1,0 +1,15 @@
+## Title: Mitra Innovation’s CTO to speak at WSO2 conference in London
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, September 21, 2017 - 01:00
+
+Mitra Innovation’s CTO to speak at WSO2 conference in London
+
+Mitra Innovation, a technology innovation and Cloud integration company with its research and development teams based in Sri Lanka, is exhibiting at WSO2Con Europe, in London, in November.
+Its CTO and Chief Architect Sudaraka Jayashanka has been asked to speak at a panel discussion on day two of the conference.
+This is a great honour for Mitra Innovation, which has been growing at a rapid rate (from five people to almost 190) since the company started back in 2012.
+WSO2Con EU will be a gathering of CIOs, CTOs, senior architects, integration engineers and developers who are looking to rapidly innovate and adapt to new opportunities, through agile digital transformation and open source methodologies.
+As Mitra Innovation is a preferred partner of WSO2, and expert in the use of WSO2 middleware, Jayashanka is looking forward to the opportunity to speak to the audience and share his knowledge of using WSO2 middleware to succeed in running software integration projects for clients, or developing innovative new products for entrepreneurs. Previous companies who have been asked to speak at the event include BNY Mellon, Experian, Techsoup, and the State of Arizona.
+One of Mitra Innovation’s key clients – Travis Perkins – has also been granted a speaker slot at the event. Travis Perkins Head of Integration Chris Stone will be speaking and hosting a speech on the first day of the conference, where he will talk about ‘Travis Perkins – Our Digital Transformation and the Importance of Integration’.
+Mitra Innovation has been working with Travis Perkins since January 2017, on the building supplies giant’s digital transformation and integration journey.
+Mitra Innovation has used many WSO2 middleware components on this project. 

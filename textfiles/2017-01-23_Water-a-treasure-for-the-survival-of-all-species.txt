@@ -1,0 +1,96 @@
+## Title: Water: a treasure for the survival of all species
+## Section: News Features
+## Date: 23 January 2017 02:36 pm
+
+Water: a treasure for the survival of all species
+
+
+	
+
+
+
+BY : KAMANTHI WICKRAMASINGHE
+
+With news about a shortage in water supply making headlines, many Sri Lankans have now become aware of the importance of this resource. However, we still tend overuse water when using it for our daily purposes. While water constitutes a greater percentage of our body, it is an essential solvent which keeps Planet Earth hydrated. 
+
+Importance of a backup water system
+
+Besides the need for sustaining life, we use water for many things, often taking it for granted. We all need to understand that everything from bathing to cleaning and even flushing the toilet is made possible because of water.
+
+Therefore, in the event of scarcity of water, a water source is the most important resource to have. This is often overlooked by home owners and they depend on a general water line. When having a backup water system, you could always rely on it during an emergency. 
+
+Advantages of a well water system
+
+As we all look at cutting down costs on water and electricity bills there are many ways in which you could save these resources right at your home. Building a well to access that water is definitely an investment, but it is an investment with guaranteed returns and plenty of benefits.
+
+
+
+Following are a few advantages of a well water system.
+
+Provides lower costs 
+
+Owning a private water well means no more municipal usage fees. Therefore you need not worry about that extra amount of money which would have to be allocated for your monthly water bill.
+
+Better health 
+
+Public water is usually treated with chlorine, fluoride and other harsh chemicals which are difficult to filter out. 
+
+Better taste 
+
+According to experts, well water is refreshing as it is naturally softened. Therefore since it’s natural it tastes better than chemically-treated municipal water. 
+
+Environmentally friendly 
+
+Well water comes right from the Earth; therefore it is much better on our environment than water treated by chemicals.
+ How clean are these resources?
+
+Water being drawn from a well was once precipitation that fell on to the Earth’s surface. Wells are drilled into rock formations that are permeable and porous enough to hold significant amounts of water (an aquifer) and pump water to the surface for use. Naturally, big particles that can be found in streams, such as leaf chunks, bugs, and bubble-gum wrappers, will not be seen in groundwater. But groundwater can contain other items which are invisible to the naked eye. 
+
+Some are naturally occurring and some are human-made substances. Groundwater can contain hydrogen sulphide (makes the water smell like rotten eggs) or other naturally occurring chemicals. Groundwater also may contain petroleum, organic compounds, or other chemicals introduced by human activities.
+
+Groundwater contamination can occur if the well is located near land that is used for farming where certain kinds of chemicals are applied to crops or near a gas station that has a leaking storage tank. Leakage from septic tanks and/or waste-disposal sites also can contaminate groundwater. A septic tank can introduce bacteria to the water, and pesticides and fertilizers that seep into farmed soil can eventually end up in water drawn from a well. A well might have been placed in land that was once used for something like a garbage or chemical dump site. This would again contaminate ground water. In any case, it is wise to have your well water tested for contaminates.
+
+Contaminated well water can cause vomiting, diarrhoea and potentially lead to many other serious health problems like kidney disease. Sources confirm that contaminants known as nitrates are especially hazardous for infants because they can disrupt oxygen flow in the blood of babies. Therefore well owners are advised to test water every three to five years for lead, arsenic, radon, uranium and certain other heavy metals.
+
+
+
+Tips to keep your well/alternative water sources clean
+
+Maintenance is key when having alternative water sources. It is essential to maintain water as it gets contaminated fast. 
+
+Here are six tips to keep your water sources clean:
+
+1. Protect the surface : Build a wall around the top of the well, with a reinforced concrete drainage apron around it. This will prevent surface water running into the well; particularly important where there are animal droppings around.
+
+2. Reduce turbidity : If a well is serving up cloudy, muddy water, it may have too much silt at the bottom. Send an intrepid digger down there with a shovel to dig out the silt and debris, then put a layer of gravel at the bottom of the well. The gravel will keep the silt down, and when someone drops a bucket on a rope down to the bottom of the well it will be less likely to scoop up silt as well as water.
+
+3. Disinfect : Scrub down the sides of the well with a chlorine solution to kill microbes that can make people sick. Disinfect the well water by temporarily adding a strong chlorine solution.
+
+4. Cover it : Install a reinforced concrete cover over the top of the well to keep anything from falling in and polluting the water.
+
+5. Install a pump : This will make it easier to draw water, if maintaining a pump is possible. A pump piping water up from the bottom of the well takes away the possibility of infecting water with a dirty bucket or rope.
+
+Importance of water purification
+
+Gaining access to safe drinking water is a serious issue affecting people of all ages worldwide. For those living in remote communities where the availability of improved water sources is limited, challenges can be immense and impact quality of life in significant ways.
+
+However, with water purifier systems, vulnerable individuals can acquire one of the most important resources needed to sustain daily existence, and obtain peace of mind in the process. This task could be made possible with a Unilever Pureit water purifier. This water purifier goes through a four-stage purification process making drinking water safe for consumption. These include the micro-fibre filter, activated carbon filter, germ-kill processor and polisher. 
+
+
+
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/6231952/Pureit_Home', [300, 250], 'div-gpt-ad-1485340486735-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1485340486735-0'); });
+
+
+ 
+
+		

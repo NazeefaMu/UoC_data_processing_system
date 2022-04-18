@@ -1,0 +1,23 @@
+## Title: CERT issues DoubleLocker ransomware warning
+## Section: Breaking News
+## Date: 19 October 2017 04:44 am
+
+CERT issues DoubleLocker ransomware warning
+
+
+	
+
+The Computer Emergency Readiness Team (CERT|CC) yesterday warned Android mobile users to be cautious of infecting DoubleLocker ransomware when viewing suspicious websites.
+
+Speaking to the Daily Mirror (CERT|CC) Principal Information Security Engineer Roshan Chandragupta said the DoubleLocker ransomware could be affected by installing fake Adobe Flash Player applications. Ransomware requests the mobile user to grant access which it uses to activate the device administrator rights and set itself as the default home application. This allows the ransomware to reactivate itself every time a user clicks on the home button on the phone and new Android ransomware, dubbed DoubleLocker, that has been uncovered, poses multiple threats, he said.
+
+“This ransomware can lock down the victim's phone, encrypting all data and changing the infected phone's PIN. This makes it nearly impossible for victims to retrieve data or access their phones without paying a ransom.
+
+According to foreign media, the DoubleLocker was based on a banking trojan and could become a "ransom-banker", which was essentially a "two-stage malware", that tries to wipe out victims' bank or PayPal accounts, locking the device and data down completely. In other words, victims would be unable to access their data, including bank credentials unless a ransom payment is made.
+
+The hackers operating DoubleLocker are demanding a ransom of $54, £40 which the victim is required to pay up within 24 hours. However, if the ransom payment isn't made within 24 hours, the data is not deleted and instead remains encrypted.
+
+Apart from paying the ransom and obtaining the decryption key from the hackers, the only way victims can clean out the infected device of DoubleLocker is to perform a factory reset. (Chaturanga Pradeep)
+ 
+
+		

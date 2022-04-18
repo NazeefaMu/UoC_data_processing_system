@@ -1,0 +1,18 @@
+## Title: IIT holds Big Data Analytics Tech Forum for IT, corporate professionals
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, February 1, 2017 - 01:00
+
+IIT holds Big Data Analytics Tech Forum for IT, corporate professionals
+
+Making decisions based on the analysis of Big Data is the secret to success of many organizations in today’s competitive business world.
+With the aim of providing insight into the new trends of Big Data, the Informatics Institute of Technology (IIT) recently held the Big Data Analytics Tech Forum at BMICH.
+Several industry leaders, senior IT and corporate professionals representing a wide range of sectors attended the Big Data Analytics Tech Forum 2016. Leading researchers and experts in the field of data science shared key insights based on their experience in the field of Big Data.
+Prof. Nirmalie Wiratunga, Professor of Intelligent Systems Research at Robert Gordon University and Prof. John McCall from the Smart Data Technologies Centre of the Robert Gordon University, UK addressed the gathering of professionals who attended the Tech Forum. Prof. Nirmalie Wiratunga spoke on the topic of Data Driven Recommender Systems, while Prof. John McCall spoke on Data Driven Optimization, with an emphasis on naturally inspired algorithms. This was the second Big Data Analytics Tech Forum held by IIT with the focus on giving Sri Lankan professionals an insight into the use of Big Data and its advantages.
+“Organizations around the globe have recognized the immense business value which can be gained by using data. With the objective of empowering Sri Lankan organizations and producing specialized professionals in Big Data, IIT is offering an exclusive MSc Big Data Analytics programme from Robert Gordon University, UK,” Dr. Sampath Kannangara, CEO of IIT said.
+“IIT is a pioneer in providing internationally renowned undergraduate and postgraduate programmes. Over the years we have been focused on producing all-round graduates that are able to empower their respective organizations.
+IIT graduates are in high demand in the Government, Corporate and IT sectors mainly due to our focus on catering to the industry needs,” Dr. Kannangara added. ‘Big data’ is the study of gaining insight and analysing large volumes of data, filtering it out and presenting it to principal decision makers, explained Prof. John McCall.
+Prof. Nirmalie Wiratunga said that the study of Big Data would allow cheaper and more productive solutions as the same job would be done with fewer resources.
+Robert Gordon University's MSc Big Data Analytics which is exclusively offered at IIT Campus with the aim of producing specialist Data Analysts, Data Visualization Specialists, Data Managers, Database Designer/Managers, Data Mining Experts and Big Data Scientists.
+IIT is now calling for applicants for the second intake of the MSc Big Data Analytics programme from Robert Gordon University, UK for January 2017. 
+ 

@@ -1,0 +1,18 @@
+## Title: Sunshine Healthcare selects Microsoft Azure-enabled IFS apps for ERP
+## Supertitle: 
+## Section: Finance
+## Date: Monday, June 26, 2017 - 01:00
+
+Sunshine Healthcare selects Microsoft Azure-enabled IFS apps for ERP
+
+Sunshine Healthcare replaced its legacy systems with IFS Applications, an integrated enterprise resource planning (ERP) solution by IFS, after an annual audit.
+The IFS Applications ERP solution, which runs on the cloud computing platform Microsoft Azure integrated the company’s Sales Force Automation System (SFA) and CRM with the central warehousing unit.
+As a result, the healthcare provider has been able to eliminate capital expenses, improve business continuity and increase reliability.
+The cloud-based offer from Microsoft for IFS Applications has enabled Sunshine Healthcare to increase the breadth of their deployment as well as scale the number of employees and customers in line with business growth.
+Microsoft Azure is a proven cloud environment that delivers encrypted data protection as well as business continuity features that a typical on-premise installation would not include.
+With a rise in companies migrating to the cloud, Microsoft Azure offered both Sunshine Healthcare and IFS Applications a level of reliability that would be very expensive to achieve and eliminates the requirement to maintain physical servers on-premises.
+Equally, the ability to utilize Azure’s global network of data centres in order to integrate existing IT assets, reduce complexity and risk, enticed IFS and the healthcare provider to embrace the cloud platform while providing them the capability to scale.
+“As a result of our rapid expansion in operations, we needed a resource planning system that could simplify our processes,” Managing Director Sunshine Healthcare, Shyam Sathasivam said. “When combined, Microsoft Azure and IFS Applications proved its worth as a robust solution compared to the rest of the ERP solutions in the market. In fact, it outperformed all of them due to Azure’s cloud-based scalability and agility.”
+Jayantha De Silva, President/ CEO for IFS Sri Lanka, said, “In collaborating with Microsoft to run IFS Applications on Azure, we realized just how well the cloud-based platform was aligned to the needs of our customers. We at IFS influenced Sunshine Healthcare to proceed with Azure as it’s so instinctive and easy to use, it helped us to do more for user experience.”
+The entire IFS Applications suite—including all enterprise resource planning (ERP), enterprise asset management (EAM) and enterprise service management (ESM) modules—work on Azure. A growing number of businesses are choosing IFS Managed Cloud on Microsoft Azure, which is a full-service, managed single-tenant offering where IFS manages the cloud infrastructure, operating system, database, middleware and IFS products.
+Brian Kealey, Country Manager for Microsoft Sri Lanka and Maldives, said, “From Office 365 to Azure IaaS, we’re happy to partner with Sunshine Healthcare again. Azure IaaS sidesteps the upfront expense of setting up and managing an on-site data centre. This makes it an economical option for both Sunshine Healthcare and IFS. It even allows for normal application and data access in the event of a server disaster or outage.” 

@@ -1,0 +1,15 @@
+## Title: The race to make India a cashless economy
+## Supertitle: 
+## Section: Finance
+## Date: Monday, March 27, 2017 - 01:00
+
+The race to make India a cashless economy
+
+Against the backdrop of the demonetization exercise that shook up the Indian economy last November, there’s a major tussle brewing in the consumer banking space in India.
+Vying for the chance to handle citizens’ money are two major sets of players – the traditional banks, and a new age of “Payments banks” – organizations that have received licenses to run partial banks, where they can accept deposits, offer services like debit cards and remittances, but not provide loans (at least not yet). It’s a battle between the old and the new that we’ve rarely seen the likes of elsewhere in the world.
+Demonetization, arguably the most significant trigger of this race, was an involuntary exercise that the country underwent, where, overnight, the two largest currency denominations – The INR 500 and the INR 1,000 notes – were declared by the government as no longer being legal transacting tender.
+Instead, the government would introduce a new set of INR 500 notes along with an entirely new denomination of INR 2,000 notes. INR 1,000 is approximately US $16, which in an Indian metropolitan city, would buy four movie tickets to a high-end cinema. Unfortunately, the execution of the exercise was patchy – there was a period of three months after the declaration of the old notes as illegal that the country was waiting for the new notes to be printed. The printing had begun during these months, but the demand far outstripped the supply, leading to daily cash shortages at banks and ATMs.
+The move was initially portrayed by the Indian government as a way to combat undeclared income held privately by entities, outside of the country’s banking system, but when the move encountered criticism, the government changed the PR spin, reframing it into an effort to make India go cashless.
+In hindsight, this was a good reframe of the exercise, because it shifted focus from the troubled execution of the demonetization exercise to an India of the future where transactions are digital (read: ‘easy’), and accounted for.
+The payments banks offer interesting competition to the traditional banks because of the profile of companies that have received these licenses. Two such prominent licensees are the Indian telecom giant, Airtel (founded in 1995, $14.5 billion revenues in 2016), and the e-wallet + online payment facilitator PayTM (founded in 2010, valued by some sources at $1 billion, in its latest fund-raise, with controlling ownership held by Alibaba’s parent company).
+E-wallets like PayTM have a straightforward operational model – Effectively, they act like PayPal with an online store and a network of offline retailers that customers can buy from. 

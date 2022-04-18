@@ -1,0 +1,45 @@
+## Title: GICS for Colombo bourse
+## Section: Financial News
+## Date: 10 December 2015 06:30 pm
+
+GICS for Colombo bourse
+
+
+	
+
+
+		 		 
+		 
+			
+The Colombo Stock Exchange (CSE) adopts the Global Industry Classification Standard (GICS) to classify its listed companies. This was officially launched at the ceremony held on December 2, 2015 to mark the 30th anniversary of the CSE. Why sector classifications matter? 
+You may have heard investment advisors and other investment ‘gurus’ saying you should diversify your portfolio: this is commonly stated by the idiom “Don’t pull all your eggs in one basket”. The idea is that if you don’t put all your eggs in one basket, you are able to diversify your risk into different stocks or securities. Clearly your investment should be diversified across different business sectors. For example, having purchased only five banking stocks you can’t say your portfolio is well diversified, because you are still exposed to just one industry, which is banking in this example.
+Therefore, by diversifying your portfolio you can, and should spread your risk across different industry sectors. The fundamental idea behind this is the premise that all industries will not be doing bad simultaneously.
+In order to facilitate investors to diversify investments across different industry sectors, stock markets all over the world classify companies into different business sectors. How important is to have a common standard?
+In the modern world, with the increased global focus of equity investments, geographical demarcations do not matter. Moreover, it is different industry sectors that play a crucial role. 
+However, across different geographies when different classifications are used comparisons are made difficult or sometimes impossible.
+Hence, it is ideal to have a common classification which will make comparisons easy and meaningful.What is the Global Industry Classification Standard (GICS)?
+The Global Industry Classification Standard or GICS in short, was jointly developed in 1999 by Morgan Stanley Capital International (MSCI) and Standard and Poor’s (S&P), with a view to fulfilling the requirement of the global investment community for a reliable, standard industry classification system.
+The GICS classification has a wide global reach and thus covers 42,000 companies that account for 95 percent of the global market capitalization.
+The hierarchical GICS structure has four levels from sectors, industry groups, industries and sub-industries. The sector is the most general level, while the sub-industry being the most specific level. Overall there are 10 sectors, 24 industry groups, 68 industries and 154 sub-industries.How do you compare the existing classification used by the stock exchange with GICS?
+There are two main differences. 
+First, the GICS is obviously an international standard while the existing classification framework was locally developed.
+Second, the GICS is structurally hierarchical with four different levels. The existing framework is a single layer system with 20 different sectors.How is a listed company classified according to the GICS?
+Standard & Poor’s and MSCI jointly assign a company to a single GICS sub-industry according to the definition of its principal business activity. Revenues are a significant factor in determining principal business activity; however, earnings analysis and market perception are also important criteria for classification in case where revenue analyses do not provide a clear direction. For this purpose, only public information is used so that anyone can replicate the assignment.
+Likewise any company will be assigned to the most appropriate sub-industry, i.e. the fourth level of the GICS hierarchy. The other levels pertaining to the classification of the particular company, i.e. third, second and the first level are derived from the pre-defined GICS hierarchical tree.
+Therefore, each company will have its own sub industry, industry, industry group and a sector, which would provide an immense flexibility to analysts.
+The detailed version of a methodology is available in the public domain and a simple web search with the search term ‘GICS Mapbook’ will help.Companies might get into new business areas in time. Will the GICS be in a position to capture these dynamics? 
+Of course. Once a classification is assigned to a particular company it is reviewed annually, at a minimum. In addition to this, companies are under constant surveillance for corporate actions. For example, if a particular major corporate action redefines a company’s primary line of business, a new appropriate reclassification is carried out.
+At a minimum, annual reviews are conducted to ensure that a company has not redefined its line of business through a series of smaller events.The GICS structure is hierarchical with four levels. Are the number of sectors, industry groups, industries and sub-industries constant? 
+No. The GICS structure is also reviewed annually based on a survey conducted publicly among the finance community. Accordingly, as the global economy changes, sectors, industry group, industries and sub-industries may be added or divided to represent more meaningful and reliable structure.Which particular advantages do you expect to have by adopting the GICS to classify listed companies on the CSE?
+The use of this global standard helps foreign investors compare companies outside of their local markets and the CSE attracts their attention. The GICS enables the fund managers and investment research community to make comparisons by industry. The GICS helps market participants determine whether stock performances are locally based or are part of a broader global trend. The GICS structure is such that grouping dissimilar companies together is very unlikely. 
+Four classification levels allow for a more varied level of analysis - for example compare a particular analyst who is interested in running the analysis in more general level as against a one who wants to do the same at more granular level. Of course the GICS is ready facilitating both. The former analyst will do the analysis at the sector level (first level of GICS hierarchy) while the latter analysing at a more bub level second, third or even fourth level of GICS hierarchy.
+Likewise, we expect to make our market more appealing to investment community globally and increase the visibility of our listed companies internationally. This kind of robust, standard classification will not only help foreign investors but also to local investor community to truly diversify their investments. 
+However, it should be noted that since our market is a smaller market we will not be able to do the same at more granular level since the number of peers in a particular group will be very low. Hence, we have limited the implementation of the GICS at the CSE only to the first and second levels.How is the successful implementation of the GICS at the CSE ensured?
+We, at the Colombo Stock Exchange, strongly believe that stakeholder consultation plays a key role in a successful implementation of a project in this nature.
+We have taken two measures, to sure this:  
+The first measure is, in order to ensure the comfort of our stakeholders, including listed companies, institutional investors such as the unit trust management companies, broker firms and custodian banks, we engaged in face to face and mail consultations.
+ 
+Second, we decided to run the GICS classification as an alternative by way of a pilot project of one year along with the current classification system. Even the pilot project, we implement gradually. We first introduced the classification started publishing in only on our website last week, then we will introduce the sub-indices and then we plan to expand the dissemination to daily printed publications, etc. After the pilot period, we will take a decision to fully migrate to the GICS or not based on another round of stakeholder consultations.
+We believe this will ensure a smooth transition. Should you have any query, send an email to gics@cse.lk. 
+
+		

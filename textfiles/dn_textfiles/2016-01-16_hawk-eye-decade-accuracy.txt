@@ -1,0 +1,23 @@
+## Title: Hawk-Eye: A decade of accuracy
+## Supertitle: 
+## Section: Sports
+## Date: Saturday, January 16, 2016 - 01:00
+
+Hawk-Eye: A decade of accuracy
+
+It's probably the one thing that ruffles Roger Federer. Hawk-Eye, the electronic line calling service, which has taken the doubt out of close line calls, adding a bit of drama instead as players and crowd await its result, has weaved itself into the fabric of the sport.
+With an admittedly 3.6 mm margin of error, the system which has now entered into its 10th year in the sport, may be loved or loathed, but either way it's here to stay.
+Elaborating on its operation, Hawk-Eye senior systems engineer Fares Saudi, who's in the city for Chennai Open says, "We usually arrive about 4-5 days before a tournament to set up the system.
+After we've successfully calibrated it, we book the court and we hit several balls close to the line. We measure the mark the ball leaves and compare it to the distance we've successfully tracked. We have to always take this with a pinch of salt because the ball mark that is left on hard court is not actually accurate. What we track is when the ball makes first contact with the ground, the mark will always be between 5-10 mm further than that."
+Ruling out any changes to the present non-invasive method of tracking, Saudi adds that the focus is on improving the accuracy further with every passing year.
+"When the system was introduced in 2006 the margin for error was around 4 maybe 4.2 mm, well below the ITF standard of 5mm. Now it's 3.6 mm which is a significant improvement.
+We are trying to update the way we measure the flatness of the courts and check whether there are any undulations - bumps or ditches in order to be more accurate." The system, however, is rendered insignificant at clay court tournaments, primarily because the mark that ball leaves is quite accurate.
+"As soon as the ball touches the clay it leaves a mark. Also the French Open prefers to stick to its traditional methods.
+The only issue is when the umpire or player gets confused on which mark it was. Maybe five years from now, or sooner they may opt for Hawk-Eye to avoid this confusion.
+At tournaments like Wimbledon where we cannot go by ball mark, we use ultra-motion cameras which capture 500 frames per second."
+While Djokovic is quite the pro at it, Federer isn't as dismal at calls as he's portrayed to be, adds Saudi. "Djokovic is very good at challenges. Del Potro is famous for being quite bad, because, I think he doesn't really judge it on the merit of whether the ball was in or out. It's more like does he really want to win the point."
+"When a player has zero challenges that's when TV really wants to see where every ball landed," he goes on to add.
+On the flip side, the system has probably taken characters out of the sport. Nobody can break a racquet on court without being handed a warning these days.
+John McEnroe would, for instance, have never mouthed the often imitated and now immortal line, "You cannot be serious," directed at umpire Edward James' refusal to rule his serve in at the 1981 Wimbledon final.
+While Hawk-Eye may have lent on-court decisions a greater measure of accuracy, it has left the sport largely bereft of emotions and moments.
+TOI

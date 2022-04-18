@@ -1,0 +1,58 @@
+## Title: Know your audience well, to deliver the right type of songs
+## Supertitle: 
+## Section: Finance
+## Date: Tuesday, August 14, 2018 - 01:00
+
+Know your audience well, to deliver the right type of songs
+
+Decision making is often seen as the centre of what managers do, something that engages most of a manager’s time. Decision making can be Strategic decisions, Management control decisions or Operational control decisions. The first type involves a group of high-level managers. The second – mid-level managers and the third, rest of the managers.
+Making decisions is not a single event but a series of activities taking place over time.
+4 stages
+Management gurus describe 4 stages in decision making: intelligence, design, choice and implementation.
+Intelligence involves identifying the problems: why and where they occur with what effects. This broad set of information gathering activities is required to inform managers how well the organisation is performing and where problems exist.
+Designing many possible solutions to the problems is the second phase of decision making. This phase may require more intelligence to decide if a particular solution is appropriate. Here, more carefully specified and directed information activities and capabilities focused on specific designs are required.
+Choosing among alternative solutions is the third step in the decision-making process. Here a manager needs an information system which can estimate the costs, opportunities and consequences of each alternative problem solution. The information system required at this stage is likely to be fairly complex, because of the detailed analytic models required to calculate the outcomes of the various alternatives.
+Implementing is the final stage in the decision-making process. Here, managers can install a reporting system that delivers routine reports on the progress of a specific solution, some of the difficulties that arise, resource constraints, and possible remedial actions. Table 9.1 illustrates the stages in decision making and the general type of information required at each stage.
+In practice, the stages of decision making do not necessarily follow a linear path from intelligence to design, choice and implementation. At any point in the decision-making process it may be necessary to loop back to a previous stage. Another scenario would be that having implemented a decision one quickly receives feedback indicating that it is not proving effective. Again, the decision maker may have to repeat the design and/or choice stage(s).
+Thus, it can be seen that information system designers have to consider the needs of managers at each stage of the decision-making process. Each stage has its own requirement.
+MkIS
+In today’s Business world, changes happen so quickly it is hard to keep up, for example, changes in how customers feel, changes with channel partners, emerging technologies, new media technologies, political and economic changes etc. In short, we need to move really fast. Real-time requires up-to-the-minute information about the marketing environment and the company performance. To exploit and pro-act on information, powerful marketing information systems (MkIS) are needed.
+A MkIS is a key management tool designed to support marketing decision making. It brings together many different kinds of data, people, equipment and procedures to help an organization make better decisions. MkIS not only indicates how things are going, but also why and where performance is failing to meet the plan. These reports include near real-time performance of cost centres and projects with detail sufficient for individual accountability. MkIS produces fixed, regularly scheduled reports to middle and operational level managers to identify and inform changes. The ingredients for a good MIS are consistency, completeness, and orderliness.
+Importance
+MkIS can be classified under four headings:
+1.Planning systems - provide information on sales, costs and competitive activity, together with any kind of information which is needed to formulate plans.
+2.Control systems - provide continuous monitoring of marketing activities and enable marketing executives to identify problems and opportunities in the marketplace. At the same time, they permit a more detailed and comprehensive review of performance against plans.
+3.Marketing research systems - such systems allow executives to test decision rules and cause/effect hypotheses. This permits the assessment of the effects of marketing actions and encourages improved learning from experience.
+4.Monitoring systems - these systems provide management with information concerning the external environment in which they are operating.
+Developing a marketing information system is not easy and can take several months. Central to a marketing information system is the concept a database. There may be one or more databases present in such a system. The determination of this is a technical matter and it is difficult to state any hard and fast rules on this point.
+Clearly, the kind of information held in the database should reflect how the organization segments its market. Indeed, many firms supply goods and services to more than one market so that the database will have to be organized in such a way that the individual markets can readily be identified. Not only does current quantitative information have to be held in the database but so also do past data. Without a substantial number of years’ data it is difficult to forecast changes in the future.
+Closely related to the information held on the market itself is information held on competition and on prospects and clients. In the case of competition, it is important to have information on sales/market share and profitability of products by market segment. It is also useful to hold data on what competitors commit in the way of resources to products - classified by market segment.
+Armed with this information the organization can then analyze the data in the database and assess strengths and shortcomings of a competitor’s product-market portfolio. Information about competitive strategy is more difficult to obtain.
+Components
+There are five main components of Marketing Information System (MkIS):
+1. Internal Records,
+2. Marketing Intelligence,
+3. Marketing Research
+4. Marketing Decision Support System.
+5. Marketing models
+Internal records: Marketing managers get lots of information from the internal-records of the company. These records provide current information about sales, costs, inventories, cash flows and account receivable and payable. Many companies maintain their computerized internal records. Inside records help marketing managers to gain faster access to reliable information.
+Marketing intelligence: This collects information from external sources. It provides information about current marketing-environment and changing conditions in the market. This information can be easily gathered from external sources like; magazines, trade journals, commercial press, personal chats with decision makers and so on. The salesmen’s report also contains information about market trends. The information which is collected from the external sources cannot be used directly. It must be first evaluated and arranged in a proper order.
+Marketing research: Marketing Research is conducted to solve specific marketing problems of the company. It collects data about the problem. This data is tabulated, analysed and conclusions are drawn. Then the recommendations are given for solving the problem. Marketing research also provides information to the marketing managers. However, this information is specific information. It can be used only for a particular purpose.
+Marketing decision support system: These are the tools which help the marketing managers to analyse data and to take better marketing decisions. They include hardware, i.e. computer and software programs. Computer helps the marketing manager to analyse the marketing information. There are many software programs, which help the marketing manager to do market segmentation, price fixing, advertising budgets, etc.
+Marketing models
+These models may be computerized or may not. Typical tools are: Time series sales modes,Brand switching models, Elasticity models (price, incomes, demand, supply, etc.), Regression and correlation models, Analysis of Variance models, Sensitivity analysis, Discounted cash flow Spreadsheet ‘what if models
+Setting-up
+If you want to set up a Marketing Information system process, there are 4 steps to follow:
+Step 1. Determine what metrics to include in your marketing information system.
+All data has a cost, both real and opportunity costs, so including the right metrics is critical. If you measure the wrong metrics, you’ll make bad decisions and waste money. Measure too many metrics and the analysis become difficult. Just because you can measure something, doesn’t mean you should. Remember – Data is only worth its cost when the value it contributes to improved decision-making outweighs the cost of collecting the data — and be sure to include the human cost of gathering and analysing this data to other costs in acquiring the data.
+Step 2. Gather relevant data.
+Data may come from internal sources or external sources. They may also come from competitor “sources,” listening post metrics, and Facebook Insights. Your marketing research data can also form part of your marketing information system, such as recurring surveys of customer satisfaction.
+Step 3. Plot data.
+It’s very difficult to make decisions based on raw data because the data contains invisible patterns that might otherwise indicate appropriate actions. For instance, it’s hard to see a downward trend in customer satisfaction without graphing the data until the decline is substantial and by then it might be too late to reverse the trend. Plotting data allows managers to quickly detect changes in critical metrics over time. Newer data visualization software makes the job even easier.
+Step 4. Communicate results.
+The more people who have the information from your marketing information system, the better. But, not everyone is going to understand tables of raw data or even visualizations. That’s because your marketing information system requires interpretation through the lens of marketing knowledge.
+Step 5. Make marketing decisions.
+Define idea or problem to be acted upon. Evaluate relevant information about the problem. Develop possible alternative solutions. Select the preferred or “best” alternative.
+Sometimes the preferred alternative involves cost/benefit analysis and risk analysis. Estimate what each alternative will cost in terms of human, physical and financial resources against the expected benefits. Compare the two estimates and select the one with the greatest “payoff” where the ratio of benefits to cost is more favourable.
+In Risk Analysis, estimate which one has the inherent possibility of defeat, disadvantage or loss. Try to minimize the risks involved by effectively forecasting outcomes and considering all variables involved. When all factors are considered, implement the decision. Follow-up, evaluate, and make changes if needed.
+(Lionel Wijesiri is a retired company director with over 30 years’ experience in senior business management. Presently he is a freelance newspaper writer)

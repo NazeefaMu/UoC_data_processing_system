@@ -1,0 +1,21 @@
+## Title: Paymedia wins big at Disrupt Asia 2017
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, August 3, 2017 - 01:00
+
+Paymedia wins big at Disrupt Asia 2017
+
+DirectPay,a part of PayMedia, specialized in embedded and unique software solutions for the finance industry was recently recognized as the runner up for their innovative solution “DirectPay” at the Hemas Slingshot Startup Battle at Disrupt Asia 2017.
+Disrupt Asia, as Sri Lanka's premier startup conference, where tech startups have made their mark as the rapid change-makers in the industry, is organized by the ICT Agency of Sri Lanka (ICTA) with the support of the Ministry of Telecommunications and Digital Infrastructure and other partners and sponsors.
+DirectPay is an electronic payment option providing a viable alternative to cash, POS and MPOS systems.
+The users simply have to scan this QR code in the App and enter the amount to be paid and make the payment. If not the merchant can generate a dynamic QR code embedding the total bill value with the merchant ID in the QR code itself, so that the customer doesn't have to enter the amount in the App and just pay.
+When the transaction is completed the merchant receives a text message from the bank confirming the payments and the user also receives a text message from the bank of the payment completed.
+The product is the brainchild of founders Avindi Perera, a second year computing undergraduate student of University of Northampton , Dinesh Karunathilaka, with 8 years in the open source technologies and Kanishka Weeramunda, who has 17 years of experience in the field of ICT and founder of PayMedia
+Speaking of their achievement, Avindi Perera, explained “The main reason why we came up with this product was due to the constant use of the mobile phone by people today, who rely on it to carry out a majority of their activities.
+The burden of carrying a wallet, notes and coins is also eliminated by our app.”
+Kanishka Weeramunda, said “We are justifiably proud to be recognized for our product innovation. While the satisfaction of our clients is our primary goal, we are honored that our efforts have received such prestigious industry recognition.”
+Dinesh Karunathilaka, added “Our focus on creating this solutions was driven by our mission to deliver the world's best payment experiences to our customers.
+Our aim is not to disrupt the existing market but to provide an alternative where the transaction could be facilitated with lesser cost.”
+Having debuted into the market with a bang with this achievement , DirectPay is now set to be one of the key game changers in the industry.
+Over the past couple of years, Sri Lanka has seen an immense growth in its startup ecosystem, producing a number of startups that have gained a competitive edge in the global market. 
+ 

@@ -1,0 +1,17 @@
+## Title: Commercial Bank achieves another first on LankaPay network
+## Supertitle: 
+## Section: Finance
+## Date: Tuesday, January 23, 2018 - 01:00
+
+Commercial Bank achieves another first on LankaPay network
+
+The Commercial Bank of Ceylon has announced that it has enabled its entire automated teller machine (ATM) network to acquire and process ATM transactions through the EMV (Europay, Mastercard and Visa) integrated circuit, becoming the first ATM Network to be fully EMV compliant in Sri Lanka.
+Commercial Bank is also the first bank in Sri Lanka to activate its entire EMV chip card base(Debit and Credit cards) to perform secured EMV transactions through the LankaPay ATM network, making it possible for the Bank’s own cardholders to securely perform transactions using other bank ATMs connected through the LankaPay network.
+EMV is a secured platform to perform ATM and Point-of-Sale (POS) transactions where transaction authentication is performed through the integrated chip, preventing counterfeiting of card data residing in the chip.
+“Commercial Bank is focussed on technological innovations that deliver meaningful benefits to customers,” said Jegan Durairatnam, Managing Director of Commercial Bank. “These latest developments are noteworthy because they address a primary concern on transaction security. We have once again demonstrated Commercial Bank’s superiority in the IT and digital landscape by validating our entire ATM network for EMV compliance on the LankaPay platform.”
+The Commercial Bank ATM network was already EMV - certified with international card schemes such as MasterCard, Visa and Union Pay.
+Durairatnam said the wide spread of Commercial Bank’s ATM network, currently numbering 756 terminals, and the availability of ATMs at many off-site locations and public locations such as bus stands and railway stations, makes its integration with LankaPay particularly beneficial to the general public.
+LankaPay is owned by LankaClear (Pvt) Ltd. which was incorporated in February 2002 as the National Cheque Clearing House, and is today considered the ‘National Payment Infrastructure Provider’ for the country.
+Commercial Bank achieved another first with LankaClear two years ago when it made it possible for users of the Bank’s Online Banking facility to make instant, real-time transfers of funds from their Commercial Bank accounts to accounts in other banks, via the LankaPay - Common Electronic Fund Transfer Switch (CEFTS).
+Commercial Bank ATMs support the networks of Mastercard, Maestro, Cirrus, Visa, Plus, Amex, UnionPay, Discover and Diner’s Club, enabling tourists and other visitors to Sri Lanka to withdraw money from their overseas issued cards for spending in the country.
+The upgrade of the ATM network to EMV Chip capability means that every Commercial Bank ATM accepts and processes transactions based on Smart Card Integrated Circuit (IC) data as well as magnetic strip data.

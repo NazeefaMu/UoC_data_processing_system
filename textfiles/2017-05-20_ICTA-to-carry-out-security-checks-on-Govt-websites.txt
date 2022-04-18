@@ -1,0 +1,19 @@
+## Title: ICTA to carry out security checks on Govt. websites
+## Section: Breaking News
+## Date: 20 May 2017 02:21 pm
+
+ICTA to carry out security checks on Govt. websites
+
+
+	
+
+A security audit will be conducted on all Government Websites following the global 'ransomware' attacks, the Information and Communication Technologies Agency (ICTA) said.
+
+It has called for Expressions of Interest (EOI) for this project which would be launched by ICTA with the collaboration of the Sri Lanka Computer Emergency Readiness Team and Co-ordination Centre (CERT/CC) and the Ministry of Telecommunication and Digital Infrastructure.
+
+“The aim of the project is to conduct vulnerability assessments and accessibility tests for all websites of Government organisations. Initially ICTA intends to conduct audits on approximately 120 websites which includes those of Ministries and Departments.
+
+“Website assignments are carried out in three phases. In the first phase, an initial assessment of the Government website would be carried out to identify the possible security issues and to advise the respective organizations on fixing the identified security issue, if any. At the second phase, based on the identified security issues, Government organisations will fix those security issues. At the third phase, follow up audits would be conducted to examine whether the identified security issues have been sufficiently addressed by the relevant organisations,” ICTA said. (Chaturanga Pradeep)
+ 
+
+		

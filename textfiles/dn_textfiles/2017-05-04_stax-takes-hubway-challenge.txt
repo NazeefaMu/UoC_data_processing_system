@@ -1,0 +1,20 @@
+## Title: Stax takes on Hubway Challenge
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, May 4, 2017 - 01:00
+
+Stax takes on Hubway Challenge
+
+Stax, the global strategy consulting firm has taken on the Hubway Challenge. It submitted an entry to the Hubway Challenge organized by Hubway which is a bike share programme in Boston, Brookline, Cambridge and Sommerville MA, US.
+They opened their bike trip data for the years 2015 and 2016 to the public to produce creative visualizations or other interesting tools related to how users get around metro-Boston using Hubway bikes.
+Stax Inc., has gained recognition for innovative and analytical solutions offered through the consultancy firms based in Boston, Chicago, New York, Singapore and Colombo, Sri Lanka. Stax provides premier corporate and private equity clients with actionable answers based on deep research and analysis.
+“We at Stax, are proud to be part of a superior Data Challenge which has opened the horizon to our talented team who are keen on presenting unparalleled ideas in keeping with our vision,” stated the Data Analytics Manager of Stax Colombo, Roshanthi Gunaratne.
+Randika Rodrigo, Senior Data Analyst who worked on the solution further elaborated, “Looking at the data we noticed that bike redistribution which was subsequently followed after all the bikes from a station were being used, seemed to be very inconsistent and inefficient.
+This prompted us to suggest a mathematical and strategic approach to enhancing natural distribution, which would inevitably lessen the burden on bike distribution vans.
+While analyzing data from previous years, we noticed that the departure volume was consistent over days of the week, time and by station.
+Therefore, we were able to rank the stations by expected outbound volume.
+Using this data we created a redistribution optimization tool for Hubway to be used by the dispatcher of bikes to distribute bikes to the nearest station with the most expected outbound volume and which currently shows a less number of bikes”.
+The optimum solution for Hubway offered by Stax was established after extensive research and it could be extended to other organizations with distribution networks.
+Working with many manufacturers and retail stores, Stax has seen that one of the major challenges clients face is how to efficiently run the distribution network.
+Stax can help clients set up cost effective, efficient, and technologically savvy distribution networks by creating similar tools based on clients’ historical data and predictive analytics.
+ 

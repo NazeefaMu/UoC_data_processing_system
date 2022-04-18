@@ -1,0 +1,20 @@
+## Title: Better way to diagnose depression?
+## Supertitle: 
+## Section: T&C
+## Date: Monday, November 12, 2018 - 01:00
+
+Better way to diagnose depression?
+
+Scientists can now see anxiety and depression by monitoring electrical signals in the brain, which could allow them to better diagnose and treat the mood disorders. Both conditions are thought to be vastly under-diagnosed, and our methods of detecting them are highly subjective.
+Without exact diagnostics, patients are left at the mercy of their doctors’ interpretations of symptoms and may find themselves over-medicated or on a seemingly endless search for the right drug.
+Scientists at the University of California, San Francisco think their new method of using electrodes to constantly track brain signals could someday change that, after it successfully identified anxiety in a small study of 21 epilepsy patients.
+And the new method may someday allow doctors to use deep brain stimulation to treat mood disorders in a similar way that we can now care for Parkinson’s patients. If you are feeling under the weather, a doctor might chemically test a saliva culture for sign of the flu. If your care provider thinks you could be diabetic, they can test your blood for insulin.
+But if you think you might be depressed or suffer from chronic anxiety, you might be handed a survey to fill out about how you’ve been feeling, or your doctor might simply talk to you more. In other words, long before you get answers, you have to answer more questions that are themselves rather ambiguous before getting diagnosed with either of the two most common mood disorders in the world.
+More accurate and consistent screening has long been needed, and thought there are a few experimental techniques, nothing has been widely implemented. Now, researchers at the University of California, San Francisco (UCSF), are throwing their hat in the proverbial ring.
+In a small study, they decided to monitor the brains of 21 epilepsy patients for activity that might be connected to anxiety and depression. Other studies have used functional MRI (fMRI) scans to monitor brain activity for a couple of hours at a time while the patient lies in the scanner.
+But fMRIs don’t measure brain signals directly, and establishing both a baseline and changes in activity and mood in such a short time is unlikely to give scientists the whole picture. EEG electrodes, on the other hand, directly measure electrical activity in the brain.
+The primary drawback to the EEG is simply inconvenience. Patients have to have electrodes placed on their heads, and these have to be monitored. For the most precise measures, however, electrodes are placed between the skull and the brain.
+For the new study, the UCSF researchers had a sample of people who were going to be at the hospital - and would have to have open brain surgery regardless. So the team recruited 21 epilepsy patients who were soon to have brain surgery to locate and diffuse the causes of their seizures.
+‘We were surprised to find such a clear and consistent signal, made up of interactions between the amygdala and hippocampus at a specific frequency, which matched changes in the mood seen in these 13 patients,’ said co-senior study author Dr Vikaas Sohal.
+However much larger studies will be needed to confirm the method and it is - so far - quite invasive. But if it can be verified and simplified, the EEG system may tell patients once and for all whether their brains are behaving as they should, or not.
+-Daily Mail 

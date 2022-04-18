@@ -1,0 +1,14 @@
+## Title: ‘Ransomware attacks to augment insurance protection demand’
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 17, 2017 - 01:00
+
+‘Ransomware attacks to augment insurance protection demand’
+
+The slew of recent ransomware attacks in over 150 countries reveals the widening scope of corporations’ cyber risk exposures, which is likely to increase demand for related insurance protection, Fitch Ratings says.
+Insurers are in a unique position to assist customers in addressing the cyber threat. However, a cautious approach to adding cyber exposures is warranted as there is considerable uncertainty in pricing and underwriting this risk. Aggressive expansion by individual underwriters into the segment could be credit negative.
+Tallying the costs from recent attacks will take time. However, growth in corporate anxiety from cyber-related threats amid regular reports of data breaches and other information system intrusions will spur demand for cyber protection and solutions including insurance protection. Furthermore, compliance with developing regulations will likely increase the demand for coverage.
+Insurers are playing an expanded role in countering the cyber threat, utilizing traditional expertise in risk management and claims services. They are also gaining more technical expertise in cyber threat testing and prevention and post-event resolution through acquisitions or alliances with cyber security vendors. Cyber protection coverage, therefore, increasingly includes a service and advisory component, as well as insured loss limits.
+Besides cyber extortion and ransomware attacks, cyber-related events may include systems hacking, data theft and denial of service attacks. These events may create economic losses from damage to systems and property, remediation costs, lost revenue due to business interruption and reputation damages.
+‘No ransomware threat to computer users in SL’
+Information and Communication Technologies Authority (ICTA) assured that the cyber attack spread across the world has not affected Sri Lanka and internet uses do not need to worry. “ICTA is closely monitoring this issue and if there is any threat to computer users in Sri Lanka they will duly notify them,” ICTA CEO Muhunthan Canagey said yesterday. 

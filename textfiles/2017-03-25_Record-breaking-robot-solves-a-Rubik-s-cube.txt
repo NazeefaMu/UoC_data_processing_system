@@ -1,0 +1,42 @@
+## Title: Record-breaking robot solves a Rubik’s cube
+## Section: International
+## Date: 25 March 2017 12:00 am
+
+Record-breaking robot solves a Rubik’s cube
+
+
+	
+
+
+
+ 
+
+The Rubik’s cube was devised by Hungarian architect Erno Rubik more than 30 years ago, but he likely never envisioned his puzzle being cracked this quickly.
+
+
+The machine, known as ‘Sub1 Reloaded’ and developed by German tech company Infineon, was aided by one of the world’s most powerful microcomputers, solved a Rubik’s cube in 0.637 seconds at the Electronica Trade Fair in Munich, Germany earlier this year.
+
+
+‘Guinness World Records has spent some time carefully reviewing the evidence, including ensuring that the cube and the pre-scrambling met all WCA standards, before confirming the new record today,’ the organisation said.
+
+
+The robot took a fraction of a second to analyze the cube and make 21 moves to solve the puzzle.
+Its time of 0.637 seconds beat the previous world record of 0.887 seconds, set by an earlier prototype of the same machine.
+
+
+
+
+The complexity of the scrambled cube had to meet the standards of the World Cube Association. 
+Once set to solve the cube, shutters rapidly peel back from the robot’s multiple senor cameras, revealing the layout of the cube to the awaiting eyes of the machine.
+
+
+The robot then analyses how the cube has been scrambled. 
+
+
+A special ‘speed cube’ had to be used to reduce friction between the moving parts and keep the time to a minimum.
+
+
+The human record for solving a Rubik’s cube is 4.904 seconds, set by 14 year-old Lucas Etter last year.
+ 
+
+		

@@ -1,0 +1,14 @@
+## Title: Apple's iOS 11 kills old 32-bit iPhone and iPad apps
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, September 21, 2017 - 01:00
+
+Apple's iOS 11 kills old 32-bit iPhone and iPad apps
+
+The move will generally affect apps that have not been updated in the past two years. Although many will have been abandoned by their developers, owners will still use some of them frequently.
+It is a consequence of iOS 11 being restricted to running apps written in what is known as 64-bit code.
+The number signifies how much data a processor can handle at once - the larger the figure, the faster a computer can potentially operate.
+Dropping support for 32-bit software lets Apple streamline its operating system and helps it run more quickly since it no longer needs to load software libraries to make sense of the older programs.
+Apple has explained in the past that it is relatively easy for app-makers to reversion their products, and its App Store has rejected updates that lack 64-bit support since June 2015.
+Even so, the move bucks a general trend for operating systems to support legacy software for longer periods of time.
+"Two years is a very short period for something to become obsolete, even in the technology world where things move very fast," said Prof Alan Woodward, from the University of Surrey's computing department. "What most vendors have done so far - and Microsoft is the biggest example of this - is to keep as many things as compatible as possible for as long as possible. (BBC)

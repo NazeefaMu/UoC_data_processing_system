@@ -1,0 +1,14 @@
+## Title: Global cyber attack hits businesses globally
+## Supertitle: 
+## Section: Local
+## Date: Thursday, June 29, 2017 - 01:00
+
+Global cyber attack hits businesses globally
+
+A massive ransomware attack has hit businesses around the world, causing major companies to shut down their computer systems.
+Researchers are still investigating the software behind the attack, warning that it’s more sophisticated than the WannaCry worm that struck hundreds of thousands of computers across the globe last month.
+“WannaCry was a tremendous failure. It was a lot of noise, very little money, and everyone noticed it,” said Craig Williams, an expert at cybersecurity firm Cisco Talos. “What we’re seeing today is a much more intelligent worm.”
+Big global brands like Mondelez (MDLZ), the maker of Oreos, and British advertising giant WPP (WPPGF) say their IT systems are experiencing problems.
+The ransomware infects computers and locks down their hard drives. It demands a $300 ransom in the anonymous digital currency Bitcoin.
+The email account associated with the ransomware has been blocked, so even if victims pay, they won’t get their files back.
+Law enforcement and cybersecurity experts agree that victims should never pay ransoms for such attacks. (CNN)

@@ -1,0 +1,23 @@
+## Title: Iran hit by global cyber attack that left US flag on screens
+## Section: International
+## Date: 9 April 2018 10:30 am
+
+Iran hit by global cyber attack that left US flag on screens
+
+
+	
+
+REUTERS, 08th APRIL, 2018- Hackers have attacked networks in a number of countries including data centers in Iran where they left the image of a U.S. flag on screens along with a warning: “Don’t mess with our elections”, the Iranian IT ministry said on Saturday.
+
+
+“The attack apparently affected 200,000 router switches across the world in a widespread attack, including 3,500 switches in our country,” the Communication and Information Technology Ministry said in a statement carried by Iran’s official news agency IRNA.
+
+
+The statement said the attack, which hit internet service providers and cut off web access for subscribers, was made possible by a vulnerability in routers from Cisco which had earlier issued a warning and provided a patch that some firms had failed to install over the Iranian new year holiday. 
+
+A blog published on Thursday by Nick Biasini, a threat researcher at Cisco’s Talos Security Intelligence and Research Group, said: “Several incidents in multiple countries, including some specifically targeting critical infrastructure, have involved the misuse of the Smart Install protocol...
+
+ 
+ 
+
+		

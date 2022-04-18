@@ -1,0 +1,17 @@
+## Title: NTB launch Open API Banking Platform
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, April 25, 2018 - 01:00
+
+NTB launch Open API Banking Platform
+
+Nations Trust Bank has launched a new era of banking with its Open API Banking Platform through which it is releasing a set of open APIs to the public so that trusted partner systems can directly integrate with Nations Trust Bank’ systems.
+Essentially this means that, using Nations Open API Banking, clients can integrate the Bank’s services directly into their own systems and workflows.
+The potential that Open API Banking has is unlimited, as it can be used by startups, large corporations, SME’s, independent app developers and even tech savvy individuals in their own businesses, day to day lives or when providing 3rd party solutions. Typical use case scenarios include ERP Automation, cash flow management, online purchases, fund transfers, payments, and white label services.
+Commenting on the strategy, Renuka Fernando, Director/CEO, Nations Trust Bank said, “The future of banking will be one of the safest public spaces, openness and inclusivity. This is why we have taken the initiative to launch Nations Open API Banking, creating a framework for collaborative innovation and progress like never seen before. We are proud to be the first bank in Sri Lanka, to take this definitive step towards the future”.
+Elaborating further, Thilak Piyadigama, COO, Nations Trust Bank said, “It’s time that banks let go of their ‘fortress’ mentality. It’s time to open up and collaborate.”
+“Open Banking is already popular in Europe and in the Far East where it’s governed by PSD2, which is the regulatory framework that sets standards for information sharing and security on Open Banking APIs. With Nations Open API Banking, we are joining what is becoming a global trend towards openness, collaboration and data sharing in the financial services industry.”
+Managing money across accounts at different banks will also be possible through a single access point of the customer’s choice in the future and the customer will be able to decide whether or not to share their information. “In terms of security, Open Banking is as safe as internet banking or any other digital banking channel. In addition to this we have gone to extreme lengths to ensure that our APIs conform to the highest international standards, which at the moment happen to be Europe’s PSD2”.
+“We’re also happy to say that John Keells Holdings PLC has already adopted some of our Open Banking APIs and have begun integrating their systems with ours at Keells Super Outlets.”
+Speaking about how they are using the Nations Open API Banking Platform, Charitha Subasinghe, Sector Head, Retail Sector, John Keells said, “Currently, we have used the FriMi API bundle available through Nations Open API Banking to directly integrate FriMi payments with our POS terminals at Keells supermarkets island-wide.”
+ 

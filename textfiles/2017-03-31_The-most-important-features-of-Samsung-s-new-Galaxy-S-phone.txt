@@ -1,0 +1,52 @@
+## Title: The 8 most important features of Samsung’s new Galaxy S8 phone
+## Section: Technology - Main
+## Date: 31 March 2017 08:54 am
+
+The 8 most important features of Samsung’s new Galaxy S8 phone
+
+
+	
+
+ 
+
+
+
+
+
+Samsung may still be trying to make up for its debilitating hardware nightmare, but it has one distinct advantage: it’s launching its new flagship phone, the Galaxy S8, early enough in the year that it gets to help establish a new standard for what a 2017 premium smartphone should be. One analyst even went as far as calling yesterday’s S8 event the launch of the “smartphone innovation Super Cycle.” If you believe that to be true, then that means the features of the new phone are some of the most innovative and important ones to date.
+
+Below are some of the key features of the Galaxy S8 phone that are likely to be the most talked-about, tested, and even copied over the next several months. We can’t say for sure whether these are the best features of the phone, because we haven’t had the chance to use it for an extended time period. But these are definitely the ones that make it stand out. Your move, Apple.
+
+Infinity Display
+
+The Galaxy S8 has a 5.8-inch display crammed into what feels like a normal-sized phone, with a barely-there bezel. That alone is a feat of engineering, but the phone is also a thing of beauty to look at. It has a clean, unbranded face; a bright, fluid-looking display; and a mirror-like glass back. So far, the one bad thing we’ve noted about the display is its bizarre aspect ratio, which might result in pillarboxed 16:9 videos. Otherwise, Samsung has pulled off an optical magic trick. By the way, if you still want an actual phablet: there’s a version with a 6.2-inch display, too.
+
+Force Touch
+
+Okay, Samsung isn’t calling it “Force Touch”; that’s Apple’s jam. But this new Galaxy S8 phone does incorporate a similar mechanism into the bottom half of it, which means that when you press on the (now entirely virtual) home button, it gives haptic feedback in response. Also! This phone doesn’t have a physical home button. It does have a fingerprint scanner, as well as face-scanning capabilities, which I’ll get to. The fingerprint scanner is now on the back of the phone, right next to the camera lens. It’s too soon to tell whether this placement is ill-advised.Better Selfie Camera
+
+
+
+Samsung was uncharacteristically... subdued when it came to the Galaxy S8’s photo-snapping capabilities, but that might be because the biggest change was made to the front-facing camera, not the rear camera. The selfie camera now captures 8-megapixel photos with an f/1.7 lens, and also has autofocus capabilities. In our brief tests of the front-facing camera, autofocus worked well and fast. Selfie lovers, you are welcome.
+"The face unlock feature is fast — so fast that maybe you should be worried"
+Fast Face Scanning
+
+Authentication through facial recognition has been a feature on Android phones and laptops for years now, but this is the first implementation made by Samsung itself. And, according to The Verge’s Dieter Bohn, who tested it during his brief hands-on with the S8: it’s fast. (So blink-of-an-eye quick, in fact, that he had to do multiple takes to try to show it on video.) The obvious upside: considering that the fingerprint sensor has been moved to the back, this kind of face-scanning tech could easily become the default mechanism for unlocking your phone. The downside: in the age of eroding privacy regulations and random airport searches, do you really want your phone to unlock that easily?Bixby
+
+It’s 2017, and Samsung has finally introduced its own virtual assistant: Bixby. Samsung is positioning it as a virtual assistant that’s largely focused on helping you get stuff done on the phone itself: you can set reminders, search through photo galleries, and cast your phone screen to your Wi-Fi-connected TV, all by pressing a dedicated Bixby button and talking to it. It’s also able to identify physical objects out in the wild (well, some of them at least). Less clear is how helpful Bixby will be at pulling in information from the web. The big question, then, is whether Bixby will simply play nice with the Google Assistant that’s already running on Android phones, or whether this is going to turn into a death match at the expense of your access to helpful information.
+"How will Bixby differentiate itself from Google Assistant?"
+DeX
+
+Using only your phone to power an entire desktop experience has long been the dream of business people who at some point in their lives had to carry big boxy ThinkPads around, but most attempts at that so far have been iffy. That’s where Samsung’s DeX comes in, short for “Desktop Experience.” DeX is a plastic bowl-like stand with a USB-C prong, a couple of ports, and a fan. It supports the Galaxy S8 and effectively gives you a PC-like mobile desktop on a display. Some apps are even optimized for the experience; although, the only browser it runs right now is Samsung’s own “Internet” browser. Is this the Road Warrior dream finally realized? We’ll see, but at first glance, it looked cool.
+Photo by Vjeran Pavic / The Verge
+3.5mm Headphone Jack
+
+I’m not being hyperbolic when I say that the lack of 3.5mm headphone jack is still one of the only reasons I haven’t upgraded to another phone. So I appreciate that a manufacturer like Samsung can try to move the needle forward in all kinds of ways (No more bezels! Face scanning! Bye, home button!), and yet still keep that little hole in the bottom of its phone. Okay, arguably, the fact that the phone supports Bluetooth 5 is more notable. But in my humble opinion, the 3.5mm headphone jack is still one of the most welcome features of the Galaxy S8. Well, that and...
+A Non-Exploding Battery (We Hope)
+
+It’s the elephant in the room: can Samsung recover from the Note 7? Samsung says it has learned from its fiery phone saga, and that it has implemented an eight-step battery-check process. And for what it’s worth, the S8 it appears to have taken a more conservative approach, based on milliamps alone. This is another one of those things we can’t fully assess until we’ve used the phone for a good period of time, but if it just performs like it’s supposed to and doesn’t burst into flames, then it’s a win for Samsung. And if it doesn’t? Nothing short of catastrophic for the company.
+
+www.theverge.com
+ 
+
+		

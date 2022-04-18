@@ -1,0 +1,17 @@
+## Title: SLT invests in boosting customers’Social Media experience
+## Supertitle: 
+## Section: Finance
+## Date: Monday, April 24, 2017 - 01:00
+
+SLT invests in boosting customers’Social Media experience
+
+Equipped with in-house caching solutions for top global social networks, Sri Lanka Telecom has clearly secured a key investment for the National Internet Infrastructure and all social media lovers; a distinct value addition when it comes to the improvement of quality for SLT broadband users who go online with their family and friends.
+Most of the content is now served within our shores without the need to search for off-shore servers to deliver target content, improve video chatting, and gain high definition for videos and so on.
+The caching servers are under the direct control of the respective social network hence there are no issues in privacy or third party involvement for securing content.
+Caching is a well-known mechanism used in the industry to improve user experience by saving the frequently used content of the users at first attempt and serving the same content at next attempts from the cache without requesting from the original servers located off shore.
+For an example, the first attempt to download a specific content will take up to 40 milliseconds, however following that the next attempt will take a mere 5 milliseconds from the cache.
+This will present users with the opportunity to download HD content, a clear enhancement for movies etc. This enhancement has already achieved a large increase in the demand for global social network sites and content browsing as well.
+The real benefit to the end-user is the improved latency, which can be described as accelerated, quick and fast response as a result of caching.
+A pioneer when it comes to the task of making the Internet available to all Sri Lankans, SLT has consistently invested in developing the National Internet Infrastructure over the past twenty years.
+The organization has been committed-to ensure that all Sri Lankans enjoy the very best Internet experience at the lowest possible prices.
+Priyantha Fernandez, Chief Network Officer said, “The quality of our Home and Office broadband services was significantly enhanced to provide dedicated Internet services to our customers where volume based packages offer one-to-one contentions. SLT Broadband packages provide the best broadband speed in the market with highest amount of data volumes, while our international Internet bandwidth has been significantly upgraded with a huge capacity to provide a better broadband Internet experience to customers. Social network caching was introduced; facilitating better performance for web based social networking applications, which in turn, enables an overall better internet experience”

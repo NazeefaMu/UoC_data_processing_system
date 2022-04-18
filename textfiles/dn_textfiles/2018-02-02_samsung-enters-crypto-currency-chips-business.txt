@@ -1,0 +1,18 @@
+## Title: Samsung enters crypto-currency  chips business
+## Supertitle: 
+## Section: Finance
+## Date: Friday, February 2, 2018 - 01:00
+
+Samsung enters crypto-currency  chips business
+
+The firm made the disclosure in its latest earnings report, where it said the activity should boost its profits.
+The report also confirmed that the South Korean company overtook Intel to become the biggest chipmaker last year.
+And it forecast strong demand for its forthcoming Galaxy S9 smartphone, which is due to be revealed on 25 February.
+Samsung Electronic's fourth quarter net profit totalled 12.3tn won ($11.5bn; £8.1bn), which was roughly in line with analysts’ expectations.
+But its shares jumped nearly 9% after the company revealed that it was splitting its stock 50-to-1, which should encourage trade in the asset.
+For now, Samsung is providing little detail about its new crypto-currency business.
+“Samsung's foundry business is currently engaged in the manufacturing of crypto-currency mining chips,” it said in a statement given to the BBC.
+“However we are unable to disclose further details regarding our customers.”
+Mining, in this context, refers to solving complex mathematical problems as a means to verify crypto-currency transactions - a task for which the owners of the computers involved are rewarded with new digital tokens or “coins”.
+The Bell, a Korean-language newspaper, has reported that the processors involved are Asic (application-specific integrated circuit) chips.
+These are chips that are custom-designed to carry out a single task - in this case “mining” Bitcoin or another specific crypto-currency - but not general computing operations. (BBC)

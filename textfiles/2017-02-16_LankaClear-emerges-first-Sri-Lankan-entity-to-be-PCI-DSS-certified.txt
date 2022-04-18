@@ -1,0 +1,30 @@
+## Title: LankaClear emerges first Sri Lankan entity to be PCI-DSS certified
+## Section: Financial News
+## Date: 16 February 2017 12:00 am
+
+LankaClear emerges first Sri Lankan entity to be PCI-DSS certified
+
+
+	
+
+
+
+From left: Harsha Wanigatunga, Deputy General Manager – IT and Operations of LankaClear; Channa de Silva, General Manager/CEO of LankaClear; Anil Amarasuriya, Chairman of LankaClear; Nitin Bhatnagar, Head - Business Development, SISA;. Dileepa Lathsara, CEO of TechCERT; Nalinda Herath, Lead Security Engineer of TechCERT; and Samoda Abeydeera, Information Security engineer, TechCERT. PCI-DSS Project Team of LankaClear 
+
+
+
+ 
+
+LankaClear achieved another gigantic milestone bybecoming the first entity in Sri Lanka to obtainthe certification of Payment Card Industry Data Security Standard (PCI-DSS),version 3.2. 
+The trust that they have built over the years was further boosted by this certification, which is at the zenith of international data security standards in the payment card industry. 
+PCI DSS standard is very effective in reducing payment card related breaches, as LankaClear understood the intent behind each requirement and implemented it smoothly with the help of a good standing qualified security assessor (PCI-QSA) and the commitment from the LankaClear Board and Senior Corporate Management.
+As a safeguard to the payment industry in the face of rising payment card data breaches the world over, the Payment Card Industry Security Standards Council (PCISSC), governing body of PCIDSS, was established in 2006 by the world’s leading international card schemeswhojoined togetherfor this effort. Accordingly, the founding members of PCISSC aligned and improved their internal information security mechanismsto come up with a unified information security programme for the payment card industry, which saw the debut of the Payment Card Industry Data Security Standard (PCI-DSS), along with some of the other supporting standards such as PA-DSS, PCI-PIN, P2PE, etc.
+Expressing his view on this remarkable achievement, Anil Amarasuriya, Chairman of LankaClear stated “With the growing number of security incidents the world over, today,data security is of paramount importance. Although no organization could be immune to the rising tide of data security risks and the fact that vulnerabilities can’t be totally eliminated, obtaining an internationally acclaimed security standard such as PCI-DSS certainly signifies the organization’s commitment towards security, being true to its brand promise of becoming the country’s trusted national payment network. LankaClear is indeed proud to be trailblazing Sri Lanka’s payment industry to come on par with international standards, thereby providing a robust payment infrastructure for the banking and financial sector.Thisis vital for the stability and public confidence placed on the entire banking system.”
+ “It is indeed a landmark achievement by LankaClear to obtain this world renowned certification, which is a testament to our commitment to maintain international standards for all our services. The rigorous process that the entire organization, people, process and culture, went through to achieve this envious status also encompasses a change in our DNA as to how the organization now views security as a whole. Maintaining such an exhaustive international benchmark is not a one-off activity, but an ongoing process and the organization has now laid an excellent foundation to be vigilant and ready to face any security eventuality,” LankaPay, is steadfast to this cause and would do its utmost to exceed expectations of all our stakeholders”said, Channa de Silva, General Manager/CEO of LankaClear.
+SISA Information Security was the PCI Qualified Security Assessor(QSA) responsible for carrying out the stringent pre and post audits to confer the PCI-DSS certification to LankaClear. 
+SISA Worldwide CEO and Founder, Dharshan Shanthamurthy expressing his views said, “Maintaining the safety of card data and banking systems should be one of the top priorities in card acquiring and issuing companies. We are glad to know LankaClear holds the same belief and is working hard towards it.” 
+Dileepa Lathsara, CEO of TechCERT while applauding LankaClear stated, “We at TechCERT congratulate LankaClear on successfully achieving PCI-DSS V3.2 certification and becoming the first Sri Lankan Organisation to achieve this significant milestone. TechCERT, as the lead project consultant and the solution implementation partner, is proud to be part of this tremendous achievement. The effort that the LankaClear team has put in to provide a secure online payment infrastructure should be highly appreciated since they set up the first national level certification authority for Sri Lanka in 2009, in collaboration with TechCERT.”
+“PCI DSS certification has the highest security standard for payment card related data. LankaClear being PCI DSS ver. 3.2 certified creates the highest security standards for payment card related data within LankaPay Infrastructure. In addition LankaClear has gone the extra mile in adopting the same standard for bank customer account related data,” said Harsha Wanigatunga, Deputy General Manager – IT and Operations of LankaClear.
+ 
+
+		

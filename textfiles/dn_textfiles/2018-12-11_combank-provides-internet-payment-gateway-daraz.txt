@@ -1,0 +1,17 @@
+## Title: ComBank provides Internet Payment Gateway to Daraz
+## Supertitle: 
+## Section: Finance
+## Date: Tuesday, December 11, 2018 - 01:00
+
+ComBank provides Internet Payment Gateway to Daraz
+
+The Commercial Bank of Ceylon has been appointed the Internet Payment Gateway (IPG) service provider to ‘Daraz,’ South Asia’s premier online shopping market, to enable seamless online transactions for its large base of shoppers.
+The online payment processing of Daraz will be facilitated by Commercial Bank through Mastercard Payment Gateway Services (MPGS) and will provide the portal the convenience of a secure, cost-effective way to perform card on file transactions through tokenisation, keeping sensitive card details away from its systems.
+Tokenisationalso offers customers the convenience of one-click online purchases fully-compliant with Payment Card Industry Data Security Standard (PCI-DSS) requirements.
+This is the only solution of its kind available from a local bank to support entities like Daraz, the Bank said.
+The merchant service provided by Commercial Bank to Darazwill cover the authorisation of Credit and Debit cards, and direct payment processing for the online shopping portal. Visa and Mastercard are the accepted payment options through this service.
+Commercial Bank’s IPG solution provides access to a comprehensive set of fraud mitigation tools, supporting both ‘Mastercard SecureCode’ and ‘Verified by Visa’ 3D secure authentication solutions. It also supports device-optimised payment screens which are designed to provide a seamless experience to users of various devices.
+Commenting on the IPG support provided to Daraz, Commercial Bank’s Deputy General Manager- Marketing, Mr Hasrath Munasinghe said: “We are delighted to add an online retailer of the calibre and size of Daraz to our list of clients. The volumes and the frequency of transactions processed will be an excellent testament to the speed, reliability and safety of our IPG services.”
+Bart van Dijk, Country ManagerDaraz said: “We are committed to increasing our customers’ convenience and choice through affordable financing and payment innovations. Through the partnership with Commercial Bank, one of the leading financial powerhouses in the island, we hope to enrich customer experience, increase affordability and solve payment needs of Sri Lankan consumers, all of which have proved to be our critical differentiators. We are also happy to introduce Commercial Bank customers to a simple, convenient and secure payment method, provide special discounts and a truly unique shopping experience.”
+Launched in 2016, Darazis South Asia’s premier online shopping marketplace with an active presence in Pakistan, Bangladesh, Sri Lanka, Myanmar and Nepal.Supported by a wide range of tailored marketing, data and service solutions, Darazhas 30,000 vendors, 500 brands and serves five million consumers across the region.
+The online shopping website has more than 2.5 million products on offer, and is growing at a rapid pace. It offers a diverse assortment in categories ranging from consumer electronics to household goods, beauty, fashion, sports equipment and groceries.Daraz was acquired by the Alibaba Group in May 2018.

@@ -1,0 +1,37 @@
+## Title: Bots, explained
+## Supertitle: 
+## Section: Features
+## Date: Wednesday, April 20, 2016 - 01:00
+
+Bots, explained
+
+While the technology to simulate conversation with a computer has been around for decades, bots — or “chatbots” — are an increasingly trendy model for software.
+This new obsession came on fast. But why Where did these bots come from Who is building them What for Is a fake conversation better than just clicking buttons You’ll be hearing a lot more about bots soon, so here’s an overview.
+What is a bot
+A bot is software that is designed to automate the kinds of tasks you would usually do on your own, like making a dinner reservation, adding an appointment to your calendar or fetching and displaying information. The increasingly common form of bots, chatbots, simulate conversation. They often live inside messaging apps — or are at least designed to look that way — and it should feel like you’re chatting back and forth as you would with a human.
+What do bots do
+Some bots are used to handle a variety of customer service requests, which would normally require a telephone call to a human agent. One example: Taco Bell has released a bot that allows you to order and pay for tacos through an automated chat conversation.
+Other bots like X.ai can help schedule your meetings for you. Simply add the bot to your email thread, and it will take over back-and-forth conversation needed to schedule a meeting, alert you once it’s been arranged and add it to your calendar. As bot technology improves, the thinking is that bots will be able to automate all kinds of things; perhaps even something as complex as your taxes.
+Where do bots live
+Chatbots already exist in many of the places where you communicate, primarily messaging apps, which lend themselves to a conversational interface. There are bots in Slack, the business-focused messaging service, many of which aim to help with work-related tasks like expenses or to-do lists.
+Kik Messenger, which has 275 million registered users, recently announced a bot store. This includes one bot to send people Vine videos and another for getting makeup suggestions from Sephora. Twitter has had bots for years, like this bot that tweets about earthquakes as soon as they’re registered or a Domino’s bot that allows you to order a pizza by tweeting a pizza emoji. Many expect Facebook to roll out a bot store of some kind at its annual F8 conference for software developers this week, which means these bots may soon operate inside Messenger, its messaging app. It has already started testing a virtual assistant bot called “M,” but the product is only available for a few people and still primarily powered by humans.
+Who is building these bots
+Many of the same companies that are building the apps that you use on your phones are building bots. A bunch of big companies are betting big on bots, including Microsoft and Slack, which has easy access for bots.
+Google, the company with perhaps the greatest artificial intelligence chops and the biggest collection of data about you — both of which power effective bots — has been behind here. But it is almost certainly plotting ways to catch up. Google Now, its personal assistant system built within Android, serves many functions of the new wave of bots, but has had hiccups. The company is reportedly working on a chatbot that will live in a mobile messaging product and is experimenting with ways to integrate Now deeper with search.
+Where did the idea for bots come from
+Bots have been around for more than 50 years. With the recent global boom in mobile messaging apps, such as WeChat, Facebook Messenger and Slack, they’re seen as increasingly relevant. They’ve likely been right under your nose. The first bots on Twitter starting rolling out in 2006.
+Why are we hearing so much about them now
+One key reason: The technology that powers bots, artificial intelligence software, is improving dramatically, thanks to heightened interest from key Silicon Valley powers like Facebook and Google. That AI enables computers to process language — and actually converse with humans — in ways they never could before.
+It came about from unprecedented advancements in software (Google’s Go-beating program, for example) and hardware capabilities.
+Another reason is that Facebook, which has 900 million Messenger users, is expected to get into bots. Many see this as a big potential opportunity; where Facebook goes, the rest of the industry often follows. Slack, which lends itself to bot-based services, has also grown dramatically to two million daily users, which bot makers and investors see as a potentially lucrative market.
+It helps that messaging is seen as a fresh opportunity, especially for interacting with a corporation in the same personal space you’d normally interact with a friend.
+“The chat space is sort of the last unpolluted space [on your phone],” said Sam Mandel, who works at the startup studio Betaworks and is also building a weather bot for Slack called Poncho. “It’s like the National Park of people’s online experience. Right now, the way people use chat services, it’s really a good private space that you control.” (That, of course, could quickly go sour if early implementations are too spammy or useless.)
+You might also argue that the increasing use of consumer technology has made people impatient, especially when it comes to customer service. Social media helped streamline those conversations, and now bots can automate them.
+Will bots replace apps Are they better
+Part of the current obsession with bots is driven by a perceived fatigue with apps — so developers and companies are looking to bots as a new path to reach consumers.
+But bots won’t kill apps anytime soon. It’s more likely they could replace parts of some apps, especially where there’s some sort of complex transaction involved or customer service. The downside of bots is that they’re often one-dimensional.
+“I’ve seen a lot of hyperbole around bots as the new apps, but I don’t know if I believe that,” said Prashant Sridharan, Twitter’s global director of developer relations. “I don’t think we’re going to see this mass exodus of people stopping building apps and going to build bots. I think they’re going to build bots in addition to the app that they have or the service they provide.”
+While AI advancements have propelled bots, industry insiders caution that the AI is not quite yet capable for really polished chat bots. Computers can cull up baseball stats or recommend a restaurant, but they still can’t maintain a complex conversation (which is why Facebook’s “M” is still powered by humans).
+“To be honest, I’m a little worried about the bot hype overtaking the bot reality,” said M.G. Siegler, a partner with GV, the investment firm formerly known as Google Ventures. “Yes, the high level promise of what bots can offer is great.
+But this isn’t going to happen overnight. And it’s going to take a lot of experimentation and likely bot failure before we get there.”
+Recode.net

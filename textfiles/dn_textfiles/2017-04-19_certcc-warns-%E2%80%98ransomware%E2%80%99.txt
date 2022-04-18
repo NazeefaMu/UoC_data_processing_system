@@ -1,0 +1,11 @@
+## Title: CERT/CC warns of ‘Ransomware’
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, April 19, 2017 - 01:00
+
+CERT/CC warns of ‘Ransomware’
+
+The Sri Lanka Computer Emergency Readiness Team (CERTC) yesterday warned about a new computer malware called ‘Ransomware’.
+The new malware installs covertly on a victim’s device (e.g., computer, smartphone, wearable device) and either mounts the cryptoviral extortion attack from cryptovirology that holds the victim’s data hostage, or mounts a cryptovirology leakware attack that threatens to publish the victim’s data, until a ransom is paid.
+Simple ransomware CERTC may lock the system in a way which is not difficult for a knowledgeable person to reverse, and display a message requesting payment to unlock it. More advanced malware encrypts the victim’s files, making them inaccessible, and demands a ransom payment to decrypt them.
+The ransomware may also encrypt the computer’s Master File Table (MFT) or the entire hard drive. 

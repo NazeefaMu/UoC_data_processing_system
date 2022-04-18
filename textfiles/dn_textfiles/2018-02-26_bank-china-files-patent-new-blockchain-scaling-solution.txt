@@ -1,0 +1,14 @@
+## Title: Bank Of China files Patent for  new Blockchain Scaling Solution
+## Supertitle: 
+## Section: Finance
+## Date: Monday, February 26, 2018 - 01:00
+
+Bank Of China files Patent for  new Blockchain Scaling Solution
+
+The commercial, state-run Bank of China, not to be confused with the People’s Bank of China, the country’s central bank, has filed a patent with the Chinese State Intellectual Property Office (SIPO) for a solution to scale Blockchain technology systems, according to local news outlet tech.ifeng.
+The bank originally applied for the patent on Sept. 28, 2017, with a Zhao Shuxiang indicated as the patent’s inventor, but SIPO only released news of the patent on Feb. 23, 2018.
+The patent contains a method for compressing Blockchain data that seeks to solve the problem of storage space in new blocks without compromising on traceability and immutability.
+As described in the patent, the amount of data stored in in new blocks would be reduced in the following way: when a full-size node receives a compression request from a client, it compresses transaction data from multiple blocks into a single “data block”, which would then be temporarily hosted on a different data storage system.
+This data would then be run through a hash function with the data block hash value, and the compression transaction would map the relationship between the compressed block, the data block, and the compression event, which would all be recorded on the Blockchain.
+While China has been one of the stricter countries globally in terms of cryptocurrency regulation, having banned Initial Coin Offerings (ICO) and foreign exchanges from operating within the country, the South Korean Finance Minister spoke earlier this month of a need to cooperate with China in the sphere of Blockchain during a meeting with the governor of the People’s Bank of China.
+ 

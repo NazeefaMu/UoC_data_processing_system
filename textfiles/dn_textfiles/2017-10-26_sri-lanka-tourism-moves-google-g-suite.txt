@@ -1,0 +1,16 @@
+## Title: Sri Lanka Tourism moves into Google - G Suite
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, October 26, 2017 - 01:00
+
+Sri Lanka Tourism moves into Google - G Suite
+
+Sri Lanka Tourism Development Authority (SLTDA), the apex body of Sri Lanka tourism, has moved into G Suite, the cloud based application from Google, to improve its internal communications and to advance the services it offers to the industry – at large.
+The SLTDA is one of the first Sri Lankan state sector institutions to move into G suite, a package that can provide a workstation with a whole new way to work together online - not just using email and chat, but over video conferences, social media, real-time document collaborations and many other services.
+The solution also covers the Sri Lanka Tourism Promotional Bureau (SLTPB), another institution coming under the Tourism Development and the Christian Religious Affairs Ministry.
+“The SLTDA is using G-Suite to provide productivity tools to its staff, and also to manage our customers, while connecting them with the staff,” said Udana Wickremasinghe, Director ICT of SLTDA.
+The SLTDA’s direct customer-base includes over 5,000 tourism industry service providers across the country.
+The organization, Wickremasinghe said, decided move into a cloud-based platform to enhance performance and efficiency of the internal team by giving them effective tools.
+“But, we needed to take several factors into consideration. Accessibility and security were of critical importance to us. We needed our members to engage with the system while on the move. Also, Google has the highest uptime in Cloud platforms globally. You cannot simply remember the last time Google was down! That is why we opted to proceed with G Suite,” he added. “G-Suite integrates seamlessly with our existing platforms and provides mobility and robust security.
+As part of the deployment, a workflow solution will be implemented, which is built on Google App Engine code named 'OVERC'. This suite of applications designed to address business needs, automation, operations and services delivered to the tourism industry, with analytics,” the Director ICT said, explaining how G Suite will enhance performance of the institution.
+The SLTDA, he said, had engaged Sri Lanka's Google partner Finetech Consultancies to support the roll-out of G-Suite, while assisting the organisation through the deployment and driving internal adoption of the new platform. Finetech has previous experience doing over 300+ such deployments in Sri Lanka, Maldives and Bangladesh 

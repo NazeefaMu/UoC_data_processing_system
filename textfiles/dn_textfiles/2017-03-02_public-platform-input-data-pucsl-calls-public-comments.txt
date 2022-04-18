@@ -1,0 +1,21 @@
+## Title: Public platform on input data: Pucsl calls for public comments
+## Supertitle: 
+## Section: Local
+## Date: Thursday, March 2, 2017 - 01:00
+
+Public platform on input data: Pucsl calls for public comments
+
+The Public Utilities Commission of Sri Lanka (PUCSL), the electricity sector regulator, seeks public comments on the input data parameters and assumptions of the Least Cost Long Term Generation Expansion Plan (LCLTGEP) 2018-2037 submitted by the Ceylon Electricity Board (CEB). LCLTGEP of CEB is prepared based on the input data.
+“This is the first time that we are opening the platform for public comments on the input data which will be used to develop the long term generation expansion plan. The comments on the fuel prices, social damage cost, cost and other parameters used to model renewable energy technologies and other conventional generation plants will be taken very seriously in our approval process of the plan,” Public Utilities Commission of Sri Lanka Director General Damitha Kumarasinghe, said.
+“We hope to increase the transparency of the approval process through this measure and increase the public participation in the decision making process of Sri Lanka’s most important energy generation plan,” he said.
+Sri Lanka plans to generate 15,160 Gwh of electricity in 2017 with a peak demand of 2,585 MW, the base case forecast data shows. The electricity generation forecast for 2042 is shown as 49,121 Gwh with a peak demand of 7,784 MW. The generation demand is expected to grow 5.9 percent per annum during 2018-2022 while in addition the peak demand is expected to grow at 5.1 percent per annum.
+The input data specifies the demand forecast, reliability criteria, economic parameters, fuel prices, cost and other parameters that use to model new generation technologies, to identify and develop the least cost generation plant mix in accordance with the government policy and Least Cost Generation Expansion Planing Code by PUCSL.
+The input data will be fed to the generation planning software, a model that permits the user to find an optimal expansion plan for a power generating system over a long period and within the constraints defined by the planner.
+The Loss of Load Probability, the parameter which identifies the percentage that may leave a power system with insufficient capacity to meet demand, is considered as maximum 1.5 percent during the planning period.
+Reserve margin, (capacity minus demand) /demand), the parameter which shows the ratio
+between the excess capacity availability and the demand, is considered within the maximum of 20 percent and a minimum of 2.5 percent for the 2018-37 LCLTGEP.
+The input data said that the Social Damage Cost, the environmental impact and the impact to society by the generation of electricity, will be determined using a break-even analysis with comparison to latest available studies.
+Under Economic Parameters, An economic discount rate of 10 percent will be used as a base rate for discounted cash flow analysis related to all analyses and for calculating the net present value of all alternatives to the Base Case.
+The value of un-served energy, the economic cost to the country by not delivering energy expectation, is considered in the economic analysis to develop the Plan and the value of un-served energy for the first submission of the Plan (in 2011) stood at 0.50 USD/kWh is now at 0.663 USD/kWh.
+Sri Lanka has 08 thermal power plants owned by the CEB with the capacity of 1,506.7 MW, operated using auto diesel, residual oil, furnace oil, naphtha and coal and input data shows that three committed thermal power plants with the capacity of 505 MW, which use natural gas, furnace oil and auto diesel for operation will be added.
+The existing independent power producers generate 652 MW of electricity in Sri Lanka, the data shows. 16 hydro power plants are existing in Sri Lanka with the capacity of 1388 MW and the data shows 03 hydro power plants with the capacity of 182.2 MW are committed to be operated during the period of 2019-2022

@@ -1,0 +1,28 @@
+## Title: PTL has tampered with call recordings says metropolitan
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, August 30, 2017 - 01:00
+
+PTL has tampered with call recordings says metropolitan
+
+Perpetual Treasuries Limited (PTL) has tampered with telephone call recordings which they handed over to the Treasury Bond Commission, it was revealed yesterday.
+The evidence was led through Metropolitan Communication Limited Chief Engineer Nalin Dharmaratne which installed the call logger system at the PTL in June 2015.
+PTL CEO Kasun Palisena, who was testifying in the morning session at the Presidential Commission of Inquiry investigating into the Treasury bond issue, was ordered to get down from the witness box for a new witness to testify before the PCoI.
+New witness Dharmaratne took to the witness box to give evidence proving that PTL has tampered with the call logger system while PTL CEO Palisena was requested to leave the court room.
+Chief Engineer Dharmaratne informed the PCoI that PTL has reinstalled the call logger system and its back up. The Commissioners questioned Dharmaratne as to how he could prove such reinstallation has taken place.
+Dharmaratne said Metropolitan Communication’s mother company located in India accessed the PTL call logger system online and gave a report stating that such a reinstallation has been done. According to Metropolitan Communication’s mother company, PTL has newly installed the call logger system using the backup CD they were provided with initially, to a new computer.
+Dharmaratne also informed the PCoI that PTL then has selectively copied call recordings which were in wave file format to the reinstalled call logger system.According to Dharmaratne, call recordings are saved in two different folders belonging to the system.
+One folder saves the recorded call in the wave file format while the other records the caller information including call ID, data type, call time, trunk, caller number, call type, duration and the call status, Dharmaratne explained.
+Asked as to how Dharmaratne confirms that the call recordings available in the call logger system were selectively copied from the original system, the witness said the data base did not consist sequence numbers which prove the case.
+Meanwhile PCoI observed that this evidence may explain as to what happened to some telephone conversations which seemed to have gone missing as informed by the Deputy Solicitor General Milinda Gunatilake at an earlier stage of the hearing.
+Dharmaratne also informed the PCoI that the call logger system that his company sold to PTL included both call recording facility and the call information recording facility.
+ASG Kodagoda pointed out that call information relevant to these recordings must then be available, contrary to what PTL CEO Kasun Palisena and PTL IT executive Sachit Devathantri claimed in their affidavits submitted to the PCoI. According to Palisena’s affidavit, submitted on August 18, 2017, the call logger system installed in PTL does not record call information such as the incoming or outgoing caller number, time and duration.
+ASG Kodagoda asked the witness if Palisena’s statement was a “big, fat lie” followed by laughter from those present at the hearing. The witness said Palisena’s statement is incorrect.
+Dharmaratne said if call information is needed, the backup system will provide a copy.
+Evidence was also led to suggest that PTL may have removed the Acer Aspire 2631 Voice Logger Computer, which is a part of the call logger system originally installed by Metropolitan Communication Limited later to replace it with another computer.
+ASG Kodagoda who meticulously led evidence through the witness, hurdled the difficult technical explanations regarding the matter using images of how the call logger system works.
+Meanwhile, Senior Additional Solicitor General Dappula de Livera informed the PCoI that there is a possibility of having another computer in to which the original call logger system was installed.
+If such be the case, Livera requested the PCoI to issue an order allowing CID to take the removed computer into custody, which will contain the hard disk carrying all the information the PCoI is looking for.
+Dharmaratne also informed the PCoI that the reinstallation of the call logger system and its backup system violates the service agreement between PTL and Metropolitan Communication Ltd. According to the service agreement, no modification, removal, alteration, adjustment should be done to the call logger system without consulting the service provider. The agreement, the PCoI observed that was signed by PTL CEO Kasun Palisena.
+The PCoI also questioned Dharmaratne on a complaint logged by the PTL stating that some call information are not properly recorded by the system. Explaining the technicalities of the issue, Dharmaratne said the mishap was only related to phone digits being not completely recorded but nothing else. He also said they corrected the issue in December 2015.
+Dharmaratne is to be cross examined today (29) by President’s Counsel Kalinga Indatissa who represents Kasun Palisena.

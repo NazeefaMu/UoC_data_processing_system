@@ -1,0 +1,23 @@
+## Title: WhatsApp down for a brief period
+## Section: Breaking News
+## Date: 3 November 2017 02:44 pm
+
+WhatsApp down for a brief period
+
+
+	
+
+The messaging App, WhatsApp has been hit by a major outage stopping millions of people from using it for a brief period around the world, the Independent reported a short while ago.
+
+People couldn't send or receive messages using app owing to a server problem. However, the services are being restored gradually.
+
+The app didn't initially look broken, with chats and contacts able to load. But once a user was into a chat, the app just showed a "connecting" message that never resolves itself, and so new messages couldn't be sent or received.
+
+The website Down Detector showed a huge spike in problems with the app, suggesting that almost everyone is unable to get online. The problems are focused in western Europe and Asia, but were reported across the world.
+
+There were relatively few reports of problems from the Americas, but that might simply be a result of the fact that timezones mean that many people there were asleep.
+
+WhatsApp Web, which uses the phone's connection, was also broken.
+ 
+
+		

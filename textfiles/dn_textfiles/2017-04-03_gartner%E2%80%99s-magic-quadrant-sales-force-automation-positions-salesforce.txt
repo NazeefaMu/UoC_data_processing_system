@@ -1,0 +1,13 @@
+## Title: Gartner’s Magic Quadrant for Sales Force Automation positions Salesforce in Leaders Quadrant
+## Supertitle: 
+## Section: Finance
+## Date: Monday, April 3, 2017 - 01:00
+
+Gartner’s Magic Quadrant for Sales Force Automation positions Salesforce in Leaders Quadrant
+
+Salesforce, the Customer Success Platform and world's #1 CRM company, announced that for the 10th consecutive year, Salesforce has been positioned by Gartner, Inc. as a leader in the August 2016 Magic Quadrant for Sales Force Automation (SFA).
+Salesforce is named a Leader for SFA based on completeness of vision and ability to execute for its Sales Cloud Lightning solution.
+Gartner defines SFA as applications that “automate the sales activities, processes, and administrative responsibilities for an organization's sales professionals. Core capabilities include account, contact and opportunity management, pipeline management, and sales forecasting. Additional (non-core) capabilities that are often a part of SFA offerings include lead management, content management, guided selling, quote management, territory management, partner relationship management (PRM) and analytics.”
+Salesforce has delivered innovation to some of the largest sales teams in the world including Accenture, American Red Cross, Twitter, Vodafone and many more companies across the globe. This past year has been especially exciting with Salesforce Lightning, which continues to be a game changer for companies looking to connect with customers in a whole new way.
+Salesforce’s Sales Cloud Lightning is the world’s #1 sales application. With Sales Cloud Lightning, sales representatives can sell faster, sell smarter, and sell the way they want all the way from lead generation to billing.
+Salesforce, the Customer Success Platform and world's #1 CRM company, empowers companies to connect with their customers in a whole new way. Salesforce.com is the world’s largest provider of customer relationship management (CRM) software. Salesforce recently launched their products in Sri Lanka in partnership with CyberSoft (Pvt) Ltd, a respected IT company established in 1996. 

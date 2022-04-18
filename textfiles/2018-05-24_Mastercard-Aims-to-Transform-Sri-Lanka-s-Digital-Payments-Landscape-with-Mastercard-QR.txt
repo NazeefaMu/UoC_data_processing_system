@@ -1,0 +1,21 @@
+## Title: Mastercard Aims to Transform Sri Lanka’s Digital Payments Landscape with Mastercard QR
+## Section: Press Releases
+## Date: 24 May 2018 11:51 am
+
+Mastercard Aims to Transform Sri Lanka’s Digital Payments Landscape with Mastercard QR
+
+
+	
+
+Mastercard unveiled Mastercard’s Merchant Presented QR payment solution in Sri Lanka, a safe and secure Quick Response (QR) based mobile payments solution. The solution enables shoppers to safely pay using a mobile application with a standardized QR code support to scan the merchant-presented QR code, which works on smartphones. Ushering in a new era for digital payments in the island nation, Mastercard QR can easily be integrated into existing mobile payment solutions offered by financial service providers and works with existing Mastercard cards as well. 
+
+“Mastercard is excited to bring Mastercard QR to Sri Lanka, one of its key focus markets in South Asia. Continuing to support the country’s ongoing efforts to encourage adoption of cashless payments, Mastercard seeks to simplify access to digital payments for businesses and consumers through this fast, secure, convenient and cost-effective solution,” said R. B. Santosh Kumar, Country Manager, Sri Lanka and Maldives, Mastercard.
+
+Mastercard QR enables merchants to accept Mastercard payments using a simple EMV Co standard QR code that merchants can display at their Point of Sale (POS) without the need for any physical equipment. They can also use a dynamic EMV Co QR code generated on the merchant’s mobile device. It is a low cost and easy-to-deploy technology, designed to benefit every merchant, whether they are based in a major city or a remote area. Thus, it opens up a world of opportunities to small and micro merchants across the country who are challenged by a traditional terminal approach for payments.
+
+“The initial response on Mastercard QR from Mastercard's local customers and partners has been very encouraging. Mastercard is working together to integrate it into their existing systems. We look forward to seeing many more merchants and consumers availing the convenience and security of digital payments through solutions such as Mastercard QR,” added Santosh.
+
+The release of the EMVCo QR Codes Specification in July 2017 has further propelled the proliferation of the interoperable QR Standards of QR Payments across Asia. These standards mean that merchants can now display a single QR code to accept different types of payments, and significantly simplifies the consumer and merchant experience in QR payments. Besides the successful launch in India in 2016, Mastercard is working closely with banks and non-banking financial service providers to roll this out in other countries like Thailand, Vietnam, Taiwan and Singapore. 
+ 
+
+		

@@ -1,0 +1,29 @@
+## Title: Mastercard launches several new APIs for developers
+## Section: Financial News
+## Date: 5 July 2017 10:32 am
+
+Mastercard launches several new APIs for developers
+
+
+	
+
+To meet the growing business demand for consistent, seamless and secure commerce, Mastercard Developers has released several new APIs to supply financial institutions, merchants and digital solutions providers with the tools they need to enable payments on new platforms.
+
+
+Through its Open API platform, the company is providing access to more than 40 proprietary payments, data and security products and services for easy integrationinto innovative digital solutions.
+In the U.S., FreshDirect, Subway and The Cheesecake Factory are payment-enabling chat bots with Facebook Messenger using the Masterpass Chatbot API. Uber and Lyft are making it simple for drivers to collect their pay in near real time through on-demand payroll with the Mastercard Send APIs. 
+
+
+U.K. gastro pub chain Young’s Pubs are integrating the Qkr! with Masterpassto allow diners to pay for food, start a taband split their bill without having to wait in line or for a restaurant server.
+
+
+The newest solutions available on Mastercard Developers range from helping businesses gain insights on their performance in the era of IoT to digitizing the ways in which their consumers shop and manage personal finances.Mastercard has also added to the New & Experimental API category within the Mastercard Developers platform, enabling partners to test the very latest in technologies and applications.
+
+
+“We’refocused on making it simple for our partnerstocreate enhancedpayments experiences without having to reinvent the wheel,”said Oran Cummins, senior vice president, API. 
+
+
+“By giving them the access they need to explore and build new technologies, we can scale our solutions with greater speed.”
+ 
+
+		

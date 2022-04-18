@@ -1,0 +1,29 @@
+## Title: EGUARDIAN Hosts Arista Cloud Builders Session for Industry Leaders
+## Section: Press Releases
+## Date: 27 April 2018 01:44 pm
+
+EGUARDIAN Hosts Arista Cloud Builders Session for Industry Leaders
+
+
+	
+
+Bhardwaj Naik, Director Sales, India & SAARC, Arista Networks speaking at the event
+
+EGUARDIAN Lanka, Sri Lanka’s leading value added IT distributor, recently held a knowledge sharing forum for their customers at the Taj Samudra. Over 120 participants from finance, telecom and software were brought together to understand how they can adapt their businesses to evolving needs ina shifting tech landscape by utilizing Arista’s SDN and NFV technologies. The focus of the session was the innovative cloud building solutions from Arista.
+
+The forum covered a full range of technical topics based on transforming businesses and gave practical demonstrations of the groundbreaking features of Arista’s patented EOS (Extensible Operating System), which is becoming a game changer in the industry.
+
+Arista’s EOS is a disruptive technology that embraces open system architecture to allow users more flexibility and the ability to scale to hundreds of thousands of compute and storage nodes with management and provisioning capabilities. Through its programmability, EOS enables a set of software applications that deliver workflow automation, high availability, unprecedented network visibility and analytics and rapid integration with a wide range of third-party applications for virtualization, management, automation and orchestration services.
+
+Arista’s solutions, representing the highest density, smallest footprint and lowest power consumption of all the major switching vendors, reduces the complexity and risk of cloud computing as the world moves to such platforms to achieve better agility and economy. Additionally, Arista’s reference designs provide innovative ways to build, manage and scale data centers, driving down both capital and operational expenditures.
+
+
+
+“As technologies evolve and business processes become more complex we are seeing that the cloud, and the cost effective flexibility it provides, is fast becoming a necessity for innovative and daring organizations. Hence events like this are vital in spreading the latest advancements in the field of cloud computing and how best it can serve businesses. As Sri Lanka takes its place in the global market it is important that local businesses take advantage of every competitive edge so that they might compete on a global scale. Local customers, too, will benefit from the added convenience and security,” said NaleendraWeerapitiya,Head of Technical – EGUARDIAN.
+
+Arista Networks was founded to pioneer and deliver software-driven cloud networking solutions for large datacenter storage and computing environments. Arista's award-winning platforms, ranging in Ethernet speeds from 10 to 100 gigabits per second, redefine scalability, agility and resilience. Arista has shipped more than fifteen million cloud networking ports worldwide with CloudVision and EOS, an advanced network operating system. Committed to open standards, Arista is a founding member of the 25/50GbE consortium.
+
+EGUARDIAN Lanka commenced operations in 2010 and has already established a strong presence in the market as the sole authorized distributor in Sri Lanka for global leaders such as Fortinet, HP Enterprise Security, Algosec, Arista, and Radware. With offices in Bangladesh and Oman the company has grown and succeeded in building a strong reputation for seamless service and exceptional performance.
+ 
+
+		

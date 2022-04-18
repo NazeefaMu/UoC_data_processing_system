@@ -1,0 +1,25 @@
+## Title: A resilient rice that withstands saline soil University of Wayamba goes a step forward with DNA tech
+## Section: News Features
+## Date: 19 December 2018 12:00 am
+
+A resilient rice that withstands saline soil University of Wayamba goes a step forward with DNA tech
+
+
+	
+
+
+
+A research team comprising undergrads from University of Wayamba has started a project to recognize salt tolerant genes using rice cross. The long-term objective of the project is to compile all salt tolerant genes into a single line using a simple breeding technique. The project also targets developing a salt resistant variety of rice genes that can withstand saline soil. 
+
+Previously, with the assistance of National Science Foundation and International Rice Research Institute, Philippine, they were able to develop a cross between At354, a salt tolerant rice variety and Bg352, a salt susceptible rice variety. This helped to map several regions of the rice genome containing salt tolerant genes. 
+
+Now, National Research Council funds the project. This project is headed by Prof. Nisha Kottearachchi, Biotechnology Department, Faculty of Agriculture and Plant Management of University of Wayamba, together with the support of Dr. D.R Gimhani, Senior Lecturer of the Faculty of Agriculture and Plantation Management, University of Wayamba, Dr. Venura Herath, Senior Lecturer of Faculty of Agriculture, University of Peradeniya and Ms. Buddihini Abeynayake, the PhD student of the project.
+
+The research team has already recognised the salinity tolerant genes. Prof. Kottearachchi commented about the further researches on this project as follows: “At first, we crossed two rice varieties, At354, Bg352. Then we developed F5 generation of this cross by self-pollination. We analyzed F5 population using new DNA marker called “SNP” using Illumina Infinium rice 6K SNP chip sponsored by International Rice Research Institute (IRRI), Philippines. From this investigation we were able to map tentative areas of the genome containing salinity tolerant genes. By now, under the funds of National Research Council, we were able to sequence whole genome of At354, a salinity resistant variety, and Bg352, a salinity susceptible variety using the technique called Next Generation Sequencing. Now, we are in the process of exploring salt tolerant alleles by annotating the DNA sequence corresponding to the previously mapped genomic areas using computer software tools. 
+
+
+
+“This project will reveal novel information on the candidate genes of salt tolerance which would be useful to rice breeders in the Department of Agriculture, Sri Lanka and to the outside world to develop salt-tolerant resilient rice cultivars. This project improves the human and laboratory capacity in the area of plant molecular breeding which is an undeveloped area in Sri Lanka”.  
+ 
+
+		

@@ -1,0 +1,27 @@
+## Title: Mastercard Empowers SMEs to Thrive in Digital Marketplace with Simplify Commerce
+## Section: Press Releases
+## Date: 30 July 2018 02:03 pm
+
+Mastercard Empowers SMEs to Thrive in Digital Marketplace with Simplify Commerce
+
+
+	
+
+Mastercard announced the launch of Simplify Commerce,a simple and secure platform that makes it easier for businesses to accept electronic payments, regardless of a payment brand, in Sri Lanka. This feature rich element of Mastercard Payment Gateway Services isnow available to acquiring banks and non-banking financial institutions as well as their small-to-midsize merchant customers across the island. 
+
+Taking skill levels and resource constraints into account, the platform has been designed in such a way that users can set it up and start accepting paymentsin a matter of minutes. It has powerful payments and business management features that help simplify backend processes, allowing merchants to focus on core business functions as they enter and thrive in the digital marketplace.
+
+Mastercard is working closely with banks and other stakeholders in Sri Lanka to leverage the capabilities of this platform to help businesses earn additional revenue by connectingthem with the large base of customers who are looking to shop online.
+
+“We are excited to bring Simplify Commerce to Sri Lanka, one of our key markets in the region. In our continuous support to the country’s ongoing efforts for adoption of cashless payments, we seek to simplify access to digital payments for businesses and consumers through this fast, secure, convenient and cost-effective solution,” said R. B. Santosh Kumar, Country Manager – Sri Lanka and Maldives, Mastercard.
+
+Merchants can use Simplify Commerce to accept electronic payments online, in-app, and in person using the Simplify virtual terminal,regardless of the payment brand. It allows themto create their own web store without any technical skills and sell products on e-commerce and social media channels. Moving away from physical invoices, merchantscan issue secure e-invoices branded with their own business logo and colors, all managed from a central dashboard. Simplify’s mobile app for iOS and Android allow themto accept payments, send e-invoices and monitor payment activity in real time, on the go. A merchant can also add products to the storefront.
+
+Merchants will also have access to Mastercard’s powerful fraud screening tool, Gatekeeper, which is leveraged by some of the world’s leading brands. The brand agnostic solution helps ensure that fraudulent activity is accurately detected while genuine business is protected.Merchants can securely store cards of repeat customers on file with Simplify’s PCI-certified platform and set up automatic recurring payments. They can integrate Masterpass, the digital wallet from Mastercard that simplifies the checkout process, with one secure account, into their checkout with a single line of code.
+
+The open Simplify platform allows developers to access the APIs and Software Development Kits (SDKs). Merchants and acquirers can work with developers to build Simplify’swhite labelled features into their own sites, using sample source code and engineering support available to them.
+
+“The initial response from our local customers and partners has been very encouraging. We are working together on integrating it into their existing systems. We look forward to more merchants and consumers availing the convenience and security of digital payments through our solutions such as Simplify Commerce.” added Santosh.
+ 
+
+		

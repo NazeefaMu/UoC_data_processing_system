@@ -1,0 +1,75 @@
+## Title: Construction of knowledge through Scientific method Scientists go on guessing until they come across
+## Section: Opinion
+## Date: 21 August 2018 12:05 am
+
+Construction of knowledge through Scientific method Scientists go on guessing until they come across
+
+
+	
+
+In western science, induction is called into play in generalizing from a limited number of observations of a property of a sample (s) to the entire population very often infinite in numbers. These are usually abstract inductions. A good example is the falling of objects to the earth.   
+
+
+Isaac Newton would have observed some apples falling when released from the trees. What he did was to generalize this experience to all objects (not merely apples) near the earth, and to make the generalized statement that all objects near the earth fall to the earth when released. That was abstract induction, and the population was the objects near the earth. Then of course he had the problem of the moon that did not fall.   
+
+
+This is the first stage of western science. The population is identified, samples are considered, some property of the sample (s) is observed, and the property is generalized to the entire population, very often of infinite number of members. With respect to populations with infinite number of members we are dealing with abstractions.   
+
+
+As can be seen in induction it is assumed that the relevant property is common to the entire population. As has been said induction belongs to rationalism in western philosophy. In western science, it is assumed that with respect to a certain property the entire population behaves the same way. This is nothing but another “axiom”.   
+In the second stage scientists attempt to give an “explanation” of the generalized abstract observation. This is where abduction comes in. Abduction is guessing and nothing else. It belongs to rationalism in western Philosophy and by abduction scientists arrive at “axioms”. In guessing it is assumed again that the “axiom” applies to the entire population.   
+
+
+Why do the objects near the earth fall to the earth? Newton had an answer to the question. Others might have given different answers to the question, which did not work. Finally, it was Newton’s guess on gravitation that worked.   
+
+
+However, it did not work for the entire population. The moon does not fall. Newton could have excluded the moon from the population by taking the moon not to be near enough to the earth. However, he did not do that, as he wanted his guess to be universal, and gave an explanation as to why the moon does not fall to the earth. It was with his laws of motion and by considering circular motion. 
+
+ 
+Newton’s guess could be considered as an abstract generalization valid for any two objects in the universe. However, it has to be mentioned that Newton did not explain how this force operates, and it was nothing but spooky action at a distance, if we use a later expression by Einstein with respect to Quantum Mechanics.   
+Abductions are guesses, and the scientists go on guessing until they come across a guess that works. However, these guesses are culture dependent, and abstract. Very often, it is those scientists in cultures that help abstract thinking who come out with successful abstract guesses. The guesses are made in a certain paradigm in Thomas Kuhn’s sense, and when a guess cannot be made in the existing paradigm, the scientist has to make a guess with respect to the paradigm as well.
+
+Paradigms are also guessed and guessing of a new paradigm is considered as revolutionary science by Kuhn.
+
+
+A paradigm prescribes the Game Rules that have to be adhered to in making guesses of “axioms”. A change of paradigm or paradigm shift is a change of the Game Rules. In the Newton paradigm all velocities were relative to the so-called inertial frames, but in Eisenstein paradigm this rule was changed, and the velocity of light remained constant in all so-called inertial frames of reference.   
+
+“Axioms” and paradigms are guessed in a culture. Both Newton and the Eisenstein paradigms were created in western Judaic Christian culture, while Quantum Mechanics was created outside Judaic Christian culture with its Aristotelian Logic.Bohr who was a pioneer in creating Quantum Mechanics was influenced by Ying -Yang idea in Chinese culture.   
+
+
+Any guess is subject to correction, and would not hold for the entire population for all situations. Guesses, and hence “axioms” which are sometimes called theories, are valid only for limited cases. It can be said that the guesses work only for a limited number of cases, approximately, and one should expect them to fail in some cases. This is somewhat similar to Karl Popper’s falsification, and guesses or “axioms” or theories are subject to falsification, after particularization as explained below. The guesses are never right but only “work” under certain circumstances. However, an “axiom” is not thrown away, simply because one of its particularization does not work. It is used wherever it works, leaving aside the case when it does not work. The theory of gravitation due to Newton was not thrown away just because its particularization with respect to the orbits of the planets around the sun did not work. It is still used wherever it works.   
+
+
+This is based on pragmatism, and abduction is based on pragmatism as a Philosophy. It does not come as a surprise to note that abduction was introduced in US that follows a pragmatic philosophy. Quantum Mechanics, though not “understood” by western scientists within their culture continues to be used for its pragmatic features in western science mainly because US is the dominant force in science today.   
+
+Verification of “axioms”
+
+
+ Guessing of “axioms” belong to rationalism and not empiricism in Western Philosophy. The “axioms” are abstract statements, and one can go on deriving results as in Mathematics using rules of inference, as Greeks used to do with Euclidean Geometry. However, Science is not Mathematics, and one is interested in finding out whether the “axioms” have any sense with respect to observations.   
+
+
+ We have previously said that “axioms” work in certain situations, and one should have wondered as to what is meant by working. This is a tricky question and involves a jump from general to particular. It is the reverse of induction, and may be called particularization, for want of a better word.   
+
+
+As “axioms” are abstract statements, what are deduced from them using rules of inference are also abstract statements. For example, from Newton’s theory of gravitation one could derive that an object is attracted towards another object with a certain acceleration that increases as the distance between them decreases. From this abstract statement scientists jump to the particular case of an apple falling to the earth, and say that the apple falls to the earth with increasing acceleration.   
+The “axioms” are not verified by observations. The “axioms” are abstract statements in western science, while observations are concrete experiences. An “axiom” has to be first particularized before an observation is made. Thus, what is verified or falsified is not the “axiom” but a particularization of the “axiom”. 
+
+ 
+Karl Popper’s falsification of theories could be valid only for particularization. However, even then the “axioms” are not thrown away completely, but are made use of under special circumstances. This is a consequence of the nature of “axioms”. As “axioms” are guesses, they can be guessed only as far as certain situations are concerned, and not to cover the entire ambit of the population.   
+
+
+In western science the “axioms” are not supposed to be true or false but to work under certain conditions. Firstly, the “axioms” do not reflect a reality as such and the old “inference” that if a theory “P implies a certain result Q, and if Q is observed, then P is valid” does not hold. It is not obtained from any rule of inference as such, as the rule of inference states that “If P is valid and P implies Q, then Q is valid”. Secondly “axioms” can be guessed only within a limited range of observations to work. 
+
+ The so-called Scientific Method
+
+
+Paul Feyerabend said anything goes in science. However, there is a method in western science, though that method is used by others as well. It is a guessing game called abduction, that is practiced by rats in finding out the way to escape from a maze, by the children in learning a new technique or acquiring new “knowledge”, by search engines that throw out thousands of guesses, by artificial intelligence and people etc. The difference between the others and the western scientists is that the guesses of the others are concrete, while the guesses of the western scientists are abstract. Western doctors in diagnosing use the method of abduction, though concrete.   
+
+
+In western science from a limited number of observations of a property of the members of a very large population, very often infinite, by induction generalized abstract statements are made. In generalizing it is implicitly assumed that the property holds for the entire population. Having made generalized statements with respect to the relevant property, western science looks for explanations for the property. These explanations are not causes as such but some guesses that work. The guesses unlike in the case of rats and ordinary people are abstract. Having guessed working “axioms” a jump is made through particularization to test whether the “axiom” in a concrete form works in a limited range. No “axiom” will work in the entire range.   
+
+
+Western Science is said to be “pattapal boru” since the “theories” are only abstract guesses that cannot be even imagined, and do not “exist”. Boru or Asath is the opposite of Aththa or Sath, sath meaning existence. However, it has to be emphasized that existence does not refer to an objective existence (ontological). In this essay we have considered Western Science as a set of constructions (guesses) that attempt to explain an already existing (pre or post Kantian) nature, and not natures constructed by the observers as described in Nirmanathmaka Sapekshthavadaya (Constructive Relativism).       
+ 
+
+		

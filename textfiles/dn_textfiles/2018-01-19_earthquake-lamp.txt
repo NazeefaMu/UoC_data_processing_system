@@ -1,0 +1,13 @@
+## Title: Earthquake Lamp
+## Supertitle: 
+## Section: Features
+## Date: Friday, January 19, 2018 - 01:00
+
+Earthquake Lamp
+
+The Earthquake Lamp is a connected lamp that reacts in real time to earthquakes around the world. After the Political Lamp, the cloud lamp that reacts to the tweets from Donald Trump, this new creation by Parse/Error explores the connection between the human and the planet Earth, as a tangible interaction, and crystallizes our fear and our fascination for the power of nature.
+Behind its appearance of a beautiful object, with a clean and simple design, the Earthquake Lamp unveils its true nature when it responds in real time to earthquakes from around the world with light pulses and a disturbing rumble.
+A hidden face that immediately changes the observer’s behavior, between anxiety and fascination, but also invites him to contemplate the reality and beauty of a living planet, constantly in motion.
+This creation is inspired among others by the great earthquake of Tohoku, in Japan in 2011.
+Linked to the data from IRIS (Incorporated Research Institutions for Seismology), the Earthquake Lamp reproduces earthquakes worldwide with a delay of only a
+few minutes. Ufunk 

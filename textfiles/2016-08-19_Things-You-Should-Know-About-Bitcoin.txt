@@ -1,0 +1,39 @@
+## Title: 5 Things You Should Know About Bitcoin
+## Section: Technology - Main
+## Date: 19 August 2016 01:43 pm
+
+5 Things You Should Know About Bitcoin
+
+
+	
+
+
+
+Okay, what is Bitcoin in the first place? Well, it’s a digital currency which is obtained and held
+electronically, it's tied to no banks, and, perhaps the most appealing aspect of Bitcoin, no one controls it. Encryption techniques are used to regulate the generation of units of currency and verify the transfer of funds. To the amazement, according to USA survey, only 24% of people know what Bitcoin is.
+
+Creator of the Bitcoin
+
+Bitcoin is a digital currency that was created in 2008 by Satoshi Nakamoto. But one of the strangest things about the currency is creator, Nakamoto. Despite the code name, his or heridentity remains completely unknown.
+
+Creator wallet
+
+It is estimated that the creator of Bitcoin, hold large amount of Bitcoins, which are worth of 480 million US dollars.
+
+Earliest Transaction
+
+In 2010, two pizzas were bought using 10,000 Bitcoins. But, the value of Bitcoins are in the rise since then. As for today the two pizzas were worth over 4 million US dollars.
+
+Mining Computers
+
+Computer power of the computer that runs and mines Bitcoins grew tremendously high. It’s said that the computer power enhanced 30,000% in 2013. It’s power is very high compared to the modern supercomputers. 256 times more powerful than the world’s top 500 supercomputers combined.
+
+Finite Supply
+
+Since, Bitcoins are ‘mined’ by computers solving algorithms, as there is a finite supply of it,
+the last will be mined in 2140 when there will be 21 million Bitcoins circulation. As of the time of this writing, according to CoinBase, a Bitcoin is worth of 576.87 US dollars
+
+Compiled by Tharique Azeez
+ 
+
+		

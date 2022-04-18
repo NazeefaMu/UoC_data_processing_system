@@ -1,0 +1,14 @@
+## Title: On-line database for paddy sector
+## Supertitle: 
+## Section: Local
+## Date: Thursday, September 28, 2017 - 01:00
+
+On-line database for paddy sector
+
+It has been decided to have an on-line database system for paddy/rice stocks which could easily be accessed by any official or member of the public at any time.
+The Policy Development Office of the Prime Minister’s Office issuing a press release stated that every year, the government makes an effort to stabilize the price of paddy. However, owing to non-availability of comprehensive information, success is limited.
+Establishing a computerized digital MIS system for the paddy sector will strengthen that effort and decision makers, relying on this MIS, will be able to make informed decisions as to the quantity of paddy and rice available in the country, and the actual need to supplement by way of imports, the release stated.
+The project will be implemented under the cooperation of government and private institutes, led by the National Planning Department, with the guidance of the Central Programme Management Unit of the Ministry of National Policies and Economic Affairs of which the Prime Minister is Minister.
+This will include the data of the extent of paddy such as cultivable, actually cultivated in any season, harvested stocks available, stock purchased by the Paddy Marketing Board, pledged loans granted by banks, import and export figures etc. The database is expected to be uploaded at district level preferably just after the harvesting of each season initially by the officials of the Consumer Affairs Authority and the Paddy Marketing Board attached to each district. Updating of the MIS will start with the next harvesting of the Maha season 2017/18, the release stated.
+The information related to the extent planned to be cultivated, actual extent cultivated and paddy production in any given season, is uploaded to the MIS with the assistance of the Department of Agriculture and the District Administration, in each season.
+The data provided by the Sri Lanka Customs on the value and quantity of import and export of rice are uploaded to the system monthly. The state and private banks agreed to provide holistic details of pledged loans taken by millers in each season. The pledged loan details could be used to do certain verifications for the existing stocks with millers and stocks with traders. The online database for paddy/ rice has been developed with the technical assistance of the Faculty of Computing and Technology, University of Kelaniya, the press release added. 

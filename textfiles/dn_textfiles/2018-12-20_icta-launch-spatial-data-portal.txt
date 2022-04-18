@@ -1,0 +1,16 @@
+## Title: ICTA to launch Spatial Data portal
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, December 20, 2018 - 01:00
+
+ICTA to launch Spatial Data portal
+
+Information and Communication Technology Agency (ICTA) announced the launching of the National Spatial Data Infrastructure (NSDI) system soon as part of a national initiative for effective decision-making.
+The system is based on amassing available geographic data scattered with many government organizations and making use of this data to enhance the accessibility, communication, and use of geospatial data to support a wide variety of decisions at all levels of society.
+NSDI is a platform that maintains an updated spatial database intended to create a common environment where all stakeholders and the public can corporate with each other, access relevant data as well as contribute in providing relevant data for others to use.
+Sri Lanka is fast moving into being an information and knowledge society – especially with the emphasis on Information Technology and transparent e-governance. The next decade will see further large-scale investment in communications technology as Sri Lanka moves to exploit the full potential of the information age.
+Among the variety of datasets that would be involved, spatial (or map) information will be a major content. These Spatial information sets are vital to make sound decisions at the local, regional, state and central level planning, implementation of action plans, infrastructure development, disaster management, and business development.
+The NSDI platform is expected to benefit decision makers especially in the areas of natural resources management, flood mitigation, environmental restoration, land use assessments and disaster recovery. More specifically, it is expected to deliver benefits in the following areas; NSDI will contribute in solving major agricultural issues such as whole farm planning and natural resource management. Sri Lanka faces a host of environmental problems such as land degradation, pollution, poor management of water resources, loss of biological diversity, coastal erosion, increasing scarcity of water for agriculture and improper water disposal polluting agricultural land etc.
+The effective use of available spatial data will help in protecting the environment along with balancing the increased development in the agricultural sector which will in turn lead to higher productivity and profitability.
+Land Use: NSDI will enable land use planning for sustainable utilization and management of land resources. Maintaining a common platform with essential data about lands can contribute immensely in protecting them and avoiding land use conflicts.
+Archaeology: NSDI provides reliable data on the country’s archaeological sites, their boundaries, entrance restrictions and buffer zones etc., to ensure smooth management of our heritage sites.

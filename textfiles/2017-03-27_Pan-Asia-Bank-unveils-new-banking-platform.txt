@@ -1,0 +1,60 @@
+## Title: Pan Asia Bank unveils new banking platform
+## Section: Financial News
+## Date: 27 March 2017 01:41 pm
+
+Pan Asia Bank unveils new banking platform
+
+
+	
+
+In today’s context, people are constantly looking for fast, convenient and easy means to conduct business in order to save time. In such cases, the Internet has become a platform that many turn to, largely due to its accessibility at any given location, at any given time.
+Making use of the ease that the Internet gives, Pan Asia Bank, Sri Lanka’s fastest growing commercial bank, recently launched an Internet banking solution platform that users can access from any location 24/7, 365 days a year.
+Pan Asia Bank Chief Information Officer Aruna Rathugamage spoke with us about the new Internet platform, its uses and other details. 
+Following are the excerpts from the interview. 
+
+
+
+First of all, can you tell me why online banking has become such a vital component on banking?
+The way I see it, first of all, is that it has become a de facto standard; every bank offers online banking and we can’t go without it. And the other thing is that people don’t have time to go to a bank. You also need access to your money 24/7, you don’t have time to go and stand in a queue. 
+I see several stages in the evolution of banking. In the past, going to the bank was a long process where you have to get a number and eventually your name gets called and you go and sign and get the money. And then came the ATM and the bank came halfway to meet you. The third stage is where the bank is actually coming to your home with online banking. The fourth stage is cognitive banking, where the bank is actually ahead of you. The bank knows what you need next. That is how the banking is keeping up with the times and in that context online banking is a necessity. 
+
+ 
+
+Where does your new Internet platform come into this?
+The new Internet banking is a state-of-the-art platform, which is highly advanced. It also uses very little data which addresses one of the major issues when you access the Internet on your phone. This is built on Ajax technology so that means when you refresh the page, it won’t refresh the whole page, only the changed items. This enables us not to burn the data bill of our customers unnecessarily.
+
+ 
+
+What are the features that this platform offers to the user?
+We have formed tie ups with quite a number of service providers so that you can pay your bills via the platform. Then we have included the cross bank money transfer and within seconds the money gets transferred. What’s more security wise, we give a One Time Password (OTP) when you are about to make a payment or adding a beneficiary. You also get a feature where you can create shortcuts to the functions you use often, if you are doing bill payment all the time, you can save it on the home page so that you don’t have to go looking for it every time.
+
+ 
+
+How will this platform help you with the digital disruption that is taking off across many fields?
+All our new IT developments including the new Internet banking and mobile app are built on an architecture, where we use micro services and APIs, which means you can compose and give novel and innovative functionality with minimal time to market.
+
+ 
+
+Is it compatible with any device?
+Yes, basically we use what we call adaptive or responsive technology. It changes the format to the device it uses. In your web browser of your computer, you will have a different format but when you use it on your mobile phone’s web browser, the site stacks all the elements one below the other, rather than cutting and compressing it. The platform is responsive to any device so there is no hassle to find what you want. 
+
+ 
+
+Is there a separate app as well?
+Yes, you can download the app from the Apple App Store or Google Play Store for Android. The app offers the same features. 
+
+ 
+
+What can you say about your existing corporate web portal?
+That is again, state-of-the-art. It too is responsive and adapts formatting to fit any device. Through research, we have found that people don’t read websites, they rather browse them. So using that knowledge, we have designed the portal so that the user can find what they want very easily, it’s compact and precise, not at all cluttered. 
+
+ 
+
+Can you also speak about the bank’s future?
+ We have progressed quite rapidly in the recent past. For three years we were voted the fastest growing commercial bank and we plan to continue aggressively in that direction using both the branch network and the online services. 
+We are also hoping to expand our branch network, which is at 82 now. We are also going to employ the digital channels to reach more customers. 
+
+ 
+ 
+
+		

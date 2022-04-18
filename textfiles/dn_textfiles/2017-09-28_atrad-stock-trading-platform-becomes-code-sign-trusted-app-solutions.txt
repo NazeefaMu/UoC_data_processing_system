@@ -1,0 +1,17 @@
+## Title: ATrad stock trading platform becomes a  Code Sign trusted app solutions provider
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, September 28, 2017 - 01:00
+
+ATrad stock trading platform becomes a  Code Sign trusted app solutions provider
+
+IronOne Technologies has announced that its Next Generation Online Trading Platform ATrad has been awarded ‘CodeSign verified trusted Windows OS(tm) Application’ certification, implying that ATrad desktop clients can accept push updates from its servers and update the application seamlessly without any user intervention.
+IronOne Technologies is now one of a few companies in Sri Lanka to hold the CodeSign verified trusted Windows OS(tm) Application certification. ATrad is a sophisticated solution that facilitates stock trading for advisers and investors and has the added capability to act as back-end solution for brokers.
+A ‘CodeSign verified’ certification effectively secures all types of Windows-based application code and software with digital signatures, offering secured interactions with the ATrad application suite.
+Rajitha Kuruppumulle, IronOne Technologies’ CEO Asia Pacific, stated: “This certification further entrenches the trustworthiness and reliability of the ATrad application. It is a testimonial to IronOne's commitment to offer the broker community a complete trading, back office, accounting and margin trading solution. As endorsed by some of the leading trading firms in the country, ATrad has simplified the world of online trading and we will continue to add greater value to the application.”
+ATrad is geared to effectively support and align with the Colombo Stock Exchange's requirements, including those introduced with the new CDS system, ensuring a seamless experience for clients. It offers support for multiple classes of assets, easily encompassing the CSE's two currently-offered asset classes - Debt and Equity.
+In addition, the ‘Risk Manager’ function is capable of providing a comprehensive risk management solution to broker firms, allowing them to adapt smoothly to the delivery versus Payment (DvP) settlement system that the stock exchange will require.
+With the drive to encourage foreign investment, both by the CSE and stockbroker firms, ATrad's ability to handle orders placed by third parties with ease, using their own systems and receiving backward status updates in real-time, is a valuable feature.
+Clients have commended the complete functionality for mid and back office operations offered by the solution as well as its seamless integration with third party ERP solutions.
+The application's interoperability ensures that it works well with leading front-office software so that firms can transition with minimal disruption to their day-to-day operations.
+ATrad is the preferred trading solution offered to investors by many broker firms in Sri Lanka, with the most number of clients on an online trading platform. Some of the nation's leading broker firms feature on ATrad's list of clients.

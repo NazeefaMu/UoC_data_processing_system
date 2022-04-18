@@ -1,0 +1,31 @@
+## Title: Australia unveils starfish-killing robot to protect Barrier Reef
+## Section: International
+## Date: 1 September 2018 12:01 am
+
+Australia unveils starfish-killing robot to protect Barrier Reef
+
+
+	
+
+
+
+ 
+
+SYDNEY AFP Aug31, 2018- A robot submarine able to hunt and kill the predatory crown-of-thorns starfish devastating the Great Barrier Reef was unveiled by Australian researchers on Friday. 
+
+ 
+Scientists at Queensland University of Technology (QUT) said the robot, named the RangerBot and developed with a grant from Google, would serve as a reef protector”for the vast World Heritage site off Australia’s northeastern coast.  
+
+
+The RangerBot has an eight-hour battery life and computer vision capabilities allowing it to monitor and map reef areas at scales not previously possible.  
+
+
+It is the world’s first underwater robotic system designed specifically for coral reef environments, using only robot-vision for real-time navigation, obstacle avoidance and complex science missions,”said Matthew Dunbabin, the QUT professor who unveiled the submarine.  
+
+
+Multi-function ocean drone can monitor a wide range of issues facing coral reefs including coral bleaching, water quality, pest species, pollution and siltation.”Software will also enable the bot to detect crown-of-thorns starfish, which eat coral, and an injection which is fatal”to the predators, he said, adding that the injection is harmless for other reef creatures.  
+
+ 
+ 
+
+		

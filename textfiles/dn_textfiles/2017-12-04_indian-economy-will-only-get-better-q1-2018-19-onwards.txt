@@ -1,0 +1,28 @@
+## Title: Indian economy will only get  better from Q1 2018-19 onwards
+## Supertitle: 
+## Section: Finance
+## Date: Monday, December 4, 2017 - 01:00
+
+Indian economy will only get  better from Q1 2018-19 onwards
+
+Why do people continue to flog a dead horse? Probably because some people aren’t convinced it is dead. This comment is about persistent critiques of revision in India’s national income accounts in January 2015. That changed the base, switched from GDP at factor cost to gross value added (GVA) at market prices, altered the source and brought national accounts more in conformity with international practice.
+This had been building up since 2008, with contributions from several respected national income estimation experts, and was no sudden sleight of hand in January 2015. This is par for the course and revisions should occur every five years, as better data and better sources of data become available.
+There will probably be another revision soon, with base shifting from 2011-12 to 2017-18. If nothing else, transition to GST warrants that. This doesn’t mean there are no issues with data. When a substantial chunk of the economy is informal/unorganised, that is inevitable. While this remains a problem even for full-year numbers, it is more serious for quarterly figures. In addition, national income estimates are in current or nominal rupees.
+
+These are deflated (using GDP deflator as measure of inflation) to get constant figures (with 2011-12 as base). There are issues with the GDP deflator. It could be better and will no doubt be refined over time.
+Thus, most economists will be more comfortable discussing (a) nominal growth; and (b) full-year numbers. But when Q2 of 2017-18 figures surface, there will be hype and debate about 6.3% real GDP growth in Q2, just as there was over 5.7% in Q1.
+Let’s stick to real GDP growth, with growth of 5.7% in Q1 and 6.3% in Q2. But do note, after January 2015 changes, what’s really estimated is GVA. GDP is derived from GVA by adding taxes and subtracting subsidies. Real GVA growth was 5.6% in Q1 and 6.1% in Q2.
+The difference between the two may look like decimal point differences, but there is a methodological issue.
+Since GST is under implementation, if you were India’s chief statistician, do you think you would have an enviable task if you were asked to derive GDP from GVA? When there are better indirect tax figures, these Q2 numbers are certain to be revised. Sticking with GDP, what does the full year look like?
+Indeed, and it shall, as reforms introduced by the government take hold.
+Starting with Q1 of 2018-19 (probably even Q4 of 2017-18), growth should cross 7% and inch towards 8%. There is plenty of slack within the system, though approach towards 9% requires exports to perform better. (Q2 export numbers aren’t very good.) Do note that measures introduced by the government are broadly supply-side. These show results with a time-lag. Give it a couple of years.
+There was never any reason for the gloom and doom that 5.7% unleashed. No one has conclusively established any link between demonetisation and growth.
+There were transient effects, but those passed soon. GST is different. Few countries have implemented GST, as opposed to VAT, and even fewer have implemented something like a dual (Union and state) GST. GST implementation is a process and it takes time. Eventually, it leads to efficiency and growth and addition to tax revenue.
+But in the interim, it inevitably has transition problems.
+Other measures have also sought to incrementally shift more of the informal/unorganised to formal/organised. Though this too increases efficiency, it does lead to an immediate shock for the informal/unorganised. Part of the challenge for CSO (Central Statistical Organisation), or anyone for that matter, is to estimate impact on informal/unorganised, not only for quarterly estimates, but also the full year.
+Behind national income, there is something economists call a national income identity. National income is the sum of consumption, investment, government expenditure and net exports. If growth has to pick up, one of these four has to drive that. With the evidence of Q2, generalising a bit, consumption expenditure and government expenditure have driven growth. But understandably, because of fiscal constraints, there are limits to government expenditure.
+What about net exports (meaning both exports as a plus and imports as a minus) and private investments? Based on Q2 alone, neither has done that well. However, in some segments, there is still excess capacity, there are signs of private investment recovery, though there is a legacy of stressed assets in banks. Stated differently, to use an expression economists are prone to use, there are indeed structural problems and reforms are meant to address those. This is one way to look at the problem.
+Another way would be sectoral.
+Based on Q2 again, worries would be agriculture and construction. Both have a strong employment angle. Indeed, higher growth is necessary for employment generation. There too, India has a data problem.
+The gloom and doom of 5.7% was unwarranted. That is the bottom line. If you happened to fall for it, Q2 gives you a more realistic picture. From now on, the news will only get better. Expect a bit of that in the last two quarters of 2017-18, but be patient, there will be more in 2018-19.
+(economictimes.indiatimes.com)

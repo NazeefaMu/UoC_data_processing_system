@@ -1,0 +1,19 @@
+## Title: iOM integrates business intelligence solution at Seylan Bank
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, January 19, 2017 - 01:00
+
+iOM integrates business intelligence solution at Seylan Bank
+
+Business intelligence (BI) is a computer based technique used in spotting, digging-out and analysing data.
+iOM BI uses a set of methodologies, processes, architectures, and technologies that transform raw data into meaningful and useful information used to enable more effective strategic, tactical and operational insights and decision-making.
+iOM BI also includes technologies such as data integration, data quality, data warehousing, master data management, text and content analytics, among others. iOM recently integrated the Business Intelligence solution to the HR information system at Seylan Bank.
+With a staff cadre of over three thousand employees with different banking experiences and skills, to be able to analyse them in order to ensure that its 140 plus branches are optimally staffed was a nightmare. iOM BI allows the HR staff to analyse this information instantaneously.
+Customised Graphical ‘Dash-boards’ immediately alert users of any critical areas.
+Some of the ‘Dash-Boards’ in use currently are ‘Performance Management’, ’Transfer Requests and Transfers’, ’Competency Comparison’, ‘Resignations and Recruitment’ to name a few.
+iOM BI with its ‘Drag and Drop’ capabilities allows non-Technical (ie non IT) HR staff to create their own Analysis Reports.
+These reports can not only be created with ‘Drill-Down’ capabilities but can be exported at the press of a key into an Excel Worksheet, a PDF, a Word document or even a Text file. All reports can also be viewed graphically and can be scheduled to be emailed to any given number of ‘Users’.
+iOM BI is built using the latest technologies including ASP.net MVC, Kendo UI, AJAX  WCF web services  and SQL Server data tools such as ISIS & SSAS and is not only 100% web based but is also responsive (re-sizes the output to fit the screen) to any smart devise such as a tablet or smart phone.
+Capable of collating together information from different data sources ie SQL, DB2, Oracle etc, as well as Excel spread sheets or even Text files iOM BI has unlimited potential for analyzing data across all industries.
+Back in 1979, when IT was at its infancy, iOM (known as EDS at the time) was one of the pioneering system integrators that computurised some of the largest state-owned and blue-chip Organisations across Asia.
+Having started as an integrator of Finance, Distribution and Manufacturing Solutions (commonly known as ERP today) together with Implementation and Software Maintenance services, subsequently iOM introduced its own product line for niche markets.

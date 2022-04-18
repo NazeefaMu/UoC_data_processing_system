@@ -1,0 +1,21 @@
+## Title: AI used to predict chances  of recovery from brain trauma
+## Supertitle: 
+## Section: Finance
+## Date: Friday, September 7, 2018 - 01:00
+
+AI used to predict chances  of recovery from brain trauma
+
+Chinese researchers and doctors have built an artificial intelligence model that uses medical imaging to help determine whether patients with severe brain damage might regain consciousness.
+Severe brain injury can lead to disorders of consciousness, or DOC, which are characterized by changes in the level of awareness.
+Some patients can recover from an acute brain injury, but others fall into chronic DOC, which is also known as a vegetative state. They cannot communicate or act consciously.
+China has more than 500,000 patients with chronic DOC caused by brain trauma, stroke and other brain diseases, with 70,000 to 100,000 new cases each year. Most patients are bedridden and require laborious care, bringing great stress and heavy costs to their families.
+Most doctors assess the chances of recovery according to three main indicators: the patient’s age; the cause of the disorder; and the duration of the disorder. Studies have shown that patients with traumatic brain injury have a higher likelihood of recovery than those with nontraumatic brain injury, and young patients are more likely to have a favorable outcome than older ones. Doctors also observe patients’ actions, with tests such as clapping hands or tracking eyes, to identify evidence of awareness.
+However, behavioral assessments are subjective and vulnerable to personal interpretation. For doctors, a lack of experience, poor training or ignorance of a patient’s other health problems can cause misjudgments, said Song Ming, a researcher of the study.
+Researchers from the Chinese Academy of Sciences’ Institute of Automation, along with doctors from the People’s Liberation Army General Hospital and the General Hospital of Guangzhou Military Command, spent five years developing an AI model that can make an assessment based on images of brain functional networks.
+“When a brain functions, multiple brain regions are involved, and they form a network, working together. Like two mobile phones, though no actual wire links them, they have a functional connection when people make a phone call,” Song said.
+A medical imaging technique known as resting state functional MRI has been widely used in recent years to study the brain functions of DOC patients. Through MRI scanning, Song and his colleagues found typical features seen in the brain functional networks of DOC patients, which can be biomarkers to trace the level of consciousness and predict the possibility of recovery. To train the AI, developers fed it tens of thousands of brain images from 63 DOC patients at least one month after sustaining a brain injury, said Jiang Tianzi, the lead researcher.
+The model diagnosed patients who would recover consciousness and those who would not with an accuracy of 88 percent in 100 cases.
+The research was recently published in the international journal eLife.
+Reviewers of the journal were impressed by the sample size used in the paper, but Jiang said more data will be needed to confirm the validity and reliability of the model.
+“We believe the model can make an accurate assessment and might help families of DOC patients understand the outcomes in advance and make an informed decision,” Jiang said.
+It is not the first AI technology to help doctors. (Chinadaily.com)

@@ -1,0 +1,78 @@
+## Title: Is the US Really Blowing Up North Korea’s Missiles?
+## Section: International
+## Date: 26 April 2017 11:05 am
+
+Is the US Really Blowing Up North Korea’s Missiles?
+
+
+	
+
+
+
+ 
+
+By Jeffrey Lewis   
+(c) 2017, Foreign Policy ·   
+The Trump administration has completed a policy review of how to manage the growing nuclear threat from North Korea. The new policy - massive pressure and engagement - is a tepid serving of leftovers from the Barack Obama, George W. Bush, and Bill Clinton administrations. I actually created a quiz of similar statements from all four administrations - and then when I looked at it a day later, I failed it.   
+
+
+As so often happens when reality disappoints, people turn to rumour and fantasy. And so, disappointed with the reality that Donald Trump faces the same lousy options on North Korea that hamstrung all his predecessors, the new Washington bedtime story is that the United States is secretly hacking North Korean missile launches.   
+
+
+The root of this particular bedtime story was a bit of reporting by The New York Times’ David Sanger and William Broad, asserting that the Obama administration had begun, about three years ago, to launch cyberattacks against North Korea analogous to those against Iran.   
+
+
+While the United States is undoubtedly interested in penetrating Iranian and North Korean computer networks, and is doing a bit of mischief, that’s a long way from the reality of some keyboard jockey in Utah taking command of a North Korean missile and piloting it into the drink.   
+
+
+First, some inconvenient facts. North Korea’s missiles aren’t really failing at a terrible rate. Sanger and Broad argued that soon after Obama’s decision in 2014, a “large number of the North’s military rockets began to explode, veer off course, disintegrate in midair and plunge into the sea.”   
+
+
+Correlation is not causation, of course, and a simple review of North Korea’s missile launches suggests that if the United States is hacking North Korean missiles, it is doing a crap job of it.   
+Since 2014, about three-quarters of Pyongyang’s launches have succeeded. My colleague Shea Cotton keeps a database of every North Korean missile launch. Of the 66 missiles that North Korea launched during 2014 and after, 51 have succeeded. If hacking is playing any role, it is defeating a trivial number of missiles. A .230 average isn’t enough to keep you in the major leagues. And it’s a lousy batting average against nuclear-armed missiles.   
+
+
+Moreover, we can see those 15 failures were concentrated in a few new systems - missiles then under development where one would expect to see failures, hacking or no hacking. There was a spike in failures after 2016, but that spike was concentrated in four new systems that had never before been tested: the Musudan (five failures); a submarine-launched ballistic missile (three failures); an unidentified intercontinental ballistic missile (two failures); and a new anti-ship missile (two failures). Overall, North Korea’s Scud and Nodong missiles - the ones that it plans to use to nuke U.S. forces in South Korea and Japan - worked just ducky.   
+
+
+The fact is, new systems are expected to fail at a higher rate. There is, after all, a reason that “rocket science” is popular as a metaphor for tasks that are complicated and difficult. While the simple media narrative is to laugh at failed missile launches, the North Koreans learn from every flight, whether it works or not.   
+
+
+Experiencing and overcoming failure is a normal part of building a robust and reliable rocket programme. Let me introduce you to Redstone, a missile literally nicknamed “Old Reliable.” It was America’s first large rocket, good enough to put Alan Shepard into space. Nine of the first 10 Redstone launches failed. It’s possible, I suppose, that Wernher von Braun was an idiot. Or that Soviet spies had turned those lovely Hidden Figures ladies. Or maybe, just maybe, rocket science is f’ing hard.   
+
+
+So while we laughed every time a North Korean missile exploded at launch (2006) or dropped into the drink (April 2009 and April 2012), Pyongyang’s finest were busy studying what went wrong and fixing the problems. It seemed like North Korea would never figure it out . . . until it did. The last two North Korean space launches, in December 2012 and again in February 2016, were successful. Look up and you can still see North Korea’s Kwangmyongsong-2 satellite in orbit.   
+
+
+North Korea’s missile launches aren’t failing because we are hacking them; they are failing because Pyongyang is developing a wide array of new liquid- and solid-fueled ballistic missiles. Many of those systems - especially the new solid-fueled missiles - are working just fine. And North Korean engineers will either figure the others out or learn from their mistakes and move on to more promising designs.   
+
+
+Another troubling question is lurking in Sanger and Broad’s assessment: If the United States were successfully hacking North Korea’s missiles, wouldn’t it also be hacking Iran’s? The two countries cooperate closely in missile development, so much so that it probably isn’t possible to hack one without hacking the other. And, of course, it was Iran’s nuclear program that was subject to the original high-profile cyberattack - the Stuxnet virus that crippled Iranian centrifuges.   
+
+
+Iranian missiles aren’t, however, falling out of the sky. And even Stuxnet was never more than an annoyance to the Iranians. Yes, it damaged a large number of centrifuges and slowed the Iranian enrichment programme for a few months. But, ultimately, Iran was installing thousands of centrifuges and developing new generations of the devices before the programme was constrained by the 2015 Iran 
+nuclear deal.   
+
+
+I don’t mean to say that the United States isn’t attempting to get inside North Korea’s networks. I suspect that the United States is probably very interested in attacking the systems that control North Korea’s new generation of computer-controlled machine tools, which my colleagues and I believe have reduced Pyongyang’s dependence on imported components for its nuclear and missile programmes. But there just isn’t any reason to think cyberattacks are more than a nuisance.
+
+  
+The evidence suggests that the United States isn’t succeeding in this regard and that, at best, such efforts would be a nuisance to the North Koreans. In fact, in the wake of Stuxnet, there were reports that a similar programme against North Korea had failed. Given the extensive missile cooperation between Tehran and Pyongyang, I would expect that they share cybersecurity tips.   
+
+
+So why is the idea that the United States is hacking missiles out of the sky so prevalent? It is hard to admit that political and coercive policies are not working. And it’s especially hard to admit that we are approaching a point where we are going to have to accept something we have long said is unacceptable. Denial, as Sen. Al Franken used to say, ain’t just a river in Egypt.   
+
+
+This particular crisis has been a long time in the making. But for whatever reason, it is breaking into the popular consciousness now. People feel powerless, and they expect their government to do something. They just aren’t prepared to accept that this particular something is, well, nothing. So there must be some secret government agency, one that doesn’t look like the post office, where people know what they are doing.   
+
+
+Add to that a healthy dose of partisanship. We live in a bizarre era where every issue becomes a referendum on Donald Trump. While (slightly more than) half of us are convinced he’s going to get us all killed, his fans desperately want to believe that he’s not just some grifter in hopelessly over his head. And so when he says North Korea isn’t going to test a missile in one of this Twitter outbursts, and then a missile test fails, the Drudge Report and his troll army on Twitter attribute the stroke of luck to Cheeto Jesus. Psychologists call this the fundamental attribution error. You see this a lot in cults.   
+
+
+It’s all a dangerous fantasy, though. The Trump administration plainly has no idea what it is doing, opting for a “new” strategy identical to the approach adopted by the Obama and Bush administrations. The unifying feature of this approach has been desperate paralysis - sorry, patiently hoping for a strategic miracle.   
+
+
+Hacking allows us to entertain this fantasy a bit longer. It allows us to imagine that missile failures are not growing pains of an evolving and dangerous threat but evidence of our power, wisdom, and superior technology. The idea that hacking can prevent North Korea’s missiles from working allows us to avoid coming to terms with the reality that our policies are failing.
+ 
+
+		

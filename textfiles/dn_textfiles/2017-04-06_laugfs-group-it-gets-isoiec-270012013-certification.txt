@@ -1,0 +1,14 @@
+## Title: Laugfs Group IT gets ISO/IEC 27001:2013 certification
+## Supertitle: 
+## Section: Finance
+## Date: Thursday, April 6, 2017 - 01:00
+
+Laugfs Group IT gets ISO/IEC 27001:2013 certification
+
+Laugfs Group IT received ISO/IEC 27001:2013 certification for the recently implemented Information Security Management System (ISMS) from Bureau Veritas.
+Implemented with the expert assistance of PricewaterhouseCoopers (PwC), the security system manages and controls information and risks in security whilst maintaining the integrity, protection and preservation and confidentiality of information.
+Commenting on the ISMS implementation and the significance of receiving the ISO/IEC 27001:2013 certification,Laugfs HoldingsGroup Chief Information Officer, Indika Gunawardena, said, “This is a significant achievement for Laugfs and a testament to our continuous commitment to our customers’ data security. ISO 27001certification requires rigorous and repeated external assessment and demands applicants to meet high standards of risk management and security controls on an on-going basis. This year we will further strengthen our Business continuity and Disaster Recovery capabilities by going for Businesses Continuity Management (BCM) - ISO 22301, which will certify our existing BCM best practices”.
+ISO/IEC 27001:2013 certification requires organisations to follow rigorous standards in establishment, implementation and maintenance of information security management systems as well as continuous service enhancement. Moreover, the criteria mandate specific requirements for organizations to assess and handle information security risks in line with the needs of the organization.
+ISO/IEC 27001 is the best-known standard in the ISO 27000 family providing requirements for an information security management system (ISMS). An ISMS is a systematic approach to managing sensitive company information so that it remains secure. It includes people, processes and IT systems by applying a risk management process. Organizations, which meet the standard are certified compliant by an independent and accredited certification body on successful completion of a formal compliance audit.
+“This certification further assures our valued customers of our inherent capability to manage both information systems and information itself according to international best practice security standards. It is also important that all businesses under the Laugfs Umbrella have confidence in the range of services we provide for them to have guaranteed system uptimes and information security. Both parties will now have increased confidence as an accredited third party has validated our processes by awarding ISO27001 certification,” Laugfs Holdings Security Operations Center Assistant Manager Eranda Dayawansa said. 
+ 

@@ -1,0 +1,256 @@
+## Title: An overview of rating products offered by rating agencies
+## Section: Financial News
+## Date: 9 May 2016 12:00 am
+An overview of rating products offered by rating agencies
+	
+During the last three weeks the article series focused on the credit rating industry. It discussed the definition of credit rating, types of ratings, overview on the industry, rating methodology, rating scales, rating reports, possible conflicts of interest and how they are managed, etc. Moving on, today?s article will elaborate on the rating products offered by the credit rating agencies.
+Rating products are offered to the client in terms of the core business of rating i.e. monitored ratings and point-in-time ratings. The issuer/obligor has the right to decide which rating product they require (monitored or point-in-time), but the type of rating issued (i.e. stand-alone rating, support rating, etc.) is decided by the rating agency based on the analysis carried out. Generally, the approach which gives the higher rating is what is considered for the final rating. If an entity?s support rating is stronger than a stand-alone rating, then the support rating is what is issued as the final rating. Readers could obtain a clear understanding on this classification by referring to Chart 1.
+?
+What is a monitored rating?
+The definition of ?monitored? is to ?maintain a regular surveillance over?. Hence, a rating agency that provides a ?monitored rating? service would monitor the issuer/obligor on an on-going basis. The analysts assigned to each issuer/obligor will initiate a rating review whenever they become aware of any business, financial, operational or other information that they believe may reasonably be expected to result in a rating action, consistent with the relevant criteria and methodologies. As an example, an operational or fiscal deterioration, an acquisition, a divestiture or the announcement of a major share repurchase may trigger an immediate rating review. The review process is regarded as a continuous one (on-going). Ratings are also subject to formal periodic rating reviews, which is usually on an annual basis.
+These ratings are beneficial for the creditors, investors in bonds and/or trade creditors as there is an on-going surveillance of issuers/obligors.
+?
+What is a point-in-time rating?
+The definition of ?point-in-time? is ?at a particular time?. Hence, such ratings are given at a specific/particular time. They will not be under regular surveillance.
+Point in time ratings are rare and therefore not monitored on an on-going basis. The point-in-time nature of these ratings is clearly disclosed in the rating commentary. Generally a point-in-time rating would be carried out as credit assessment, which is typically a private rating (i.e. the rating outcome would not be disclosed to the public).
+?
+What is a credit assessment?
+In certain circumstances, unrated entities may request a credit assessment. A credit assessment provides an indication of the likely rating that an entity may receive if it were to request a full rating. The assessment is a rating-level opinion carried out by analysts from the same group that would assign a full rating and can consider all materials that the requesting entity (i.e. the obligor/issuer) is prepared to provide for the?
+assessment process.
+Credit assessments are provided on a confidential basis. Hence, it is a private rating. While credit assessments may be similar to ratings in many ways, they are not formal ratings and should not be employed by rating users (investors) without consideration of any limitations that they may have or any conditions attached?
+to their use. ??
+?
+What is a private rating?
+For any entities with no publicly-traded debt or where the rating is required for internal benchmarking, a rating agency would provide a ?private? rating. These ratings are generally provided directly to the rated entity, which is then responsible for ensuring that any party to whom it discloses the private rating is updated when any change in the rating occurs. Private ratings undergo the same analysis and committee process as a published rating. Private ratings could be either ?monitored? or ?point-in-time?. If it is a monitored private rating, the surveillance would be carried out as normally conducted for monitored public ratings/published ratings.?
+Private ratings cannot be publicly disseminated. The entity can use the rating in its normal course of business but they cannot publicly disclose the rating. However, in the occurrence of any of the below events, the rating agency would publicly disseminate?
+the rating:
+If required by law
+If the rating or any portion of the rating analysis becomes publicly known
+If the entity should access the public?
+debt markets
+?
+What is a public rating??
+Public ratings are generally provided to entities that are publicly listed and have publicly-traded debt. The rating agency would carry out the rating process as discussed in the previous article and would communicate the rating to the issuer/obligor and thereafter issue a press release. These press releases are communicated to the public via the rating agency?s website and through media coverage. The issuer/obligor is at liberty to advertise and publicly disclose this type of rating.
+?
+How is regular surveillance carried out for monitored ratings?
+Analysts perform an on-going surveillance of information received and/or requested. As explained in previous articles, analysis is forward looking, hence trends and forecasts are looked into in detail. Where a factor or trend can have an impact on the already assigned rating, the rating agency will determine an appropriate course of action to be taken, such as requesting further information from the entity in concern, analysing the information and taking it to a rating committee to decide the outcome such as affirming the rating (no change to the existing rating), upgrading or downgrading the rating.
+In the case of FIs, the periodic review may be carried out as a peer review, where a few FIs may be reviewed together.
+?
+What is a peer review?
+Rating agencies may conduct the periodic reviews of banks (FIs) as a group review. A group or peer review is when relevant peers are taken to a rating committee at the same time. This allows the rating agency to review comparable FIs and ensure consistency and relativity of the ratings.?
+A peer review enables a credit comparison across selected peers and provides a mechanism for early detection of adverse credit trends. Further, a group review approach facilitates targeted research and commentary on industry or sector developments, which enables investors to make informed decisions.
+?
+How does a group review compare with an individual review?
+A group review does not mean deterioration in the rigour of the analysis, rather an enabling of accurate and meaningful credit comparisons. The analysis is therefore based on macro factors as well as specifics of each individual included in the review. Although the group review would form the core of the periodic review, each individual issuer may be subject to an individual review after a credit event.
+Periodic reviews are annual and at predefined intervals. The review frequency is based on the profile, sensitivity, complexity and volatility of specific issuers and/or?
+banking systems.?
+?
+How is a peer group formed?
+A peer group may be formed in many ways such as region, country, sector, rating category or using a sampling method. ?
+?
+What information is used to issue and/or maintain ratings?
+Analysts base their research and rating on a thorough analysis of all relevant information known and believed by them to be relevant to the rating decision. This includes publicly available information, information received directly or during the analysts? interaction with the issuer, information from third parties and relevant information gathered by analysts during their interaction with other issuers.
+The core information relied on in the credit rating process are the publicly available information such as interim and annual financials (typically at least three years of audited accounts). This public information represents the minimum requirements for investors to form an investment decision. Rating committees should verify the data as sufficient and robust in relation to the rating decision.
+?
+What happens in case of insufficient information?
+Where there is insufficient information to assign or maintain a rating, no rating will be assigned or maintained.If information is limited, the rating agency may be in a position to issue a shadow rating. Shadow ratings only require an abbreviated analysis, in which a specific element of the analysis is omitted. The qualitative difference between such an abbreviated rating and a full rating is clearly described in the rating agency?s communication of the final rating.?
+?
+Why are ratings withdrawn?
+Ratings remain the property of the rating agency, hence the rating agency has full discretion to determine if and when to withdraw any rating issued. The most common reasons for a rating withdrawal are due to insufficient information provided by a rated issuer/obligor, thereby disabling the rating agency from carrying out surveillance and lack of market interest. There are also occasions where the rated issuer/obligor may choose to withdraw the rating due to the maturity of the issuance or if they no longer require a credit rating. When a rating of an existing debt or existing entity is withdrawn, the rating agency should ideally publish appropriate commentary stating the rating, the withdrawal of the rating, the reason for withdrawal and that analytical coverage will no longer be available on the issuer/obligor. ??
+Rating withdrawals should also be determined through a rating committee (discussed in the previous article).?
+?
+What are unsolicited ratings?
+A definition of ?unsolicited ratings? is ?a rating agency?s assessment of a borrower?s creditworthiness without any involvement of the borrower itself. In particular, the borrower does not pay for the rating assessment?. ?
+Credit ratings issued by the global rating agencies today are typically initiated by the entities being rated. These are solicited ratings, which involve payment to the rating agency. Under certain circumstances, a rating agency may also assign ratings at its own initiative (i.e. without the rated entity?s request), or continue to rate an entity once an entity has ceased a mandated relationship with the agency. These are unsolicited ratings. Solicitation status is purely a commercial issue, and is not a proxy for the level or quality of information received from an issuer. The analytical and committee processes are identical for both solicited and unsolicited ratings and there is no difference in the credit judgment.Rating agencies have in the past refused to assign ratings solicited by certain issuers, and have also withdrawn ratings solicited by certain issuers, where the threshold for information was not met.
+(Source: Fitch Ratings)
+?
+ 
+		
+==============================
+## Title: Another mysterious leopard death
+## Section: Breaking News
+## Date: 9 May 2016 04:17 pm
+Another mysterious leopard death
+	
+Another leopard was found dead on Sunday at the Albion Estate in Agarapathana, the Wild Life Department said today.
+Wildlife Director General Dr. Sumith Pilapitiya said the leopard was suspected to be poisoned.
+?Officers have been deployed to investigate the area and we will conduct a post mortem to determine the cause of death,? he said.
+At least 10 leopards were found dead inside tea estates in Hatton, Watawala, Agarapathana and Norwood areas during the last five months.
+It was suspected that food left out to eat was poisoned as the leopards did not have any external injuries. (Darshana Sanjeewa and Ranjith Rajapaksa)
+ 
+		
+==============================
+## Title: Bharatha killing: Defence evidence concluded, fixed for oral submissions
+## Section: Breaking News
+## Date: 9 May 2016 06:25 pm
+Bharatha killing: Defence evidence concluded, fixed for oral submissions
+	
+Defence evidence in connection with the case against former Parliamentarian Duminda Silva and 12 others over the killing of Bharatha Lakshman Premachandra and three others was concluded today before the Trial at Bar in the Colombo High Court.
+The Trial at Bar including Justices Shiran Gunaratne, Pathmini N. Ranawaka and M.C.B.S. Morais fixed the case for oral submissions on May 24.
+Concluding the Defence evidence, father of Duminda Silva, Premalal Silva, had given a testimony before the trial at bar, while 12th and 13th accused had delivered dock statements in court.
+Earlier, the Attorney General had filed indictments against 13 individuals including Duminda Silva, on seventeen (17) counts over the killing of the Former Presidential Adviser on Trade Unions Bharatha Lakshman Premachandra, and three of his aides.
+The killing took place within the Kolonnawa electorate, during the Local Government elections in October, 2011. (Shehan Chamika Silva)
+ 
+		
+==============================
+## Title: Drunken school-van driver nabbed
+## Section: Breaking News
+## Date: 9 May 2016 02:38 pm
+Drunken school-van driver nabbed
+	
+A school van driver had been arrested in Piliyandala for consuming liquor, while transporting fifteen school children, the Police said.
+The Police said the 40-year-old driver had been after noticing an alcoholic smell coming from the van by Traffic Policeman in front of a certain school.
+The driver, who is under Police custody, would be produced in court tomorrow, the Police said.? (Bimal Shaman Jayasinghe)
+?
+Video by Bimal Shaman Jasinghe
+?
+?
+ 
+		
+==============================
+## Title: EPF in 2013/2014 has diminished by billions: Reports
+## Section: Breaking News
+## Date: 9 May 2016 09:06 am
+EPF in 2013/2014 has diminished by billions: Reports
+	
+Investments made by the Employee Provident Fund (EPF) in 2013/2014 in the share market, has diminished by billions, the EPF annual report which was presented to Parliament last Friday said.
+?Out of the total long term and short term investments amounting to Rs. 71,690,881,118 made by the funds in 80 companies in the share market as at December 31, 2013, an investment of Rs. 52,092,805,864 made in 61 companies had diminished by Rs. 13,823,352,605 as at that date . The entire investment of the fund made in 93 companies in the share market as at June 30, 2014 had been Rs. 75,393,966, 488 while the share market value of the investment amounting to Rs. 45,533,044,007 made in 57 companies had diminished by a sum of Rs. 9,679,212,488 as that date,? the report revealed
+?Eight companies in which the EPF had made long term investments amounting to Rs. 3,285,216,703 as at December 31, 2013 had incurred losses during the year 2013/2014 according to the annual reports of those companies. Two out of these companies in which investments of Rs. 199,555,228 and Rs. 711,242,903 were made had incurred losses continuously for a period of three years. The fund had not received no benefit whatsoever from these companies,? the report added.
+The report further revealed that a surcharge alone which amounted to Rs. 194,273,332 that had to be recovered from 360 institutions from 2000 to 2013 had not been recovered even as at December 31, 2013. (Yohan Perera)
+ 
+		
+==============================
+## Title: Ex-IGP?s house robbed
+## Section: Breaking News
+## Date: 9 May 2016 10:33 am
+Ex-IGP?s house robbed
+	
+Ex-IGP Victor Perera?s residence in Panadura had been robbed last night and cash and jewellery valued about Rs.1 million taken away.
+Police said a security officer had been on guard duty at the front entrance to the house and that the thieves might have entered through the rear door.
+Panadura Police are conducting further investigations.(Dayarathne Pathirana)
+Pix by Bimal Shayaman Jayasinghe
+ 
+		
+==============================
+## Title: Gota arrives at PRECIFAC
+## Section: Breaking News
+## Date: 9 May 2016 10:09 am
+Gota arrives at PRECIFAC
+	
+Former defense secretary Gotahaya Rajapaksa arrived at the Presidential Commission of Inquiry to investigate and inquire into Serious Acts of Fraud, Corruption and Abuse of Power, State Resources and Privileges (PRECIFAC) this morning to give statements in connection with several allegations.
+The commission said that they would record statements from Mr. Rajapaksa in connection with alleged misuse flights operated by the Air Force and employing two naval ratings at Basil Rajapaksa?s residence in the US.
+The PRECIFAC is also to record statements regarding deployment of a group of army personnel to the security detail of Basil Rajapaksa during the previous government.
+Video by Rishan
+ 
+		
+==============================
+## Title: Govt. to study UN rapporteur?s claims
+## Section: Breaking News
+## Date: 9 May 2016 08:56 am
+Govt. to study UN rapporteur?s claims
+	
+The government yesterday said that it would study the statement made by UN Human Rights Expert Juan E. Mendez who slammed Sri Lanka?s criminal justice system, accusing police of sexually abusing suspects and still using torture seven years after the end of its ethnic war.
+When inquired, Deputy Minister of Foreign Affairs Dr. Harsha de Silva told Daily Mirror that at the moment, he was unable to comment on the UN Rights Expert?s statement on behalf of the Foreign Ministry and they would study his statement further and will soon issue a statement.
+Addressing a press conference in Colombo on Saturday, UN envoy Mendez said that he had found credible evidence of detainees being tortured and disappearances since the end of the war in May 2009.
+Mendez, the Special Rapporteur on torture and other cruel, inhuman or degrading treatment or punishment, said he heard between 16,000 and 22,000 people had gone missing during the conflict and its immediate aftermath.
+He described the disappearances as the ?torture of the most horrifying kind?.
+?The current legal framework and the lack of reform within the structures of the armed forces, police, attorney-general?s office and the judiciary perpetuate the real risk that the practice of torture will continue,? the UN rapporteur warned.
+Still, the UN envoy expressed hope the government of President Maithripala Sirisena will deliver on promises of accountability for war crimes and an end to rights abuses. (Piyumi Fonseka)
+ 
+		
+==============================
+## Title: I must be thrashed for making SF Army Chief: Gota
+## Section: Breaking News
+## Date: 9 May 2016 10:24 pm
+I must be thrashed for making SF Army Chief: Gota
+	
+Former Defence Secretary Gotabaya Rajapaksa today said he should be thrashed for making Sarath Fonseka the Army Commander.
+When inquired by the media about Minister Sarath Fonseka?s claim that Gotabaya Rajapaksa himself engineered the suicide attack on his own convoy, the former Defence Secretary, ?I should be thrashed for making him the Army Commander.? (Darshana Sanjeewa)
+Video by Rishan
+ 
+		
+==============================
+## Title: 'Kangatta' re-remanded till May 23
+## Section: Breaking News
+## Date: 9 May 2016 07:15 pm
+'Kangatta' re-remanded till May 23
+	
+Priyantha Mendis alias ?Kangatta?, the main suspect in the Colombo Museum burglary in which millions of rupees worth of artifacts were robbed, was today re-remanded till May 23 by Colombo Additional Magistrate Nishantha Peiris because the Attorney General?s advise was still pending.
+Priyantha was the seventh accused in the case, the other suspects were released on bail.
+On an earlier occasion, the CID told Chief Magistrate Gihan Pilapitiya that the extracts of the investigation had been sent to the Attorney General for his advise and as such the case was postponed for June 27.
+Among the items that were robbed were 10 gold plated ceremonial swords, one gem studded cornelian gold ring, 93 gold coins, 18 silver rings, 50 silver coins, 9 lead coins, 34 currency notes, 1 gold and silver sword, 2 gem studded walking stick handles and 1 silver and gold worked belt and priceless gold and silver-inlay-ed ceremonial swords. (Shehan Chamika Silva)
+ 
+		
+==============================
+## Title: Panama Papers affair set to widen as database goes online
+## Section: Breaking News
+## Date: 9 May 2016 10:09 pm
+Panama Papers affair set to widen as database goes online
+	
+Panama Papers affair set to widen as database goes onlineThe Panama Papers affair is set to widen, with a huge database of documents relating to more than 200,000 offshore accounts due to go online.
+The database will be accessible from 18:00 GMT at offshoreleaks.icij.org.
+The Panama Papers have shown how some wealthy people use offshore firms to evade tax and avoid sanctions.
+The papers belonged to Panama-based law firm Mossack Fonseca and were leaked by a source simply known as "John Doe". The company denies any wrongdoing.
+Last week it issued a "cease and desist " order to prevent the database being made public but the organisation that has the documents, the International Consortium of Investigative Journalists (ICIJ), appears to be going ahead.
+The documents have revealed the hidden assets of hundreds of politicians, officials, current and former national leaders, celebrities and sports stars.
+They list more than 200,000 shell companies, foundations and trusts set up in more than 20 tax havens around the world.
+Among those whose affairs have come under scrutiny include UK Prime Minister David Cameron, Presidents Vladimir Putin of Russia, Petro Poroshenko of Ukraine and Mauricio Macri of Argentina, along with Argentinian football star Lionel Messi, Hong Kong film legend Jackie Chan and Spanish movie director Pedro Almodovar.
+Iceland's Prime Minister Sigmundur Gunnlaugsson resigned after the matter came to light.
+Mossack Fonseca says it has never been accused or charged with criminal wrongdoing. It says it is the victim of a hack.
+Offshore companies are not illegal but their function is often to conceal both the origin and the owners of money, and to avoid tax payments.
+Some 2.6 terabytes of information - 11.5 million documents - was originally given to the German newspaper, Sueddeutsche Zeitung, by "John Doe" more than a year ago.
+The paper allowed the ICIJ to have access. Through it hundreds of journalists, including from the BBC, then worked on the data. Their reporting was published last month.
+The ICIJ insists that Monday's online database will not be a data dump of the kind used by the Wikileaks organisation.
+The ICIJ said: "The database will not include records of bank accounts and financial transactions, emails and other correspondence, passports and telephone numbers. The selected and limited information is being published in the public interest."
+On Monday, 300 economists signed a letter urging world leaders to end tax havens, saying they only benefited rich individuals and multinational corporations, while boosting inequality.
+"The existence of tax havens does not add to overall global wealth or well-being; they serve no useful economic purpose," the letter says.
+Last week, "John Doe" issued an 1,800-word statement, citing "income equality" as his motive.
+He said: "Banks, financial regulators and tax authorities have failed. Decisions have been made that have spared the wealthy while focusing instead on reining in middle- and low-income citizens."
+He revealed he had never worked for a spy agency or a government and offered to help law authorities make prosecutions in return for immunity.
+Although the name John Doe is used, the gender of the source has not been revealed. (BBC)
+ 
+		
+==============================
+## Title: Protest at Fort
+## Section: Caption Story
+## Date: 9 May 2016 04:57 pm
+Protest at Fort
+	
+Sri Lanka?s Frontline Socialist Party staged a protest at Colombo Fort today against the recent increase in taxes. They charged that while the government is squeezing every penny out from the poor by way of taxes, the rich and the politicians are living in luxury, enjoying privileges on people?s tax money. Pix by Pradeep Pathirana
+Video by Pradeep Pathirana
+ 
+		
+==============================
+## Title: Rs.58 mn given to deceased migrant workers' families
+## Section: Caption Story
+## Date: 9 May 2016 04:19 pm
+Rs.58 mn given to deceased migrant workers' families
+	
+Fifty eight million rupees as compensation and salary dues were handed over to 39 families of the deceased and disabled migrant workers in Middle Eastern countries by the Deputy Minister of Foreign Affairs Harsha de Silva today.
+Among the 39 migrant workers, 27 of them died while working in countries including Saudi Arabia which has the highest number of deaths, followed by United Arab Emirates (UAE), Qatar, Dubai and Jordan. Pix by Samantha Perera
+ 
+		
+==============================
+## Title: VAT on mobile call charges still minimal: Harin
+## Section: Breaking News
+## Date: 9 May 2016 12:43 pm
+VAT on mobile call charges still minimal: Harin
+	
+The increase in the Value Added Tax (VAT) on mobile network charges is not a huge burden on the people when compared with other countries, Telecommunication and Digital Infrastructure Minister Harin Fernando said today.
+He told the BBC Sinhala Service that he would not attempt to justify the VAT increase but the Government was compelled to do so because of the current economic situation in the country.
+?Sri Lanka has the lowest phone charge rates when compared with other countries. Even though VAT has been increased rates are still minimal. It is not a huge burden on the people,? he added.
+ 
+		
+==============================
+## Title: Writ petition on KP fixed for May 30
+## Section: Breaking News
+## Date: 9 May 2016 09:44 pm
+Writ petition on KP fixed for May 30
+	
+The Court of Appeal today fixed to be mentioned on May 30, the Writ petition filed by the Janatha Vimukthi Peramuna (JVP) seeking a court order to arrest and institute legal proceedings against Shanmugam Kumaran Tharmalingam alias Kumaran Pathmanathan (KP).
+The writ petition filed by JVP parliamentarian Vijitha Herath was taken for hearing by Justice P. Padman Surasena. The Court directed the petitioner to decide whether he wished to continue the proceedings or terminate it.
+The Attorney General on February 3 furnished to the Court the progress report on the investigation into KP's alleged involvement in the LTTE activities.
+Upul Kumarapperuma with Sunil Watagala, Kaushalya Perera, Thanuka Nandasiri, Jayantha Dehiattage and Heshani Jayasuriya appeared for the petitioner. (S.S. Selvanayagam)
+ 
+		
+==============================

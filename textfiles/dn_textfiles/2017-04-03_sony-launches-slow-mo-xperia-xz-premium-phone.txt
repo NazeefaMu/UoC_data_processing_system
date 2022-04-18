@@ -1,0 +1,25 @@
+## Title: Sony launches slow-mo Xperia XZ Premium phone
+## Supertitle: 
+## Section: Finance
+## Date: Monday, April 3, 2017 - 01:00
+
+Sony launches slow-mo Xperia XZ Premium phone
+
+Sony's latest smartphone is capable of filming smooth slow-motion footage at four times the rate possible on Apple and Samsung's top-end models.
+The Xperia XZ Premium captures video at up to 960 frames per second (fps).
+The achievement was made possible by a new type of image sensor that has built-in memory of its own.
+Sony's smartphone market share is small, but it usually makes its sensors available to rivals about six to 12 months after they debut.
+Apple, Samsung, LG and Xiaomi are among those to have used its technology in recent handsets.
+The new phone was unveiled alongside several lower specification devices on the first day of the Mobile World Congress trade show in Barcelona.
+"Despite this being one of the best devices at MWC, I don't see it changing Sony's fortunes," commented Francisco Jeronimo, from the market research firm IDC.
+"If you go through Sony's financial statements you can see it now makes more money from selling phone cameras to its competitors than selling its own smartphones, which is quite remarkable
+"So, its phones are a way to show off its capabilities, and the new camera is outstanding - not just the slow-mo but also the picture quality."
+Sony shipped about half as many smartphones in 2016 as the previous year and has about 1% share of the market, according to IDC, putting it in 17th place.
+It uses a three-layer stacked sensor fitted with one gigabit of dynamic random-access memory (DRAM). Doing so lets the component temporarily store a rapid burst of video data locally before it is transferred to other memory components, which takes more time. When the firm first announced the sensor earlier this month it said it was capable of 1,000 fps in 1080p "full high definition".
+However, on the Xperia XZ Premium it has been restricted to slightly fewer frames per second at 720p resolution.
+In practice, users can only capture 0.18 seconds of footage at this speed, which produces six seconds of video when played back.
+But they can do so in the middle of filming normal footage to create a slow-down-and-speed-back-up effect. The challenge is to press the button at the right moment.
+"It's only a very brief amount of time and you've got to be really on the ball to use it effectively," commented Tim Coulling from the Canalys tech consultancy.
+The built-in DRAM memory also lets users record action that happened a second before they pressed the record button.
+This buffer function is intended to help them avoid missed moments, but only works if the device detects motion, which triggers the facility.
+Other unusual features include: a 5.5in (14cm) 4K resolution display that has four times as many pixels as 1080p equivalents. It also plays back Amazon Prime Video content in high dynamic range. HDR delivers more vibrant images that reveal extra detail compared to traditional footagethe choice of a mirrored body. This allows the back of the device to be used to help put on make-up or put in contact lenses. However, it also attracts fingerprint marks. BBC News

@@ -1,0 +1,41 @@
+## Title: Yahoo says 1 billion user accounts were hacked in 2013
+## Section: Breaking News
+## Date: 15 December 2016 03:45 pm
+
+Yahoo says 1 billion user accounts were hacked in 2013
+
+
+	
+
+Yahoo has discovered a 3-year-old security breach that enabled a hacker to compromise more than 1 billion user accounts, breaking the company's own record for the biggest security breach in history, the ABC News reported.
+
+The company disclosed on Wednesday that the incident occurred in August 2013. Yahoo announced a separate hack three months ago. That breach affected at least 500 million users, which had been the most far-reaching hack until the latest revelation.
+
+Both lapses occurred during the reign of Yahoo CEO Marissa Mayer, a once-lauded leader who found herself unable to turn around the company in the four years since her arrival. Earlier this year, Yahoo agreed to sell its digital operations to Verizon Communications for $4.8 billion — a deal that may now be imperiled by the hacking revelations.
+
+ Yahoo didn't say if it believes the same hacker might have pulled off two separate attacks. The Sunnyvale, California, company blamed the late 2014 attack on a hacker affiliated with an unidentified foreign government, but said it hasn't been able to identify the source behind the 2013 intrusion.
+
+Yahoo has more than a billion monthly active users, although some have multiple accounts and others have none at all. An unknown number of accounts were affected by both hacks.
+
+In both attacks, the stolen information included names, email addresses, phone numbers, birthdates and security questions and answers. The company says it believes bank-account information and payment-card data were not affected.
+
+But hackers also apparently stole passwords in both attacks. Technically, those passwords should be secure; Yahoo said they were scrambled twice — once by encryption and once by another technique called hashing. But hackers have become adept at cracking secured passwords by assembling huge dictionaries of similarly scrambled phrases and matching them against stolen password databases.
+
+That could mean trouble for any users who reused their Yahoo password for other online accounts. Yahoo is requiring users to change their passwords and invalidating security questions so they can't be used to hack into accounts. (You may get a reprieve if you've changed your password and questions since September.)
+
+Security experts said the 2013 attack was likely the work of a foreign government fishing for information about specific people. One big tell: It doesn't appear that much personal data from Yahoo accounts has been posted for sale online, meaning the hack probably wasn't the work of ordinary criminals.
+
+That means most Yahoo users probably don't have anything to worry about, said J.J. Thompson, CEO of Rook Security.
+
+ News of the additional hack further jeopardizes Yahoo's plans to fall into Verizon's arms. If the hacks cause a user backlash against Yahoo, the company's services wouldn't be as valuable to Verizon, raising the possibility that the sale price might be re-negotiated or the deal may be called off. The telecom giant wants Yahoo and its many users to help it build a digital ad business.
+
+After the news of the first hack broke, Verizon said it would re-evaluate its Yahoo deal and in a Wednesday statement said it will review the "new development before reaching any final conclusions." Spokesman Bob Varettoni declined to answer further questions.
+
+At the very least, the security lapses "definitely will help Verizon in its negotiations to lower the price," Litan predicted. Yahoo has argued that news of the 2014 hack didn't negatively affect traffic to its services, strengthening its contention that the Verizon deal should be completed under the original terms.
+
+"This just adds to fuel to the fire and it won't help Yahoo's cause," said Eric Jackson, a longtime critic of the company's management. Although he has in the past, Jackson doesn't currently own Yahoo stock.
+
+Investors appeared worried about the Verizon deal. Yahoo's shares fell 96 cents, or 2 percent, to $39.95 after the disclosure of the latest hack.
+ 
+
+		

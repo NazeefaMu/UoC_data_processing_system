@@ -1,0 +1,56 @@
+## Title: Dangerous data
+## Supertitle: 
+## Section: Features
+## Date: Monday, September 18, 2017 - 01:00
+
+Dangerous data
+
+According to a report in an English daily of August 23, the Department for Registration of Persons (DRP) is to issue a new ‘Smart ID’ within the next two months.
+Sri Lankans are used to identity cards and may assume that this is a more sophisticated version of the card that they already carry. There are two important differences from the old card:
+1. There is a lot more information being stored and most seriously,
+2. The information is held in central registry or database.
+As per the regulations gazette on the 22nd of August the following details are to be maintained in the National Registry of Persons:
+1. Name
+2. Place of birth (if foreign born, details captured separately)
+3. Permanent residence
+4. Place of temporary residence.
+5. Telephone - residence and mobile
+6. Email
+7. Profession
+8. Civil status (married, widowed, divorced including Divorce case ID, unmarried)
+9. Details of father: full name, date of birth, NIC no.
+10. Details of mother: full name, date of birth, NIC no.
+11 Details of guardian: full name, date of birth, NIC no.
+12. Details of spouse: full name, date of birth, NIC no.
+13. Details of siblings: full name, date of birth, NIC no. and civil status
+In addition to the above, as per section 18 of the regulations the Heads of All Public Institutions are obliged to provide whatever information requested to National Registry of Persons. This will enable databases within such institutions as the Inland Revenue, Land Registry, RMV, EPF/ETF, Stock Market, Registrar of Companies, etc to be linked to the National Registry of Persons providing a comprehensive database of citizens and their families.
+Some of the data contained in the current paper ID also rests in various Government departments but they are held separately. No one department has a complete profile of a citizen. The registrar of births has details of births and the parents/grandparents. The land registry has details of property, the RMV has details of vehicle ownership and the Inland Revenue has details of income and tax.
+These records are maintained within various departments for administrative purposes only. They are never issued to outsiders except by court order.
+Central database
+Any person trying to extract a profile of a person would need to be armed with multiple court orders and spend a lot of time going from department to department collecting data. It is a very time consuming and cumbersome exercise which cannot be undertaken lightly and is subject to many checks and balances. Apart from the requirement for court orders, internal administrative procedures within each department will need to be followed before information is issued.
+Now details are to be held in a central database that is freely and legally accessible to a wide variety of officials with no necessity of recourse to court orders. Being automated, anyone can easily build a full profile of a person and it is not difficult to imagine the extent to which this can be misused.
+In order to deliver improved public services, for example to improve tax compliance, the databases of different public bodies (and even private bodies) would need to be linked. For example if the Government is to enable automated filling of tax returns, the Inland Revenue IT system would need to access a person’s bank details (for interest income), his employer’s salary details, the land registry, the RMV (for details of assets) etc.
+Just think of how many transactions need an NIC. All of this could potentially be captured, stored and accessed. The information extracted could include:
+1. Employment details
+2. EPF. ETF details.
+3. Details of bank transactions, credit cards.
+4. Savings, fixed deposits, investments.
+5. Income tax file nos.
+6. Details of businesses registered and directorships held.
+7. Share market trading accounts.
+8. Vehicles.
+9. Phone numbers.
+10. Houses, property owned.
+12. Travel details, airline tickets and visits to hotels.
+13. Bio data could include email addresses, details of adopted children
+The potential risks with this are vast. Quite apart from unauthorised access, the data is widely accessible: to any “public officer” or authority in the interests of national security or for the prevention or detection of a crime. The term “public officer” could include most categories of public servants. The term “prevention or detection of a crime” is also extremely broad; no crime needs to be committed, a mere suspicion of any potential crime, however remote or improbably linked to a person is ground to access the data.
+The bill pays no attention to the handling of this sensitive data, once legitimately accessed. For example, a policeman investigating a suspect may extract the records connected to a person and then save the data on an unsecured desktop PC or worse, leave the printouts on a desk. Even the most secure IT system is easily undone by simple carelessness by users. The risks multiply with the number of users and since the number envisaged is large citizens may face a nightmare scenario of seeing their complete biographies and family details being circulated.
+Is this too far-fetched?
+The experience of Pakistan and India suggests that it is not. Pakistan has a similar system to the proposed ENIC. Pakistan has a Computerised National Identity Card (CNIC) which is issued by Pakistan's National Database and Registration Authority (NADRA).
+Privacy International a UK-based charity that defends and promotes the right to privacy has reported that since at least 2014, databases of Pakistani citizens have been illegally sold online containing hundreds of thousands of records with names, national ID card numbers, home addresses and phone numbers of mobile phone users.
+The tax-related data of members of parliament was leaked in 2012, although it is not clear how. The Federal Board of Revenue (of Pakistan) informed the National Assembly Standing Committee on Finance that the tax-related data of the parliamentarians has not been leaked by the Board as the information was reportedly obtained from the Election Commission of Pakistan (ECP). This illustrates the problem with linking of databases – leaks could occur anywhere in the chain. WikiLeaks has reported that the US and UK were given direct access to NADRA’s (Pakistan’s central registry) records, which enabled them to access the data of Pakistani citizens stored in its system.
+CNIC numbers
+A system of linked databases also enables surveillance-of suspects-or anyone an interested party wants to track. Pakistan’s Police have embraced the digital ID and commissioned several software applications to monitor people.
+A software called “Hotel Eye” has been developed to log the check-ins and checkouts of the guests at hotels, along with CNIC numbers and personal details of visitors. It helps to track activities of hotels and their guests.
+This was not originally envisaged when the digital ID was rolled out but was developed later on the initiative of the Panjab Police. Sri Lankan’s are used to signing registers that hotels are supposed to maintain of guests, implementing “Hotel Eye” is only a logical extension of this. Predictive Crime Intelligence Software enables the police to obtain a full profile of any person. When a “CNIC is entered into the system, it brings out all the information about the person. His/her family tree, ATM card(s), credit card(s), hotel bookings (past six months), out of country visits, call detail issued….”
+Another initiative is Geo-Fencing which uses GPS or RFID technology to create a virtual geographic boundary, enabling software to trigger a response to the local police when a mobile device enters or leaves a particular area. While this will undoubtedly help with policing it may well be abused to track and target people, whether political opponents or purely for personal gain. The UK attempted to issue compulsory ID cards in the wake of the September 11th attacks in the US but after a prolonged debate it was determined that the risks associated with such a project were too serious and the scheme was scrapped. If it was deemed too risky in the UK, should Sri Lanka venture down this path? 

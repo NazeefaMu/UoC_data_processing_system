@@ -1,0 +1,18 @@
+## Title: LSEG Technology successfully implements Settlement, Depository Solution for Singapore Exchange
+## Supertitle: 
+## Section: Finance
+## Date: Monday, December 31, 2018 - 01:00
+
+LSEG Technology successfully implements Settlement, Depository Solution for Singapore Exchange
+
+LSEG Technology providing next generation post-trade environment for market infrastructures Millennium Post Trade’s settlement and depository services build on centralised post-trade clearing solution already provided to SGX. <U+2028>
+Successful implementation marks first full end-to-end post-trade transformation within a tier 1 market in recent years. <U+2028>
+LSEG Technology delivers innovative technology solutions to over 40 capital markets organisations globally, including HKEX, JSE and LSEG.
+LSEG Technology has successfully implemented Settlement and Central Securities Depository functionality for Singapore Exchange (SGX). In live operation from December 10, 2018, this was a whole market implementation, involving brokers, custodian banks, settlement banks, registrars and retail investors. <U+2028>
+Built upon the same technical and hardware framework as the Clearing (Central Counterpart) module, implemented at SGX in early 2017, this functionality provides SGX with a fully integrated and complementary set of post trade solutions.
+This delivery enables SGX and the market participants to align to global market practices, messaging standardisation and the introduction of T+2 into the Singapore market. <U+2028>
+Tinku Gupta, Executive Vice President, Head of Technology said, “SGX’s adoption of the new post trade system which LSEG Technology supported, provides for a more efficient and effective clearing, settlement and depository environment. We expect to build new and emerging services on this platform, thereby enabling SGX and our Members to enhance services for the market.” <U+2028>
+Ann Neidenbach, CIO, LSEG Technology said, “LSEG Technology is delighted to have developed a close working relationship with SGX to successfully implement this complete end-to-end post-trade solution.
+This is a major milestone in which this industry solution is set to meet the broad and diverse needs of the post-trade community. Built upon a common infrastructure to support clearing, settlement and depository modules, LSEG Technology’s Millennium Post-Trade solution, delivers true benefit for our customers by improving operational efficiency and reducing the total cost of ownership.” <U+2028>
+LSEG Technology delivers robust, scalable, high-performance technology including broker, exchange, market data, risk management, surveillance, clearing and settlement products to customers around the world.
+LSEG Technology’s market-leading trading and post-trade products, empowered with key patented technology, helps improve operational efficiencies for over 40 financial market infrastructure and financial services firms, which include London Stock Exchange Group markets (London Stock Exchange, Borsa Italiana, Turquoise), HKEX, Johannesburg Stock Exchange, Singapore Exchange, Toronto Stock Exchange, TP-ICAP and other markets worldwide.

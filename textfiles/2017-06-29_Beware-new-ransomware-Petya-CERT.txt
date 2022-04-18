@@ -1,0 +1,35 @@
+## Title: Beware new ransomware Petya: CERT
+## Section: Breaking News
+## Date: 29 June 2017 01:02 am
+
+Beware new ransomware Petya: CERT
+
+
+	
+
+The Computer Emergency Readiness Team (CERT) today warns computer users to beware of new ransomware ‘Petya’ received in many forms as it was fast spreading throughout the internet.
+
+Speaking to the Daily Mirror, CERT Chief Information Security Engineer Roshan Chandragupta said the virus also infected computers through emails.
+
+“No incidents have been reported in the country so far. The virus spreads across Europe and among other countries,” he said.
+
+When the virus infects a computer, all information and data in the computer, including video files, would be encrypted (the information and data is converted into a code which cannot be read).
+
+The Petya virus was a similar to the ‘ransomware’ which attacked recently and it also designed to demand a ransom if the virus was to be removed and the encrypted data recovered.
+
+Therefore Mr. Chandragupta advised all the computer users to be wary of opening suspicious emails that contain highlighted documents such as newsletters, video attachments, PDF documents and bogus lottery winning results etc.
+
+He also advised users to backup all their important data on an external storage device.
+
+“Do not backup information or data being online as there is a likelihood of the virus infecting the backup devices as well. It is essential to keep the installed virus guards up-to-date. Reports have revealed several virus guards can defeat the virus. But many incidents of infection by the virus were reported even of computers with up-to-date virus guards,” Mr.Chandragupta said.
+
+According to international media reports thousands of infections, the new Petya ransomware has run into its first major problem, as a German email provider has blocked the email account the virus was using to manage ransom demands. Victims should be advised not to pay into the wallet, since it’s unlikely the attackers can successfully decrypt systems at this point.
+
+The problem is caused in part by Petya’s unorthodox method for collecting ransom payments.
+
+Most ransomware programs create a unique wallet for each infection, making it easy to know which victim is responsible for each payment.
+
+But Petya broke with that practice, asking every victim to send US$300 payment to the same single Bitcoin wallet, then send an email to wowsmith123456@posteo.net with a unique identifier to confirm payment and receive the decryption keys. (Chaturanga Pradeep)
+ 
+
+		

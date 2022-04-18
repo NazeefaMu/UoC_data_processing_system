@@ -1,0 +1,12 @@
+## Title: First cheque deposit machine
+## Supertitle: 
+## Section: Finance
+## Date: Friday, September 7, 2018 - 01:00
+
+First cheque deposit machine
+
+The Commercial Bank of Ceylon launched the first fully-automated cheque deposit service machine at its City Office in York Street, Colombo this week.
+This cheque deposit machine eliminates the need for the filling up of cheque and account details on a deposit envelope. The depositor is required only to key in the account number along with the account holder’s telephone number, before placing the cheque in the allocated slot.
+Saving time and enhancing convenience of customers, the machine will scan the cheques and extract all other required information. The machine can scan up to 25 cheques of a single customer at a time, and email all images of cheques and receipts to a registered email address.
+Additionally, customers could also receive images of up to two scanned cheques in the receipt from the machine.
+ 
