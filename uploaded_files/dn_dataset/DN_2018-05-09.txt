@@ -1,0 +1,974 @@
+## Title: The Engineering Nexus hosts meetup
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 9, 2018 - 01:00
+The Engineering Nexus hosts meetup
+The inaugural Engineering Nexus meetup was hosted at the Sysco LABS engineering centre recently, marking the launch of another initiative to help grow and develop the software engineering and technology development practice in Sri Lanka.
+Unlike other meetups, the Engineering Nexus intends to solve tech problems by bringing together ideas and methodologies from different disciplines within tech organizations together.
+Therefore, the three speakers who addressed the audience Anjana Chandrapala, IVS Security Lead at Virtusa (Pvt) Ltd, Roshan Razik, Director Hosting Operations, at Pearson Lanka (Pvt) Ltd and Hasitha Liyanage, Snr. Director Technology & Architecture at Sysco LABS (Pvt) Ltd all specialized in different areas but came together to discuss the problem of Engineering Productivity.
+Speaking on the event, Hasitha Liyanage said, I spoke on using data as a tool to help you to be more productive by making smarter decisions about what work you should focus on. It was really interesting as a software architect to be able to share my viewpoint on the subject of Engineering Productivity because that is a subject that is usually the focus area of Quality Engineering, but that is the power of the Engineering Nexus. I think the Nexus has great potential and I really want to encourage other tech leaders in the industry to join and collaborate on future events.
+As the recent launch of the Island of Ingenuity brand for Sri Lankas Knowledge Solutions industries illustrates, the nations tech sector is on the rise and there is abundant scope and insight available in the industry.
+Discussing his experience speaking at the Nexus,AnjanaChandrapala highlighted three key principles to adhere by, in order to optimize the traditional software development process to make it capable of delivering solutions to a consumer driven, fast paced market. First, reduce waste by eliminating unwanted efforts during the life-cycle and by applying best practices such as defect prevention mechanisms. Second, focus efforts on what matters the most by utilizing scientific measures such as pair-wise algorithm. And finally, automate throughout the life cycle to get redundant jobs done faster, which leaves you room for creativity and quality.
+Roshan Razik shared the challenges of managing and supporting large business critical platforms and infrastructure at Pearson and the Continual Service and Operational improvement initiatives employed to overcome them for increased productivity. There are three facets to our approach; persistent productivity, continual improvement, and innovation.
+==============================
+## Title: $21.4 bn investment by UK  companies in India in 10 years
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 9, 2018 - 01:00
+$21.4 bn investment by UK  companies in India in 10 years
+British companies including BP and Vodafone invested $21.4 billion in India over the past decade, beating French and German companies put together. The investments include multi-billion dollar deals inked by oil and gas company BP with Reliance Industries and telecom operator Vodafones investments in India, the UKs high commissioner to India, Dominic Asquith, told ET. He also cited examples of companies such as Rolls Royce and JCB that have invested in India for decades.
+There is a need for governmentto-government engagement on agreeing frameworks for new areas of collaboration as there are commonalities between UKs industrial strategy and the Modi governments priority areas, Asquith said.
+Modi travelled to the UK in April, his second visit to that country in three years, and met with British Prime Minister Theresa May.
+Asquith said the UK and India were working together in the areas of cybersecurity, financial technology and data management and security as the exchange of goods, services and people between the two countries intensified. We grant more business visas to Indian nationals than we do to nationals from the rest of the world put together, Asquith said. The UK was introducing a new category of visas to facilitate the entry of exceptional talent from India, he told ET.
+The high commissioner said multiple partnerships were in the works between the two countries in areas of high-end technology such as the use of artificial intelligencebased applications to facilitate the setting up of over 5,000 medical diagnostic centres across India and enabling over 100,000 clinics to be connected through technology.
+Londons prominence as a global financial hub had enabled Indian companies to raise money in that market, according to Asquith, who stated that 80% of masala bonds issued by Indian companies took place in London.
+The high commissioner said his country was conscious about maintaining levels of probity for foreign fund flows into the UK. He stated that due process was being followed with respect to requests for extradition of Indian businessman such as Vijay Mallya who are currently residing in his country.
+The UK and India can collaborate to form the guiding principles that will determine future governance and ethics of the digital world, Asquith said. He said collaborations in financial technology were under way and regulators such as the UKs Financial Conduct Authority and Reserve Bank of India were in constant contact with each other. Research partnerships were also evolving, according to the high commissioner, who referred to cooperation between University of Oxford and Indian Institute of Science for high-class prosthetics and a study by the UK and dia for seismological research in J&K.
+InTech hubs that we have agreed to form in Pune and Bengaluru will also become centres of such collaboration, he said. (Economic Times)
+==============================
+## Title: All should unite to work for peoples benefit - President
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 01:00
+All should unite to work for peoples benefit - President
+President Maithripala Sirisena who delivered the Policy Statement of the Government at the inauguration of the second session of the 8th Parliament yesterday appealed to the all sections of the government to unite under a common purpose to work towards the benefit of the people.
+The full text of his speech is as follows:
+
+As the President and Head of the Government of the people of Sri Lanka, I greet all of you at the opening of the Second Session of the 8th Parliament of Democratic Socialist Republic of Sri Lanka.
+You are aware that in accordance of the powers entrusted to me under the Clause 70 of the Constitution of the Democratic Socialist Republic of Sri Lanka I have issued the Extraordinary Gazette Notification on April 12, 2018 proroguing the First Session of the 8th Parliament. I wish to inform that the Second Session of the 8th Parliament commences today in accordance with the Clause 70 and Clauses 32 and 33 of the Constitution. This is in fact closing of one session and commencing another session of the Parliament in accordance with the Parliamentary traditions of our country.
+I wish to make this Statement as an extension of the Statement presented by me at the commencement of the First Session of the 8th Parliament.
+I believe that you will, despite some criticism, acknowledge that the task of restoring the Sri Lankan Society as a democratic, humane, and accountable society has been completed successfully during the last three and a half years, which was the main request of the people of this country who gave the verdict to this government.
+I gratefully recall the cooperation extended to me by the 7th Parliament and the 8th Parliament since I was elected by the people of this country as President on January 8, 2015 for fulfilling the above mentioned democratic aspirations of the people.
+I wish to make a special mention about few truly people-oriented Acts that were passed by the 7th Parliemant, under the tenure of government I formed in January, 2015.
+The amended Act to establish a National Authority on Tobacco and Alcohol in March 2015
+National Drugs Act adapted in March 2015, and
+19th Amendment to the Constitution adapted in May 2015.
+The adaption of these Acts has been very significant in the history of Sri Lanka Parliament. I wish to mention two of the important features about these enactments.
+It is of high significance that all the political parties represented in Parliament have come to a consensus in view of the benefits to the country and the people. When you consider the party strengths of the 7th Parliament, the Sri Lanka Freedom Party (SLFP) led United Peoples Freedom Alliance (UPFA) had 142 seats and the United National Party (UNP) headed by Prime Minister had 42 seats. However, displaying an unusual cooperation, all the political parties proved that they could shed their political differences and work in cooperation in issues of national importance. This has proven that the solutions to the national level issues remain unsolved since independence and accumulated over the years, lie in the path of dialogue and consensus.
+Hence,
+1.The SenakaBibile Drugs Policy, which was unimplemented for three decades is a reality today,
+2.The 80% graphic warnings on the cigarette packets has been implemented,
+3.If any single political issue was met with so much opposition in the recent history of Sri Lanka, it was the system of Executive Presidency. However, over this period nobody could curtail the excessive powers of Executive presidency. On the contrary, the powers were further enhanced in an authoritative manner. The true potential of consensual politics is that, on May 15, 2015 the maximum power reduction of Executive Presidency, without going in for a national referendum as ruled by the Supreme Court, was achieved.
+I state with gratitude, that the most members of the 8th Parliament that was elected in the Parliamentary elections in August 2015, have worked to further strengthen the political change that began on January 8, 2015. Most of the bills adapted by you during that period are related to economic management of the country. You have adapted 18 bills related to economy, in addition to the two appropriation bills. They were adapted with the desire of effectively managing the Rs. 10.3 trillion debt burden. Furthermore, several bills have been introduced to enhance the revenue of the country. The Right to Information act, which was passed in August 2016 is the strongest such act to empower the citizens of any country in Asia.
+In November 2017, the Local Government Elections (Amendment) Act was passed to strengthen the franchise of the people.
+In October 2017, Sustainable Development Act was passed to attain the objective of sustainable development targets.
+It is also needs to mention the establishment of the Office of Disappeared Persons and the Witness Protection Act to ensure transitional justice and co-existence.
+Hon. Speaker,
+I believe that it is necessary to draw your attention on some of the victories achieved for the people by the government during this period.
+We were able to regain GSP Plus concession which was lost to our country since 2010. Over 6,600 products get duty-free access to the EU market, increasing our total income. Apparel and exporting fish to the EU are among the prominent sectors benefited from this concession.
+Megapolis and port development commenced again. The independence of the judiciary was ensured. Law and order in the country was enforced without any interference. The power of the law of the country is established. There is no room for illegal detention.
+With regard to law and order, we were able to reduce grave crimes by 30% from 2014 to 2018.
+Sri Lanka Ports Authority made profits of 13,200 million rupees in 2017, compared with the profit of 1,100 million rupees in 2016, this is over 100% growth. We have accomplished a lot in the field of ports development.
+Sri Lankas exports in 2017 hit an all-time high of $ 15.1billion, for the time recent history.
+With the aim of promoting new technology to the school system and the state sector, many projects are being implemented.
+We have fulfilled numerous important tasks for the benefit of the foreign employment sector as well as for the expatriate workers.
+The Nearest school is the best school project, the Suraksha free health insurance scheme was introduced for the benefit of the school children, Educational reforms, the programme to provide continuous and compulsory school education to all children from Grade 1 to Grade 13, reforms to National Education Institution, and the promotion of Tri-Lingual education are some examples of programmes in the field of education.The DaruwanSurakimu (Lets Protect Our Children) National Programme, the human resource and infrastructure development at Pre-School and Day Care-centres, reduction of the incidence of low birth weight and increase the standard of the nutritional status of the mothers, as well as providing of nutritional meals to children living in selected areas with the aim of reducing malnutrition in rural areas.
+The National Action Plan to address Sexual and Gender-based Violence has been successfully launched. A quarter of all projects implemented to develop the rural economy planed to bring benefits to women.
+The national housing development programme of our government, implemented by the National Housing Development Authority has shown tremendous progress. Under this programme, nearly 300,000 people have been benefited from 2015 to present. Our Governments housing programme has been successful for the families heavily affected by financial difficulties.
+In order to achieve sustainable development goals of 2030, the period 2015-2017 has focused on four categories to ensure their wellbeing and rights. The groups were, persons with special needs are 9% of the population, people over 60 years of age (12.5%), single parent families (12% of the population), and Samurdhi beneficiaries 25% of population.
+Under the Surya BalaSangramaya programme ( Solar energy programme), 150 MW have been added to the national grid. We have presented a mixed  power generation plan to meet the countrys long-term power generation requirements. Also, ending the era where children used to study under the dim light of a kerosene lamp, electricity supply was provided to 275,000 underprivileged families , which the government had paid attention to this issue.
+It is significant that the development of renewable energy has been a main priority. Like many other countries in the region, we too have had to face hard weather and climate conditions. As a result of the drought prevailed in the country during the past few years, the agricultural output has declined significantly. As the previous governments, we too had to import rice from foreign countries. The production of agricultural commodities and the income derived from agricultural activities have declined by 30% due to the annual rainfall decline. It also had a huge impact on hydro-power generating.
+Numerous programmes have been implemented to encourage the farmers to implement toxin-free farming methods.
+We have increased the number of Lanka Sathosa outlets from 300 to 400, with the aim of providing high quality food at reasonable rates to consumers. Moreover, a new version of consumer societies has been introduced across the country to ensure the rights of the consumers.
+We have made a historic achievement by strengthening the free health service. We have enacted the National Medicine Regulatory Authority Act amidst various hurdles and obstacles, which was the aspiration of people over the past 50 years. As a result of the passing of this Act , the prices of forty eight (48) essential pharmaceutical drugs were reduced. The Government lifted the limit for medical treatment expenses for cancer patients.
+For the first time, we introduced a system for the benefit of heart patients where all the heart surgery costs will be borne by the government. Further we started to provide high quality stents for heart patients free of charge.
+At present, the World Health Organization appreciates highly us for the great service delivered by our free health service including services rendered by our doctors and nurses.We can be pleased over the National Policy on Alcohol which our government approved.
+We have paid special attention to the chronic kidney disease of unknown aetiology and launched a broad national programme to prevent the disease as well as to treat the affected.
+At present, steps have been taken to build a Water Research Centre in the premises of the University of Peradeniya at a cost of Rs.3,600 million, to identify the root causes of the kidney disease.
+Since 2017, we have given the opportunity to all students in the vocational and technical education field to study all the courses free of charge.
+We have given the priority to develop the vocational and technical education and to build a human resource to meet the challenges of an innovation economy.
+Allowance to Samurdhi beneficiaries has been doubled in order to help needy people. Gramashakthi Peoples Movement will cover 2000 villagers in this year.
+Allowance to elderly people has been increased, while the nutrition pack for pregnant mothers, worth 500 previously, has been increased to Rs. 2,000.
+Basic salary of government servants has increased by Rs. 10,000 after a decade. Salaries and allowances for Judiciary service have been increased on a special basis. Mahapola Scholarship has been increased by Rs. 2,500 to Rs. 5,000. Allowance for kidney patients has increased from Rs. 3,000 to Rs. 5,000.
+Today, Katunayake International Airport has the ability to facilitate worlds largest airplanes due to the construction of a runway which was completed within a short period of time.
+Tourism has become the 3rd largest foreign exchange earning sector in the country, as it brings in 15% of all foreign exchange.
+The project SathviruSanhinda housing assistance scheme for war-heroes was launched in 2017 and, it has achieved 90% progress as of now.
+Strategic Defence Communication network Project started in 2015 has shown commendable progress.
+A special salary and allowance scheme has started to provide allowances for the disabled soldiers of the Tri-forces and widows of fallen soldiers.
+Paying of pension arrears has been systemized.
+During the period 2015 to 2018, a land area of 40,475 acres has been released from the use of the Tri-forces. Thus, 85% of all the land occupied by the military during the war period has now been released in the North and East provinces.
+We have been able to achieve 90% progress in the programme to endow ownership of one million land plots to people.
+Moragahakanda-Kalugange project, that was launched and implemented among many obstacles, has shown commendable progress. Since 2015, an accelerated construction programme was introduced and suitable officers were appointed to complete this mammoth project, that is six times as large as the Parakramasamudraya. The water of the Moragahakanda was released to the farmlands, and the Kaluganga waters will soon be released too.
+As a measure to mitigate the adverse effects of climate change and to strengthen national agro-economy by bring solace to the people suffering from drought, an initiative was launched to improve the irrigation systems in the Rajarata and other areas. As such, 800 small tanks in the North Central Province, 1400 small tanks in the Northern Province, and 350 small tanks in the Uva Province will be restored. I must mention here that this is the first time that a government in power since Independence has undertaken to restore more than 2500 tanks simultaneously.
+Further, the construction of North Western Canal (WayamabEla), and North Central Canal (UthurumedaEla), Minipe canal, have been started. They will certainly bring benefits to the people of Sri Lanka for generations.
+We have shown serious commitment towards the environment and brought strict laws to control polythene and plastics. In recognition of our dedication to the environment, Sri Lanka has been chosen to lead the mangrove protection initiative of the Commonwealth of Nations.
+The progress achieved by our programmes, Environmental Protection, Anti-Narcotics, Save our Children National Programme, Sustainable Schools, Chronic Kidney Disease Prevention, have achieved over 90% progress. We have prioritised managing waste, controlling environmental pollution, increasing environmental literacy, and protection of the forest cover. The waste management system, though received with some criticism, is now a well-functioning system.
+Honourable Speaker,
+I hitherto stated the political, economic, socio-cultural developments the present government obtained during the first session of the 8th Parliament under your leadership, which brought about some important legislative developments and developmental achievements.
+It is no doubt that these achievements helped build democratic and humanitarian governance which is responsive to citizens and ascertained a path to fulfil the fundamental needs of the people. However, we have not yet overcome all the challenges confronting us at present.
+It is important to pay serious attention to those challenges when choosing the new path of the government,without passing burden of the ten-trillion-debt to the people. Further, the new path of the government should help the poor overcome poverty,and achieve efficiency in public service while delivering a people friendly service. This needs adopting new policies, implementing strategies and making crucial management decisions.
+We must commit ourselves to the fast development that the people hope for, including the educated youth. This can never be postponed to the future. We must also ensure that Sinhala, Tamil, Muslim, Malay, Burgher, and the indigenousVadda communities can accomplish their reasonable aspirations, together as Sri Lankans.
+For the past economic growth, achieving an efficient cooperation between public and private sector, increasing productivity and competition, optimizing resources to increase direct foreign investment, consolidating the countrys fiscal condition are critical.
+Accomplishing the above mentioned goals and targets amount the fulfillment of our main goal; to emerge as an unconquerable nation in any aspect of development.
+The second target is to achieve national and religious reconciliation to ensure political stability of the country. The third target is to build efficient state governance free of corruption and fraud. My prime goal is to achieve these objectives within my tenure.
+The core of the Throne Speech I delivered before you on 1st of September 2015 was this. At that time, we stated that you are the pioneers of a transformative period which none of the previous parliamentary representatives had faced. The history of the world has showed us that a transformative era has always been a hard and unpopular period by nature.
+Honourable speaker,
+The whole country today wants to achieve the freedom of prosperity. Standing against bribery, corruption and waste is the self defence of a nation, for its future.
+It should be considered that the new session starting today provides an opportunity to achieve those noble goals.
+In Sri Lanka, three hundred and thirty one thousand babies are born every year. The annual death rate is one hundred and thirty one thousand per year. As such, two hundred thousand people are added to our population annually. The new generation of our country have their goals; the intellectuals too. The country too has its goals and targets. I left the previous regime and formed this government with the blessings of the people to ensure that those noble targets and goals are achieved for the betterment of our motherland.
+It must be noted that the country is not in a situation where it is appropriate for different parties and groups to test their political power, but in a situation where the challenges faced by the nation should be overcome with a collective effort.
+In order to make this a reality, the power struggle among the parties in the National Government as well as the power struggle between the government and the opposition must be contained. It is the people who are aggravated by all forms of conflicts over power.
+Honourable Speaker,
+I identify fifteen broad criteria that will make the foundation of a truly people-oriented program to fulfil their expectations:
+1. Ensure economic prosperity of the people,
+2. Eradicate poverty,
+3. Generation of new employment opportunities for the youth,
+4. Satisfy the public servants,
+5. Ensure the confidence and motivation of the police and the Tri-forces,
+6. Further strengthen rule of law, democracy, human rights, and freedom of speech in the society,
+7. Recognition of equal rights based aspirations of the Tamil people,
+8. Ensure the wellbeing and socio-cultural needs of the Muslim community,
+9. Empower the upcountry Tamil community socially and economically,
+10.Further strengthen the indigenous identity by reinforcing the cultural heritage of the Sinhala people,
+11.Involving directly to further empower women,
+12.Being sensitive to the requirements of people with special needs,
+13.Ensure sustainable development that will protect the environment and endow resources of the nation to the future,
+14.Sustainable stewardship towards all religions to protect religious faith and national values with the Buddhist establishment,
+15. Establishing a sustainable development vision by bringing together all ethnic and religious groups and political parties by transcending the struggle for political power.
+When operating under those broad criteria it is imperative that we adopt both macro as well micro development strategies while bringing about structural reforms as required.
+As such, you, as peoples representatives, are the implementers, supervisors, as well as advisors of this agenda collectively. The government will duly introduce a mechanism to monitor the progress based on development outcomes.
+Honourable speaker,
+There are some criticisms and accusations levelled against this government by various parties. We humbly take them into consideration, while being self-critical. We have already made sure that the law enforcement agencies of the government are independent. However, there are concerns as to why some large scale fraudsters have not being able to be brought to justice. Our prime motive is to eradicate corruption completely and to enforce law against perpetrators.
+Another allegation against us has been about the coming together of the two main parties to form the national government. Yet, given the challenges the nation is facing right now, all parties should come together as one. The nation is burdened with a huge debt. And, we have to clean the remnants of a period that made wasteful expenditure. All should work together as one considering that this is the last opportunity for Sri Lanka to emerge as an unconquerable nation.
+I also consider that it is an important political responsibility that we create an environment, in which the winner as well as the loser can co-exist with dignity without hatred and large scale political victimization we have been used to experience in times of regime changes in this country.
+Our utmost expectation should be to serve the nation according to our conscience and I urge that we commit towards our future.
+There were many challenges when this government was formed. First among them was to restore democracy and rule of law. Second was to ensure trust and promote peace among the communities. Third was to build the economy of the country tied to a huge debt. Fourth was to win the International arena which was lost. Whichever the criticisms may be, the government has been able to obtain a successful outcome within the past three years. However, there are lot of work to be done within all these areas.
+Honourable Speaker,
+Today, it is essential that we lead the country towards entrepreneurial management and adopt policies attractive to local and foreign entrepreneurs in order to build as strong and modern Sri Lanka. Furthermore, steps should be taken to beat the so-called economy of friends and to build a society and people-friendly economy. An economy is needed where everyone can prosper.
+It is essential to mention here about the people of agriculture sector in the country. Owing to unfavourable weather during the last three years, the contribution of the agriculture sector to the Gross Domestic Product has decreased. The destructively-heavy rains and long term drought is a result of the climatic changes that affect globally. Rupees Thirty eight thousand million has been invested to provide rations including food to the people in areas affected from drought.
+We must make sure that people can engage in agriculture unhindered by bad weather. As a nation, we have not yet been able to achieve satisfactory progress in modernising our agriculture sector with new technology. The agricultural production, post-harvest processing and distribution systems need to be be modernized.
+Similarly, as a Middle Income Country, it is the time for us to develop an export-oriented industry, based on new technology.
+Honourable Speaker,
+The foundation of a stable country is national reconciliation. It is important to introduce a structure for taking political decisions based on equality for achieving meaningful reconciliation. I believe, it is dire need of the day to strengthen the existing provincial council system in order to achieve these objectives. Whatever the opposition, it is essential to enter into a political programme with the consensus and agreement of the people to find a permanent solution to the issue of unrest of the people in the North and East. Although we defeated the terrorists physically, we have not succeeded in defeating their ideology completely. During the last three years, I have made efforts to defeat the separatists ideologies with the cooperation of the international community.
+We have to acknowledge that post-conflict management is a challenging task. At the time we assumed duty as the government, there was a delay of seven years to find solutions to these challenges, and the task of facing the challenges had become further difficult. There is a lot to be done to erase the war mentality instilled in the society for three long decades and establish harmony. It is extremely difficult for the government to do this alone. It is essential for all sections of the society to get involved. Hence, I appeal to everybody to work in harmony to attain this objective.
+It is important to draw our attention to the national security, which includes protection of territorial integrity, human security and cyber security. While territorial security includes security of maritime areas, in human security, we have to consider food and water resource security.
+As Sri Lanka is geographically located in a central location in the Indian Ocean, it is of strategic importance to us. We also have to remember that this has placed us in a position to think of futuristically about possible security threats. Hence, I emphasize the importance of maintaining a middle path foreign policy with friendship with all nations. This friendly middle path policy has paid dividends. The United Nations and all the countries in the world work with us as friends and cooperate with us more than ever before.
+Honourable Speaker,
+The era of change to which I gave leadership in 2015, has not been completed. Then, it was a novel experience for Sri Lanka. Certain incidents that took place in the past three years have proven that we have been unable to develop the socio-political maturity required to move forward with a national government system.The consensual and dialogue democracy is the governing structure of most of the democratic countries in the world today, but it is still an alien concept for us.
+In the current political scenario, the opposition politics must take a different path and the sister parties in the national government must also a new course.The national unity government consists of various different political parties having different ideologies. If those political parties must function according with the path shown by the Buddha, giving priority for harmony and consensus as the Vajji, at the time of the Buddha, we should also truthfully follow the steps taken by Vajji. As the President during the past three years, I conducted was according to those principles. I strongly believe it will make us a victorious people and a nation.
+Honourable Speaker,
+In conclusion, I emphasized that, we, as a government, should fulfil our responsibilities under a strong political thought, which gives prominence to our heritage, our great culture and our unique identities, in the journey of rising as a nation while achieving economic prosperity.I believe that moving forward, we must work with a vision that is representative of our heritage and the needs of the common people. I wish success for the country and the people.
+==============================
+## Title: Apple denies overcharging consumers over in-app purchases
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 9, 2018 - 01:00
+Apple denies overcharging consumers over in-app purchases
+The US tech giant Apple has denied that it is taking advantage of the large number of iOS users in China and overcharging them when they have in-app purchases, reports Chinanews.com.
+This follows customer complaints that subscribing to the same services, including online videos, and calling for a taxi through apps, costs more through iOS than Android in China. Many enterprises and app developers blame the 30 percent commission they pay Apple as the reason for the price difference.
+Apple has since stressed that the pricing rights for in-app purchases are controlled completely by the developers. If the apps are providing material services, such as selling products or providing a taxi through Didi Chuxing, no commission is charged at all, according to the report.
+The company added that the commissions cover the tools and resources it provided for the app developers and also the platform for the apps to meet customers worldwide.
+We will not allow those apps that are trying to cheat the customers with inappropriately high prices, according to Apples guidance to the verification of apps. (ChinaDaily)
+==============================
+## Title: AVIC holds CEO Network meeting
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 9, 2018 - 01:00
+AVIC holds CEO Network meeting
+AVIC International Holding Corporation, a subsidiary of the Aviation Industry Corporation of China (AVIC) and a reputed Global 500 Company recently hosted the CEO Network Breakfast Meeting at the Hilton Colombo Residencies recently.
+The Invitee Only meeting comprised of a discussion which was initiated by the Guest Speaker, Jrn Rohde, the Ambassador to the Federal Republic of Germany to Sri Lanka and the Maldives.
+Rohdes discussion was titled Sri Lanka  German Relations and Sri Lankas Vision to be the Hub in South Asia. His discussion was later followed by a Q&S session which paved the way for like-minded business minds to share insight and discuss about the potentials that Sri Lanka harbours in the countrys stance towards advancement.
+Following the breakfast meeting, a raffle draw took place for the attendees and gifts were presented to the winners. AVIC Astoria Project Director, Zhang Bo presented the winners with prizes before the meeting wrapped up.
+==============================
+## Title: Bharti Infratel, Indus likely to invest  Rs 3,500 cr capex for FY19 ahead of merger
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 9, 2018 - 01:00
+Bharti Infratel, Indus likely to invest  Rs 3,500 cr capex for FY19 ahead of merger
+Bharti InfratelNSE 0.09 % and Indus Towers are likely to invest Rs 3,500 crore in operations as capital expenditure for 2018-19 as they continue to operate on business-as-usual mode till their merger happens before the fiscal-end, sources said.
+The two companies, last month, announced a merger deal that will create a USD 14.6 billion firm with worlds second-largest number of mobile masts. The merged entity will have, in its fold, more than 1,63,000 towers across India - largest after China Tower.
+The transaction is subject to regulatory and other approvals which the two companies will now pursue, starting with Competition Commission of India (CCI) and thereafter Sebi, NCLT and Department of Telecom (FDI approval). The companies have said the deal is expected to close before the end of 2018-19.
+A source privy to the development said the annual financial planning continues on course for both the companies as it is business-as-usual, and that Infratels capex is expected to be in the ballpark range of Rs 1,200 crore in 2018-19.
+Similarly, Indus Towers - where Infratel holds 42 per cent stake - is likely to infuse roughly Rs 2,300-2,500 crore as capex this year, said the official who did not wish to be named.
+Indus Towers is jointly owned by Bharti Infratel (42 per cent holding), Vodafone (42 per cent), Idea Group (11.15 per cent) and Providence (4.85 per cent).
+The amount of investment is similar to last years levels and will go into new towers, tenancies and replacement capital, the official said adding that the investments are being funded from internal accruals of the two tower firms.
+A Bharti spokesperson declined to comment on a detailed e-mailed query sent to the company. Indus Towers did not wish to comment.
+The capex amount will also be used for replacement of batteries, DG (diesel generators), power equipment...As the tenancies increase, the two companies will continue to increase their capacities of mobile towers ahead of their proposed merger, said the source.
+Last month, the two entities announced that, Indus Towers will be merged with and into Bharti Infratel through a scheme of arrangement. The merged entity, which will be called Indus Towers, will remain listed.
+Bharti Airtel, which owns 53.5 per cent in Bharti Infratel, will get 33.8-37.2 per cent stake in the combined entity. Its final shareholding depends on what Aditya Birla Groups Idea and Providence do with their minority shareholding in Indus Towers.
+Vodafone India will get between 26.7 per cent and 29.4 per cent of the Indus-Bharti Infratel combine.
+The merger will help unlock value for the companies which are locked in a tariff war unleashed by newcomer Reliance Jio Infocomm that has hurt earnings and triggered consolidation in the sector. Vodafone and Idea are already in the final stages to merge their mobile operations.
+Airtel had separately also stated last month that it plans to engage with potential investors to evaluate a stake sale in the combined tower company, which will have an equity value of Rs 96,500 crore (USD 14.5 billion).
+If Idea decides to sell all its stake and Providence sells 3.35 per cent of its 4.85 per cent shareholding, the new entity will be 37.2 per cent owned by Airtel and 29.4 per cent by Vodafone Group, while 1.1 per cent will be with Providence and the rest by public shareholders.
+In case Idea and Providence decide to continue to stay invested, Airtel would have a shareholding of 33.8 per cent in the combined entity. Vodafone, in such a scenario, would have 26.7 per cent while Idea Group would get 7.1 per cent and Providence would have 3.1 per cent holding. The remaining 29.3 per cent would be with public.
+(Economic Times)
+==============================
+## Title: Bill to set up special High Courts in House today
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 01:01
+Bill to set up special High Courts in House today
+The Judicature Amendment Bill which aims to set up a permanent High Court-at-Bar to expedite cases of large scale corruption and financial crimes will be tabled in parliament today (9).
+Health Minister Dr.Rajitha Senaratne said the bill will be presented to the parliament with the amendments suggested by the Supreme Court.
+Addressing the media yesterday at the Government Information Department, Minister Senaratne said that the election manifesto of the Yahapalana Government had promised to enforce the law strictly against those found to be corrupt in the previous regime and punish them.
+The main objective of setting up the special court is to speed up the hearing of cases involving large scale of fraud and corruption in the country, he said.
+Justice Minister Thalatha Athukorala said that the Act was scheduled to be presented to parliament on March 6, but several petitions challenging this Bill had been filed before the Supreme Court claiming that the clauses of the said the Bill violates certain articles of the Constitution.
+The Supreme Court (SC) determined that three Sections of Judicature (Amendment) Bill are inconsistent with the Constitution and need to be passed by a two thirds majority in Parliament.
+The SC has determined that Sections 12 A (1), 12 A (2) and 12 A (7) are contradictory with the Constitution.
+She said Section 12 A (1) of the Bill deals with the setting up of the Permanent High Court-at-Bar, and the nature of cases to be taken up in it.
+The Supreme Court determined that section 12A(1) of the Bill is inconsistent with Article 154 P(3)(a) of the Constitution and an amendment is required to be made to the Constitution to give effect to section 12A(1) of the Bill. she said.
+She further said that amending section 12A (2) of the Bill requires the Judicial Service Commission to nominate judges to the permanent High Court at Bar. This is inconsistent with article 154(P)2 of the Constitution and an amendment is required to be made to the Constitution to give effect to the section 12A(2) of the Bill which requires a two-third majority. The amending section 12(A)(7) is inconsistent with Article 12(1) of the Constitution. However, if the Chief Justice is given the power to decide whether to hold a trial at Bar or not this amending section will cease to be inconsistent.
+Refuting the allegations by various groups claiming that the purpose of establishing this special High Court was for political revenge, Minister Athukorala said the present government has ensured the independence of the judiciary through the Judicial Services Commission.
+There is no need to set up new courts to take political revenge. If we want to take political revenge, we can do it by following the footsteps of the previous regime like how they took political revenge from former CJ Shirani Bandaranayake and Gen.Sarath Fonseka, she said.
+==============================
+## Title: Body lotion sales to be regulated
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 01:00
+Body lotion sales to be regulated
+A law to regulate the sale of body lotions used for skin care is to be introduced by the Consumer Affairs Authority soon.
+The law will stipulate that the ingredients and the quota of the lotion to be applied on the body at a time should be indicated in the label of the bottle or vial containing the lotion.
+Consumer Affairs Authority Chairman Hasitha Tillakaratne said he had already signed the relevant gazette notification to be released shortly.
+The producers and importers of these lotions would be given a respite of six months to conform to its stipulations.
+This decision was taken because the authority had found certain lotions in the market to be sub-standard and harmful to the skin.
+==============================
+## Title: Cabinet fixes Sri Lanka's energy mix
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 15:36
+Cabinet fixes Sri Lanka's energy mix
+
+Bringing an end to the hotly contested Sri Lankas energy generation mix, the Cabinet of Ministers approved a policy paper on the Sri Lanka energy generation, which officials say will pave way for a swift approval of the impending Long term Generation Plan, today.
+Speaking to Daily News, reliable sources at the Ceylon Electricity Board cited that the Cabinet of Ministers approved a policy paper detailing that Sri Lankas power generation be a mix of thermal, Liquefied Natural Gas and heavy hydros.
+The policy calls for 30 percent of the generation to be thermal, another 30 percent which can be LNG, 25 percent to be heavy hydro and the remaining 15 percent to be fuel based (by-products), sources told the Daily News. The Cabinet of Ministers do not have the jurisdiction to approve the Long Term Generation Plan put forward by the CEB, it is up to the Public Utilities Commission of Sri Lanka.
+Meanwhile Ceylon Electricity Board Engineers Union who have engaged in a work-to-rule campaign added that it is now up to the PUCSL to act fast on the Long Term Generation Plan since the Cabinet has already signified their approval of Sri Lankas Energy Policy.
+Unionists Athula Wanniarachchi said that the meeting at PUCSL which saw the participation of the General Manager of CEB and Secretary to the Ministry of Power and Energy ended inconclusively. We will keep up the strike until the generation plan put forward by the CEB is approved.
+==============================
+## Title: Cabinet nods to lift Glyphosate ban on tea and rubber
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 14:15
+Cabinet nods to lift Glyphosate ban on tea and rubber
+
+The Cabinet paper suggesting to lift the ban imposed on utilizing Glyphosate for tea and rubber was approved by the Cabinet of Ministers, Primary Industries Minister Daya Gamage said a short while ago.
+The decision to lift the ban was made after Sri Lanka Tea Board complained that Japan had rejected a stock of Sri Lanka tea which contained chemical substance which is used as a substitute to Glyphosate.
+Furthermore Plantation Industries Minister Naveen Dissanayake affirmed that the decision was taken after considering scientific research which proved that this substance is not harmful to human health.
+==============================
+## Title: CBSL grants Peoples Merchant Finance  extension for merger
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 9, 2018 - 01:00
+CBSL grants Peoples Merchant Finance  extension for merger
+The Monetary Board of Central Bank has granted Peoples Merchant Finance a 6 month extension until September 30, to effect the merger with Peoples Leasing & Finance.
+==============================
+## Title: Central Bank highlights need for fuel pricing formula
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 9, 2018 - 01:00
+Central Bank highlights need for fuel pricing formula
+The need for a cost reflective pricing formula for domestic fuel prices has been highlighted in the Central Banks latest annual report.
+Price reforms for petroleum products have been a long-standing policy issue in Sri Lanka due to its direct impact on the cost of living and the cost of production as well as on the overall macroeconomic stability, the report says.
+In the global market oil prices rose above US$70 yesterday for the first time since 2014. In June 2016, the prices remained at the level of US$ 48.
+Economists say significant increase in imports due to under pricing of fuel adversely affects Sri Lankas balance of payments and puts pressure on the currency. Static retail prices where global cost of fuel imports increases results in increasing losses to Ceylon Petroleum Corporation which are eventually borne by the tax payer. Current CPC debt to state banks is around Rs 333 billion which is not sustainable, they point out. The cost of petroleum products comprises Cost, Insurance and Freight (CIF) price, terminal charges for storage and bulk distribution, transport costs, exchange rate variation cost, short-term financing costs and personnel and overhead costs of the CPC.
+The petroleum sector of Sri Lanka is dominated by CPC, a strategically important state-owned business enterprise, which accounts for approximately 86 per cent of the retail market share. Sri Lanka depends heavily on imported petroleum products to meet the primary and secondary energy requirement of the country. Moreover, as a small net-oil importing country, Sri Lanka is a price taker in the global market. Due to the high impact of petroleum prices on the cost of production, and thereby the cost of living, setting of petroleum prices has always been a politically sensitive issue in the country. However, non-adjustment of retail fuel prices to reflect their costs has seriously challenged the financial viability of the CPC on numerous occasions while creating macroeconomic imbalances and in fact lowering consumer welfare.
+Under pricing of fuel will result in overconsumption of fuel. The result is increased levels of traffic and also higher generation of pollution. Over the last few years, theres been a drastic increase in fuel imports into the country.
+If there is a pricing formula, as global prices change, Sri Lankas retail prices will adjust accordingly, with in-built measured to prevent excess volatility. A transparent formula can be implemented with a gradual progression towards full implementation to avoid a sharp disruption, according to an economic analyst.
+Other regional countries such as India, Pakistan, Philippines, Nepal and Laos have successfully implemented oil pricing systems.
+The Central Bank also said, the implementation of a cost reflective pricing mechanism also needs to be extended to other utilities as well, to ensure the financial viability of the relevant state-owned business enterprises.
+==============================
+## Title: Ceylinco Diabetes Centre celebrates 14th anniversary
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 9, 2018 - 01:00
+Ceylinco Diabetes Centre celebrates 14th anniversary
+A discount of 25 per cent on diabetes check-ups and pre-diabetes screening packages, combined with several other special benefits are to be offered throughout May 2018 by the Ceylinco Diabetes Centre in celebration of its 14th anniversary, which falls on May 25.
+The Centres Comprehensive Diabetes Check-up package comprises of a medical consultation including a complete physical examination and tests such as Body Mass Index (BMI), visual acuity, blood pressure, fasting blood sugar, HbA1C, full blood count, lipid profile, urine full report, urine for Microalbumin, serum Creatinine and GFR, ECG, and SGPT. Patients will also be able to discuss their reports with an assigned Medical Officer.
+Additionally, the package will include a free vascular and neurological foot assessment, and a free eye refraction test, the Centre said.
+The screening package for pre-diabetes too will comprise of a medical consultation and tests such as Body Mass Index (BMI), visual acuity, blood pressure check, fasting blood sugar, lipid profile, HbA1C and a urine full report, complete with an evaluation by an assigned Medical Officer Visitors who obtain this package will also be entitled to a free eye refraction test.
+Both packages carry an additional benefit of a 40% discount on the purchase of a Glucometer, a home use medical device for determining the approximate concentration of glucose in the blood.
+The incidence of diabetes continues to rise and is becoming one of the most pressing health issues affecting Sri Lankans, said Dr Charuky Weerasuriya, Chief Medical Officer at the Ceylinco Diabetes Centre. We hope these discounts and special benefits will be an incentivefor people to assess their risk of becoming diabetic. We also want to promote better managementof the condition among patients through these package offers.
+The Ceylinco Diabetes Centre is a ground-breaking unit of Ceylinco Healthcare Services Ltd., (CHSL) a subsidiary of Ceylinco Life, the countrys leading life insurer. The Centre is the most advanced stand-alone private facility of its kind in Sri Lanka. CHSL also owns and manages two of Sri Lankas most advanced private radiation facilities for the treatment of cancer.
+==============================
+## Title: Chinas total outbound  investment jumps in Q1
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 9, 2018 - 01:00
+Chinas total outbound  investment jumps in Q1
+Chinas outbound direct investment (ODI) including financial and non-financial sectors registered rapid growth in the first quarter, according to official data.
+All-industry ODI totaled $28.2 billion, up 16.2 percent year-on-year, according to data from the Ministry of Commerce (MOC) and the State Administration of Foreign Exchange.
+Domestic investors made $25.5 billion of non-financial ODI in 2,023 overseas enterprises in 140 countries and regions for January-March, up 24.1 percent from the same period last year.
+Chinas ODI has seen rapid growth in recent years. However, noting an irrational tendency in outbound investment, authorities have set stricter rules and advised companies to make investment decisions more carefully.
+In the first three months, no new ODI projects were reported in the real estate, sports and entertainment sectors, the MOC said in a previous statement. (ChinaDaily)
+==============================
+## Title: Coconut Products  Prices on 08-05-2018
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 9, 2018 - 01:00
+Coconut Products  Prices on 08-05-2018
+==============================
+## Title: Couple lodging at guest house allegedly robbed of jewellery, cash
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 01:00
+Couple lodging at guest house allegedly robbed of jewellery, cash
+A young University couple had lost gold jewellery valued at around Rs 2.8 million during their stay at a Guest House in Ahangama area.
+According to Ahangama Police, the young couple had gone their a tour and booked a room in a guest house. Later, they had gone to meet one of their friends at about 10 p.m., who were living close to the guest house in Ahangama.
+However after their arrival at the guest house, the couple had gone to sleep.
+When they woke up in the morning, they had found that their jewellery and their money including considerable amount of foreign currency had gone missing. The couple had immediately lodged a complaint at the Ahangama Police Station.
+At the preliminary investigations, it was also divulged that the total value of the gold jewellery was worth nearly Rs. 2.6 million. According to the couple, they had lost around Rs 205,260 in foreign currency and also another Rs. 65,000 in local currency.
+Further investigations are being carried by the Ahangama Police.
+==============================
+## Title: Court directs Cabraal to submit report
+## Supertitle: commonwealth games bid
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 01:04
+commonwealth games bid
+Court directs Cabraal to submit report
+The Colombo Fort Magistrate yesterday issued an order directing former Central Bank Governor Ajith Nivard Cabraal to submit a report in court within seven days. This is pertaining to the financial transactions regarding Sri Lankas bid to host the 2018 Commonwealth Games (CWG).
+Magistrate Lanka Jayaratne made this order pursuant to a request made by FCID conducting investigations into the alleged irregularities that have taken place in the failed bidding process.
+It was revealed that over Rs. 600 million funds deposited in a current account by CWG Hambantota 2018 Pvt. Ltd. for the purpose of bidding to host the Commonwealth Games in Hambantota had been spent without any trace of transactions.
+The Financial Director of CWG Hambantota 2018 Pvt. Ltd. Mahinda Fernando was also ordered to submit a report in this regard within seven days.
+The bidding process for the 2018 Commonwealth Games began on March 31, 2010.
+Two bids for the 2018 Commonwealth Games were submitted. Gold Coast and Hambantota in Sri Lanka were the two bidding cities. On November 11, 2011, Gold Coast won the bid to host the Commonwealth Games.
+==============================
+## Title: Daraz Group joins  Alibaba Ecosystem
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 9, 2018 - 01:00
+Daraz Group joins  Alibaba Ecosystem
+Daraz Group, a leading e-commerce company in Sri Lanka, Pakistan, Bangladesh, Myanmar and Nepal today announced that the company was fully acquired by Alibaba to become a member of Alibaba Group.
+With the acquisition, Daraz will be able to leverage Alibabas leadership and experience in technology, online commerce, mobile payment and logistics to drive further growth in the five South Asian markets that have a combined population of over 460 million, 60% of which are under the age of 35.
+Daraz group was founded in 2012 and has since grown into the most popular online shopping destination in the countries it operates in.
+Bjarke Mikkelsen, Co-CEO, Daraz said, With this transaction Daraz has found its natural home in the Alibaba family, and we will carry our part of the mission to make it easy to do business anywhere. With hard work and dedication, we have started the e-commerce journey in our markets, but we have still only scratched the surface of the potential.
+Dr. Jonathan Doerr, Co-CEO, Daraz added, Together with Alibaba, we are ready to empower entrepreneurs in the region and to fulfill our promise to offer our customers the best selection of products with a high level of convenience. All of this would be supported by a best-in-class technology platform, a strong logistics network, and a vibrant community of ecosystem participants.
+Daniel Zhang, CEO of Alibaba Group, said, Together with Daraz, we can now empower entrepreneurs to better serve consumers in the region through our technology and expertise. In Daraz, we found a great team that espouses our values and believes that a technology-enabled commerce ecosystem will play a critical role in driving the long term economic development in South Asia.
+Launched in 2012, Daraz is South Asias online shopping and selling destination of choice  present in Sri Lanka, Pakistan, Bangladesh, Myanmar, and Nepal. Supported by a wide range of tailored marketing, data, and service solutions, the pioneering ecommerce ecosystem in South Asia has 30,000 sellers and 500 brands, serving 5 million consumers.
+Focused on providing an excellent customer experience, it offers multiple payment methods including cash-on-delivery, comprehensive customer care and hassle-free returns. Daraz is now owned by Alibaba Group Holding Limited.
+
+==============================
+## Title: Divisional Secretaries to select Samurdhi beneficiaries
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 01:00
+Divisional Secretaries to select Samurdhi beneficiaries
+Prime Minister Ranil Wickremesinghe has instructed to transfer the power of selecting of Samurdhi recipients to the Divisional Secretary through the District Secretary which is vested in Samurdhi Development Officers.
+The government also has decided to scrutinize the qualifications of over 1.4 million Samurdhi recipients across the country. The government has reached this decision based on thousands of complaints stating that they are not being granted the Samurdhi benefits while many others who at least do not have basic qualifications are being granted the Samurdhi benefits.
+==============================
+## Title: Duminda's appeal taken up for argument
+## Supertitle: BHARATHA LAKSHMAN MURDER CASE
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 01:02
+BHARATHA LAKSHMAN MURDER CASE
+Duminda's appeal taken up for argument
+The appeal petitions filed by five accused including former MP Duminda Silva challenging the judgment of the Colombo High Court was taken up before the Supreme Court for further argument yesterday.
+The appeal came up before the five-judge Supreme Court bench headed by Chief Justice Priyasath Dep. Further argument was fixed for May 10.
+Presidents Counsel Anuja Premaratne appearing on behalf of the appellant-accused Anura Thushara de Mel stated that the High Court Trial-at-Bar conviction cannot stand on several legal grounds. He stated that the High Court Trial-at-Bar bench had not given reasons for the conviction even without considering accuseds dock statement.
+Five accused including former Defence Ministry Monitoring MP Duminda Silva were sentenced to death by the Colombo High Court for committing the murder of four persons including former MP Bharatha Lakshman Premachandra.
+They filed appeal petitions in the Supreme Court challenging the judgment of Colombo High Court.
+Duminda Silva, the eleventh accused in the murder case had filed an acceleration petition in the Supreme Court requesting that the appeal be accelerated on medical grounds.
+Through his appeal, Duminda Silva stated that he was seeking the jurisdiction of the Supreme Court to review and set aside their conviction and the death sentence imposed by the High Court on September 8, 2015.
+Five accused including former MP Duminda Silva were on September 8, 2015 sentenced to death by the Colombo High Court for committing the murder of four persons including former MP Bharatha Lakshman Premachandra on October 8, 2011. However, the verdict was divided two to one with judges Pathmini N.Ranawaka and M.C.B.S. Morais finding the five accused guilty for ten charges including committing and conspiring to commit murder of four people while Justice Shiran Gunaratne, the President of Colombo High Court Trial-at-Bar found the thirteen accused not guilty of all seventeen charges. The five-judge Supreme Court bench comprised Chief Justice Priyasath Dep, Justice Buwaneka Aluvihare, Justice Prasanna Jayawardena, Justice Nalin Perera and Justice Vijith Malalgoda.
+==============================
+## Title: Eight tested positive for HIV/AIDS in Ampara
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 01:00
+Eight tested positive for HIV/AIDS in Ampara
+Eight had been tested positive for HIV/AIDS in the Ampara district recently. However, the HIV/AIDS patients rate in the district had dropped in the recent past, Eastern Province Health Department Consultant Community Physician Dr. Arul Kumaran said.
+He made this statement while attending the programme to distribute equipment kits for Rapid HIV Testing Services for Base Hospitals in the Kalmunai RDHS areas. The event was presided by Kalmunai Regional Director of Health Services Dr. A. L. Alawdeen at the RDHS auditorium, recently.
+Consultant Community Physician Dr. Kumaran said 3,000 people were identified to be affected by HIV/AIDS in Sri Lanka from 1981 with 200 deaths.
+Quick action is being pursued to completely eradicate the disease. The number of HIV/AIDS patients had decreased in the Kalmunai and Ampara RDHS areas, he added.He pointed out that the number of HIV/AIDS patients had increased in the country from 2012.
+During the first quarter of the year from January to March, around 91 HIV/AIDS positive cases were reported countrywide with nine deaths.
+Medical Officers of the Ampara area were congratulated for their service and prompt action in this regard.
+==============================
+## Title: Exchange Rates on 08.05.2018
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 9, 2018 - 01:00
+Exchange Rates on 08.05.2018
+==============================
+## Title: Financial News on 08-05-2018
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 9, 2018 - 01:00
+Financial News on 08-05-2018
+==============================
+## Title: Fraudster gang netted
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 01:00
+Fraudster gang netted
+Members of a gang of fraudsters led by a suspect dubbed Raja, which had defrauded several banks, pawn brokers and other institutions by mortgaging inferior jewellery mixed with an iota of gold as genuine gold jewellery, was arrested by Wellawatte Police.
+There had been five members in this gang of which Raja had been the ring leader who turned out the imitation jewellery to look as genuine gold times.
+The gang had fallen into the police net when two of its members, a male and a female, had visited a private pawn broker to mortgage two rings. The female employees, who were suspicious about their movements, had alerted Wellawatte Police on the hotline and police had rushed to the scene and apprehended the duo with the two items.
+On interrogation, they had spilled the beans about their modus operandi which led to the arrest of the other members of the gang who had receipts of items mortgaged for nearly Rs. 5 million. The two kingpins involved have been identified as Abdul Azam Mohamed of Mosque Road, Puttalam and Rajalingam alias Raja, a resident of Colombo.
+Police media spokesman SP Ruwan Gunasekera said the duo had three other accomplices who were also arrested. They were produced in court and remanded.
+Investigation are continuing.
+==============================
+## Title: Gold jewelry worth Rs. 4.5 million nabbed at BIA
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 11:55
+Gold jewelry worth Rs. 4.5 million nabbed at BIA
+
+Gold jewelry worth Rs. 4.5 million was nabbed by the Bandaranaike International Airport (BIA) Narcotics Breuer from a Sri Lankan woman this morning.
+The alleged woman was caught while attempting to smuggle in the gold from Dubai.
+The nabbed gold jewelry consists of 12 bangles and 3 necklaces.
+The suspected woman was directed to the BIA Customs for further investigations.
+==============================
+## Title: Heavy rains in several provinces, districts today
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 09:57
+Heavy rains in several provinces, districts today
+
+Heavy rains of above 100 mm are expected particularly in Central, Sabaragamuwa, Uva and Eastern provinces and in Galle, Matara and Polonnaruwa districts, the Meteorology Department said.
+Moderate rains or thundershowers are expected in the Western, Southern provinces, Puttalam and Mannar districts.
+There may be temporary localized strong winds during thundershowers.
+The Met. Department urged the public to take adequate precautions to minimize damages caused by lightning activity.
+==============================
+## Title: Hotel staffer charged for sexual assault
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 01:00
+Hotel staffer charged for sexual assault
+A hotel employee who tried to sexually assault two American women was arrested by Uppuveli Police, yesterday. The two women are employees of the Naval Ship USNS Mercy which berthed at the Trincomalee harbour.
+The two women had ordered a soft drink from the hotel in which they were staying. An employee had brought the drinks to the room and had attempted to sexually molest the two women aged 23 and 25, stated an official from the Police Media Unit.
+The employee was identified as a resident of Pudukudirippu and was scheduled to be produced before the Trincomalee Magistrates Court yesterday.
+US Navy Hospital Ship, USNS Mercy arrived in Sri Lanka on April 25 to facilitate the Pacific Partnership-2018. It is currently berthed at the Trincomalee Port and will leave Sri Lanka on May 9.
+==============================
+## Title: Iran nuclear deal: Trump pulls US out in break with Europe allies
+## Supertitle: 
+## Section: World
+## Date: Wednesday, May 9, 2018 - 10:22
+Iran nuclear deal: Trump pulls US out in break with Europe allies
+
+US President Donald Trump says he will withdraw the US from an Obama-era nuclear agreement with Iran.
+Calling it "decaying and rotten", he said the deal was "an embarrassment" to him "as a citizen".
+Going against advice from European allies, he said he would reimpose economic sanctions that were waived when the deal was signed in 2015.
+In response, Iran said it was preparing to restart uranium enrichment, key for making both nuclear energy and weapons.
+Iran's President Hassan Rouhani said: "The US has announced that it doesn't respect its commitments.
+"I have ordered the Atomic Energy Organisation of Iran to be ready for action if needed, so that if necessary we can resume our enrichment on an industrial level without any limitations."
+He said he would "wait a few weeks" to speak to allies and the other signatories to the nuclear deal first.
+"If we achieve the deal's goals in cooperation with other members of the deal, it will remain in place," he said.
+The so-called Joint Comprehensive Plan of Action (JCPOA) curbed Iran's nuclear activities in return for the lifting of sanctions that had been imposed by the UN, US and EU.
+Trump had previously complained that the deal only limited Iran's nuclear activities for a fixed period; had failed to stop the development of ballistic missiles; and had handed Iran a $100bn (74bn) windfall that it used "as a slush fund for weapons, terror, and oppression" across the Middle East.
+"It is clear to me that we cannot prevent an Iranian nuclear bomb under the decaying and rotten structure of this deal," Trump said.
+"The Iran deal is defective to its core."
+Former President Barack Obama, who signed the deal on behalf of the US three years ago, called Trump's announcement "misguided".
+When will the sanctions restart
+The US Treasury said economic sanctions would not be reimposed on Iran immediately, but would be subject to 90-day and 180-day wind-down periods.
+In a statement on its website, it said sanctions would be reimposed on the industries mentioned in the 2015 deal, including Iran's oil sector, aircraft exports, precious metals trade, and Iranian government attempts to buy US dollar banknotes.
+US National Security Advisor John Bolton is reported as saying that European companies doing business with Iran will have to finish within six months or face US sanctions.
+On a collision course
+With a stroke of his pen President Trump has jeopardised the one agreement - good or bad -that seeks to constrain Iran's nuclear ambitions.
+He launched a scathing assault on the deal and its deficiencies, but he offered no alternative policy to put in its place.
+He has put US diplomacy on a collision course with some of Washington's closest allies.
+And some fear that he may have brought a new and catastrophic regional war in the Middle East that much closer.
+What reaction has there been worldwide
+France, Germany and the UK - whose leaders had tried to change Trump's mind - have said they "regret" the American decision. The foreign ministry of Russia, another signatory, said it was "deeply disappointed".
+The European Union's top diplomat, Federica Mogherini, said the EU was "determined to preserve" the deal.
+Former PresidentObama said on Facebook that the deal was workingand was in US interests.
+"Walking away from the JCPOA turns our back on America's closest allies, and an agreement that our country's leading diplomats, scientists, and intelligence professionals negotiated.
+"At a time when we are all rooting for diplomacy with North Korea to succeed, walking away from the JCPOA risks losing a deal that accomplishes - with Iran - the very outcome that we are pursuing with the North Koreans," he said.
+The United Nations secretary general's spokesman said Antonio Guterres was "deeply concerned" at the announcement and called on the other signatories to abide by their commitments.
+But Israel's Prime Minister Benjamin Netanyahu says he "fully supports" Trump's "bold" withdrawal from a "disastrous" deal.
+And Saudi Arabia, Iran's regional rival, says it "supports and welcomes" Trump's moves towards pulling out of the deal.
+What was agreed under the deal
+The so-called Joint Comprehensive Plan of Action (JCPOA) saw Iran agree to limit the size of its stockpile of enriched uranium - which is used to make reactor fuel, but also nuclear weapons - for 15 years and the number of centrifuges installed to enrich uranium for 10 years.
+Iran also agreed to modify a heavy water facility so it could not produce plutonium suitable for a bomb.
+In return, sanctions imposed by the UN, US and EU that had crippled Iran's economy were lifted.
+The deal was agreed between Iran and the five permanent members of the UN Security Council - the US, UK, France, China and Russia - plus Germany.
+Iran insists its nuclear programme is entirely peaceful, and its compliance with the deal has been verified by the International Atomic Energy Agency (IAEA).
+
+==============================
+## Title: Iron ore investors INDIAN to boost pricing push
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 9, 2018 - 01:00
+Iron ore investors INDIAN to boost pricing push
+Overseas companies are actively participating in trading Chinas iron ore futures, a move industry insiders said will help the nation establish a global trade pricing benchmark.
+Chinas iron ore futures officially opened to foreign traders on Friday at the Dalian Commodity Exchange in Dalian, Liaoning province.
+On Friday, 49 overseas customersincluding Glencore PLC and Mokorui Energy Group, participated in the trading of DCEs iron ore futures.
+It shows that overseas traders have high enthusiasm for the domestic iron ore futures market, said Yang Qing, general manager of Galaxy Futures, a domestic brokerage.
+The introduction of overseas qualified traders to participate in iron ore futures trading will make domestic iron ore futures prices more influential and have a positive and far-reaching impact on the pricing mechanism of iron ore spot trading, Yang said.
+Glencore PLC, one of the worlds biggest commodity traders and miners, became DCEs first overseas iron ore futures trader, buying a contract through Straits Financial Group Pte Ltd and Xinhu Futures.
+With the introduction of overseas traders, overseas miners, traders and institutional investors will be involved in succession. The price of iron ore futures can more accurately reflect the changes in supply and demand and the macroeconomic impact of the global iron ore trade, said Yang Xidong, general manager of Xinhu Futures.
+Yang said it will help promote Chinas iron ore futures to become a global iron ore trade pricing benchmark, taking Chinas iron ore futures market from a regional to the global market. The linkage between domestic and foreign markets will become stronger, and cross-market transactions will be more convenient.
+Domestic and overseas customers can further carry out cross-border warehouse pledges, off-exchange options, capacity maintenance and other services to reduce the impact of market uncertainties, and then achieve global industrial chain risk management, he said.
+Roger Quek, managing director of Straits Financial, said with the internationalization of Chinas iron ore futures, more and more foreign investors are starting to pay attention to Chinas futures market.
+The international recognition and functional role of Chinas iron ore futures will be further enhanced, he added. (ChinaDaily)
+==============================
+## Title: JO tells President: Do not bring Samurdhi Bank under CB
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 01:00
+JO tells President: Do not bring Samurdhi Bank under CB
+Parliamentarian Bandula Gunawardena yesterday said the Joint Opposition(JO) will request President Maithripala Sirisena not to bring the Samurdhi Bank under the Central Bank as Prime Minister Ranil Wickremesinghe had stated at the May Day rally. Addressing a media briefing at the Economic Research Unit of the JO at the Vajirarama Buddhist Centre in Punchi Borella, Gunawardena said the Samurdhi Bank was created to obtain bank loans without following traditional banking system rules.
+==============================
+## Title: lankas LTL Holdings enters Nepal hydro power sector
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 9, 2018 - 01:00
+lankas LTL Holdings enters Nepal hydro power sector
+Sri Lankas conglomerate LTL Holdings Group, upon securing approvals to develop a 10 MW hydro power project in Nepal, signed syndicate loan agreements securing finance for the project in a landmark transaction.
+Sanima Bank, one of the leading banks in Nepal, arranged a Syndicate Debt package of US$ 15 million to finance the project on an optimal leverage of debt to equity mix.
+Century Bank and National Credit & Commerce Bank are the other syndicate partners. This transaction being structured on project financing basis, is an indication of the shear confidence the international banking community is having on a renowned and well established global power sector player such as LTL.
+LTL was assisted in the transaction by Accede Capital of Sri Lanka. LVL Energy Fund PLC will invest in the project along with LTL.
+LTLs latest hydro project is located in western Nepal in Darchula district. It will be a run of the river high head power plant in the Makari River.
+According to Sameera Ganegoda, Vice President (Renewable Energy) of LTL, the project is estimated to be completed by end of 2019.
+Securing all important finance, facilitates the entry of any Sri Lankan company to the energy market in Nepal, whilst the project being financed on project financing basis would be a catalyst for other regional players to explore the vastly untapped hydro potential in Nepal.
+LTL is the leading power sector company in Sri Lanka with more than Rs. 25 billion revenue. Having earned experience in Sri Lanka, LTL has recently been aggressive in expansion globally.
+==============================
+## Title: Lanka Ashok Leyland  PAT surges 112% to  Rs 504 mn in 2017/18
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 9, 2018 - 01:00
+Lanka Ashok Leyland  PAT surges 112% to  Rs 504 mn in 2017/18
+Lanka Ashok Leyland ended the fiscal year with a turnover of Rs 15.6 billion, a 36% increase over 2016.
+Gross profit rose 15% to Rs 1.27 billion, a margin contraction driven by higher cost of sales associated with the launch of newer technologically superior BS3 compliant vehicles with ABS Brakes. Against a decline in the gross profit margin, Lanka Ashok Leyland compensated with a 21% decline in operational costs to Rs 418 million from Rs. 532 million in 2016 highlighting the success of the prudent fiscal management throughout the year.
+Despite relatively high interest rates prevailing and net borrowing increasing, Lanka Ashok Leyland was able to reduce net finance cost by 49% YoY to Rs 46 million. These operational efficiencies boosted the companys bottom line as profit after tax surged 112% to Rs 504 million for 2017/18. The overwhelming majority of our turnover comes from our vehicle sales however we have made inroads in improving contributions from our other verticals like repair work, bodybuilding, generators and spare parts. We see great revenue potential in our leasing and hiring and are looking at including it under our top line in the near future. We remain cautiously optimistic for 2018/19, CEO of Lanka Ashok Leyland, Umesh Gautam, said.
+Aside from the financial performance and handsomely rewarding the shareholders, Identifying investments and initiatives in healthcare such as cancer diagnosis where the state is overburdened or underfunded can go a long way in sustainably improving the healthcare choices for Sri Lankans.
+Gautam is strongly of the view that CSR initiative of Lanka Ashok Leyland should be as ambitious in vision and impact as our business strategy. We are in the early stages of looking to a major investment in a healthcare solution around cancer screening in Sri Lanka which will be a milestone CSR project for us.
+
+==============================
+## Title: Man who impersonated Presidents Private Secretary arrested
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 01:00
+Man who impersonated Presidents Private Secretary arrested
+The Terrorism Investigations Department (TID) yesterday arrested a suspect who had been conning people into giving him money on the pretext of providing them with jobs, by impersonating as a Private/Additional Secretary to the President.
+On March 29, the Secretary to the President Austin Fernando had lodged a complaint with the IGP that an individual was impersonating as the Private Secretary of the President to carry out a fraudulent business.
+Accordingly, the IGP instructed the TID to investigate into the case.
+Having investigated into the mobile phone records of the suspect over a long period, a resident of Panawala E/10/B/03 Thalapitiya, Panawala, Eheliyagoda, Arachchige Don Mahesh Muditha Kumara (39) bearing NIC no 197907203627 was arrested on May 7 in the Eheliyagoda Police Division.
+Three SIMs used for his work and a file with copies of certificates of various individuals was seized by the investigating officers.
+The suspect had posed as Wasantha Kumara Ranasinghe and had was impersonating as a Private Secretary to the President and at times an Additional Secretary.
+He had duped many into believing that he could get them jobs at the Ports Authority, Ceylon Petroleum Corporation, and other government offices. He had asked that they pay him Rs.100,000 each for it.
+He had been using the mobile phone numbers 0712949237, 0770130933, and 0771030280 for his work.
+On further questioning, the Police uncovered the details of 10 persons he had thus obtained money from. It was also revealed that the suspect through various other intermediaries had managed to collect a large sum of money on the promise of providing them with jobs.
+Further, he had called several high ranking officers in the government at various times. Investigations into his background revealed that he had worked as a regular soldier in the Army a while back.
+The suspect was to be produced before the Avissawela Magistrates Court yesterday. The TID is conducting further investigations into the matter and have requested people who have been deceived in a similar manner to contact the numbers 0112321839 or 0112384403 to provide them with their information.
+==============================
+## Title: Mangala, Sajith at the tea party
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 01:00
+Mangala, Sajith at the tea party
+UNP Deputy Leader and Minister Sajith Premadasa at the tea party.Pictures by Saman Sri Wedage
+==============================
+## Title: Market Statistics on 08-05-2018
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 9, 2018 - 01:00
+Market Statistics on 08-05-2018
+==============================
+## Title: Meet the Ambassador of France at nccsl tomorrow
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 9, 2018 - 01:00
+Meet the Ambassador of France at nccsl tomorrow
+French Ambassador to Sri Lanka, Jean-Marin Schuh, will be the Special Guest Speaker in Meet the Ambassador program on Bilateral Trade Between Sri Lanka and France on May 10, 2018 at the Chamber, from 3.00 p.m to 4.30 p.m, No 450 D R Wijewardene Mawatha Colombo 10. The Ambassador will be accompanied by Deputy Head of Mission, and the Commercial Counsellor.
+The participants will get an opportunity to have a close dialogue with them and get information on trade matters and services available for Sri Lankans.
+France, known for its glamour and fashion, with names like -Dior, Chanel, Champagne, and cars- Renault, Peugeot, Citroen, boasts of world famous symbols- Eiffel Tower, Arc de Triumph, the Louvre, Notre Dame, and the legendary Napoleon Bonaparte of France.
+The government has partially or fully privatized many large companies, including Air France, France Telecom, Renault, but controls some sectors, particularly power, public transport, and defense industries. With more than 84 million foreign tourists per year, France is the most visited country in the world and maintains the third largest income in the world from tourism.
+France is one of the major tourist providers to Sri Lanka, and is one of the most important trading partners for Sri Lanka, accounting for US$ 460.89 million worth of total trade turn over in 2016 which is the highest compared with the previous years.
+French companies are also focused on aeronautics, water management/supply, urban transportation, port facilities, and tourism. Export goods- machinery and transportation equipment, aircraft, plastics, chemicals, pharmaceutical products, iron and steel, beverages
+Import goods -machinery and equipment, vehicles, crude oil, aircraft, plastics, chemicals
+Sri Lankas exports to France - apparels, vulcanized rubber, fish, coconut, retreaded or used pneumatic tyres of rubber, tea, precious stones (other than diamonds) and semi-precious stones,
+Sri Lankas imports from France- aircraft, medicaments, optical, photographic, cinematographic, measuring, medical or surgical instruments.
+Potential exportable items to France- textile materials, ladies and babies garments, T-shirts, knitted or crocheted, Mens or boys trousers, rubies, sapphires, emeralds, vulcanized rubber etc.
+More information could be obtained from [emailprotected]; [emailprotected]
+==============================
+## Title: Modern marketing is more than just a number game
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 9, 2018 - 01:00
+Modern marketing is more than just a number game
+Lets face the reality. Modern marketing is not the art of selling products. Smart marketing is about providing a companys customer base the value satisfaction. In short, marketing is tasked with keeping a company relevant to its customers needs. In an age in which the consumer is in charge, approaching marketing from the perspective of products or services alone is not enough.
+The objective of the Marketing Manager is to generate and maximize profitable income while minimizing the use of assets resources and investment. Peter Drucker, the world-famous management consultant said if you cant measure it, you cant manage it.
+While that statement remains true, it is only relevant to the management of resources, it does not refer to the generation of profitable income.
+To be successful, the Marketing Manager needs to remember that while income can go up as well as down, he also needs to understand why. What are the underlying factors Markets and demand are finite, customers requirements change, markets get saturated, and both products and services have a finite life.
+It is a mistake to assume that the upward trend in sales and profits will always continue, or to base planning on that assumption. Forecasting the future based on past performance is always a problem. Are the conditions the same, improving or worsening Where is the evidence
+Measuring performance is important in order that the Marketing Manager may understand and manage effectively all those activities which collectively produce the necessary income.
+Performance measurement can show what has been achieved in a specific period and in some cases show the efficiency of producing profitable income in real time. As such, performance measurements give an indication of what commercial actions have been successful in the past and even currently.
+However, future commercial performance is not based on a straight extrapolation of a graphical line. The marketplace is in constant dynamic motion that may be slow or rapid. Yesterdays and even todays answers may or may not be suitable for tomorrows market situation. Marketing Managers must bear in mind that customers requirements change, established products and services are superseded by new designs and technology changes, markets become saturated, and competitors become stronger or weaker.
+Strategic marketing
+For the next few weeks, this column will talk about strategic marketing. If you are keen in learning or updating yourself about this interesting subject, stay with us. You should not expect these writings to be prescriptions for business success. They are only guides in which the contents serve as a framework to assist evolve a marketing strategy systematically.
+The section of our series is based on the concepts of Dr. Charlie In (from his best seller Crafting Marketing Strategy).
+Challenges
+If you are working as a marketer in a small or medium sized business, you are likely to encounter few difficult challenges in your job assignment. Facing them successfully would be a tougher job. First, you will only have a limited war chest of marketing budget or even marketing staff at your disposal to tame these challenges.
+Like most small or medium sized businesses, you will be faced with other priorities from all aspects of operating a business and will struggle to find the time to do any marketing at all. To make matters worse, you also realize that sales are not growing to the levels that you want or worst you are faced with declining sales. What could you do
+To answer this question, you need to understand a few business facts. First, you must understand that marketing generates business development opportunities. This is the end-objective of marketing to build qualified customers that convert into sales revenue. Second, you must make the time for marketing or face closing your business. Third, marketing techniques do not necessarily be complicated or time consuming. You must develop a marketing engine or process that can be managed and fine-tuned with a planned effort of half-a-day per week. These challenges are applicable to all businesses  whether small, medium or big.
+Now lets get started and tackle those top marketing challenges:
+Define your target market
+What market are you targeting and where can we find them Oh, thats just basic stuff, you might say. You are right but remember that the very foundation of your marketing starts there. If you want to be successful with your marketing, you must have a clear idea of your target market. Put together a short description or profile of your ideal customer. Write it down. Refine it. Work with your team and identify the buying criteria used by your ideal customer. If you can conceptualize your ideal customer, you can successfully prepare and personalize your marketing message to make it relevant and important to your end customer.
+Increase repeat business
+(or increase recommendations)
+Your ability to deliver your product or service to the total satisfaction of your customer is the threshold level to remain in business. Again, you might ask, Thats fine. But how can I make them come back for more or recommend it to others The answer is simple; give customers a reason to do so. You need to nurture the customer relationship by keeping in touch and offering value with every contact you make with your customers.
+The most cost-effective manner to stay in touch with your customers and drive repeat business with permission-based email or e-newsletter marketing. Every business must have email marketing in their communications tool box in todays internet connected world. In the case of recommendations, let all your customers and network of contacts know that their referrals are important to your business.
+Make sure you can track their referrals, keep them updated and show your gratitude for their efforts in some way whether it is informal or structured as part of a referral program. Make a working system of it and drive referrals as an integral part of your marketing activities.
+Increase sales conversions
+These are difficult days when most small businesses cannot afford to spend much on purely image or brand building advertisement. You can do it while generating increased sales conversions by providing an offer with an incentive to take action within a specified time frame! However, before you commit to it, test it to refine and improve your results and test it again before running the entire campaign. Make sure every promotional campaign is primary focused on generating a response that converts into a sale while at the same time building your brand.
+Find time & resources for marketing
+Do you find yourself thinking that you cannot afford to spend time and resources on marketing If you do, then do not be surprised to find out that your business will not be achieving its capacity to grow. You cannot afford to let your sales opportunities run out. So, take the time to explore what you can achieve with the exceptional marketing methods that are now available to small and medium businesses which need minimal costs to implement. Remember, resources are not necessarily to be money.
+Develop a marketing plan
+You must have a marketing plan to support your business objectives. Keep it short. Take the time to prepare and develop your marketing approach and strategies including how you will track and test it. If necessary get a marketing specialist to assist you develop the plan.
+Without a marketing plan to run, it is likely you will find yourself trying different marketing ideas that others have suggested and ending up with the expenses and no profits to show for it.
+Marketing plan
+
+Let us now talk a little about a Marketing Plan.
+Put your customers interests first in every aspect of your marketing.
+e Get your customers attention by leading with a focus on their primary concern or challenge. This applies to everything from your ads, your sales letters, your website, your client contacts, conversations and even your business card.
+e Give away something your customers want. A well-written report can attract thousands to your web site or a free course can get qualified customers into your office.
+e Build a relationship with your customers so they know you and trust you. Ultimately, people decide whom to buy from based on gut instincts. A strong relationship with a prospect is an unshakable competitive advantage.
+e Clarify the value of your each of your products and services by detailing the benefits in terms of your customers interests.
+e Give customers a reason to buy from you. Whats an added benefit you can use to prompt a purchase Depending on what youre selling, you could use something as simple as an added special souvenir or as lavish as a paid three-day vacation to Thailand.
+e Provide pricing information in the context of your customers interests. First get your customers to detail what they want and then tell them the cost.
+e Once a prospect becomes a customer, keep giving them the marketing information they want. Continue to educate them about ways you can help them reach their goals and youll create even more opportunities to give them the products and services they want.
+As you can see, marketing is not simply a numbers game. It is putting your customers interests first, second and third in your Business Plan.
+Being able to recognize, foresee and exploit potential income opportunities quickly is an art which requires entrepreneurial thinking, imagination and flare. Producing income still requires initial capital and the use of other assets so that while creating gross income may be largely an art, making that income profitable requires the good marketing management of all assets and resources.
+(Lionel Wijesiri is a retired company director with over 30 years experience in senior business management. Presently he is a feature writer.)
+==============================
+## Title: Nestle pays Starbucks  $7.1bn to sell its coffee
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 9, 2018 - 01:00
+Nestle pays Starbucks  $7.1bn to sell its coffee
+The Swiss giant, which boasts Nescafe and Nespresso amongst its brands, will have the right to market Starbucks coffee in retail outlets outside the cafe chain.
+That part of the business currently generates $2bn in annual sales.
+The deal means Nespresso machine owners will be able to buy Starbucks coffee branded pods for use at home.
+Consumers will also find Starbucks coffee beans, ground and instant coffee more readily available as Nestle, the worlds largest food and drinks company, uses its vast distribution network to market Starbucks products worldwide.
+Nestles name will not appear alongside Starbuckss, but the deal could still help Nestle strengthen its US business, thanks to the powerful High Street coffee brand.
+Boil it all down and this is a giant licensing arrangement, whereby Nestle is allowed to sell Starbucks products through Nestle distribution channels.
+That means youll see a lot more Starbucks branded coffee pods for use in Nespresso or Dolce Gusto devices which are all the rage - thanks in part to those George Clooney adverts.
+Starbucks will continue to buy the raw (green) coffee beans from farmers but now Nestle will step in and roast and prepare those beans for consumers under strict Starbucks licensing rules. Nestle will not acquire any Starbucks infrastructure nor will any Nestle products appear in Starbucks coffee shops.
+For that arrangement, Nestle is paying $7bn because it believes Starbucks products will appeal to premium coffee lovers around the world.
+Despite the price tag, Nestle shareholders appear to like the deal. Nestle shares rose 1.5% today. While Starbucks investors kind of shrugged.
+Mark Schneider, who in 2016 became the first outsider to run Nestle in almost 100 years, is attempting to boost the companys profit through expansion.
+Last year, Nestle paid an estimated $425m for a 68% stake in Blue Bottle Coffee, a California-based company that sells coffee to customers online and has a number of shops in the US and Japan.
+Kona Haque, of the commodities trading company ED&F Man said Nestle was aiming to further strengthen its position in the US market through this latest deal.
+At the moment Nestle is very much known for its instant coffee. This is an opportunity to go into roast and ground which for todays millennials is a big growing trend, she said.
+Mr Schneider described the global coffee alliance with Starbucks as a great day for coffee lovers around the world.
+Nestle said 500 Starbucks employees will transfer over to its business but they will continue to be located in Seattle, which has been the groups headquarters for the last 47 years.
+The company recently sold its US sweets and chocolate business, including brands such as Crunch and Butterfinger, to Ferrero Group for 2.7bn Swiss francs (1.9bn). (BBC)
+==============================
+## Title: New composition of Parliament: Government-129; Opposition-95
+## Supertitle: 
+## Section: Political
+## Date: Wednesday, May 9, 2018 - 01:00
+New composition of Parliament: Government-129; Opposition-95
+The new composition of Parliament is 129 for the Government and 95 for the Opposition after the crossover of 16 SLFP MPs yesterday.
+The head count of Government is without Speaker Karu Jayasuriya whose position is regarded as independent. The number of SLFP members in the Government has dropped to 23. The UNP with its allies has 106 seats in Parliament.
+The Opposition comprises of 54 Joint Opposition MPs, 16 TNA MPs, six JVP MPs, two CWC members, one EPDP member and 16 SLFP members.
+==============================
+## Title: Parliament
+## Supertitle: 
+## Section: Political
+## Date: Wednesday, May 9, 2018 - 01:26
+Parliament
+President, First Lady accorded 21 Gun Salute with recital of National Anthem, Jaya Mangala Gatha
+The Sixteen SLFP MPs who broke ranks with the Government yesterday, crossed the well of the Parliament and took seat on Opposition benches.
+As the quorum bell went off at 2.10 pm, former Ministers Susil Premajayantha and Anura Priyadarshana Yapa, crossed the aisle amidst the cheers of the Joint Opposition Members.
+They were joined by S B Dissanayake, Lakshman Yapa Abeywardena, T B Ekanayake, John Seneviratne, Sumedha Jayasena, Dayasiri Jayasekara, Dilan Perera, Lakshman Wasantha Perera, Dr Sudarshani Fernandopulle, Tharanath Basnayake, Susantha Punchinilame, Chandima Weerakkody, Anuradha Jayaratne, and Deputy Speaker Thilanga Sumathipala.
+JO members led by Dinesh Gunawardena, thumped their desks in welcoming the group, while the Government back benchers booed and jeered. Notably, former President Mahinda Rajapaksa, Chamal Rajapaksa and Namal Rajapaksa were absent in the House.
+Out of the 16 MPs, MPs S B Dissanayake, John Seneviratne and Sumedha Jayasena received front row seats in the Opposition. Seating arrangements in the Government had also changed with Ministers Vajira Abeywardena, Mahinda Samaraweera and Thilak Marapana receiving front row seats along with Prime Minister Ranil Wickremesinghe, Lakshman Kiriella, Mangala Samaraweera, Dr Rajitha Senaratne, Rauf Hakeem, Gayantha Karunathilake, Mano Ganesan, Malik Samarawickrama, John Amaratunga, Gamini Jayawickrama Perera, Nimal Siripala de Silva, Dr Sarath Amunugama, Sajith Premadasa, Rishad Bathiudeen and Ven. Rathana Thera.
+Nearly 15 MPs from the Government side including Ven. Rathana Thera were absent at the inaugural session.
+It is too late for Govt. to fulfill promises made to people: Minister Fonseka
+With the government having completed three years of their term and less than two years to go, it is already to late to fulfil the promises made to the people prior to the next election, said Minister Sarath Fonseka.
+We are already too late. It should have been done before and now we are running out of time. Unless there is some dedicated system, especially without any interference, we could not achieve our target, he said, speaking to the Daily News during the tea party held at Parliament yesterday, subsequent to the ceremonial opening of the second session of the 8th Parliament.
+He noted that while the people had expected the government to bring in the large scale fraudsters and criminals of the previous regime to book, the government had failed to fulfil this task during the past three years, due to various issues. There are a few hiccups and drawbacks, but we have to overcome all that and achieve our target because we have promised the people to fulfil their expectations. We are unable make excuses and it is now up to those who have been entrusted with this task, to rise up to the challenge and fulfill their responsibility.
+When asked if said target of the government in bringing those responsible for large scale fraud and crimes to book is achievable given the short span of time left for the government, he said, Now there is no choice and those who have been entrusted with this responsibility, will have to carry out their responsibility and deliver the results expected by the people. There is a very short time left, but if the right strategy is implemented, this task is achievable, he said.
+Based on Presidents policy statement, strongprogramme needed to take country forward: Patali
+Based on the Policy statement made by President Maithripala Sirisena yesterday, the Government needs to come up with a strong programme to take the country forward, said Minister Patali Champika Ranawaka.
+Speaking to the Daily News during the tea party held at the Parliament complex yesterday, he noted that in order to regain the faith of the people, the government needed to formulate a mechanism that would fast track development, while taking special efforts to fulfill the promises made to the people.
+I too have presented such a programme to the Cabinet, including 47 special points that would enable the government to achieve this target. By next year, we would be facing another election and in order to retain the current votes and gain victory, we need a comprehensive programme that would promote economic and social progress, he added.
+Nothing constructive had resulted from ceremonial opening of Eighth Parliament: Bimal
+JVP MP Bimal Ratnayake said nothing constructive or new had resulted from yesterdays Ceremonial Opening of the Second Session of the Eighth Parliament.
+In fact, I have made a request to Parliament to disclose to the people how much was spent for yesterdays ceremony with all its pomp and pageantry. There was nothing new that was mentioned by the President in his speech yesterday either. The President prorogued Parliament with the aim of resolving the internal crisis within the government. Due to it, over 1,000 issues that is affecting the country, had to be postponed and delayed. Similarly, over thousands of petitions have also been delayed, he noted.
+MP Ratnayake said that by the suspension of Parliament, the country had not gained anything and there had not been any political advantage either. Hence, I dont see this move as a useful exercise.
+Commenting on the 16 SLFP members who crossed over to the Opposition yesterday, Ratnayake said it was politically ethical for them to have taken up seats in the Opposition as they had supported the No Confidence Motion and voted against Prime Minister Wickremesinghe at the recent No Confidence motion that was brought against him by the Joint Opposition. President Maithripala Sirisena made an effort to defeat Prime Minister Wickremesinghe, which was the result of a power struggle. However, I dont feel that it would be of great advantage to the country, no matter what side they are on, but it is a good move as it reduces the number of ministers within the government, he said.
+When asked if the crossing over of the 16 members onto the Opposition was acceptable, while the Maze was on the podium, he said that the maze being there is a mere legal formality and it had no effect on the crossing over of Government MPs to the Opposition. The maze is a mere ornament, which has no bearing on any member deciding to cross over. It is a right of Parliament members to cross over to any side they desire which could be done any time, he explained.
+Select Committee to re-nominate members for Parliamentary Committees
+A Selection Committee chaired by Speaker Karu Jayasuriya, comprising 12 members would be appointed in Parliament today, to re-nominate members for Parliamentary Committees.
+The motion in this regard will be presented by Leader of House and Minister Lakshman Kiriella, at the commencement of the House today.
+Parliamentary Committees including COPE and COPA, stood dissolved following the prorogation of Parliament on April 12.
+The Committee of Selection will include Leaders of political parties or their nominees.
+The members of the Committee of Section will be MPs Rauff Hakeem, Lakshman Kiriella, Mahinda Samarasinghe, Rishad Bathiudeen, Patali Champika Ranawaka, Mano Ganesan, Dinesh Gunawardena, Douglas Devananda, Vijitha Herath, Mavai S. Senathirajah, Dharmalingam Sithadthan and Dr Nalinda Jayathissa. The Members of Parliament Select Committees, Sectoral Oversight Committees and Committee on High Posts would continue without a change.
+Two amended Bills to empower CIABOC to be presented in House
+The Government will present two amendment Bills in Parliament today, to empower the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) and file cases based on facts revealed by Commissions of Inquiry.
+The Bills to amend the Commissions of Inquiry Act (Chapter 393) and the Bribery Act (Chapter 26), will be presented at the commencement of sittings today.
+According the Amendments, the Director General of the Bribery Commission is given the power to file cases under the Bribery Act or Declaration of Assets and Liabilities Law based on the findings of the Commissions of Inquiry appointed by the President.
+The amendments need to be passed by a 2/3 majority in Parliament.
+The President has the power to appoint Commissions of Inquiry, whenever it appears to him that an investigation or inquiry or both, is necessary for the administration, management and functions of any Government institution or the conduct of any public officer. Presidential Commissions of Inquiries could be appointed on any matter relating to the national interest of public safety or well being as decided by the President.
+==============================
+## Title: President Maithripala Sirisena arriving in Parliament
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 01:00
+President Maithripala Sirisena arriving in Parliament
+President Maithripala Sirisena arriving in Parliament to open the new sessions of parliament yesterday flanked by Speaker Karu Jayasuriya and Secretrary General Dhammika Dassanayake. Picture by Sudath Silva
+
+==============================
+## Title: President at May Day rally
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 01:00
+President at May Day rally
+President Maithripala Sirisena being welcomed by Eastern Province Governor Rohitha Bogollagama at the SLGP led UPFA May Day rally on Monday.
+==============================
+## Title: President stresses collective effort to overcome challenges
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 01:05
+President stresses collective effort to overcome challenges
+President Maithripala Sirisena yesterday told parliament that the last three years demonstrated the country is still lacking in political and social maturity needed to realise the objectives of a coalition government.
+Making his policy statement lasting 35 minutes, at the inauguration of the new session of parliament, the President said the power struggle in government and in political parties in the last three years had driven people to despair.
+Even though consensus governance is adopted in many countries around the world, it is yet a foreign concept to Sri Lanka, President Sirisena observed.
+He pointed out that the country is not in a situation to fall prey to power politics, but that it is in a position where a collective effort to overcome its challenges have become mandatory.
+If we are to overcome the challenges faced by the country, the power struggle between the two main parties in the coalition government must cease. The competition for power between the Opposition and the ruling party must also cease. Any kind of power struggle will only cause the people despair, President Sirisena pointed out.
+He also said that the role of the Opposition as well as the approaches of the political allies in the coalition government should undergo change.
+In his statement, President Sirisena called for a social friendly, people oriented economy instead of crony capitalism. He also urged for a political vision that recognises the political heartbeat of the public. This political vision should uphold our values, culture and our inheritance, President Sirisena pointed out.
+At the outset of his speech, the President briefed MPs on the key pieces of legislation and achievements recorded by the government in the last three years.
+He made these observations with reference to criticisms levelled against the efficiency of the government.
+President Sirisena observed that 18 economic related Bills were passed during the last three years that mainly focus on managing the enormous debts heaped on the shoulders of the present government by the previous regime. The President noted that the public should not be exposed to the direct impact of these heavy debts and urged for the adoption of a strategic debt management approach.
+==============================
+## Title: President's CoS, State Timber Corp Chairman, further remanded
+## Supertitle: 
+## Section: Law & Order
+## Date: Wednesday, May 9, 2018 - 11:28
+President's CoS, State Timber Corp Chairman, further remanded
+The President's former chief of staff and the former State Timber Corporation chairman, both of who were nabbed in a bribery scheme last week, have been further remanded in custody until May 22nd by Colombo Chief Magistrate Buddhika Sri Ragala today.
+The accused in question, I.H.K. Mahanama and P. Dissanayake, respectively, were first arrested last Wednesday evening by officials from the Bribery Commission, who caught the men in the act of accepting a Rs. 20 million bribe from an Indian businessman in the parking lot of a high-end Colombo hotel.
+Allegations claim that Mahanama and Dissanayake had solicited the bribe, originally totalling Rs. 540 million but bargained down to Rs. 100 million after negotiations between the parites, from the businessman on the condition that the two would aid the businessman in obtaining the proper approval required to attain certain machinery and building space he needed for projects.
+==============================
+## Title: PUCSL to iron out energy sector woes
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 01:00
+PUCSL to iron out energy sector woes
+The Public Utilities Commission is expected to meet today (May 9) to resolve the dispute over Sri Lankas long-term electricity generation plan.
+A Public Utility Commission spokesperson confirmed that the PUCSL, Ceylon Electricity Board and Power and Renewable Energy Ministry representatives would meet to discuss the countrys energy future.
+The PUCSL and the CEB have been at loggerheads lately over Sri Lankas generation mix with the PUCSL advocating for more electricity from renewables and liquefied natural gas.
+The PUCSL in 2017 granted conditional approval to the Least Cost Long Term Generation Plan put forward by the Ceylon Electricity Board. PUSCL held a meeting with the President on April 25th where the President reiterated that he was not opposed to the inclusion of more coal power plants. In an advisory sent out by Presidents Secretary Austin Fernando following the meeting, the PUCSL was asked to include multiple coal power plants.
+It has been over two weeks since PUCSL had received the letter, CEB Engineers Union President Athula Wanniarachchi told the Daily News.
+He said the country was in dire straits due to the non-implementation of any power plants. The PUCSL has had enough time to act on the issue but they resort to having meetings, even after a directive was given by the President himself.
+The CEB engineers union initiated a work-to-rule campaign as of yesterday demanding that PUCSL Director General Damitha Kumarasinghe be removed from his position. The Unions alleged that the DG and PUCSL staffers had tampered with the Long Term Least Cost Generation Plan put forward by the CEB. In a letter addressed to the Minister and other officials, the CEB engineers alleged that Kumarasinghe had distorted the plan put forward by the CEB by replacing all base load thermal plants with LNG.
+The unions declaring their non-cooperation with PUCSL said they would no longer engage in any conversation with the DG and would not take part in any meetings hosted by Kumarasinghe. We have no option but to resort to trade union action to safeguard the sector and our members, the unions said.
+The Asian Development Bank this weekend said Sri Lanka should keep its options open in terms of future energy options, but advised against coal, citing the countrys commitments under the Paris Climate Accord.
+==============================
+## Title: Pulses 18 -The Future of Food unveils in Colombo
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 9, 2018 - 01:00
+Pulses 18 -The Future of Food unveils in Colombo
+More than 500 high profile global pulses heavyweights from 40 countries who arrived in Sri Lanka began finalising the Colombo Accord-the biggest milestone in global pulses industry. The Accord, once concluded tomorrow (10 May) shall cover colossal pulses transactions volume of US$ 100 billion-the entire value of global pulses trades done annually. Pulses 18 -The Future of Food the latest in Global Pulse Confederations Convention series unveiled in Colombo.
+The Colombo Accord is the biggest milestone in world pulses trade history and a milestone in world food trade-the Accord calls for free and fair trade in global pulse industry. Its, in some way, like the Uruguay round of WTO talks for this industry. We, the industry players, must be unified. This Accord is the blueprint for the GPC to strengthen the role that pulse crops play through their contribution to social and economic goals at national and international levels said GPC President Huseyin Arslan. GPC Members are committed to working together and with our partners across the value chain, to build knowledge and awareness to expand pulse crop production in countries around the world, increase pulse consumption in the diets of people and animals, foster predictable and transparent trade environments at the government and trade levels, increase order and discipline in pulse trade. In Sri Lanka Pulses is a main source of protein -mainly as red lentils.
+Over the years Sri Lankans have also been used to consume locally grown pulses. Sri Lankas consumption of red lentils is around 150,000 Metric tons. We import around 18,000 metric tonnes of Chick Peas 25,000 MT of Yellow Split Peas, 16,000 MT of Mung Beans. In 2016 we imported more than 154,000 metric tonnes of red lentils which was around 7% of the total tonnage of our principal food commodity imports of that year, said Minister of Industry and Commerce Rishad Bathiudeen.
+Globally, pulses are the fourth leading item in the worlds annual grain and pulses output-after corn, wheat and rice. Annual global pulses trade is at $ 100 Billion. Pulses are increasingly considered as a sustainable superfood due to their multiple benefits, and their production levels too are unable to keep up with the increasing demand for them.
+==============================
+## Title: Railway strike called off
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 01:00
+Railway strike called off
+Railway Trade Unions who threatened to strike as of midnight yesterday decided to postpone their strike until 12 noon.
+Railway Guards Union President Janaka Fernando said the postponement called for on an assurance made by Transport and Civil Aviation Minister Nimal Siripala de Silva that he would submit the necessary Cabinet Paper today to institute their salary increases.
+Since October of last year, railway guards, drivers, station masters and controllers have been demanding for salary increases and changes to their pay grade among various other grievances.
+In December of last year, Cabinet through a ministerial Sub-Committee headed by former Special Assignments Minister Sarath Amunugama decided to declare the Railways, Education and Health Sector as closed services to resolve all the salary anomalies and pay grades across these sectors.
+A closed service would mean that an increase in one sector would not affect other government services.
+Fernando however pointed out that though the unions had withdrawn from their strike in December based on the governments assurances of a closed service, Cabinet is yet to approve such a suggestion.
+They are yet to submit that paper to obtain approval for it. But, the Minister has assured us that he will submit the Cabinet Paper today. We are awaiting that. If it does not happen, we will begin the strike at 12 noon, Fernando said.
+He warned that having commuters stranded during the day would be a greater challenge for the government to handle than when a strike is called at midnight.
+==============================
+## Title: Railway union strike called off
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 13:18
+Railway union strike called off
+
+The railway union strike which was launched at 12 noon today was called off a short while ago after the government agreed to meet their demands.
+The unions warned to launch the strike in protest of salary anomalies.
+==============================
+## Title: Railway unions launch 12 noon strike
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 12:09
+Railway unions launch 12 noon strike
+
+The railway trade unions decided to launch the strike at 12 noon today, as announced.
+The strike which was announced to be launched midnight yesterday in protest of salary anomalies was postponed to 12 noon today in compliance to the request made by the Committee appointed by the government.
+However the unions launched the strike alleging the government to have not provided adequate solutions.
+==============================
+## Title: Resurgent Teejay Lankas Q4 pbt  up 27% to Rs 501.6 mn
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 9, 2018 - 01:00
+Resurgent Teejay Lankas Q4 pbt  up 27% to Rs 501.6 mn
+Teejay Lanka PLC has reported profit before tax of Rs 501.7 million at Group level for the final quarter of 2017-18, to end a challenging year with a noteworthy resurgence that augurs well for Sri Lankas only multinational textile manufacturer.
+The Weft knit fabric specialist with manufacturing operations in Sri Lanka and India, achieved a 27 per cent growth in pre-tax profit for the three months ending March 31, 2018, an improvement of Rs 105.6 million over the corresponding quarter of the previous year despite higher raw material prices in global markets.
+Teejay Lanka PLC Chairman Bill Lam said the momentum generated by the strong performance of the fourth quarter with investments in expansion during the year and a full order book are an indication of a promising first quarter of 2018-19 and a promising full year.Group revenue for the quarter reviewed grew 13 per cent to Rs 6.6 billion and gross profit improved by 11 per cent to Rs 731.8 million, Teejay Lanka said in a filing with the Colombo Stock Exchange (CSE).
+Operating profit at Rs 486.7 million for the three months reflected a healthy growth of 31 per cent.
+Profit after tax for the quarter totalled Rs 508.4 million, an increase of 3 per cent principally due to a 93 per cent increase in income tax which resulted in a deferred tax asset of Rs 97.6 million as a one-off gain in the fourth quarter of 2016-17 reducing to Rs 6.7 million for the three months reviewed.
+Lam attributed the Groups strong performance in the fourth quarter predominantly to capacity expansion, higher efficiencies, exciting innovations, the Groups growing product portfolio, its success in reducing administration costs by 15 per cent through cost control initiatives and containing the growth in distribution cost to a marginal 4 per cent with the increase in line with sales growth.
+It has been a strong finish to the financial year considering the challenges we faced in preceding quarters, Lam said, commenting on the Groups results. We are now well-positioned for 2018-19, especially with the completion of the expansion of our plant in India, which has doubled its capacity in anticipation of our foray into new markets.
+==============================
+## Title: SDB banks Uththamavi organises workshop  in Warakapola
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 9, 2018 - 01:00
+SDB banks Uththamavi organises workshop  in Warakapola
+In line with the International Womens Day, SDB bank organized branch level workshops for women islandwide.
+The event organized by Warakapola branch was held on recently, at Thalgahadeniya Primary Thrift and Credit Co-operative Societies (PTCCS) Conference Hall with the participation of B.A. Kiriwandeniya  Chairperson of Uththamavee Guarantee Company and Government officials representing Warakapola Divisional Secretariat Office, Warakapola Police and Warakapola Base Hospital.
+==============================
+## Title: Siddhalepa staff celebrates Vesak Lantern competition
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 9, 2018 - 01:00
+Siddhalepa staff celebrates Vesak Lantern competition
+Siddhalepa staff came out in their full strength, with sheer creativity and innovation to display some novel and beautiful lanterns this Vesak.
+Lanterns turned out for the inter department annual competition were displayed at the Siddhalepa Hospital premises for the public to enjoy during Vesak.
+This year the focus was on using recyclable and degradable waste as a raw material for creating the lanterns.
+==============================
+## Title: Sixteen slfp mps cross over
+## Supertitle: 
+## Section: Political
+## Date: Wednesday, May 9, 2018 - 01:00
+Sixteen slfp mps cross over
+The Sixteen SLFP MPs, who broke ranks with the Government, yesterday crossed the well of Parliament and sat on the Opposition benches.
+As the Quorum Bell went off at 2.10pm, former ministers Susil Premajayantha and Anura Priyadarshana Yapa crossed the aisle receiving cheers of the Joint Opposition members.
+They were joined by S.B.Dissanayake, Lakshman Yapa Abeywardena, T. B. Ekanayake, John Seneviratne, Sumedha Jayasena, Dayasiri Jayasekara, Dilan Perera, Lakshman Wasantha Perera, Dr. Sudarshani Fernandopulle, Tharanath Basnayake, Susantha Punchinilame, Chandima Weerakkody, Anuradha Jayaratne and Deputy Speaker Thilanga Sumathipala.
+JO members led by Dinesh Gunewardena thumped their desks to welcome the group while Government backbenchers booed and jeered. Former President Mahinda Rajapaksa, Chamal Rajapaksa and Namal Rajapaksa were absent in the House.
+==============================
+## Title: Sixteen SLFPers invite SLPP, JO and rest of SLFP to join hands
+## Supertitle: 
+## Section: Political
+## Date: Wednesday, May 9, 2018 - 01:00
+Sixteen SLFPers invite SLPP, JO and rest of SLFP to join hands
+The 16 SLFPers who left the Government invited the Sri Lanka Podujana Peramuna (SLPP), Joint Opposition (JO) and the rest of the SLFP to band together to defeat the UNP.
+Addressing their supporters outside of Parliament after having crossed over to the Opposition at the opening of the Second Session of Parliament yesterday, Minister Dayasiri Jayasekara said, We will not work according to the whims of the UNP in Government. I invite all our brothers from the SLPP, JO and SLFP to join us to defeat our biggest enemy,the UNP.
+He reiterated that neither the SLPP, JO nor the SLFP could form a Government on their own and it was in unity that their arch rival would be defeated.
+The 16 SLFPers resigned from Government after having voted in favour of the no confidence motion against the Prime Minister recently.
+==============================
+## Title: SLIM organizes leadership development  programme with John Mattone
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 9, 2018 - 01:00
+SLIM organizes leadership development  programme with John Mattone
+The Sri Lanka Institute of Marketing (SLIM), the apex Marketing body in the country will launch its biggest leadership development programme `The knowledge Forum and the CEOs Breakfast Forum at Shangri La and Cinnamon Grand Hotels in Colombo on June 12 and 13.
+The presentations of the two-day leadership development sessions and the workshop will be made by world renowned authority on intelligent leadership, John Mattone.
+John Mattone is the best selling author and the coach of Apple founder Steve Jobs. He was named as one of the eight finalists for the prestigious 2017 Thinkers 50 leadership Award. He was also recognized the worlds top leadership authority and thinker. The Global gurus.org research organization has ranked John Mattone as one of the worlds top leadership authorities for 2015, 2016 and 2017.
+The Trust Across America (TAC) named John Mattone as one of Trust Across Americas 2017 Top Thought Leaders in Trust in 2015. He was also named as an Honorary Fellow in recognition of his accomplishments in research, teaching and as a top leadership consultant by Leaders Excellence.
+SLIM, President Pradeep Edward said the main objective of inviting John Mattone is to make the presentations at the workshop to uplift the marketing fraternity to enhance the knowledge of marketing professionals to challenge the world of marketing.
+He said SLIM considers that facilitating with top- notch marketing talents could enhance and encourage local marketing professionals to enable them to gain valuable insights and add value to enterprises in Sri Lanka.
+SLIM, Vice President Roshan Fernando highlighted the importance of inviting a world renowned marketing professional in the caliber of John Mattone and said Mattone has been a consultant for over 250 organizations and coached over 200 executives world over.
+He said John Mattone has earned the global reputation for possessing a special ability to train leaders at all levels.
+The arrival of John Mattone to our country is a much looked forward event for the local corporate society, he said.
+SLIM, Vice President Suranjith Swaris highly admired the leadership qualities of John Mattone and said his executive coaching blog in the world has been recognized by CMOE.Com as one of the top 100 socially-shared leadership blogs of 2017.
+He said it made the top 25 leadership blogs for Small Business (2017) by MP Star Financial and was named as one of the top 27 business blogs in the world in July, 2017 by Topplanetlist.com.
+According to organizers, applicants who are registered for the above forums before May 25 will be entitled for a 30- day free online coaching by John Mattone.
+==============================
+## Title: Solemn ceremony marks opening session
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 01:03
+Solemn ceremony marks opening session
+The opening of Second Session of Eighth Parliament was marked by solemn ceremony attended by foreign delegates, religious leaders, Provincial Governors, the Attorney General, tri-force commanders and the IGP.
+President Maithripala Sirisena arrived in Parliament complex with First Lady Jayanthi Sirisena in a motorcade at around 2 pm. They were formerly welcomed on the red carpet by Speaker Karu Jayasuriya and Parliament Secretary General Dhammika Dasanayake. The President was accorded a 21 Gun Salute by the Tri-forces. After the national anthem was sung Jaya Mangala Gatha recital was held at the main entrance to Parliament.
+Following the Quorum bell, the President assumed the Speakers Chair and delivered his Policy Statement formerly opening the new session of Parliament.
+At the end of his speech, the President adjourned the sittings till 1 pm today. The ceremonial sitting was followed by a tea party hosted by Speaker Jayasuriya and attended by the Prime Minister, Government MPs, JVP and TNA MPs and other distinguished guests.
+The first session of Eighth Parliament commenced on September 1, 2015 and ended on April 12, 2018. The Judicature Amendment Bill, which aims to set up a permanent High Court at bar to expedite corruption cases, is to be taken up today as the first business of second session. A full-day debate on the Presidents policy statement is scheduled on Thursday.
+Minister Kabeer Hashim, Wasantha Senanayake, Dilip Wedarachchi, Sujeewa Senasinghe, Mayantha Dissanayake, Ravi Karunanayake, Velu Kumar, Sirinal de Mel, Chaminda Wijesiri, Chathura Senaratne, Sandeeth Samarasinghe and Prof. Ashu Marasinghe.
+==============================
+## Title: Speaker says National Audit Bill IS in line with Constitution
+## Supertitle: 
+## Section: Political
+## Date: Wednesday, May 9, 2018 - 13:51
+Speaker says National Audit Bill IS in line with Constitution
+In a message at the Parliament today, Speaker Karu Jayasuriya said that the National Audit Bill is indeed in line with the Constitution. The Bill "provides for the powers, duties and functions of the Audit Service Commission and the establishment of the office of the National Audit Office and the Sri Lanka State Audit Service. It also specifies the role of the Auditor General over public finance."
+Earlier, Jayasuriya was erroneously quoted by other publications as saying that the Bill was not in line with the Constitution, but this claim has since been corrected.
+==============================
+## Title: Swan symbol received more votes in N-E - Minister
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 01:00
+Swan symbol received more votes in N-E - Minister
+The swan symbol received more votes from the North and East than Sinhalese areas in the country, Health Minister Dr. Rajitha Senaratne said.
+According to Minister Senaratne, the swan symbol recorded a landslide victory in the North and East and the flower bud did not get any votes there. Around 45 percent of Muslim votes in the country were in favour of this government. This government cannot walk forward forgetting the Tamils and Muslims, he said.
+The Minister was addressing the gathering after opening the 37th Osu Sala outlet at Akkaraipattu recently.
+Minister Senaratne said that he will fight until Muslims are given equal rights. A Sri Lanka where all ethnicities enjoy equal rights should be built. Some groups of extremists create trouble here and there from time to time, but no one should be worried about it. Such efforts should be defeated. Some still cannot understand what good governance is about. This government made several positive changes and is dedicated to serving the people. As the Health Minister, my vision is creating a health service which is friendly to the poor people in this country, he added.
+==============================
+## Title: Three of five suspects, IRCs
+## Supertitle: Lesters Golden Peacock Award theft
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 01:00
+Lesters Golden Peacock Award theft
+Three of five suspects, IRCs
+Three of the five suspects, who were arrested for the theft of the Golden Peacock Award of the late veteran filmmaker Dr. Lester James Peries, were Island Re-convicted Criminals. The group had been targeting such gatherings from 1977 and had continued to steal valuable items, stated Police Spokesperson Ruwan Gunasekara. The police spokesperson stated that the Island Re-convicted Criminals were Uralagama Dissanayake Mudiyanselage Navaratna Banda, Munasingharachige Ananda Rohan Perera and Nawasiwagam Nalendran (Siva).
+Navaratna Banda was added to the IRC list in 1977 and 7 trials are ongoing against the suspect in the Theldeniya, Kandy, Panwila, Kegalle and Mahawa Magistrate's Courts. Police investigations had found that the suspect had continued these crimes for over 40 years, stated the spokesperson.
+Ananda Rohan Perera and Nawasiwagam Nalendran were added to this list in 2004. Trials are ongoing against Ananda Rohan Perera in the Panwila and Ruwanwella Courts while Nawasiwagam Nalendran has a long criminal record, he said.
+The Police Spokesperson divulged this information at a press briefing held yesterday. The suspects had also stolen an expensive phone during the funeral of the veteran film director and were apprehended in a raid conducted by a special police team in the Kaduwela, Mathugama and Nawalapitiya areas.
+Six suspects were arrested altogether which included the purchaser of the stolen phone and they were remanded till May 21 after being produced before Courts.
+==============================
+## Title: Tourist arrivals grow  16% in first quarter
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 9, 2018 - 01:00
+Tourist arrivals grow  16% in first quarter
+The total number of international tourist arrivals to Sri Lanka during April 2018 was 180,429. In comparison with April last year, there is a growth of 12.6% when the arrivals were 160,249, according to the statistics released by the Sri Lanka Tourism Development Authority (SLTDA) yesterday.
+In April, the largest source market for tourists was India, followed by United Kingdom and China. Almost 94% of tourists travelled to the island by air.
+SLTDA said, 888,353 tourists had visited Sri Lanka during the first four months of the year.
+It is a 16.1% growth over last year when 765,202 tourists had visited the country during the same period.
+Asia and Pacific was the largest source of tourist traffic to Sri Lanka with 46% of the total traffic received in April 2018. Europe accounted for 42% of the total traffic, Americas 9%, Middle East 2% and Africa 1%.
+India, United Kingdom, China, Australia and Germany were Sri Lankas top five international tourist generating markets in the month of April this year. India was the largest source of tourist traffic to Sri Lanka with 17% of the total traffic received in April 2018. United Kingdom accounted for 14% of the total traffic, while China, Australia and Germany accounted for 10%, 8% and 6% respectively. PIC
+==============================
+## Title: Treasury releases Rs. 5 million to buy excess pumpkin crop
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 01:00
+Treasury releases Rs. 5 million to buy excess pumpkin crop
+The Treasury has released Rs. 5 million to the Agriculture Department to purchase the excess pumpkin crop from farmers this season, in response to a request made by Agriculture Minister Mahinda Amaraweera.
+The money had already been disbursed among district agriculture officers to facilitate the purchase of pumpkins from farmers saddled with excess crop unable to market their produce, the Agriculture Ministry said in a media statement.
+It said the problem had arisen due to a bumper crop harvested by farmers and resultant drop in the market price of the produce. The Ministry has also directed agriculture officers to ensure that the purchased stock is released to the market in a planned basis to prevent flooding of the market.
+Minister Amaraweera, who disclosed this arrangement during an inspection tour of the Agrarian Service Department head office in Colombo, added that he had also directed the Agrarian Service Department to formulate a scientific approval to direct farmers to undertake pumpkin cultivation taking the market and climatic conditions into consideration.
+Ministry Secretary B. Wijayaratne and Commissioner General of the Agrarian Service Department W. M. B. Weerasekara were associated with the Minister during the tour.
+==============================
+## Title: Two amended Bills to empower CIABOC to be presented in House
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 01:00
+Two amended Bills to empower CIABOC to be presented in House
+The Government will present two amendment Bills in Parliament today, to empower the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) and file cases based on facts revealed by Commissions of Inquiry.
+The Bills to amend the Commissions of Inquiry Act (Chapter 393) and the Bribery Act (Chapter 26), will be presented at the commencement of sittings today.
+According the Amendments, the Director General of the Bribery Commission is given the power to file cases under the Bribery Act or Declaration of Assets and Liabilities Law based on the findings of the Commissions of Inquiry appointed by the President.
+The amendments need to be passed by a 2/3 majority in Parliament.
+The President has the power to appoint Commissions of Inquiry, whenever it appears to him that an investigation or inquiry or both, is necessary for the administration, management and functions of any Government institution or the conduct of any public officer. Presidential Commissions of Inquiries could be appointed on any matter relating to the national interest of public safety or well being as decided by the President.
+==============================
+## Title: Two women nabbed with gold at BIA
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 01:00
+Two women nabbed with gold at BIA
+Two women, residents of Jaffna, who arrived at the Bandaranaike International Airport, were arrested with 1 kilo and 100 g of gold jewellery valued at over Rs. 10 million. The suspects arrived from Singapore yesterday morning. They were arrested by the Katunayaka Police Narcotics Bureau.
+==============================
+## Title: Updating of Membership records
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 01:00
+Updating of Membership records
+The Sri Lanka - Japan Friendship Society is updating Membership Records of the Society. Members are kindly requested to contact Ravi Karunaratne on Tel. 077-2033330 or [emailprotected].
+==============================
+## Title: Ward Place closed due to anti-SAITM protest
+## Supertitle: 
+## Section: Local
+## Date: Wednesday, May 9, 2018 - 16:37
+Ward Place closed due to anti-SAITM protest
+
+Ward Place in Colombo is temporarily closed due to an ati-SAITM protest launched by the Inter University Students Federation (IUSF).
+The protest was launched in demand to abolish the South Asian Institute of Technology and Medicine (SAITM) in Malabe.
+The Police advised commuters to use alternate routes.
+==============================
+## Title: World Rubber Summit 2018  concludes
+## Supertitle: 
+## Section: Finance
+## Date: Wednesday, May 9, 2018 - 01:00
+World Rubber Summit 2018  concludes
+The World Rubber Summit (WRS) 2018 organized by the International Rubber Study Group together with the Ministry of Plantation Industry began in Colombo concluded yesterday at Taj Samudra Hotel, Colombo.
+Last several years, this summit was held in Singapore, and this is the first time in several years that it was held outside Sri Lanka. The theme of the World Rubber Summit 2018 was Breaking barriers towards sustainable growth.
+WRS created a unique and exclusive opportunity for the global rubber industry to discuss the current challenges that the industry is facing and discuss the future opportunities. There were key discussions on current and future industry trends in rubber production and consumption at the event.
+The keynote speech of the WRS-2018 was made by the Navin Dissanayake, Minister of Plantation Industries.
+The International Rubber Study Group (IRSG) is an inter-governmental organization comprised of rubber producing and consuming stakeholders. IRSG currently has 36-member countries and 120 industry members. Republic of Cameroon, Cote dIvoire, The European Union (28 Member States), India, Japan, Nigeria, Russian Federation, Singapore and Sri Lanka are also among the member Governments.of2IRSG.The summit was a good platform to find new foreign markets and expand the existing markets for natural rubber and finished products of Sri Lanka.
+According to the 2017 Annual report of the Central Bank, rubber exports brought in revenue of 38.9 million US Dollars.
+The Annual Report shows that rubber production has increased by 5.1 percent to 83.1 million kilogrammes in 2017, from 79.1 million kilogrammes recorded in 2016.
+There were also field visits to rubber manufacturing plants and rubber estates.
+
+==============================

@@ -1,0 +1,899 @@
+## Title: Allegation of luxury vehicle kickback: Minister wants JVP to name minister
+## Section: Breaking News
+## Date: 1 September 2017 03:13 am
+Allegation of luxury vehicle kickback: Minister wants JVP to name minister
+	
+Highways and Higher Education Minister Lakshman Kiriella yesterday asked JVP MP Sunil Handunnetti to name the Minister accused of getting a luxury vehicle as inducement for awarding the contract to extend the southern expressway.
+Mr. Handunnetti charged at a media conference the cost of the project had been overestimated because of commissions involved. He said there was the alleged involvement of inducement in terms of a luxury vehicle.
+Mr. Kiriella said the cost increased because of extra viaducts that would be built to avoid floods.
+I ask Mr. Handunnetti to name the Minister using this vehicle, he said. (Kelum Bandara)
+ 
+		
+==============================
+## Title: Arrest PTL Chief Dealer: AG to tell CID
+## Section: Breaking News
+## Date: 1 September 2017 07:05 am
+Arrest PTL Chief Dealer: AG to tell CID
+	
+Testifying before the Presidential Commission of Inquiry (PCoI), Sachith Devathantri, the IT executive of Perpetual Treasuries Ltd yesterday admitted that he had deleted several phone recordings from its data on the instructions of the Chief Dealer of PTL, Nuwan Salgado on July 5, 2017.
+Previously, on two occasions, Mr. Devathantri had recorded statements with CID officials attached to the PCoI and in the second statement he admitted that he had lied in the first statement.
+However, in a way of an affidavit, the witness submitted his evidence and also testified before the Commission yesterday.
+Additional Solicitor General Yasantha Kodagoda led the evidence.
+According to the witness, Metropolitan Communication Ltd had installed a Voice Logger recording system at PTLs office with eight extensions on May 19, 2015. And the voice recording system was capable of storing the date, the time, the caller detail (incoming or outgoing number) and the voice recording.
+When questioned by the Commission, the witness said that at the time of installation, the PTL CEO was also aware of the capability of the recording system. He said they wanted to install such a recording system into the PTLs dealer room extensions mainly to recognize the CLI numbers of conversations along with the voice recordings.
+This system included a main computer given by Metropolitan Ltd, in which all the data was stored as voice recordings (wave files) and caller details (data folder).
+It was explained that through the voice logger systems interface, all the caller details can be seen easily from the main computer.
+However, it was explained that after the installation of the recording system, PTL had complained on June 4, 2015 about the system reporting an error. He said it did not record all digits of outgoing numbers.
+The witness admitted although there was a problem in storing all outgoing numbers, these were only about some outgoing numbers and the other data was available without faults.
+However, it was reveled that by December 2015, Metropolitan Ltd had completely solved the issue getting assistance from its Indian mother Company.
+The witness said that after December 2015, no errors occurred in the voice recording system pertaining to caller numbers.
+On being questioned by ASG Yasantha Kodagoda, the witness explained the usual process in which he backed up data from the data base of the main computer relating to the recording system.
+He said that he attempted to back up data using the formal provision in the recording systems interface as per the operating manual but failed to do it. And subsequently, he copied only voice recordings (wave files) from the data base of the hard drive of the main computer.
+Caller details were however also stored in the computer which he had not copied to a back up.
+Mr. Devathantri was of the view that he did not care about copying caller details at that time.
+However, Justice Prasanna Jayawardena and Justice K.T. Chitrasiri repeatedly questioned as to why he didnt think about copying the most essential part of that data.
+The Commission asked him since PTL initially wanted to have a phone recording system to identify the CLI numbers what made him not to backup them up.
+The witness answer was that he did not care about copying caller details. ASG Kodagoda then said that the Commission will consider about the witness non-consideration of caller details.
+Justice Jayawardena: Manual of the System explains how to backup wave files and caller details, so if you had a problem with the system in doing such backup why did you not complain about it to Metropolitan
+Witness: I did not think that much.
+J: The system was installed to mainly identify the CLI numbers, right
+W: Yes
+J: So, copying voice recording files only will not serve that purpose, right
+W: Yes
+J: Even a half brain man could understand that, so what made you not copy caller details too
+W: I did not think that much at that time
+J: Did someone from a higher position of PTL ask you to do so Because it was a serious failure
+W: No
+The witness explained that in the backing up process he had copied all voice recordings from the computer and stored in his portable drive and later included all recordings to 3 DVDs.
+He said those DVDs were currently in Chief Dealer, Nuwan Salgados custody at PTLs office. He also said that even though he had backed up the data from the main computer, the original voice or other caller details were not deleted at any point by him.
+Earlier it was reveled that PTL had shifted its office to a different address on July 3, 2017 and at the new place, PTL had identified that the computer hard disk relating to the recording system had crashed for some reason on July 6, 2017.
+However, making a startling revelation, Mr. Devathantri admitted that he was asked to delete some phone conversations by Chief Dealer Nuwan Salgadu on July 5 2017 from the data base of the main computer of the system.
+He explained that Chief Dealer Nuwan Salgado had met him at the server room of PTLs new office on July 5 and had shown him few notes containing 15-16 serial numbers and dates of several phone conversations which have to be deleted.
+Thereafter, the witness had advised the Chief Dealer that if they delete them it could be identified as those voice recordings were stored in a sequence of serial numbers.
+Mr. Devathantri admitted that he also proposed to Nuwan Salgado that if they delete such voice recordings, the deleted voice recordings should be replaced with some other phone conversations.
+The witness said that thereafter he made changes to the data base of the main computer by deleting required phone recordings and replacing them with internal voice recordings.
+Mr. Devathanthri had also produced the notes that Nuwan Salgado had given him on July 5, 2017, to the CID officers and yesterday submitted them to the Commission.
+On being questioned by the Commission, the witness identified the hand writing of those notes as of Nuwan Salgado (Chief Dealer), Kaushitha Rathnaweera (Dealer) and Anjana Jayasinghe (Dealer).
+The witness said after the alteration was made to the main Computer he had obtained a full back up which contained the edited voice recordings.
+According to the witness, after this alteration, he recognized a problem in the main computer on the very next day July 6, 2017 morning.
+After a continuous questioning by Justice Prasanna Jayawardena and Justice Chitrasiri, the witness admitted that they had the intention of formatting the hardware and replacing another computer to the system.
+However, he said he did not know as to what happened to the computer within 24 hours after the alteration.
+Justice Jayawardena: Now, You had deleted certain phone recordings on July 5, right
+Witness: Yes
+J: Then on the very next day within 24 hours the computer had crashed
+W: Yes
+J: You also knew that even though you had deleted certain data the hard drive of the Computer may have them and if a forensic examination was done it can be retrieved, right
+W: Yes
+ASG Yasantha Kodagoda: What happened between July 5 and 6, did a lightning strike the computer
+Witness was silent
+Justice Jayawardena in a serious manner remarked in Sinhala :Aththatama Wena Jathiye Akunak Weduna (Actually a different sort of a lightening struck)
+Thereafter he had used another computer in the Company and installed the system to it. He said he also did a configuration to the system on July 21.the witness admitted that the re-installation and the configuration were conducted without informing its service provider Metropolitan Ltd.
+Subsequently, he had placed the data which he backed up on July 5 after editing the main computer in to the new system.
+The witness explained that it was the altered data that was subsequently provided to the Commission in the latter part of August 2017.
+It was explained that PTL had not given all of their phone recordings to the Commission as opposed to what PTLs CEO Kasun Palisena had ascertained in his affidavit earlier.
+Additional Solicitor General Yasantha Kodagoda sought the Commission to issue an order to obtain all the original voice recording backups which were in three DVDs (which are relating to the time period before July 6, 2017) at the moment in the custody of Nuwan Salgado immediately. Subsequently, the Commission issued an order to obtain them.
+It was said that Nuwan Salgado had been earlier summoned by the CID to come yesterday morning to record a statement but he had not turned up.
+ASG Kodagoda also said that the conduct of PTLs Chief Dealer Nuwan Salgadu was an offence to the cause of justice, because his involvement had transpired during the proceedings and that under the Criminal Procedure Code it was a criminal offence.
+The ASG asked the Commission to convey the facts about incident to the Inspector General of Police to take appropriate actions against PTLs Chief Dealer as well.
+Additional Solicitor General Dappula de Livera also made a special application to the Commission that PTLs Chief Dealer should be arrested over committing a criminal offence under Section 189 of the Penal Code. ASG Livera was of the view that this was a serious offence of PTL against the investigation as they have provided fabricated evidence to the Commission.
+He also said that under section 24 of Commissions Act the Attorney General can take appropriate action accordingly over such instances.
+However, the Commission was also of the view that the Commission cannot make orders to arrest persons as per law but the Attorney General could take appropriate steps according to section 24 of the Act.
+Justice Prasanna Jayawardena also said that as per the section 24 the Attorney General has the cognizance to take appropriate action since such cogent evidence has come from PTLs IT executive.
+It was revealed that the Attorney General can take appropriate action to arrest Nuwan Salgado the Chief Dealer of PTL by deploying CID officers.
+Presidents Counsel Kalinga Indatissa who appeared for PTL CEO Kasun Palisena said that they are not condoning the actions of PTL but asked the Attorney General Department to look into the facts before the arrest since the Chief Dealers instructions to the IT person were on a date much earlier before the Commission requested PTL to provide phone details.
+ASG Kodagoda was also of the view that PTL IT executive has revealed about criminal conduct happened in his work place and therefore such revelation comes under the section 8(6) of the Victim Protection Act. He said therefore, under the Act, the witness is protected from any of harassment from his employer thereafter or any adverse decision to his employment.
+When the Commission questioned, the witness also said that he was neither intimidated nor requested to give false evidence by anyone and made the testimony independently before the commission.
+It was also revealed that the counsel appearing on behalf of the witness was appointed by PTL. The Chairman of the Commission Justice K.T. Chitrasiri thereafter advised him to make his own decisions whether he should speak with the lawyer who was appointed by his company because he has now given testimony against his employer.
+The Commission will resume sittings on Monday (September 4).
+Box
+ASG Yasantha Kodagoda: Who decided to do such replacement of the computer
+Witness: it was Nuwan Salgados (Chief Dealer) decision
+Justice Jayawardena: Who is above him in PTL
+Witness: Kasun Palisena the CEO
+J: And above him
+W: The boss, Arjun Aloysius
+J: That is what I wanted to know, so that means Nuwan Salgado informs Kasun Palisena and Palisena informs Arjun Aloysius, right
+W: I think so
+(Shehan Chamika Silva)
+ 
+		
+==============================
+## Title: Black smoke streams from storm-crippled chemical plant in Texas
+## Section: International
+## Date: 1 September 2017 11:57 am
+Black smoke streams from storm-crippled chemical plant in Texas
+	
+
+Two explosions have occurred at a chemical plant outside of Houston, hours after a spokesman warned a gas explosion was imminent. 
+Fifteen police officers were hospitalized after being affected by an irritant in the smoke of the fire. Some of them complained of dizziness and headaches. 
+The explosions came after The Arkema Inc plant in Crosby, Texas, lost power and its backup generators amid Harveys days-long deluge, leaving it without refrigeration for chemicals that become volatile as the temperature rises. 
+Just after 2am local time, the Harris County Emergency Operations Center reported explosions at the plant and black smoke rising from the facility. 
+Arkema said in a statement that more explosions could take place in the coming hours or days and warned residents not to return to the area until it has been cleared. 
+In its most recently available submission from 2014, Arkema said potentially 1.1million residents could be impacted over a distance of 23miles in a worse case, according to information compiled by a nonprofit group and posted on a website hosted by the Houston Chronicle. 
+Meanwhile, about 150 miles west of Houston, almost 30,000 gallons of crude oil and about 8,500 gallons of waste water spilled because flood waters from Harvey toppled two oil storage tanks, state officials said Wednesday. 
+Texas, (Daily Mail),
+31 August 2017 - 
+
+ 
+		
+==============================
+## Title: Coping with Bipolar Disorder
+## Section: Medicine
+## Date: 1 September 2017 12:40 pm
+Coping with Bipolar Disorder
+	
+
+QHow can we identify or diagnose a patient suffering from Bipolar Disorder and what are the treatments available for this condition 
+Bipolar Disorder or Bipolar Affective Disorder ( BPAD), as the name suggests is a disorder of two extremes. On the one hand there are episodes of extremely low moods and low energy levels called depression. On the other hand there are episodes of extremely elevated moods and energy levels.
+These latter episodes are called manic episodes. Those afflicted tend to be relatively well in between episodes. Although this is a very simple way of putting it, this is a complex disorder with many variations. Bipolar doesnt necessarily mean alternating between depression and mania. There are many differences in the course of the disorder. In fact as the disorder progresses its much more common to have more periods of depression. 
+Its important to keep in mind that these episodes are clinically significant and the day to day mood swings that we all have at times arent related to a disorder. 
+While the majority of these disorders are manifest in the late teens or early 20s, some present this condition earlier (early onset) or later (late onset). 
+Although bipolar Disorder isnt readily recognised in children, a somewhat similar condition called Disruptive mood Dysregulation Disorder is now recognised. This is a condition where the childs mood shifts between sever temper outbursts and persistent negativity. These symptoms are much more severe than in the case of a moody child and require clinical attention. 
+In contrast to adults, mania in adolescents can present a bit differently. They may be irritable as well as elated. When depressed, in addition to other features, they are likely to come up with physical complaints and parents may see a marked decline in school work and social withdrawal.
+
+manic symptoms
+(there has to be many of these symptoms and they have to be persistant and different to the usual behaviour of the person) 
+An elated mood that is not generally related to circumstances and is unusual. 
+	Grandiosity that is and extreme. 
+	Increased energy and activity that is unusual and extreme. 
+	Decreased need for sleep - able to go with very little sleep for days without feeling tired. 
+	Talking too much and too fast, so that it is difficult to follow. 
+	Increased sexual related behaviour and thoughts. 
+	Engaging in behaviours that are risky and dangerous. 
+
+As adolescence is in any case likely to be a period of emotional turmoil, its important that parents are sensitive to changes that may indicate that their teenagers are struggling with something more than the normal ups and downs of adolescence. 
+Treatment for BPAD broadly includes medications, psychotherapy, modifying the environment and family based interventions. As this is a complicated disorder its best that this is treated by a medical professional well versed in its treatment. As there is a tendency for this disorder to switch e.g from mania too depression, medication needs to be carefully balanced and treated. The medications commonly used in this condition are called mood stabilisers as they attempt to stabilise the mood from shifting to extremes 
+Especially in the case with those who go to school and work, certain modifications in these areas may be needed. Excessive stress and lack of sleep have been described as being possible triggers to set off an episode. As such avoiding late night studying and having a plan in place to manage stressful situations like deadlines and exams may be important. 
+
+
+Q How should family members or colleagues be of assistance when coping with a patient suffering from Bipolar Disorder 
+With time, relatives who live with those with BPAD are able to recognise early changes in those afflicted with this condition. Early detection is important as this can lead to starting treatment early which will reduce the adverse consequences of a more sever episode. This is also important because when the episodes get sever some may not accept the need to seek treatment. 
+Between episodes its important to note that many function well. However, sometimes, they may require the sensitivity and consideration of their colleagues in certain work related issues. Obtaining help from a friend in school or university going young people is essential. However, its important that this is done in a way that helps them return to their usual routines, and not in a way that causes them to be uncomfortable or feel different. After all, there are many brilliant people, who are suspected to have suffered from this condition, who now contribute immensely to society. A Google search will reveal many such famous names. 
+
+features of depression
+( there has to be many of these symptoms and they have to be persistant ) 
+Persistently sad mood. 
+	Loss of interest in the activities they usually enjoy. 
+	Lack of appetite. 
+	Poor sleep. 
+	Loss of energy. 
+	Feelings of worthlessness or inappropriatly guilty. 
+	Being unable concentrate. 
+	Recurrent thoughts of death or suicide. 
+
+ 
+		
+==============================
+## Title: Cytokines- The master blaster that defends our body!
+## Section: Medicine
+## Date: 1 September 2017 12:13 pm
+Cytokines- The master blaster that defends our body!
+	
+
+Ever fallen down and hit yourself somewhere hard, which later resulted in warmth, redness and swelling of the particular side with pain on top of that Ever got a head injury and thought why you feel a lump on the scalp where it feels tender when touched 
+
+
+These are all signs and symptoms of a protective mechanism in the body known as inflammation. This process will respond quickly to a trauma by dilating your blood vessels and increasing the perfusion to the site of injury. This ensures quick recovery with many more cascades of event, triggered by what are called CYTOKINES. 
+These are a set of broad and loose yet small proteins which are important in cell signaling, cellular interactions and inter-cellular communication. In fact, their main function is to regulate the behaviour of cells around them by maintaining an autocrine signaling system, a paracrine signalling system and an endocrine signalling system by means of activities similar to that of immunomodulating agents. 
+Even though the exact line of demarcation between cytokines and hormones are still under research, there are several similarities between them. 
+Commonest Cytokines in the human body include chemokines, interferons, interleukins, lymphokines, and Tumour Necrosis Factors (TNF) which are produced by a wide variety of cells such as macrophages, B lymphocytes, T lymphocytes, mast cells, endothelial cells, fibroblasts and stromal cells. 
+Acting through specific receptors, Cytokines carry out a significant role in immunological functions by maintaining a balance between humoral and cell-based immune responses. They also help in modulating the maturation, growth, and responsiveness of various cell populations while working on enhancing or inhibiting the action of several other different types of cytokines as well. 
+
+Q What is inflammation
+This is a mechanism by which our body attempts to maintain self-protection through removing harmful stimuli with already damaged cells, irritants and other causative pathogens, thereby beginning the healing process. 
+
+QHow do cytokines involve in inflammation
+The specific group of cytokines known as anti-inflammatory cytokines are defined as a series of immunoregulatory molecules which regulate the pro-inflammatory cytokine response following an injury.  These specific molecules which function hand in hand with various other cytokine inhibitors and soluble cytokine receptors will carry out an effective human immune response towards harmful stimuli. Their physiological role in inflammation as well as the pathological role in systemic inflammatory cascades are highly important for a well-functioning immunity system. 
+
+
+Major types of anti-inflammatory cytokines
+Interleukin (IL)-1 receptor antagonist, IL-4, IL-10, IL-11, IL-13 
+	Leukemia inhibitory factor 
+	Interferon-alpha, 
+	IL-6, Transforming Growth Factor (TGF)- 
+Out of these, IL-1, TNF-a, and IL-18 also act as inhibitors for pro-inflammatory cytokines mentioned above, by some sort of a dual function. 
+Additionally, IL-10 is the most important cytokine out of these, which own potent anti-inflammatory properties capable of repressing the expression of inflammatory cytokines like TNF-a, IL-6 and IL-1 with the help of activated macrophages. 
+At the very moment a trauma to the body occurs, Tumor Necrosis Factor-alpha (TNF-a) will be the first cytokine to be produced by activated macrophages and monocytes. 
+
+
+These will eventually dilate the nearby capillaries in order to bring circulating white blood cells to the site of infection as soon as possible. Within few seconds, a cascade of signals will get transmitted all over the body, resulting in the death of already damaged cells which will in turn prevent the spread of infection. 
+The four characteristic features of inflammation including erythema, warmth, swelling and pain are known to be a set of prominent responses to TNF-a which occurs as a result of increased blood flow, increased capillary permeability, rapid influx of phagocytic cells and extensive tissue damage. 
+Constriction of the capillaries which carry blood away from the infected area, will result in an engorgement of the capillary network giving rise to a redness and increased temperature in the site. Furthermore, as a result of this high permeability, fluids which have a higher protein concentration compared to that of normal body fluids will move in to the extra vascular compartment, causing swelling. 
+Moreover, Cytokines will further act to enhance the effectiveness of inflammatory response by attracting macrophages to the infected area whereas Neutrophils mark the first most entry to the particular site. 
+On a concluding thought, Cytokines which are produced effectively by infected cells, dendritic cells and macrophages as described above are known to play a huge role in responding to infections and trauma occurring to the body by the protective mechanism called INFLAMMATION. 
+ 
+		
+==============================
+## Title: Dealing with rampaging Rhinosinusitis!
+## Section: Medicine
+## Date: 1 September 2017 12:21 pm
+Dealing with rampaging Rhinosinusitis!
+	
+
+
+No, it doesnt have anything to do with rhinos. But Rhinosinusitis does have something to do with you getting a stuffy nose and a dull headache. We Sri Lankans always fall susceptible to such symptoms in the sometimes dusty, sometimes cold environment. Rhinosinusitis, more commonly known as sinusitis, is a general problem that a lot of people fall victim to. Professor Arjuna De Silva, Professor in Medicine, Faculty of Medicine, Ragama provided an insight on the rampaging common medical malady known to man as Rhinosinusitis. 
+
+Sinuses
+Professor De Silva explained what sinuses are. Sinuses are small air filled cavities in the skull that are connected to the nose. Sinuses are lined by cells that produce mucous. The mucous produced by the sinuses is drained by small channels to the nose,he said.
+
+Definition
+When a person contracts sinusitis, the channels connected to the nose from the sinuses are blocked. This condition leads to the inflammation and irritation of the linings of the sinuses,hence causing sinusitis. 
+
+Causes 
+Professor De Silva listed the causes for rhinosinusitis. It is mainly caused by infections, allergies, air pollution.Allergies to pollen and dust are more likely to cause sinusitis. Viral and bacterial infections also cause sinusitis, explained De Silva. A general fact is the change that takes place in the environment that surrounds us. What happens is different to what happens in other countries.
+According to the professor, our surrounding conditions change from dusty to cold and vice versa. This triggers sinusitis more often. That is why sinusitis is common in Sri Lankans, especially in those who live in dusty environments where more mucous is secreted. 
+
+Signs and symptoms 
+There are common tell-tale signs that suggest you have contracted sinusitis. These include thick nasal mucous and phlegm, a blocked nose and heaviness of the head, explained professor De Silva. Other signs include a dull headache, fever, cough, sore throats or even poor sense of smell due to a blocked nose. 
+
+Diagnosis 
+Sinusitis can be clinically diagnosed by an ENT specialist. If its severe, x-rays are also taken to diagnose sinusitis. In more serious and aggravated conditions of sinusitis, a naso- endoscopy is also performed. the professor stated. 
+
+Treatment
+Generally patients will be asked to avoid allergants that trigger their allergies. Nasal drops are prescribed to relieve nasal blockage. In the case of a bacterial infection, the condition is diagnosed by a doctor and unless the condition is severe, antibiotics arent usually prescribed,stressed De Silva. Painkillers are also said to be prescribed to avoid headaches that a patient experiences when suffering from clogged up sinuses. 
+
+Prevention 
+Avoiding triggering factors that stimulate and arouse ones allergies is important to be kept in mind, accentuated Professor De Silva. Therefore its necessary to avoid dust and other factors that cause allergies. Some cases of sinusitis can be prevented by maintaining proper health hygiene such as ones washing hands. Avoiding smoking is also an important step to avoid contracting rhinosinusitis.The rapid switch from one kind of environment to another such as from dusty conditions to air conditioned conditions is also of concern and should be minimized as much as possible in keeping rhinosinusitis at arms length. 
+ 
+		
+==============================
+## Title: Dont let the TV stress you out!
+## Section: Medicine
+## Date: 1 September 2017 12:11 pm
+Dont let the TV stress you out!
+	
+
+
+In the modern world the Television (TV) has become part and parcel of the lives of people. The TV not only conveys information, but serves as a mode of entertainment. Stress has its effects on both mind and body. The World Health Organization has identified stress as a health epidemic in the 21st century. It can initiate the Fight or flight response which is a complex reaction of neurological and endocrine systems. As a result the sympathetic system is activated and stress hormone levels rise due to the activation of the HPA (Hypothalamo-Pitiutary-Adrenal) axis leading to adverse outcomes regarding health. 
+Numerous studies have demonstrated that the media have a positive impact on the Psychological well-being in people. They help people to psychologically detach from stress and relax. However, recent studies have highlighted that there is a negative relationship between media and psychological well-being. 
+The stress response isnt induced only when one directly encounters a crisis, but also when a person experiences the distress of another. This is known as Empathetic stress. It has been shown that Empathetic stress, which is modulated by emotional closeness and observational modality, causes HPA axis activation. This leads to a surge of cortisol in our body (Engert et al 2014).
+On the contrary some studies propose that the impact of media exposure on psychological well-being depends on how the viewers appraise their own use of media (Reinecke 2014). Reinecke and his fellow researchers demonstrated that ego-depleted individuals found that media entertainment is a form of procrastination and this is followed by immense guilt and a feeling of failure after watching TV. Therefore, ego-depleted individuals have a negative impact on the so called stress-relieving effect of media. 
+
+The hours spent in front of the television 
+Factors such as the hours spent on watching TV and the type of programme can also have an influence on viewers. It has been proven that there is a correlation between the hours spent on watching TV with the stress level. Anderson et al (1996) found that for women stress is positively related to television addiction and in men, there is a positive correlation of stress with the amount of watching TV. Also another study by them revealed that stressed women watch more game and variety programming as well as more overall TV while the stressed out men watch more action and violent programming. 
+There are TV programmes that create positive emotions as well as negative emotions. The aim of this study is to find whether the type of programme and the emotions it evokes in the viewer have an impact on stress levels. Though viewing TV programmes is one of the main modes of entertainment in Sri Lanka, yet studies regarding this context is barely touched upon .Therefore, this study gives a scope as to how this phenomena implies in the Sri Lankan context.
+
+Methodolgy
+A study was conducted in a randomly selected village within 1 km radius of the University of Peradeniya. The chief monk of the village temple was approached to obtain his support to convince people to participate as subjects for the proposed study. The villagers were made aware of the study when they came to the temple for Bodhi Pooja (a religious event). 
+During the health camp, an evaluation on health was conducted by volunteers who were third year medical students and pre-intern doctors. Medical and drug history, Body Mass Index (BMI), Blood Pressure (BP) and the pulse rate were checked. Those who required medical attention were referred by pre-intern doctors for further care. 
+During the above process, total of 30 subjects were selected. Males and females were subject to a certain selection criteria such as being between age 20 years to 60 years and normotensive ().
+The selected subjects were divided into 2 groups of 15 and both groups were shown a 20 minute comedy. The first measurements of blood pressure (mm Hg) and pulse rate (bpm) were taken immediately before the clip was shown. The second set of measurements were taken immediately after showing the clip. Both before and after measurements of a subject was taken by the same volunteer using same equipment. The subjects were given refreshments and allowed to rest for about 30 minutes. After the interval, a horror clip running up to 20 minutes was shown to both groups. As in the previous case, blood pressure and pulse rate were taken. 
+Measurements were taken by the volunteers who were unaware of the research objectives. To find out whether TV programmes have a significant impact on heart rate and blood pressure, the Paired T-test statistical technique was applied for the collected data. The parameters analyzed include pulse rate, diastolic blood pressure, and systolic blood pressure and mean arterial blood pressure before and after viewing the comedy and horror clips.  The outcome of this study demonstrated that TV programmes which create positive emotions such as comedies dont have an impact on heart rate and blood pressure. TV programmes which create negative emotions such as horror programmes increase heart rate, diastolic and mean arterial blood pressure which depicts high stress levels.
+These parameters were taken as markers/ indicators to identify the Flight or Fight response which is initiated following the stress response. 
+Negative emotions such as anger, hatred, jealousy, enmity, frustration, annoyance, loneliness, fear, anxiety, depression, worry and guilt are projected through various means through the television. Experiencing these emotions directly as well as indirectly by observing others undergo distress can evoke the stress response. The latter phenomenon is known as Empathetic stress.
+Therefore, binge-watching Television is a better approach than gluing to the habit of watching programmes that evoke negative emotions on a daily basis. In contrast positive emotions not only have the entire opposite effect that was explained above. These types of programmes also release endorphins which guarantees tranquilization and relaxation. 
+Telecasting companies can be requested to limit the broadcasting of negative-emotional TV programmes and if they really need to show them after peak hours of the day. 
+
+Conclusion
+Therefore, measures should be implemented to make the society aware of this concept and to minimize the exposure of media users to such stress-inducing programmes. Finally, this study is a paradigm to conduct further research on the impact of media on psychological well-being. 
+(The research paper was conducted by the university of peradeniya and the group of researchers included NA Fonseka, S.Garusinghe, GMDR Gaspe, M Gukes, HMMM Gunarathne, AMCM Gunathilake, MWI Gunasinghe, WWAR Gunawardena, PASR Gunawardena, IKPS Gunawardena)  
+ 
+		
+==============================
+## Title: Drugs.. a good servant, but an extremely bad master
+## Section: Medicine
+## Date: 1 September 2017 12:53 pm
+Drugs.. a good servant, but an extremely bad master
+	
+
+Drugs are used to alleviate pain and suffering and to save lives of millions of people. But this is possible if drugs are used in the proper way. From a simple drug as Paracetamol to anti cancer medication, the function of these drugs is immeasurable. But there is a darker, more obscure side to these lifesavers. 
+Its estimated that around 200,000 people worldwide die annually due to overdose of drugs. Most of those who died were comprehensive drug users. Addiction can be to Legal drugs like morphine, or illicit drugs like heroine or cannabis. But this menace doesnt only affect those addicted, but to the society as a whole. When a person is addicted to a drug, his whole focus in life is on the drug and how he can obtain it. This will explain the numerous accounts that we hear daily on petty crimes like pickpocketting to bank robberies. motivated by drugs, which is an expensive addiction. There is also a higher incidence of certain mental illnesses like schizophrenia among people who abuse drugs. With International Overdose Awareness Day falling on August 31, Health Capsule decided to explore more on the darker side of drugs, specifically on addiction and overdose, on behalf of readers. 
+
+On addiction
+Dr. Asiri Rodrigo, Consultant Psychiatrist at North Colombo Teaching Hospital, explained that addiction happens when someone feels a strong urge to use a substance even with the knowledge that its harmful. They know that something isnt right in their lives when they take such substances, but they continue with them. They start thinking that they will limit their use, but they cant stop their use altogether. When they dont use it they get withdrawal symptoms. With time, the dosage of the drug has to be increased in order to get the same effect, he elaborated. 
+Drug addiction can have long term effects on the central nervous system. Nevertheless, with continuous treatment-both pharmacological and non-pharmacological- cure is possible, said Dr. Rodrigo. 
+
+Those at risk
+Many individuals take drugs because they are already having social or psychological problems. These people find solace in their drugs to compensate for the vacuum in their lives. But instead, the substance adds a much worse problem to their pile of problems, Dr, Rodrigo opined. 
+Adolescent age, male sex and poverty are some of the risk factors. And even though figures arent high, there is a tendency for drug addiction to increase in schools. This can happen more in poverty stricken areas, where teachers and the parents neglect children, said Pradeep Koholanegedera, Assistant Director, Preventive Education and Training, National Dangerous Drug Control Unit (NDDCU). 
+
+The experiment trap
+According to Koholanegedera, there is a sequence called the progressions of addiction. The first group includes experimental or recreational users who use drugs very rarely or for the first time. Then some of them progress into the occasional or circumstantial using stage. These people find excuses to use substance eg: A party, breakup etc. Then some of them progress into becoming regular and intensified users. By this time they are in hot water. These people dont usually need others to use the substance and prefers to take it alone. The initial dose cant satisfy them anymore, so they periodically increase their dosage. They may move from one substance into a harder substance. Finally comes the addictive or the compulsive user. The main feature associated with this user is the need to start the day with the substance because they cant function without the drug. 
+The occasional users are the highest threat to the society, may it be drugs or alcohol. This is because they use the substance, regardless of whose presence they are in. They give the impression that its very classy, fun and a sociable thing to do. Children naturally take in the foot steps of such adults, he said. 
+
+Treatment
+Dr Rodrigo assured us that there are very effective treatments available. Any government hospital will provide these people with detoxifications. Many users fear receiving treatment due to withdrawal symptoms. But he said that the hospitals will freely provide users with medication to minimize these complications and to reduce their cravings for the drugs. The mental illnesses as a result of the continuous use of drugs will also be treated. The hospitals will also provide the family with counseling on how best to deal with the person concerned. 
+The doctor stressed on the need for directing individuals who have substance misuse problems to seek medical care.In cases where the patient is indecisive, we strengthen their resolve using various techniques. We can change their thinking pattern which caused them to become addicted in the first place. Drugs have become an integral part of their lives that when the drug is withdrawn, they are left with a large gap in their lives. They have no idea of how to fill that gap, is how Dr. Rodrigo explained the process of counseling. With these cases the counselors lead them on to the right direction by reintroducing the things that the addiction took back from them, like family, friends and leisure activities, to fill that vacuum. 
+
+Prevention before care
+Identifying and taking measures to prevent addiction in initial stages will have a long term positive impact on users. Family and friends who are closest to a vulnerable individual are the best possible candidates for the task. 
+Especially in the case of adolescents and teenagers, if they are distracted from school work, are having bad company and suffering from loss of focus, these should be addressed immediately. This should be done even when they arent using drugs, explained Dr. Rodrigo. The misconceptions that they have about the benefits of drugs should be cleared. Even though providing explicit information on drugs arent recommended, the dark side of drugs and how they can ruin lives should be incorporated in to the school curriculum. Teaching them life skills like saying no and being assertive should be integrated into them since peer pressure is one of the commonest initiating factors for addiction. Self-respect and self-worth are also vital to ones personality because sometimes individuals try to reaffirm their worthiness by using drugs. 
+Just because they used drugs, the family should not alienate them. Find out the cause and take remedial measures. Make sure that they understand that you are in this struggle with them. Letting them know that you trust them to win the battle against drugs, so that they are reluctant to break the trust placed in them. These methods go a long way in helping them, was his advice to the family. 
+
+About Overdose 
+Overdose is taking dangerous or possibly lethal amounts of drugs. The amount that is lethal depends on various factors like the type of drug, health and age of the person and weight of the person. 
+Drug overdose isnt a problem limited to addiction. Therefore precautions need to be taken when purchasing drugs over the counter or using a prescription.
+The following precautions can be taken-
+Store the medication in sealed, named containers, away from childrens reach. 
+
+Read the instructions well before use. 
+Discontinue the use of drugs if they are discolored or the blister packs are broken. 
+When your doctor prescribes you with drugs, mention any other drugs that you are currently on, so there are no interactions among medication. 
+Adult and children doses of medication differ, so take extra care to give the prescribed dose when giving medicine to children. 
+
+When on long-term medications, especially with the elderly, regularly review the drugs and the doses. This should be done because the doses needed may change with time. 
+ 
+		
+==============================
+## Title: First-ever US-SL naval exercise in October
+## Section: Breaking News
+## Date: 1 September 2017 04:43 pm
+First-ever US-SL naval exercise in October
+	
+The first-ever US-Sri Lanka naval exercise would be held in October this year expanding navy-to-navy relationship among the two nations, US Acting Assistant Secretary of State Alice G. Wells said on Friday.
+Delivering a speech at the Indian Ocean Conference 2017 under the theme Indo-Pacific Regional Architecture, Ms. Wells said expanding naval cooperation was another priority for the United States. 
+The U.S.-India-Japan MALABAR Naval exercise in July was our largest and most complex to date, involving over ten thousand personnel. With Bangladesh, we value our continued engagement through regular exercises like the Southeast Asia Cooperation and Training series, she said.
+She said they hoped that one day in the not too distant future, all the navies of this region can jointly participate in exercises and coordinate maritime activities to build collective capacity and uphold international standards.
+ 
+		
+==============================
+## Title: I am ready to give evidence against Gen. Jayasuriya: SF
+## Section: Breaking News
+## Date: 1 September 2017 05:22 pm
+I am ready to give evidence against Gen. Jayasuriya: SF
+	
+Minister and Field Marshal, Sarath Fonseka said today he had information on the crimes committed by former army commander Jagath Jayasuriya, the then Vanni commander and that he was ready to give evidence if proper legal action was instituted against him.
+I received complaints that Mr. Jayasuriya was engaged in crimes as Vanni commander with regard to those who were arrested. He continued the same strategy even after he was promoted as army commander. I have information regarding those who committed the crimes. I am ready to explain the crimes committed in detail if proper legal action is instituted, he said.
+The minister told a news conference that he attempted to launch an investigation against Mr. Jayasuriya just after the war had ended but he was removed from the post of army commander when the investigation was launched.
+I was aware that he committed crimes and I tried to initiate an investigation. As the initial step, I arrested Mr. Jayasuriya's Aide-de-camp, he said.
+The minister said crimes had been reported from certain places and added that he was of the view that an investigation should be launched to find out those who committed such crimes to protect the dignity of the country and the army.
+"They are not crimes that the army has to be collectively responsible for but they are isolated incidents committed by a few individuals. We need to reveal those incidents and punish those involved, he said and added that if proper action was not taken within the country, the UN and the Security Council could do so according to international conventions.
+If there had been any crime, legal action can be taken against those involved according to martial law. Countrys law is not necessary for that, he said.
+When asked if he was ready to give evidence against Mr. Jayasuriya before an international court, he said it should be decided by the government. (Ajith Siriwardana)
+ 
+		
+==============================
+## Title: Justice Minister should find out how her brother died: MR
+## Section: Breaking News
+## Date: 1 September 2017 04:22 am
+Justice Minister should find out how her brother died: MR
+	
+The new Justice Minister, Thalatha Athukorala, should make finding out how her brother (Gamini) died her first priority, former President Mahinda Rajapaksa said yesterday.
+He said the new minister had been given a mandate to operate the judiciary and the Attorney General's Department against the enemy. However, before all this, I invite her to find out how her brother died, he said. He was responding to a question raised by a journalist following an event held at the BMICH.
+
+Video by Sanjeewa
+ 
+		
+==============================
+## Title: 3 killed, 5 injured in head-on collision in Ratnapura
+## Section: Breaking News
+## Date: 1 September 2017 09:39 am
+3 killed, 5 injured in head-on collision in Ratnapura
+	
+Three people were killed and another five injured when a car collided head-on with a double cab at Batugedara junction on the Colombo- Batticaloa Road early this morning, Police said.
+They said the car was travelling from Ampara to Colombo and the double cab was travelling towards Pelmadulla from Colombo at the time of the accident.
+Two people in the same family and another woman in the car were killed and the five people who were in the double cab were admitted to the Ratnapura hospital with injuries.
+The deceased were identified as Thondarage Gunapala (80), Suriya Arachchige Pushpa Ranjani (60) and the driver of the car Thondarage Susantha (45).
+Pix by Wasantha Chandrapala
+ 
+		
+==============================
+## Title: LG Polls Amendment Bill comes into effect
+## Section: Breaking News
+## Date: 1 September 2017 05:18 am
+LG Polls Amendment Bill comes into effect
+	
+The Local Government Elections (Amendment) Bill came into effect from yesterday with Speaker Karu Jayasuriya placing his endorsement on it.
+The Speakers office said he placed his signature to endorse the Bill at 1.15 pm today.
+This is a historical event as this piece of legislation, which I have just endorsed, will make provisions for the election of a member, who would be responsible for a Ward and will also put an end to the Preferential Vote (PR) system at the Local Government elections, the Speaker said.
+He said that it was only a first step towards ensuring proper democracy in the country.
+Further he said that the new electoral system would enable even an ordinary citizen to serve his/her fellow citizens.
+A select committee was appointed to change the electoral system in 2001 and most of the parties came to an agreement for it by 2007 while some parties did not approve it. However people gave a mandate to change the electoral system and to abolish the executive presidency in January 2015. The passing of the Local Government election Bill recently was an instance where the mandate given by the people becoming a reality, Mr Jayssuriya added.
+ 
+		
+==============================
+## Title: LG Polls Amendment Bill has technical errors: JO
+## Section: Breaking News
+## Date: 1 September 2017 06:45 am
+LG Polls Amendment Bill has technical errors: JO
+	
+The Joint Opposition yesterday said that the Local Government Elections (Amendment) Bill which was recently passed in Parliament was an unconventional Bill.
+Joint opposition member MP Dullas Alahapperuma told a news conference that this could be regarded as completely a new Bill even though the government had claimed it to be an amendment Bill.
+He said that this newly formed Bill had been introduced as an amendment one by including new sections to it in order to avoid the legal proceedings. This Bill was presented in Parliament in a very irresponsible manner. We have requested for a discussion in Parliament to sort out the complications with regard to the Bill, but it was of no use, he added.
+He said that the LG Elections Amendments Bill had contained several technical errors and added that it had been subjected to many political issues.
+He also said this Bill would nullify the powers to hold interim polls. (Kalathma Jayawardhane)
+ 
+		
+==============================
+## Title: Liberalism: Getting out  while you can
+## Section: News Features
+## Date: 1 September 2017 12:00 am
+Liberalism: Getting out  while you can
+	
+Get Out is a parody where one is left wondering as to what the director actually intended 
+Get Out is a parody of Guess Whos Coming to Dinner, the first American movie to depict interracial marriage
+	In the sixties when Poitier got star role after star role playing protagonists
+In Jordan Peeles intriguing film Get Out, a White American family lures Black Americans to their house to operate on and then (literally) insert into them the brains of old, disabled White Americans to guarantee immortality for the latter. What gets kicked out, of course, are the brains of the Black Americans (who needs to keep them once theyre no longer of use, anyway). Perfect metaphor, I thought to myself, reflecting on the many instances in history when Black Westerners in general were contorted to become hosts for White Westerners. Incidentally I am not just talking about slavery, outdated or contemporary. I am talking also about liberalism. 
+Historically speaking oppressed and inferior races have culturally and scientifically been debased in both scholarship and popular culture
+I am no American and not being one doesnt and wont give me carte blanche to write at length about American history, the Ku Klux Klan, the Founding Fathers, or Donald Trump. The history of an ideology, in any case, is far more interesting to me than the history of an individual country. Liberalism was not born in the United States. The simple truth is the other way around: the United States was born out of liberalism. Now that the Civil War has entered the mainstream political discourse in that country again, perhaps it would do to explore how that ideology more, delving into how the intellectual and the artist have perpetuated prejudicial views of the Black Westerner so much that hes become a target for the liberal left and the right. 
+The fundamental rationale for dissecting those aforementioned races, whether in Asia, the Middle-East, or Africa, was to conquer them and to exert some semblance of ultimate authority over them
+Historically speaking oppressed and inferior races have culturally and scientifically been debased in both scholarship and popular culture. That is why Edward Saids Orientalism is as important a text as Griffiths The Birth of a Nation. Saids monumental book is and continues to be relevant at a time when the West still tends to look at the East through its preconceived notions of the latter, academically or otherwise. The fundamental rationale for dissecting those aforementioned races, whether in Asia, the Middle-East, or Africa, was to conquer them, to exert some semblance of ultimate authority over them (Oriental studies being just one example, incidentally). Judging the degraded, inferior race on yardsticks created by the White Man was of course a corollary to this: the East didnt ask for it, but in the absence of a yardstick the White West found itself to be best equipped. The choice was unilateral. 
+Over time these yardsticks proved to be valid and important for slave traders, slave owners, and imperialists. The minstrel show was an example of this process occurring the other way around: the White West was judging the East (because Africa, from where slaves were forcibly extracted, belongs to the East) on what the former considered to be latters own terms: gullible, inchoate, and incoherent. The same could be said of the Empire (British, French, German etc). There was a gap between the colonial bureaucrat and the people he was commissioned (or rather destined) to serve, a gap that proved to be so wide that when the British, French, and German (as well as other empire-beholden countries) marched across their colonies they didnt look at their subjects, but made those subjects the aim of their scholarship. It was a way of profiling them as inferior without beating the tom-tom about it.
+There was a gap between the colonial bureaucrat and the people he was commissioned to serve a gap that proved to be so wide that when the British, French, and German marched across their colonies they didnt look at their subjects.
+
+Popular culture, inasmuch as I like it and consider it as one of the elements of modernity that keep us human beings sane, I mentioned earlier as being rather ambivalent about certain pressing issues. A friend of mine called Hollywood Hollow-wood recently, and to a considerable extent (with some reservations) I agree, particularly when it comes to racial disparities or the inflation thereof in the conflict between the neo-fascist right and the liberal left. How else can you explain why, for instance, in the great decade of desegregation (the sixties), the American liberal filmmaker tried to justify Kennedys and Lyndon Johnsons efforts at doing away with white-against-black prejudice by portraying either a) the White Man as the ultimate saviour of the coloured people, or b) the Black Man as possessing near-perfect idealisations of the White Man Get Out is a parody (and a thrilling parody at that) of Guess Whos Coming to Dinner, the first American movie to depict, with a considerable level of sympathy, interracial marriage. Seeing that classic again the other day, however, one is left wondering as to what the director actually intended. 
+
+Consider the protagonist of GWCTD: a Negro named Dr John Prentice, played by the great Sidney Poitier. His CV is so wide that I can only offer a summary of it by Roger Ebert: A noble, rich, intelligent, handsome, ethical medical expert who serves on United Nations committees when hes not hurrying off to Africa, Asia, Switzerland and all those other places where his genius is required. The perfect Negro, idealised to match the perfect liberal family (who nevertheless have certain reservations, which are eventually dispelled, about letting their daughter face an entire country seething with rage and wrath: 1967, the year the film was released, was also the year in which interracial marriage was finally legalised). In the sixties when Poitier got star role after star role playing protagonists in predominantly whitewashed casts, he was almost always portrayed as the perfect professional like that. The problem with liberals is that they always idealise the Other. The problem with the racists is that they always demonise the Other. In both cases, the outcome is the same: the Negro becomes the White Mans Negro, another friend of mine commented, reflecting on the title of Raoul Pecks 2016 documentary on James Baldwin, I Am Not Your Negro.
+This subtle dichotomy between idealising and demonising a collective is what has coloured the race. Those who celebrate Donald Trump do so because they feel that the minorities, both foreign and local, are eating into their jobs.
+
+This subtle dichotomy between idealising and demonising a collective is what has coloured the race debate, not just in America but in the West in general. Those who celebrate Donald Trump do so because they feel (as I mentioned last week) that the minorities, both foreign and local, are eating into their jobs. Those who oppose him, from the mainstream liberal left, idealise the Negro, placing him on an imaginary pedestal and considering him their equal without delving into their hopes, fears, sorrows, and joys. I mentioned To Kill a Mockingbird last week, or rather its sequel/prequel Go Set a Watchman. Well, TKAM has a problem too, one that no less a person than Ebert highlighted: The black people in this scene are not treated as characters, but as props, and kept entirely in long shot. The close-ups are reserved for the white hero and villain. Perhaps Get Out, a movie Ive come to hold in such esteem that Im sure itll be at least nominated for the Best Picture Oscar next year, is a more telling indictment of what the liberal left have done to the hard-done-by Negro: install their brains in his, and make themselves his heroes and ours. They are not.
+ 
+		
+==============================
+## Title: Lines: brains messages imprinted on palm
+## Section: Jyotisha News
+## Date: 1 September 2017 02:50 pm
+Lines: brains messages imprinted on palm
+	
+Human Hand  Trailblazer of Human Civilization  Part 23
+
+
+We have already discussed the Mounts on the hand and the markings on them. While explaining the location and significance of the Mounts and markings, we had occasion to make an occasional reference to the main lines in particular on the palm on the assumption the reader has a rudimentary knowledge of such lines.
+Now let us discuss the lines on the hand in general as an introduction to a comprehensive discussion of eachline separately.
+Some skeptics say that the lines on the palm are mere creases formed due to the constant folding of the hand. But a careful inspection of the palm would give the lie to this contention.
+Hand, a versatile servant of the brain
+A marvelous masterpiece of nature, the hand is a versatile servant of the brain. It serves a dual purpose doing the bidding of the brain in a physical sense and representing the flow and ebb of the life force through its map featuring lines, mounts and markings.
+The brain, tool of ones Karmic force registers its messages in the form of lines and signs on the palm. Sages of ancient India aided by the vast knowledge divined or acquired through research have interpreted these mysterious messages and thus a body of occult science called Palmistry had come into being.
+
+Slightest happening in life imprinted on palm
+The slightest happening in our life is imprinted on our palm and the thinnest line on it has its own significance, says well known Indian Palmist Narayan Dutt Shrimali.
+
+Seven main lines and 12 complementary lines
+There are seven main lines and about 12 complementary lines on the palm.
+An experimental study of a number of hands would show there are hands with lines approximating those shown in the diagram. Yet there is a variation in the positions of such lines while in some cases, certain lines are entirely absent, and in others some lines are marked with defects.
+
+No two hands are alike
+In fact, no two hands are alike, not even ones two hands. This account for the adage, many men, many minds, says leading palmist Psycho. The clear, deep and long lines on a palm signify success. The broken, thin lines represent handicaps in life. However, even the transient lines on the hand carry some significance which cannot be ignored.
+
+The seven main lines are:
+1. Life line
+2. Head line
+3. Heart line
+4. Line of the Sun or Apollo
+5. Line of fate.
+6.  Health line
+7.  Marriage or love line
+Secondary or complementary
+lines are:
+1. Ring of Jupiter
+2. Line of Mars
+3. Ring of Saturn
+4. Ring of Apollo
+5. Ring or Girdle of Venus
+6. Ring of Moon or Luna
+7. Line of brilliance
+8. Journey lines
+9. Children lines
+10. Bracelets or Rascette
+11. Casual lines
+12. High post lines
+
+ 
+		
+==============================
+## Title: Majority  voices approval  as a nation prepares to drop nondegradables
+## Section: News Features
+## Date: 1 September 2017 12:03 am
+Majority  voices approval  as a nation prepares to drop nondegradables
+	
+Polythene has become a big part of our lifestyle in the recent past. 
+If you were to walk in to any Sri Lankan household there is a high chance that you would find a bag filled with polythene bags in the kitchen; a sight that many of us are familiar with.
+The shopping bags we get are often used to help us carry things.
+If you were to visit a company lunchroom during the lunch hour you would most probably see employees unwrapping their lunch sheets or opening rigifoam boxes before they tuck in to the rice and curry within. 
+So when the Government announces that polythene lunch sheets, rigifoam boxes and shopping bags are to be banned from September 1, one would expect that it would be quite difficult to get rid of something that has become such a reliable, dependant and almost essential part of our lives. 
+Thus The Daily Mirror set out and spoke to pedestrians going about their day to inquire about how prepared they are for the polythene ban. 
+What we found out was that although people thought the reduction of the use of polythene is a good step taken, the alternatives that are available at present are insufficient to non-existent. 
+Many of them aired the view that it is the Governments duty to ensure that more environmentally friendly alternatives be made available in the market. 
+A correction needs to be made regarding the situation we face
+-Viraj Priyan (35) Ragama
+Its obviously a good thing to ban polythene and there are alternatives such as paper. We would have had to do this.
+We have to rectify the situation that has culminated to what it is today. But we have to use the correct process and there has to be a proper plan. Where I come from, the garbage isnt collected nor is it put on a side. Right now there isnt a proper system in place.
+In addition to this, polythene is a big industry and generates a lot of money. I myself was in this industry. In the recent past we have started to collect plastic and polythene and put it through a process of recycling.
+You observe in bus halts and train stations how plastic and polythene items, that are thrown away, have accumulated.
+This is because there is no place to dispose them. Steps to reduce the use of such items should have been taken earlier. If this was done there wouldnt have been such a problem. After observing the issues associated with the polythene and plastic, I stopped working in the industry recently and found employment as a PLC.
+
+Plastic was something that came recently, we didnt have it those days.
+- Dhiyawansa (57) Colombo
+Its a real problem and a nuisance to prepare for such a thing. Because there is no place to keep the plastic. Sometimes it isnt collected, so some of us end up burning it although it is very harmful to the environment.
+Those days this problem didnt exist because we never used polythene. We used paper, cloth and other decomposable material. Polythene is a recent product and it has caused so many problems for us and the environment. 
+
+
+
+
+
+It is a good practice to stop using polythene
+-Rohana (35) Nuwara Eliya
+It would be a good practice to stop using polythene. As of now, people are just throwing their trash on the road.
+Nowadays you dont see people maintaining discipline; they are just throwing their rice packets and lunch sheets on to the road. Then the garbage collects in mounds and contributes to the spread of dengue.
+Practically we dont see any alternatives to the issue right now.
+
+
+
+
+
+There isnt a problem because I have other options at my disposal
+-Ahmed (47) Malwana
+I am more or less prepared for this because there are other things you can use such as cloth, papers and banana leaves.
+All these are decomposable things. For me there is no problem. 
+
+
+
+
+
+
+
+Our country can benefit from this
+-Rohitha Perera (49) Panadura
+It is a good move. There are other alternatives such as paper and other decomposable materials that we can use. This is something that our country needs. It isnt only for the Government, it is good for all of us.
+
+
+
+
+
+
+
+
+There arent any immediate alternatives that are available at the moment
+-Chamika (35)MOUNT LAVINIA
+This is a really important step taken especially for our country. The problem is that the availability of lunch sheets and shopping bags is so high that it has become a part of our lifestyle. However alternatives like lunch boxes and hotpots arent widely available.
+There are very few alternatives available to us. A few days ago I went to buy one of those lunchboxes, but I couldnt find a proper one. And to carry that around is another problem. You can even use banana leaves, but are these leaves available everywhere I am not well prepared for this, but we will have to be prepared when the time comes.
+
+
+
+Practical problems can surface from what is viewed as a good solution
+-Jeevani Fernando (32) Moratuwa
+The main problem is the absence of a proper way to recycle plastic. There is no solution for this main problem.
+And practically speaking there are no alternatives. We will have to move to things like banana leaves and cloth bags, but are those things so easy to find Im not prepared for this change.
+There are so many practical problems that come with this. And to carry lunch boxes and lunch baskets along with our handbags is another issue for us. It is a good step, but the change brings along with it a fair share of problems.
+
+
+
+ 
+		
+==============================
+## Title: Mexicos Red Cross delivers aid to storm-ravaged Houston
+## Section: International
+## Date: 1 September 2017 11:56 am
+Mexicos Red Cross delivers aid to storm-ravaged Houston
+	
+
+DAILY MAIL, 31 August, 2017- Mexicos Red Cross sent an convoy of volunteers to storm-devastated Houston on Wednesday, hours after Texas governor Greg Abbott said the state accepted an offer of aid from the Mexican government, including vehicles, boats, supplies and food. 
+At least 25 people have been killed and tens of thousands driven from their homes after Harvey came ashore on Friday near Corpus Christi as the most powerful hurricane to hit Texas in more than half a century, swamping Houston with record rains and flooding. 
+The support from Mexicos Red Cross, a non-government agency, is separate from the official aid offer.The convoy of 33 English-speaking volunteers left from Mexico City for Texas, where they plan to work in Houston shelters for 20 days before being replaced by a fresh crop of volunteers. 
+Abbott said his state would accept the offer of assistance from neighbouring Mexico as Harvey, now a tropical depression, spun across southeastern Texas into Louisiana on Wednesday, sending more people fleeing for shelter.
+ 
+		
+==============================
+## Title: MUS envoy calls on PM
+## Section: Caption Story
+## Date: 1 September 2017 04:38 pm
+MUS envoy calls on PM
+	
+Visiting US Acting assistant Secretary of State for South and Central Asian Affairs Alice G. Wells met Prime Minister Ranil Wickremesinghe at Temple Trees today. Ms. Wells arrived in Sri Lanka to participate in the Indian Ocean Conference which is being held in Colombo. Pics by Pradeep Pathirana
+  
+ 
+		
+==============================
+## Title: Myth Buster
+## Section: Medicine
+## Date: 1 September 2017 12:47 pm
+Myth Buster
+	
+
+
+MYTH: Anyone and everyone can bleach their teeth. 
+BUSTED: When it comes to bleaching you have to first assess the patient. If the patient has a lot of fillings we advise them not to go for bleaching. Bleaching is described as giving a whiter colour or a good appearance to your teeth. How long it lasts depends on the material that you are using. It can last between 5 to 10 years. This is very popular among people who belong to the younger generation, but you have to have a very good set of teeth with less fillings, no periodontal diseases, no tooth decay and no root exposure if dental experts are to give the green light for bleaching, explained Dr. Vipula Wickramasinghe, General Secretary of the Sri Lanka Dental Association and Regional Dental Surgeon of the Colombo District.  
+ 
+		
+==============================
+## Title: New CDF and Navy Commander meet SF
+## Section: Caption Story
+## Date: 1 September 2017 06:19 pm
+New CDF and Navy Commander meet SF
+	
+New Chief of Defense Staff (CDF) Vice Admiral Ravindra Wijegunaratne and Navy Commander Rear Admiral Travis Sinniah today called on Minister and Field Marshal Sarath Fonseka at his ministry. Pix by Waruna Wanniarachchi.
+
+ 
+		
+==============================
+## Title: Nine dead, 20 feared trapped as a six-storey building collapses in Mumbai
+## Section: International
+## Date: 1 September 2017 11:55 am
+Nine dead, 20 feared trapped as a six-storey building collapses in Mumbai
+	
+
+Mumbai, (Daily Mail), 31 August 2017 -  Nine people are dead and 40 are feared trapped after a building collapsed in Mumbai amid floods in the city.  Rescuers used diggers as they desperately searched through the remains of the six-storey residential building which gave way around 8.40am.  The collapse, in the densely populated area of Bhendi Bazaar, comes after days of heavy rain swamped Indias financial capital. 
+It was the latest deadly housing collapse to strike the teeming metropolis - shining a spotlight on poor construction standards in the Asian country - and came after heavy rains and inundations in the city killed 10 people.  A spokesman for the Mumbai civic authoritys disaster control team said earlier that three bodies had been pulled from the rubble. But that figure was later increased to nine, while rescuers estimated more than 16 had been injured and taken to hospital. 
+The collapse is the second in Mumbai in a little over a month. In July, 17 people were killed when a four-storied building crumbled after undergoing suspected unauthorised renovations.
+
+Police are yet to determine what caused the collapse testing the citys rescue operations after 14 people were killed by floods from heavy monsoon rains earlier in the week.
+
+ 
+		
+==============================
+## Title: No military alliances with any country: PM
+## Section: Breaking News
+## Date: 1 September 2017 08:11 am
+No military alliances with any country: PM
+	
+Sri Lanka does not intend to enter into a military alliance of any type with any nation or make its bases available to foreign countries, Prime Minister Ranil Wickremesinghe assured yesterday.
+The Prime Minister gave this assurance at the opening ceremony of the Indian Ocean Conference at Temple Trees last night.Let me refer to Sri Lankas decision to develop its major sea ports, especially the Hambantota Port, which some claim to be a military base. I say this with responsibility. This government does not enter into military alliances with any country. Neither do we intend to make our bases available to foreign countries, the Prime Minister said.
+However, Mr. Wickremesinghe said Sri Lanka will continue military cooperation with friendly countries such as training, supply of equipment and taking part in joint exercises. Only the Sri Lanka Armed Forces have the right to undertake military activities in our Ports and Airports. We are also working with foreign private investors on the commercial development of our ports, he stressed.
+Speaking further, the Premier said Sri Lanka believes that Freedom of Navigation is of paramount importance for Sri Lanka to become a hub in the Indian Ocean. We believe that maintaining the Freedom of Navigation is of paramount importance for us to achieve our goal of becoming the hub in the Indian Ocean. The availability of ports on all coasts and two international airports with good land connectivity is vital because it is only then that we can reap the full benefits of our strategic location in the Indian Ocean. Connectivity by sea and air will naturally promote logistics. Colombo will also become a centre for offshore finance and business, offering a competitive platform for manufacturing and services, he pointed out.
+In the absence of effective multilateral trade agreements being signed for the Indian Ocean region, we have decided to enter into bilateral agreements with neighbouring littoral states. This is the only option available. We already have Free Trade Agreements (FTAs) with India and Pakistan. We are in the process of improving our FTAs with India which will ensure greater economic cooperation between the two neighbours. We are in the process of finalizing an FTA with Singapore after which we will look at getting into similar trade agreements with other countries in the Bay of Bengal region. We are also negotiating an FTA with China, he said.
+He added that businesses in the region must grow for intra-regional trade to develop. These businesses require capital for expansion, which is a scarce commodity in the region. This is why I have called for the establishment of an Indian Ocean Development Fund. This Fund will make financial resources available to National Development Banks which will promote growth and expansion in the region by providing capital for business expansion, the PM said.
+He said the Indian Ocean Conference is taking place at a time when global and financial economic power shifts point toward Asia. The premier said global economic power rebalance - away from the established advanced economies in North America and Europe, will continue well into the latter part of the century. Economic dominance, technology and military might, the basis of political power in the West has eroded to a significant extent by the extraordinary economic development of Asia in the last 50 years.
+The HSBC World in Forecast 2050 forecasts 19 countries from Asia to be the largest economies by 2050. By 2030 Asia is expected to surpass the West in terms of Global power, based on population, GDP, technology and military spending, he said. (Yohan Perera)
+ 
+		
+==============================
+## Title: Numbers that shape your destiny from 10 to 20
+## Section: Jyotisha News
+## Date: 1 September 2017 02:47 pm
+Numbers that shape your destiny from 10 to 20
+	
+We hope that our regular readers may remember that we explained the significance of the Basic Numbers from 1 to 9 in some previous articles.
+When we discussed the significance of the Basic Numbers from 1 to 9 in the previous articles, we explained the qualities each Basic Number from 1 to 9 represents and their affinity to each other and the planets in Astrology they represent.
+
+If the numerical value of your name corresponds to a number which is not favourable, you can change its numerical value to a value that is favourable to you...
+
+Now we are to discuss the significance of numbers beyond 9 in relation to their numerical and vibrational value which we have
+already discussed. If the numerical value of your name corresponds to a number which is not favourable, you can change its numerical value to a value that is favourable to you by modifying the spelling of the name by adding or removing an innocuous letter.
+You can seek the guidance from the potentialities ascribed to numbers beyond 9 as given below:
+Number 11: The subject is warned against treachery and intrigues. He is confronted with many difficulties.
+Number 12: The subject has to undergo suffering and make sacrifices for the good of others. He runs the risk of being victimized for the actions taken for the sake of others.
+Number 13: Unexpected occurrences and upheavals leading to change of employment, residence and the main plans in life.
+Number 14: The subject is required to actively engage in activity such as publishing, communications and business.
+Number 15: This number is associated with eloquence, music, art, magic and occult practices.
+Number 16: This number signifies sudden and unforeseen events unfavorable to the subject. A sudden calamity or an accident would ruin all his plans and prospects.
+Number 17: This is a spiritual number. Natives are endowed with strength and resilience to withstand all trials and tribulations. His efforts, literary, religious and academic would bring him
+lasting fame.
+Number 18: The subject would have a materialistic outlook. He is endowed with drive and energy. He would seek to make money by means fair or foul. He would fall victim to treachery and deception. He would suffer hardships due to floods, earthquakes, fires, cyclones etc.
+Number 19: This number brings luck to the subject. It signifies fulfillment of aspirations, honour and success.
+Number 20: This number is more of spiritual than of materialistic significance. The subject is motivated by a call for duty or a desire to fulfill a sublime objective. The number also indicates delays and procrastinations.
+
+ 
+		
+==============================
+## Title: Picking a partner for a life-long love bond
+## Section: Jyotisha News
+## Date: 1 September 2017 02:52 pm
+Picking a partner for a life-long love bond
+	
+
+
+Thanks to steadily growing opportunities for young men and women to work together, meet and know each other and share interests in real life and cyber space, love marriages have become the order of the day. Although the conventional and arranged marriages are on the wane, still there are young men and women who prefer to find a partner the traditional way.
+
+Even lovers consult astrologers
+Belief in Astrology in our society has gained such firm ground, even the young couples who fall in love make it a point to consult an astrologer to ascertain whether their bond of love would last until the inevitable death puts them apart.
+
+Marriages destined to end in tragedy
+We know that some love affairs turn stormy midway and lovers go their separate ways or come to tragic ends. In certain cases, love affairs run smooth the entire course until tying the knot. But unresolvable differences and problems surface after the marriage making the life for the both miserable.
+
+A guide to seek a lasting love
+It can be ascertained whether love between a young couple is deep, abiding and steadfast by a cursory glance at their horoscopes.
+Following astrological principles will serve as a guidance for young couples seeking enduring love and lasting marital happiness to pick the suitable partner.
+The 7th House in the Natal Chart represents marriage and life partner. If the lord of the 7th House is hemmed in between two malefics in the 6th or the 8th House, the native should exercise care in selecting a partner.
+For a successful marriage, Moon, Jupiter and Mars should be strong in the female Chart and Venus, Mars and Jupiter should be strong in themale Chart.
+A strong Lagna lord, a strong 7th lord and an unafflicted Venus should be in both Charts for a successful marriage.
+The 10th lord in the female horoscope should not be stronger than the 10th lord in the male horoscope.
+There should be no Parivartana or an exchange of Houses by Sun and Saturn in both Charts.
+The Lagna lord and the 7th lord placed in the 6th and the 8th Houses from the Lagna or the Moon sign is not favourable, because such a planetary position would lead to endless quarrels between
+the couple.
+Malefic planets in the 2nd, 4th, 7th, 8th and the 12th in both Charts can lead to an unsuccessful marriage. Mars in any of these Houses causes the Kuja Dosha. However, there are astrological factors that nullify or cancel out the Kuja Dosha.
+The 7th lord in debilitation in both Charts i.e. Venus in Virgo in the male Chart or Jupiter in Capricorn in the female Chart, could lead to problems in married life (unless there are planetary positions that nullify this blemish such as the placement of these debilitated planets in favourable signs in the Navamsa Chart or those leading to the arising of
+Neechabhanga Rajayoga.) 
+The 7th lord in the 6th can lead to two marriages. If Venus is afflicted in the male chart, the native can be impotent due to sickness or other reasons.
+Malefics in the 7th from Venus can deny the native marital happiness.
+
+ 
+		
+==============================
+## Title: Polythene ban gazetted
+## Section: Breaking News
+## Date: 1 September 2017 07:15 pm
+Polythene ban gazetted
+	
+The gazette notice on the ban on the manufacture, sale, offer for sale, offer free of charge, exhibition or use of the polythene or any polythene product below 20 microns was issued by the Mahaweli Development and Environment Ministry today.
+The gazette notice also prohibits the manufacture of food wrappers from polythene as a raw material and the manufacture of food containers, plates, cups and spoons from expanded polystyrene within the country.
+The use of polyethylene, polypropylene, polyethylene products or polypropylene products as decorations at political, social, religious, national, cultural or any other event or occasion was also banned with effect from yesterday.
+Meanwhile, the open burning of refuse and other combustible matters inclusive plastics was banned as a punishable offence under Section 31 of the National Environmental Act, No. 47 of 1980. (Thilanka Kanakarathna)
+ 
+		
+==============================
+## Title: Polythene packed food items to cost more
+## Section: Breaking News
+## Date: 1 September 2017 09:00 pm
+Polythene packed food items to cost more
+	
+The price of food packed in polythene lunch sheets at restaurants will be increased by Rs. 10 from tomorrow due to the ban of polythene usage by the Central Environment Authority (CEA), the Sri Lanka Restaurant Owners Association (SLROA) said today .
+Its National Organizer Asela Sampath told Daily Mirror the CEA had not provided them with any viable alternatives after banning the use of a specified gauge of polythene.
+It is not possible to use paper to wrap food items. The use of polythene lunch sheets has become an essential need at present. The concerned authorities should at least provide alternatives at reasonable rates before implementing such a ban, he added.
+Mr. Sampath said they were prepared to adhere to the polythene ban if the authorities provided them with a reasonable solution and pointed out that a guarantee certificate should be issued along with these alternatives.
+He said restaurants owners had to spend a huge amount to buy polythene lunch sheets which were now available in the market and it would cause a huge loss.
+Therefore, we are forced to take this decision under the prevailing circumstances, he added. (Kalathma Jayawardhane)
+ 
+		
+==============================
+## Title: President's statement on SAITM raises doubt - GMOA
+## Section: Breaking News
+## Date: 1 September 2017 01:33 am
+President's statement on SAITM raises doubt - GMOA
+	
+The Government Medical Officers Association (GMOA) yesterday said that they have doubts on the statement made by President Maithripala Sirisena on providing a final decision to the South Asian Institute of Technology and Medicine (SAITM) controversy during the meeting recently held with media heads.
+GMOA Secretary Dr. Haritha Aluthge told a news conference that President Sirisena had said to the media heads that he had only assured of giving a statement with regard to the SAITM, not a final solution.
+During the meeting held at the Presidential Secretariat last week, the President has assured to give a final solution to this issue. However, he has not yet given a statement on SAITM, he added. He said it was evident from President Sirisenas behaviour that several external forces were attempting to intervene in to his decisions.
+He also said President Sirisena should immediately provide them with an answer to the SAITM issue without further delay. About 7,000 students attached to eight medical faculties have boycotted lectures during the last five months over this issue, he added. (Kalathma Jayawardhane)
+ 
+		
+==============================
+## Title: 16 Rohingya, including children, drown fleeing Myanmar
+## Section: International
+## Date: 1 September 2017 11:57 am
+16 Rohingya, including children, drown fleeing Myanmar
+	
+
+HINDUSTAN TIMES, 31 August, 2017- Coastguards in Bangladesh found on Thursday the bodies of 16 Rohingya, many of them children, who drowned when their boat capsized as they fled an upsurge in violence in Myanmar that has forced at least 18,500 to seek refuge across the border. 
+Officials in Bangladesh say growing numbers of Rohingya are trying to cross the Naf river that divides the two countries in rickety boats, which often do not survive the rough waters as they become increasingly desperate to escape. 
+The International Organization for Migration said Wednesday that at least 18,500 Rohingya had crossed into Bangladesh since fighting erupted in Myanmars neighbouring Rakhine state six days earlier. 
+But some do not make it. 
+And on Thursday Nurul Amin Rohingya, a local official, said another boat had capsized killing 16 Rohingya.
+ 
+		
+==============================
+## Title: Sitting for too long is bad for your health
+## Section: Medicine
+## Date: 1 September 2017 12:04 pm
+Sitting for too long is bad for your health
+	
+ 
+		
+==============================
+## Title: Swings of Love  -Bold new experiment, but for whom
+## Section: News Features
+## Date: 1 September 2017 12:00 am
+Swings of Love  -Bold new experiment, but for whom
+	
+Swings of Love is literally about swings. You see four of them as the curtain opens. There is a sash suspended, rope like, at the centre between them.
+The single character of this play literally cant exist without them.
+During the one hour duration of the play, she acts out her emotional life on these swings and the sash.
+The swings revolve around her and her life unravels on and around the swings.
+This experimental play is a fusion of ideas and talent between director M. Safeer and Italian actress Julia Filippo (though the word actor is now used for both sexes without gender bias in Europe).
+Based on a Sinhala script written by poet and novelist Manjula Wediwardena (translated into English by Dilini Eriyawala), Swings of Love may be described as an emotional unraveling (including mood swings) of a woman scarred, if not scorned, by love through monologue and physical movements which express her continuously shifting emotional states. 
+Safir has an extensive experience in the Sinhala theatre. We have this classification of theatre and film according to linguistic and ethnic criteria, and there is of course a Sinhala theatre and an English theatre divided along these lines.
+As such, Swings of Love should belong to the English theatre, which essentially limits its scope because the latter is Colombo-based. 
+
+Julia Filippo
+But this is a production with international scope, produced by Inter Act Art and to be premiered at the IAPR international theatre festival in Pune, India in November. It will be staged too, at festivals in South Korea and elsewhere. But, since this is a play produced in Sri Lanka, its worth looking at its impact on Sri Lankan audiences on both sides of the linguistic divide. 
+As far as the Sinhala theatre is concerned, this would amount to culture shock. Julia Flippo is trained in the physical theatre, with its emphasis on expressing emotions and states of mind through body language.
+This is common enough in Europe where modern theatrical experimentation has been the standard for decades. In this country, with its fixation on conventional narrative, plot twists and an obsessive use of comedy when it comes to serious themes, there is little emphasis on body language.
+The same holds for the countrys English theatre. For most theatre goers, the idea of expressing the gamut of emotions that love can produce by using theatrical devices such as swings would be alien, even absurd. At the start of the play, the solitary female character is seen reclining on a swing, reading a book. She keeps on reading silently for quite a while. In our theatre, attention spans are much shorter. It would be hard for someone nurtured in the Sinhala theatre to focus on that solitary, ominously silent figure for so long without his or her attention wandering. 
+
+Manjula
+When she starts moving, we notice that her dress is quite short  unacceptably short for a local play. Last year, a play staged at the Peradeniya university open air theatre got booed because one female character wore a short dress. The length of an actors dress may seem immaterial, but this is all about cultural conditioning and resulting culture wars.
+A dress of this length would be daring, even unacceptable, if worn by a Sri Lankan actress. Its quite acceptable when worn by a Westerner.
+This is the double standard imposed on us by neo-colonialism and our own chronic inability to outgrow cultural stereotyping, the same double standard which allows kissing, sex and nudity in foreign films but bans them on our productions. 
+Based on a Sinhala script written by poet and novelist Manjula Wediwardena Swings of Love may be described as an emotional unraveling (including mood swings) of a woman scarred, if not scorned, by love through monologue and physical movements
+There is no sex and nudity in this play. Instead, there is a miasma of sensuousness, fully embodied by that clinging white dress, befitting to the topic that is explored. Julia Filippo performs a series of movements with the swings and the sash  graceful, and requiring the balance and skills of a gymnast. Her voice rises and falls, from a whisper to a shrieking crescendo, as she talks about love  analyses, wonders, sighs, and screams. At times whimsical, she says repeatedly: There is love, after all. Sometimes, she hangs in there so precariously that one feels she might lose her balance and fall down. 
+But its the body movements that command attention more than the words. This is a totally different theatre experience from what we are used to. The dress is designed to emphasize the body movements through which the actor conveys her emotional states. Understanding this requires a different set of interpretive skills than what Sri Lankan theatre offers its audiences. 
+It will be staged too, at festivals in South Korea and elsewhere. But, since this is a play produced in Sri Lanka, its worth looking at its impact on Sri Lankan audiences on both sides of the linguistic divide
+A Sri Lankan actress, if trained properly, can perform similarly if we imagine for a moment that someone staged something similar for the Sinhala theatre. But the onus isnt just on the actress and the director. The audience too, must have the interpreting skills necessary to appreciate such a performance. One cant presume that reactions will be negative. One must do it and check. On the other hand, one can make a broad assumption that our training in the theatre isnt geared for this, and that training must start at school level. But we dont have the teachers skilled in such modern theatre techniques, except here and there.
+She keeps on reading silently for quite a while. In our theatre, attention spans are much shorter. It would be hard for someone nurtured in the Sinhala theatre to focus on that solitary, ominously silent figure for so long without his or her attention wandering
+On the whole, this is a bold new experiment as far as our theatre goes. The question is whether Swings of Love will remain festival theatre just as we have a stream of festival films which are geared to foreign film festivals and not for the local market. The acid test will be a Sinhala version performed by a Sri Lankan actress. Only then can we know. 
+Julia Filippo performs a series of movements with the swings and the sash  graceful, and requiring the balance and skills of a gymnast
+
+
+ 
+		
+==============================
+## Title: Telecommunications levy removed from today
+## Section: Breaking News
+## Date: 1 September 2017 10:10 am
+Telecommunications levy removed from today
+	
+The 10% telecommunications levy imposed on data would be removed and the data capacity would be increased by 10 per cent from today.
+ 
+		
+==============================
+## Title: US air strike kills 13 civilians
+## Section: International
+## Date: 1 September 2017 11:37 am
+US air strike kills 13 civilians
+	
+
+DAILY MAIL, 31 August, 2017 - Thirteen civilians from the same family were killed and another 15 wounded in a US air strike on Taliban fighters in eastern Afghanistan, Afghan authorities said Thursday. 
+US Forces-Afghanistan said it has launched an investigation into the incident which an Afghan official said also killed more than a dozen insurgents hiding in a house in Dasht-e-Bari village in volatile Logar province near Kabul on Wednesday. 
+It comes days after Afghan officials said the countrys own air force killed up to 13 civilians in separate strikes targeting a Taliban base in the western province of Herat. 
+In the operation the US forces came under the attack by the Taliban and foreign forces returned fire and forced the Taliban insurgents to hide in the civilian houses nearby, Saleem Saleh, a spokesman for the Logar provincial governor, told AFP. 
+I heard two big bangs and when I went out of my home I saw the building which was bombarded was totally destroyed, Nazar Khan Kochi told AFP.
+ 
+		
+==============================
+## Title: Water cut due to contamination of Kalu Ganga
+## Section: Breaking News
+## Date: 1 September 2017 12:16 pm
+Water cut due to contamination of Kalu Ganga
+	
+The water supply to several areas within the Moratuwa Urban Council limits, Panadura and Horana has been interrupted because of the likelihood of the water in the Kalu Ganga being contaminated with fuel, the National Water Supply and Drainage Board (NWSDB) said.
+A spokesman said a petrol bowser had toppled into paddy field at Ingiriya this morning leading to fears that as a result the river water may be contaminated.
+The water supply to Boralesgamuwa, Bandaragama, Piliyandala, Kesbewa, Raigama, Moronthoduwa, Welmilla, Millaniya, Kiriberiya, Keselwatte, Kumbukka and Kahathuduwa was also interrupted.
+ 
+		
+==============================
+## Title: Will the  old habit  of using polythene die hard after Sept 
+## Section: News Features
+## Date: 1 September 2017 12:00 am
+Will the  old habit  of using polythene die hard after Sept 
+	
+Polythene and plastic, items which had been an issue for everybody, have been done away with. 
+The law that bans the use of polythene will be imposed from September 1. 
+According to the Central Environmental Authority a10,000-rupee fine and a two-year jail term will be imposed on a person found guilty of using polythene and plastic
+
+
+Anura Wijethunga
+According to the Central Environmental Authority (CEA) a 10,000-rupee fine and a two-year jail term will be imposed on a person found guilty of using polythene and plastic when the ban becomes legally effective from September.
+It has been made known that the production, sale and use of polythene, falling under the category less than 20 microns, are subject to this ban.
+
+CEA Chairman Prof. Lal Mervin Dharmasiri told The Daily Mirror that the law banning polythene and plastic will be applicable to everyone.
+We are in a firm position to put this law into effect irrespective of the circum stances. CEA as a responsible institute aspires to conserve the environment
+
+Ajith Weerasundara
+With the approval of the Cabinet to enforce the law on these items, the authority to nab and fine law breakers is vested with the Police, Prof. Dharmasiri said. 
+
+Its coherent that both the Government and the CEA are trying to eliminate the use of polythene which is commended by the public.
+But what is important is how far the law will be enforced and whether wrong doers will be penalized.
+Nevertheless, CEA Director of Waste Management Ajith Weerasundara said that they would grant concessions when expenses are inquired as Taxes and VAT during the importation of biodegradable raw material and manufacturing machinery. 
+We have requested the CEA to inform the Government to provide manufacturers with ample time to finish their stocks and after that to shift from High-density polyethylene to Low-density polyethylene
+
+We are in a firm position to put this law into effect irrespective of the circumstances. CEA as a responsible institute aspires to conserve the environment. For that, we need the assistance and co-operation of the general public, Weerasundara said. 
+However, Chairman of All Ceylon Polythene Manufacturers and Recyclers Association (ACPMRA), Anura Wijethunga said that they are unable to adapt to the conditions imposed by the CEA and the Government until existing stocks of polythene are consumed. 
+We have requested the CEA to inform the Government to provide manufacturers with ample time to finish their stocks and after that to shift from High-density polyethylene (HDPE) to Low-density polyethylene (LDPE), Wijethunga said. 
+He further said that the manufacturing companies affiliated to their union had stopped the production of lunch sheets, but added that they would release lunch sheets which were remaining in the stock to the market. He went on to state that the responsibility regarding the other companies lay with the CEA. 
+With the approval of the Cabinet to enforce the law on these items, the authority to nab and fine law breakers is vested with the Police
+
+Prof. Lal Mervin Dharmasiri
+The law has been imposed too early and the alternatives arent effective. The Government should have discussed the matter with us earlier than this and taken a better approach to solve this issue.
+We too are in a position to put an end to polythene use, but the manner in which the Government and the CEA have addressed the issue isnt efficient nor fair. Therefore, we believe that the enforcement of the law will be abortive, he added. 
+What the manufacturers are claiming is reasonable from their point of view. This is mainly because the time frame which has been provided to them to adapt to the new law is insufficient. Consideration must also be given to the fact that the manufacturers and their families depend on the revenue generated through the production of polythene and items related to it. The Government at this juncture should take productive and instant actions to address the issue. 
+Its evident that most countries have banned the use of polythene totally, hence we should follow in their footsteps and adapted environmentally healthy usages.
+Lets strive to eradicate the use of polythene and get used to biologically degradable polythene. 
+
+
+ 
+		
+==============================
+## Title: Wonder Woman Gal Gadot backs mocked Lankan cosplayers
+## Section: Breaking News
+## Date: 1 September 2017 01:31 pm
+Wonder Woman Gal Gadot backs mocked Lankan cosplayers
+	
+Hollywood actress Gal Gadot has thrown her support behind two young women in Sri Lanka after they were cyber-bullied for cosplaying as Wonder Woman.
+The two had become the target of a wave of online memes, body-shaming and harassment.
+Both Gadot, who played the character in the recent blockbuster movie, and its director Patty Jenkins tweeted support and encouragement.
+The case triggered a fresh debate about online bullying.
+When Amaya Suriyapperuma and fellow cosplayer Seshani Cooray decided to dress up as Wonder Woman at the Comic Con 2017 event in Colombo, they were not expecting it to send them on a rollercoaster ride of demeaning online memes.
+After the first day, photographers at the event began sharing their pictures online and photos of the two women were picked up by Facebook groups mocking them for their appearance.
+It was only the next day the two found out. It was Ms Suriyapperuma's birthday, and friends who had spotted the memes tried to keep them secret, but that was bound to fail.
+"First I was shocked," Ms Suriyapperuma told the BBC. I didn't really let it get to me although I was genuinely baffled at why these people would spend their valuable time hating someone they don't even know."
+Her fellow cosplayer agrees. "I was offended and shocked at how the internet reacted," said Ms Cooray.
+"Most of the memes and comments I received seemed to objectify me."
+She was drawn to the character of Wonder Woman because she feels it empowers young women like herself to be independent and strong minded.
+Ms Suriyapperuma says she didn't reply to any of the comments or publicly retaliate because she thought they didn't deserve her energies.
+"Instead, me and my friends and the whole Sri Lankan geek community would band together and silently report every single meme and post and page. Some even got unpublished on Facebook as a result."
+What then happened was a remarkable reversal of the tide and an overwhelming wave of support started building up online.
+"There was immense support on the Facebook page of Geek Club of Sri Lanka and people I didn't even know personally were messaging me asking me to stay strong," Ms Suriyapperuma recalls. "It was amazing."
+One such tweet by a complete stranger pledging support went viral - and that's how the story found its way to Hollywood and reached Patty Jenkins and Gal Gadot.
+And once the two of them threw some serious Hollywood weight into the ring, the attention the two Sri Lankan women went to a whole new level.
+"It definitely feels amazing to be recognised and praised by Patty Jenkins and Gal Gadot herself!" Ms Suriyapperuma said. "I'm a huge fan of Gal Gadot so this has been amazing."
+Ms Cooray was equally stunned that their idols actually recognised them. "It felt amazing - my inner fangirl is never going to forget this!"
+Their case sparked a wider online debate around the problems of bullying online.
+"I think it's actually a good thing that this is a public story," Ms Suriyapperuma explains. "If we didn't get this much coverage this would've been just another case of cyber-bullying.
+"But now everyone knows it and thus we have opened a very important conversation about bullying and body shaming."
+As just one example, an online petition has been started to put more pressure on Facebook to monitor content for hate or cyber-bullying and block such posts.
+But the case goes beyond just the online world, Ms Suriyapperuma points out. It ties in with the broader goal of empowering women generally.
+Looking at her own experiences growing up in Sri Lanka, she says the country's society needs to see examples of women who stand up to hate without running and hiding away or retaliating by going down to their level.
+"If people start seeing women being strong as a normal thing - which is what the movie tried to do as well as what I want - then more and more women will stop tolerating harassment." (BBC)
+ 
+		
+==============================
+==============================

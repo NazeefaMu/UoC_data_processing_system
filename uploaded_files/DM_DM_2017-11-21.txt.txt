@@ -1,0 +1,519 @@
+## Title: A software to help fight dengue
+## Section: News Features
+## Date: 21 November 2017 01:45 am
+A software to help fight dengue
+	
+The Sri Lankan doctors who developed the programme won the Commonwealth Digital Health Award in the category of Communicable diseases
+Dengue has become our common enemy, surpassing the boundaries of the rich and poor, ethnicities and religions, north and south. Controlling the spread of a disease of this magnitude, with its potential to develop into a national level epidemic, is a strenuous process. This course involves many organizations, people and protocols, which naturally have their drawbacks. Two Sri Lankan doctors, who had observed and identified the shortcomings of the system, have developed a method of overcoming these obstacles for the overall benefit of the general public. 
+The Daily Mirror had the privilege of interviewing Dr. Lasantha Ranwala (MBBS,MSc-Biomedical Informatics), Registrar in Health Informatics at the Postgraduate Institute of Medicine, and Dr Yudiswara Wedisinge  Medical Officer Vector borne disease control, who designed the programme. 
+Our readers may have noticed that when a Dengue patient is identified, the relevant PHIs arrive to inspect the area. During this process fogging is done, covering the nearby area with white fumes in an effort to prevent further spread of Dengue. But how do the PHIs and the health department know exactly where the dengue patient is from Dengue is considered a notifiable disease. When a patient who is suspected of having Dengue is admitted to the hospital, the details are recorded and the collecting nursing officer sends those details to the relevant MOH. The MOH then sends Public Health Inspectors to the area to take measures with the view of preventing the further spread of Dengue, explained the doctors. 
+
+Stats not accurate
+Even though ideally preventative programmes should be carried out the moment a patient is identified in a community in order to eradicate the infected mosquitoes before they contaminate other people, this process is almost always delayed as a result of a combination of factors. The system in operation is basically a paper-based system which is time consuming to say the least. It sometimes takes around two weeks for the MOH to receive notice. But this new system is totally web based, so the time is greatly reduced, is how they talked about the flaws in the system that they have identified.
+In addition they explained that in the hospital the doctors usually rely on the clinical diagnosis to report
+on Dengue, which is in no way accurate. We are obliged to report all suspected dengue patients. So, its inevitable that the patients who present with other viral fevers and a low platelet counts are also
+reported. As a result, the accuracy of these statistics is very low and only around 100 out of 150 patients reported is actually having Dengue fever, they elaborated.
+
+Shortage of health officials
+Given that there is a shortage of MOHs and ground level staff; specially Public Health Inspectors, the eradication of breeding sites becomes even less effective with these officials following false trails. 
+In the newly devised method, this issue is mostly resolved. The NS1 antigen test for Dengue is currently done in private laboratories and is quite specific when it comes to diagnosis of Dengue. The laboratories have been supplied with the software programme free of charge. Whenever a report returns as positive for NS1, they feed those details into the programme after logging in with their user names. Then these patients will be sorted out according to the areas of their MOH and the MOH directly receives notification. A PHI is assigned to assess the situation and if its found to be correct the feedback is fed to the software. So the system reveals that the patient is confirmed having dengue, immediately. This is even more effective because NS1 antigen will provide information regarding the patients who arent admitted to hospitals as well as those admitted to private institutions.
+Pilot project
+The paper based older system is a one way system where there is no way of obtaining information on the progress of the notification sent. In the new computer based system, the feedback from each individual organization enables anyone involved in the system to discern the progress of each individual case. This project was started as a pilot project in the month of August in the Colombo District. Its still in the initial stages and we are planning on expanding it soon to be implemented in Gampaha and Kalutara Districts, the doctors stated. 
+This programme, which would have cost millions otherwise, was completed with no external funding, affirmed the doctors. They further stressed that with the Governments intervention the programme could go a long way towards the prevention of Dengue. The developers of the programme won the Commonwealth Digital Health Award in the category of Communicable diseases, at the Digital Health Conference organized by the Commonwealth Medical Association in October 2017, for their invention, bringing with it a ray of hope that we can defeat the hitherto indomitable menace of dengue.
+ 
+		
+==============================
+## Title: Allianz Lanka keeps up impressive growth momentum through 3Q17
+## Section: Financial News
+## Date: 21 November 2017 12:00 am
+Allianz Lanka keeps up impressive growth momentum through 3Q17
+	
+Allianz Lanka continued to maintain its impressive performance across its general and life businesses through the nine months ended September 30th, 2017.
+Allianz Insurance Lanka, the general insurance company, recorded a Gross Written Premium (GWP) of Rs.3.92 billion during the period under review, a YoY growth of 30 percent over GWP of Rs.3.02 billion reported during the same period last year. This helped the business register pre-tax profits (PBT) of Rs.126.9 million, a marked in crease over the PBT of three million Rupees at the end of 3Q, 2016.
+The life company registered an impressive growth of 18 percent in annualized new business premiums in 3Q 2017 with GWP growing by 13 percent YoY to Rs.864 million. This allowed the business to report pre-tax profits (PBT) of Rs.68 million.
+Allianz Lankas prudent investment strategy continued to help generate greater returns with the general insurance business witnessing a 38 percent growth in its investment portfolio and 27 percent YoY growth in investment income which stood at Rs.202 million at the end of the period under review. The life business investment portfolio grew by 39 percent YoY, from Rs.1.9 billion to Rs.2.6 billion generating investment income of Rs.207 million, a YoY growth of 43 percent.
+I am delighted to note that the company continues to move ahead along its steady growth trajectory and has performed exceptionally during the quarter despite stiff competition and a spike in claims due to natural disasters. We have managed to deliver these results while standing by our policyholders affected by the weather. Our teams focused on helping them get their lives and businesses back to normal as quickly as possible, offering assistance and expediting claims settlements, said Allianz Insurance Lanka Managing Director Surekha Alles. A clear reflection of our commitment to delivering sustainable growth and greater value to all stakeholders, the performance numbers have strengthened our confidence in meeting our financial targets and ending the year on an emphatically successful note.
+Both the life and general businesses of Allianz Lanka maintained healthy solvency margins of 519 percent and 175 percent respectively as at 3Q 2017. A symbol of the companies ability to pay insurance benefits and other payments, they were well above the minimum solvency regulations.
+ 
+		
+==============================
+## Title: Amana Bank introduces instant SMS alerts
+## Section: Financial News
+## Date: 21 November 2017 12:00 am
+Amana Bank introduces instant SMS alerts
+	
+Amana Bank in line with its ongoing digital focus has launched instant SMS alerts on key banking transactions to keep customers updated as and when they occur.
+Customers opting for this service will be able to track their account status by receiving timely SMS updates on a host of transactions including debit card transactions, cash deposit and withdrawals, profit credits, inward foreign remittances, salary credits, internal and external transfers, cheque realization and encashment, standing order transaction as well as bill payment alerts.
+Commenting on this service, Amana Bank Retail Banking and Marketing Vice President Siddeeque Akbar said: By subscribing to SMS alert services, customers would benefit by not only being updated on their account transactions but also keep a tab on how much they have spent and saved, without waiting till month end statements. With customers having access to their mobile 24x7, SMS alert has become a handy necessity for them and we hope to introduce many other solutions providing greater access and convenience.
+Amana Bank is the countrys first and only licensed commercial bank to operate in complete harmony with the globally growing non-interest based banking model. With the mission of Enabling Growth and Enriching Lives, the bank reaches out to its customers through a growing network of 28 branches and 4000+ ATM access points and has introduced an array of customer conveniences such as internet and mobile banking, debit card with SMS alerts, online account opening, 365 day banking, Saturday banking, extended banking hours, 24x7 cash deposit machines and banking units exclusively for ladies.
+The bank was recognized as the Best Up-and-Comer Islamic Bank of the World by Global Finance Magazine at the 18th Annual Worlds Best Banks Award Ceremony held in Washington DC, USA. The bank was also bestowed the coveted title Islamic Finance Entity of the Year at the inaugural Islamic Finance Forum of South Asia Awards Ceremony.
+ 
+		
+==============================
+## Title: Amana Takaful celebrates World Fisheries Day highlighting Samudra Shakthi benefits
+## Section: Financial News
+## Date: 21 November 2017 12:00 am
+Amana Takaful celebrates World Fisheries Day highlighting Samudra Shakthi benefits
+	
+Amana Takaful (ATL) recently celebrated World Fisheries Day by highlighting the benefits of its Samudra Shakthi insurance cover for both small and large-scale fishermen and commercial fishing companies.
+ATL has a rich history that spans over 18 years, and the company has been a pioneer of the Takaful Way, offering trusted insurance solutions to its customers from all walks of life.
+ATLs Samudra Shakthi cover is designed to offer protection that covers all types of marine boats, except those without engines. Irrespective of the life span or expected durability of a particular boat, ATL will offer its insurance cover to any fisherman or fishing company (regardless of the size of their operation), providing them with comprehensive covers for both their boats and engines. The company has an extremely quick claims procedure and has fulfilled a total of Rs.20 million worth of claims in 2017 alone. ATL also has a deep-rooted understanding of the needs of the fishing community. The company takes pride in providing guidance to fishermen across the island and focuses on delivering reliable micro-insurance covers that help Sri Lankas fishing community, meet with their specific insurance needs.
+Over the years, Samudra Shakthi has become a source of protection and information to fishermen across Sri Lanka, and aside from providing high-value insurance covers, ATL also highlights the importance of sustainability in the fishing industry. Each year, World Fisheries Day is celebrated to draw attention to overfishing, habitat destruction and other serious threats to the environment that may be caused due to companies and small-scale fishermen, that may be over-taxing marine resources. ATL continuously strives to highlight the need to operate fishing businesses in an environmentally-friendly manner, especially since the fisheries and aquaculture industry employs more than 43 million individuals worldwide, and over 25 percent of the worlds dietary protein is provided by fish. A recent United Nations report, reiterated that two-thirds of the world fisheries have collapsed or are currently overfishing. As part of its insurance cover, ATL not only offers protection for various threats that may impact a fisheries business, the company also encourages its clients to run environmentally-sound operations that reap profits without harming the planet and ocean resources.
+Commenting on the Samudra Shakthi cover, Amana Takaful CEO
+Fazal Ghaffoor said: The Samudra Shakthi cover is designed to offer fishermen and larger scale fishing companies, the peace of mind that they need to effectively run their businesses. Whilst we always encourage our clients to consider their impact on the planet, we also strive to provide them with insurance covers that will protect them against a wide-range of circumstances such as marine accidents and collisions, damage to boats or trawlers as a result of natural disasters or the impact of poor weather conditions on their vessels. We try to offer our customers speedy inspections and damage assessments, a seamless process when it comes to submitting documentation and the quick delivery of claims with minimal hassle. Professionalism, reliability and excellence in customer care are the cornerstones of our services and policies, and we do our very best to ensure that businesses who are facilitating the sustainable growth of the fisheries industry, have the peace of mind, confidence and added protection that they need to run their operations.
+ATLs Samudra Shakthi insurance cover is widely used by customers across the island, from areas such as; Kalutara, Galle, Matara, Hambantota, Beruwela, Ambalantota, Negombo, Puttalam and Mannar. Customers from Mulathivu, Jaffna, Trincomalee, Kinniya, Muthur, Batticaloa, Kalmunai and Akkrapattu also rely on the cover for added protection.
+ 
+		
+==============================
+## Title: An artful artiste
+## Section: Political Gossip
+## Date: 21 November 2017 10:19 am
+An artful artiste
+	
+We have often heard about billionaire-businessmen in our country. But has anyone heard about a billionaire-artiste here
+
+One might be surprised to hear that a billionaire artiste, a rarity here, has put up a three-storey mansion at a cost of Rs.60 million in a city suburb.
+This artiste is said to have been a buddy of a former powerful politician and had been actively involved in the latters political propaganda campaigns.
+The artiste has also converted the modest home he was living into a posh two-storey residence.
+Inquiries have already been instituted by the authorities to ascertain how this prominent figure in the countrys art circles had accumulated assets worth billions beyond his means within a short period of time, they say.
+ 
+		
+==============================
+## Title: An ounce of political clout is worth more than a pound of diligence
+## Section: Political Gossip
+## Date: 21 November 2017 10:25 am
+An ounce of political clout is worth more than a pound of diligence
+	
+
+This individual, an additional secretary to a key Ministry has been batting in the present post for the past 15 years at a stretch, they say.
+
+A political appointee well versed in the art of bending over backwards to please his masters, this worthy continues to enjoy perks of his office thanks to his close connection to a powerful politico, they say.
+All powers and functions relating to 14 institutions of the 32 institutions coming under the purview of the Ministry have been delegated to this additional secretary while those of the remaining 18 institutions have been distributed among another six additional secretaries.
+Important files in respect of the 14 institutions which are the charge of this additional secretary often gather dust at the Ministry while the man is spending most of his time running about on his political masters errands or his own private missions, employees say.
+ 
+		
+==============================
+## Title: Answering his critics: Reflections on a lonely artiste
+## Section: News Features
+## Date: 21 November 2017 01:52 am
+Answering his critics: Reflections on a lonely artiste
+	
+The sixth and last in a series of sketches of the films of Lester James Peries
+Lester James Peries began his career in 1956. With Rekava he became Sri Lankas first professional director of movies and not photographed stage plays. So simple and yet profound was the story of Rekava, so influential it was in gaining recognition for our dormant, static film industry, that no less a person than Mervyn de Silva, then writing to the Ceylon Daily News, put aside all historic and exogenous considerations, the fact that it was the 41st Sinhala film, and contended that it marked the beginning of our cinema. No film before it had strayed so remarkably from the confines of the studio, and no film before it had encountered so many troubles, logistical and otherwise.
+19 films and 60 years later, Lester has gone down in history as the only local filmmaker who has attracted praise and censure from every corner of our critical fraternity: the intellectuals, the nationalists, the Marxists, the literary experts, the purveyors of feminist cinema, and so forth. In 1974 when Ahas Gawwa was released, a pamphlet was published and copies of it disseminated. It was titled Appochige Sinamawa. Lester had fathered an entire generation of directors and scriptwriters and cameramen; they were now rebelling against him. He had hence bred, not slavish disciples, but independent artistes.
+
+Lester had fathered an entire generation of directors and scriptwriters and cameramen; they were now rebelling against him
+The truth is that Lester, who turned 98 this year, is the last reminder of 1956 and the revolution it inspired that we have. As Regi Siriwardena noted, 1956 was no accident, but the congruence of the political and the cultural was: the one aided the other. Lester hailed from the milieu that we the people were rejecting. So had his brother, Ivan. By resorting to a visual medium, they redeemed themselves in the eyes of their people. But there were times when those deficiencies showed, when the man seemed to ignore a key element of the milieus he was depicting in his work. It happened in Rekava, where you dont come across a single temple. It happened again in the three epics he directed and particularly, among them, The God King. The writers in the press were tepid in their reviews, naturally. Jayawilal Wilegoda, considered the first real movie critic in the Sinhala media, castigated him for mindlessly imitating the West. (According to him, this was partly proven by the mans penchant for featuring cars, something H.L.D. Mahindapala noted in his review of Ran Salu when he observed, wryly, that the camera seemed to be obsessed with those cars.) But these critics belonged to a certain class, a certain category. The most devastating critics of Lester didnt come as nationalists and intellectuals. They came as Marxists and literary purveyors.
+With respect to the Marxists, the problem is easier to understand. The election of a socialist government, the intrusion of the New Wave and the cinema of East Europe, as well as two insurrections that almost brought the country to a standstill proved to be too much for any critic who looked for a sign of commitment and secular upliftment in a work of art. Lesters films did not, as I noted before, satisfy these parameters and yardsticks. They ended right when the poor and the wretched were about to suffer more (as with Akkara Paha, which culminates with Sena and Sandawathi departing to a life of destitution); they didnt tell us how the poor and the wretched could tide over their suffering, rather that they were destined to suffer. The French, even at their most political, knew how to end their films in idiosyncratic flourishes and swipes (think of the ending of Breathless, where the dying Michel has just one thing to say to Patricia, his former fiance: Youre a real scumbag), but the East Europeans were defeatist, adamant that their characters claim destinies they could never control. The Marxist critics looked for such characters. Lester couldnt provide them. He hence became a betrayer.
+In the seventies when these critics rode on a high wave, they were at their peak. Regi Siriwardena frequently implied that they wanted the cinema to be politicised the same way the theatre had been. The political theatre is a vassal of ideology, whatever ideology, and the theatre of the left tends to conflate reality for symbolism and resort to explicit add-ons to depict a particular social context. It was this kind of climate that prevailed in our film industry, though unlike many other left-leaning countries it survived: the truth is that after Dharmasena Pathiraja we never had a Mrinal Sen of our own. Pathiraja created a new standard, but only he could be measured against it; no one came close to him. Lesters standards, on the other hand, spread more widely. He didnt indulge in political polemics, but even without indulging in them he had liberated the industry. The seventies didnt go beyond Pathiraja, hence. It instead nurtured Vasantha Obeyesekere and H. D. Premaratne, both of whom conceived, not a political cinema, but a middle cinema.
+
+In the seventies when these critics rode on a high wave, they were at their peak. Regi Siriwardena frequently implied that they wanted the cinema to be politicised the same way the theatre had been. The political theatre is a vassal of ideology, whatever ideology, and the theatre of the left tends to conflate reality
+
+The political left continues to inhabit and make the waves in our film industry. That is its greatest virtue and worst limitation, because our independent cinema is considerably hegemonised by a left-of-centre political sphere. Our art-house film movement never really picked up owing to this, barring the early work of Asoka Handagama, because no political cinema can survive on symbols and allegories and explicit add-ons without compromising on density. Some of the movies that directors like
+Handagama make are extraordinary, and they are the result of decades of experimentation, but they are far, far away from the technical craftsmanship of the old masters. Even at their worst, a mainstream Sinhala film retains a welter of formality which the art-house director lacks. The political lefts most powerful contribution to our film industry was the independent movement, but what it lacks in this respect has been its undoing and has hindered it from reaching a local audience. It survives, as always, on private donors and film festivals.
+But its not just the political left or political theatre that has hindered the birth of an honest independent cinema movement. Its also the literary purveyors, the intellectuals and academics who tend to either put down the cinema or assess the worth of a movie on the basis of its fidelity to qualities that are more suited for a book review. These are the critics who lambasted Lester and A. J. Gunawardena over Baddegama. The debate over the equivalency between two modes of narratives  moving image and prose fiction  has, as Gunawardena himself observed, largely grown obsolete in other countries, but in Sri Lanka, owing perhaps to the dominance of Romantic and Edwardian standards of literary criticism in our English Departments, it has persisted. Lester was a literary-minded director  he adapted several works of Sinhala fiction, all of them landmarks for their time  but even this was not enough to salvage many of his works, particularly with respect to the Koggala Trilogy, from criticism at the hands of those experts.
+
+Apart from these critics, the man stoically endured years and decades of criticism
+Apart from these critics, the man stoically endured years and decades of criticism. He raised some flak among nationalists and intellectuals (especially Jayawilal Wilegoda) but they were transitory, because their standards could and did change. The political left and the literary intelligentsia were not malleable this way, because their standards remain stubbornly present in our cultural spheres. That he lacked commitment, that he lacked enough foresight to keep to the letter and spirit of a literary masterpiece, have been two of the most frequently cited indictments against him, over the years and including, I must add, his penultimate film, Wekanda Walawwa. They deserve to be answered, elsewhere, in full, because in those indictments we can infer Lester as Coorays lonely artist. But arent all artistes lonely Tissa skeptically asked in an essay on his erstwhile guru. The answer to that, of course, is yes, they are, but that with this artiste it was a different story.
+Lester turns 99 next year. There are others younger than him, who have made more films over a fraction of time it took for him to make his. Thats a tragedy at one level, but a blessing at another. For the films he made, though intermittent, were awaited and watched eagerly. Rekava was a leap of faith. But like all leaps of faiths, it wasnt vindicated immediately. Sandeshaya was a hit, but that wasnt really Lester. Gamperaliya, Delovak Athara, and Ran Salu werent hits, but they recouped at the box-office. And then, Golu Hadawatha, his sixth, won an entire nation to his side. Yes, it took some time. But thats how icons operate. They are patient. Never in a hurry.
+And in the end, this gentle human being, who was never in a hurry, took his time and proved to us, in his own special way, that one can never assess the worth of an artiste by a fidelity to arbitrary standards. Whether they were manufactured by the Left, whether they were disseminated by our Universities, they remained standards that did not require their designated targets to be their vassals. Perhaps Lester himself offered the most appropriate response to them all: They work with symbols. I work with human beings. He told this to me two years ago. Two years on, our filmmakers continue to work with symbols. They were inspired by him, but failed to retain that quality which defined him. They were all students who wanted to imitate, but they all repudiated his lan, his zeitgeist.
+
+ 
+		
+==============================
+## Title: Bio-piracy, an imminent issue that  needs to be addressed soon
+## Section: News Features
+## Date: 21 November 2017 12:39 am
+Bio-piracy, an imminent issue that  needs to be addressed soon
+	
+Bio-piracy is a problem which we do address over the last two and half decades, but non of the former governments or the present government have taken suitable steps so far to get due revenue, proper mechanism for access and to conserve the genetic resources of Sri Lanka. Therefore it is high time to take appropriate action on this burning issue. 
+Biological diversity or bio-diversity is a term use to describe the variety of life on Earth. It refers to the wide variety of eco systems and living organisms: animals, plants, their habitats and their genes. Bio-diversity can be divided into three categories as Eco system diversity, Species diversity and Genetic diversity. Eco system diversity refers to the variety of eco systems in a given place which includes landscapes, climate, soil, water, fire, rocks, wind, etc that functions together as one unit. The variation among species refers to the diversity that exists among species. Genetic diversity means the genetic variation among individuals of a population and that among all the different populations of the same species comprises the total genetic variation of those species. 
+What is bio piracy
+Bio Piracy means unauthorized access of biological materials and use in commercial purposes - Obtaining monopolistic rights by an individual or a company or an institution of one country on certain biological material, while that biological material is belonging to another country. This rights obtaining could be in the form of Intellectual property rights (IPR), obtaining Patent rights, plant breeders rights or sharing the benefits/profits.
+Being a bio-diversity hotspot a large number of Sri Lankan species have high potential ability in bio-piracy. A large number of our plant and animal species have been subjected to bio piracy. As a result the country is losing in the environmental, social and economical aspects. 
+Our Association, Lanka Nature Conservationists (LNC) comprise of the founder and early members of the Young Zoologists Association (YZA) formed in 1972 by the then Director National Zoological Gardens, late Deshabandu Lyn de Alwis, an association functioning very effectively to date. We have again re-grouped after 45 years to contribute our knowledge and experience for the environment conservation of Sri Lanka.
+A seminar was organised by the Lanka Nature Conservationists recently to build-up awareness creation and active participation to fight against Bio-Piracy, with relevant stakeholders. 
+
+
+
+
+- Lanka Nature Conservationists 
+No.19, Piyarathanarama Road,
+Dehiwela.
+E mail - pfaunaflora@yahoo.com
+ 
+		
+==============================
+## Title: Boy crushed to death in Padukka
+## Section: Breaking News
+## Date: 21 November 2017 09:39 am
+Boy crushed to death in Padukka
+	
+A 16-year-old male student was crushed to death when a boulder fell upon him yesterday when he was hiding close to a metal quarry in a jungle for intimidation by the relatives of his girl friend.
+According to the Police, the deceased had spent time with his girl friend on Sunday (19) and a group of the girls relatives had gone in search of them in the Diddeniya area. However, they had not found him there. Then they had gone to the house of the students friend and threatened him.
+The victim was a grade 11 student named H.P.Janaka Kumara residing in the Meeriyagalla area in Padukka.who was to sit the G.C.E.( O/L) examination this year. According to the Police, his mother had gone abroad for employment.
+Residents had come into his rescue when he had screamed in agony and dispatched to the Padukka District Hospital where succumbed to his injuries.
+The postmortem was carried out by the Padukka Coroner into Sudden deaths. (K.Buddhika Kumarasiri)
+Pix by Buddhika Kumarasiri
+ 
+		
+==============================
+## Title: Campaign humour
+## Section: Political Gossip
+## Date: 21 November 2017 10:24 am
+Campaign humour
+	
+
+A verbal duel being carried out in public by a certain chief provincial purohita and a former Pradeshiya Sabha Chairman is reportedly providing much amusement to the people in the province these days, they say.
+
+The former PS chairman has incurred the wrath of the chief purohita for throwing his weight behind a political grouping that is expected to field a candidate against the latter at the upcoming PC elections. The chief purohita is reportedly claiming at public meetings that the former local body head had now forfeited his civic rights and he had no right to engage in active rights.
+The former chairman is reportedly saying in reply to this claim: Our Chief is sadly mistaken. Both my praja aithiya (civic rights) and prajanana aithiya (reproductive right) remain unimpaired!
+ 
+		
+==============================
+## Title: Counsel Sumanthiran objects to AG's Dept leading evidence
+## Section: Breaking News
+## Date: 21 November 2017 04:31 am
+Counsel Sumanthiran objects to AG's Dept leading evidence
+	
+At the begining of yesterdays proceedings, Presidents Counsel M.A. Sumanthiran raising an objection on behalf of his client Sangaparapillai Pathmanapanan, an official of the Central Bank's Public Debt Department, said no official of the Attorney Generals Department, coming under Section 23 of the Commission of Inquiries Act, could lead evidence.
+Mr. Pathmanapan and PTL owner Arjun Aloysius are alleged to have exchanged more than 750 phone calls and several other calls between Mr. Pathmanapan and other Directors of PTL. This was while being employed at the Central Bank Public Debt Department.
+Raising the objection prior to Prime Minister Ranil Wickremesinghe taking the stand, Mr. Sumanthiran said AGs Department officials could not lead evidence on the basis that they had acted as investigating officers.
+At that point, Senior Additional Solicitor General Dappula de Livera said he objected to Counsel Sumanthirans appearance because of his "conflict of interest"
+Mr. De Livera said Mr. Sumanthiran was a member of the 8th COPE committee and his client had been a witness at the 7th COPE proceedings which were both taken in as evidence and as such there was a conflict of interest. The objections were recorded and the Prime Minister was called to testify.
+Attorney General Jayantha Jayasuriya PC then marked his appearance and said he was before the Commission under Section 23 of the Act leading the AG's Department team of officials.
+At the end of the Prime Ministers evidence Mr. Sumanthiran expanded on his initial objection and made submissions with regard to the admissibility of the evidence regarding the phone conversations which were submitted to the PCoI last week and that of the leading of evidence by AG's Department counsel.
+Drawing distinction between Section 23 and Section 26 of the Act, Mr. Sumanthiran said the AG's team acted as investigating officers and thus could not lead evidence. He said he was present at the proceedings after being informed by the PCoI to do so.
+The Commissioners said Mr. Sumanthiran was summoned to yesterdays proceedings to explain to his client that none of the evidence against Pathmanapan would be used against him in the report as he was not given a chance to be heard at the PCoI.
+However, they said the same would not apply to other witnesses against whom the evidence led on phone calls were incriminating, and were heard in testimony.
+Mr. Sumanthiran then said Mr. Pathmanapan was interdicted on Friday following a directive from the PCoI, to which Justice Jayawardena said, "We are not running the Human Resource Department of the Central Bank".
+The Commissioners said there was no directive to interdict Pathmanapan because they had not come to any findings yet. When Mr. Sumanthiran PC kept insisting that the interdiction had occurred after the evidence connected to the phone calls, Justice Jayawardena said, "That is none of our business. You take it up with them, there is nothing we can do about it.
+Justice Jayawardena said the interdiction had occurred independent of the PCoI proceedings.
+Mr. Sumanthiran PC was thereafter directed to submit written submissions with regard to the objections within a week from yesterday.
+Mr. Pathmanapan had earlier filed a fundamental rights application citing the AG Department's team as respondents and alleged inhuman and degrading treatment by the investigating officers.
+The telephone calls include 19 calls exchange between Mr. Pathmanapan and Mr. Mahendran in addition to the telephone calls to Mr. Aloysius and other PTL directors. The telephone calls also include 30 of them between Pathmanapan and Anjali Mahnedran, the wife of Mr. Aloysius.
+They include nine calls between Anjali and Pathmanapan between 8.00 pm to 8.00 am and 202 viber calls between Arjun Aloysius and Pathmanapan between 8.00 p.m. to 8.00 a.m. (Shehan Chamika Silva and Hafeel Farisz)
+ 
+		
+==============================
+## Title: FHASL signs MoU to conduct study on non-banking financial institutions
+## Section: Financial News
+## Date: 21 November 2017 12:00 am
+FHASL signs MoU to conduct study on non-banking financial institutions
+	
+The Finance Houses Association of Sri Lanka (FHASL), the APEX body for Licenced Finance Companies in Sri Lanka recently signed a Memorandum of Understanding (MOU) with the Management Faculty of the University of Colombo for the later to conduct a sector study on the role of non-banking financial institutions (NBFIs) in Sri Lanka.
+The study would cover the areas such as the total number and value of new advances granted by the NBFI players, the total number of customers served by the industry and the geographical distribution of customers, advances and deposits of the industry and the financial inclusion created by the NBFI sector.
+Currently there are 45 registered Licensed Finance Companies in Sri Lanka, who are mainly engaged in SME finance, Microfinance and deposit mobilization.
+The study is a recommendation of the Sector Stability Committee of the FHASL that has objectives such as to ensure the prevalence of a vibrant and a stable LFC sector (Licensed Finance Companies) playinga key role in serving the unbanked, to intervene in a proactive manner to information gathered through intelligence on member companies that are likely to make an adverse impact on the sector due to regulatory or other action, to react to information disseminated by electronic and print media on LFCs that are likely to trigger a wave of public reaction on the LFC sector and to enter in to a dialogue with LFCs that in the opinion of the committee is experiencing issues on stability and continuity in business to assist to overcome such issues wherever possible.
+The study would reveal some valuable insights in to the role of NBFIs that have enabled the financial inclusion of low income entrepreneurs in Sri Lanka for the last 60 years and potential ways and means of how the sector could contribute to accelerating economic development outside the Western Province.
+ 
+		
+==============================
+## Title: Gamini Senarath, two others released on bail
+## Section: Breaking News
+## Date: 21 November 2017 11:06 am
+Gamini Senarath, two others released on bail
+	
+Former President Mahinda Rajapaksa's Chief of Staff Gamini Senarath and two others were today released on bail by Colombo Fort Magistrate Lanka Jayaratne.
+They were each released on cash bail of Rs.50, 000 with two sureties of Rs.1 million each.
+Also a travel ban was imposed on Mr. Senarath and the second suspect Mr. Piyadasa Kudabalage
+They were arrested on the allegation of misusing Government funds allocated for the construction of Hyatt Regency Hotel in Colombo. (Yoshitha Perara)
+
+Video by Courts Prasanna
+ 
+		
+==============================
+## Title: Health Ministry to conduct SLMC election in ad-hoc manner: GMOA
+## Section: Breaking News
+## Date: 21 November 2017 10:10 pm
+Health Ministry to conduct SLMC election in ad-hoc manner: GMOA
+	
+The Health Ministry is making an attempt to conduct the Sri Lanka Medical Council (SLMC) election in an illegal manner to fill only six positions when there are seven vacancies, the Government Medical Officers Association (GMOA) said today.
+He said the election is being held to fill five medical professionals though arrangements are underway to elect only four positions.
+The remaining vacant positions are an Assistant Medical Officer position and a Dentist position. (Thilanka Kanakarathna)
+ 
+		
+==============================
+## Title: HSBC introduces World Corporate MasterCard to Sri Lanka
+## Section: Financial News
+## Date: 21 November 2017 12:00 am
+HSBC introduces World Corporate MasterCard to Sri Lanka
+	
+HSBC is pleased to introduce the World Corporate MasterCard to Sri Lanka. Accepted at 34 million merchants worldwide, the HSBC World Corporate MasterCard is primarily for corporate clients, catering to their need for more flexible payment solutions.
+Features include enhanced data capture and security controls, providing support for cardholders and administrators alike.
+HSBC Sri Lanka and Maldives Commercial Banking Head Peter Hughan commented: The flexibility and the controls offered by the HSBC World Corporate MasterCard will reduce corporate cash requirements and be instrumental in creating an efficient travel and expenses programme management. Clients can customize card limits amongst employees. They can also have an automated, tailored and smart way to monitor, manage and control company expenses with access to web based online reporting via MasterCards latest Smart Data Gen 2 platform. With data stored at the MasterCards Global Data Repository, information is readily available in bespoke formats such that accounting and reconciliation becomes that much easier. We are delighted to introduce the World Corporate Mastercard in Sri Lanka in partnership with HSBC. Sri Lankan businesses continue to expand their horizons both within and beyond the country and are seeking secure and convenient payment solutions to help them better manage their expenses. Offering greater flexibility and security, the World Corporate Mastercard will help streamline administration and reimbursement processes. Its enhanced employee controls bring in greater transparency into the purchasing process, allowing businesses to manage their cash flow better, said Mastercard Sri Lanka and Maldives Country Manager R.B. Santosh Kumar.
+The new HSBC corporate card scheme provides greater flexibility for corporates to manage their travel and entertainment needs, befitting the needs of any dynamic corporate entity and its employees.
+The benefits of HSBCs World Corporate MasterCard includes a host of discounts and privileges at leading hotels and restaurants, a dedicated helpline for any card related assistance and information, free air travel insurance cover, protection against loss, theft or misuse of card and enhanced protection against fraud risk from a chip-enabled card.
+ 
+		
+==============================
+## Title: Italian Cruise Ship in Colombo
+## Section: Caption Story
+## Date: 21 November 2017 07:06 pm
+Italian Cruise Ship in Colombo
+	
+Italian Cruise Ship Costa neoClassicaarrived in Colombo today as a part of three-country cruise to Sri Lanka, India and Maldives. Italian Ambassador in Sri Lanka Paolo Andrea Bartorelli launched one of the events of the Italian Food Week-2017 on board the Cruise Ship which was harboured at Colombo Port. Pics by Manoj Ratnayake
+ 
+		
+==============================
+## Title: Making money the easy way
+## Section: Political Gossip
+## Date: 21 November 2017 10:23 am
+Making money the easy way
+	
+
+This character, a sidekick of a soldier-turned politico, now a purohita, is reportedly diddling money from unsuspecting people by promising them job opportunities in a State sector statutory body.
+
+The guy going about in a vehicle belonging to the statutory body is charging a minimum of Rs.75,000 from each job seeker, they say.
+He had once unsuccessfully contested a provincial council election.
+Some of the job seekers who had realized that they had been duped have made complaints to the Police. But no action has been taken against the trickster so far, they say.
+
+ 
+		
+==============================
+## Title: MBSL wins International Europe Award for Quality 2017
+## Section: Financial News
+## Date: 21 November 2017 12:00 am
+MBSL wins International Europe Award for Quality 2017
+	
+Confirming the international quality standards of its offerings, Sri Lankas homegrown financial services provider, Merchant Bank of Sri Lanka and Finance PLC (MBSL) won the prestigious International Europe Award for Quality 2017, at the Global Trade Leaders Club, held recently at a glittering ceremony in Paris, France.
+This prestigious international accolade was accepted on behalf of MBSL by Chairman Dr. Sujeewa Lokuhewa and Chief Executive Officer Nishaman Karunapala.
+The award ceremony was graced by the ambassadors of all award-winning countries, including Ambassador of Sri Lanka to France, Portugal and Spain and Permanent Delegate of Sri Lanka to UNESCO Buddhi K. Athauda.
+The International Europe Award for Quality is presented by the Global Trade Leaders Club, which is an association of leading businesses, which gathers more than 7,500 members from 95 different countries, all working in the sectors of production and services. The award-winning companies receive international recognition among global corporate leaders, making the International Europe Award for Quality a highly esteemed token of recognition.
+Speaking on the experience, Dr. Lokuhewa said: Needles to say, I am extremely proud of the MBSL team for their latest achievement and I congratulate them on maintaining such high quality standards. By being selected for this international quality award, MBSL has confirmed that we provide our customers in Sri Lanka, products and services that are designed and delivered to standards on par with leading companies across the world. MBSL is also an extremely financially stable financial services provider.
+Therefore, our customers are assured of the best service standards in the industry.
+Karunapala added: We are honoured to receive this award and I can assure our customers that we will not be sitting on our laurels going forward.
+We are already strengthening our products and services portfolio and we have maintained our focus on training and developing our team to continue enhancing our quality standards.
+Our objective is to support our customers in achieving their objectives and to create value for all our stakeholders.
+
+ 
+		
+==============================
+## Title: No one can predict the govt's success or failure: President
+## Section: Breaking News
+## Date: 21 November 2017 11:43 pm
+No one can predict the govt's success or failure: President
+	
+No one can issue certificates claiming the success of governments completion of its targets, President Maithripala Sirisena today said while addressing the national programme achieving a land mark target of 100 MW solar power capacity addition to the national grid.
+100MW Solar Power Battle (Soorya Bala Sangraamaya) programme was held at Waters Edge yesterday with the participation of President Maithripala Sirisena, Power and Renewable Energy Minister Ranjith Siyambalapitiya, Deputy Minister Ajith P. Perera, Ministry Secretary Dr. Suren Batagoda, Sri Lanka Sustainable Energy Authority (SLSEA) Chairman, Keerthi Wickramaratne, and several other guests.
+No one can give certificates or make any judgments to say whether the government was successful or failed. The certificates could be issued only at the end of our term, the President said.
+He said this Yahapalanaya government can show its success without any doubt with credible evidences at the end of its official term.
+President Sirisena said that he had left Mahinda Rajapaksa government on November 21 three years ago with an ambition of making many changes in the country. Fortunately, I managed to reach my targets and made several changes. We have been able to stop the arrival of international judges as well as formation l of international criminal court to the country. That was one of our successes, he said.
+We have strengthen the Public Service Commission (PSC) so the government workers can function with a sense of dignity. We also have strengthen the Sri Lanka Human Rights Commission and the judiciary, he said.
+I must clearly say that Im very glad to speak here because I had done everything what I thought to do for the benefit for the country, the President further added.(Chaturanga Pradeep)
+Video by Janaka
+ 
+		
+==============================
+## Title: Operation Garbage: Champika says mission accomplished
+## Section: Breaking News
+## Date: 21 November 2017 04:14 pm
+Operation Garbage: Champika says mission accomplished
+	
+Festering garbage mounds in Colombo has been all cleared up and the city is now completely clean, Megapolis and Western Development Minister Champika Ranawaka said today.
+He said the Colombo Beautification Unit which was set up to carry out the task with the assistance of the tri-forces after the Meethotamulla garbage dump collapsed, had accomplished the task. (Thilanka Kanakarathna)
+
+Video by Buddhi
+
+- Pic by Samantha Perera
+ 
+		
+==============================
+## Title: Pan Asia Bank accoladed at 17th SLIM NASCO awards
+## Section: Financial News
+## Date: 21 November 2017 12:00 am
+Pan Asia Bank accoladed at 17th SLIM NASCO awards
+	
+Pan Asia Bank Consumer Assets Sales Manager Sithira Gamwarige and Consumer Loan Sales Executive Amila Fernando won the Gold and Silver awards for Territory Manager and Executive Grade categories respectively under the Banking Category at the recently held the 17th SLIM NASCO awards ceremony.
+Banking Services category was one of the most competitive categories in SLIM NASCO Awards held in this year with close to 100 applicants competing fiercely for recognition.
+Award recipients underwent through a rigorous selection process which included a face to face interview and a presentation to an eminent panel of five to ten judges. The evaluation criteria for this award focused on two main factors which are Performance (Capability) and Potential (Capacity).
+While congratulating Sithira and Amila on their achievements, Pan Asia Bank Director/CEO Nimal Tillekeratne mentioned that this is a result of tireless effort and the commitment from the individuals, supported by the highly performance driven culture that prevails within the bank. He further added that Pan Asia Bank take pride in recognizing and promoting superior performance of its team members while taking initiatives to continuously enhance the capabilities and capacity of such individuals.
+NASCO awards Gold, Silver and Bronze medals for the best Front Liners, Sales Executives and Territory Managers in sectors such as Fast Moving Consumer Goods (FMCG), Financial Services and Banking, Industrial, Media, Consumer Durables, Telecommunication, Fashion and Clothing, Healthcare, Modern Retail, Travel and Leisure, Insurance, Alcohol and Tobacco, and Corporate Selling.
+ 
+		
+==============================
+## Title: PCoI requested AG to question PM
+## Section: Breaking News
+## Date: 21 November 2017 01:26 am
+PCoI requested AG to question PM
+	
+The PCoI Chairman Justice K.T Chithrasiri reading out a statement prior to Prime Minister Ranil Wickremesinghe's evidence said the Attorney General was requested to be present at the Commission to lead the team of officials of the Attorney General's Department.
+We wish to thank the Hon. Attorney General for, at our request, appearing before us today and leading his team of officers. This Commission of Inquiry made that request to the Hon. Attorney General because we are of the view that, it is proper and appropriate for the Hon. Attorney General himself to be present before us and lead his team of officers on an occasion when the Hon. Prime Minister of the Republic appears before this Commission of Inquiry, the Commission said.
+Following is the full statement read out by the commission:
+This Commission of Inquiry would like to thank the Hon. Prime Minister for appearing today and assisting us by providing some Clarifications with regard to the Answers furnished in reply to the 28 Questions framed by the Commission of Inquiry and the 20 further Questions framed by the officers of the Hon. Attorney Generals Department who are assisting this Commission of Inquiry.
+We would also like to thank the Hon. Prime Minister for the detailed Answers provided to all these 48 Questions and Further Questions.
+In this connection, we wish to state that, in view of the Hon. Prime Ministers high office and the many demands on his time, this Commission of Inquiry considered it proper and appropriate that, Answers to the Questions we have, be first provided by the Hon. Prime Minister in the form of Affidavits rather than by way of time-consuming Oral Evidence and that, thereafter, any Clarifications that may be necessary, could be obtained within a short space of time.
+These Affidavits will be part and parcel of the Proceedings of this Commission of Inquiry and will be annexed, along with all other Proceedings and Documents, to our Report.
+We also wish to make it clear that, this Commission of Inquiry requested the Hon. Prime Minister to appear before us today and the Hon. Prime Minister readily agreed to do so. The question of a need to compel the Hon Prime Minister to appear before us, did not arise.
+Next, we wish to thank the Hon. Attorney General for, at our request, appearing before us today and leading his team of officers. This Commission of Inquiry made that request to the Hon. Attorney General because we are of the view that, it is proper and appropriate for the Hon. Attorney General himself to be present before us and lead his team of officers on an occasion when the Hon. Prime Minister of the Republic appears before this Commission of Inquiry.
+The Commission of Inquiry will now proceed to ask, from the Hon. Prime Minster, Questions with regard to the Clarifications we consider necessary. In this connection, as we stated earlier, we already have been provided with detailed Answers to the 48 Questions and Further Questions forwarded to the Hon. Prime Minister. Therefore, these Questions are only to obtain Clarifications which are needed in respect of a few of those Answers.
+Once this Commission of Inquiry has obtained the Clarifications we consider necessary, we will also give the Hon. Attorney General and opportunity to obtain any further Clarifications he may consider necessary in pursuance of his functions as an officer assisting this Commission of Inquiry under Section 23 of the Commission of Inquiry Act.
+ 
+		
+==============================
+## Title: SI shoots himself to death
+## Section: Breaking News
+## Date: 21 November 2017 11:51 am
+SI shoots himself to death
+	
+A Sub Inspector of Police (SI) attached to the Mulleriyawa Police station has committed suicide by shooting himself with his service pistol at the Police quarters early today.
+The victim was identified as SI Premasiri (57), a resident of Ingiriya.
+The postmortem examination into this death is yet to be conducted.
+
+Video by Buddhi
+ 
+		
+==============================
+## Title: Speaker to refer phone call issue to Privileges Committee
+## Section: Breaking News
+## Date: 21 November 2017 05:12 pm
+Speaker to refer phone call issue to Privileges Committee
+	
+Speaker Karu Jayasuriya said today he would refer to the Privileges Committee the matters raised by parliamentarians regarding the telephone conversations of COPE members and have a discussion with the party leaders on this matter.
+Meanwhile, joint opposition MP Bandula Gunawardana said the statement made by Minister Lakshman Kiriella on Monday that parliamentary privileges of the MPs were breached because their phone calls had been tapped was incorrect because the PCoI said such a thing had not happened.
+The minister who responded to the allegation said what was wrong was to leak out the details to the media.
+"We are not against the investigations but the details should be kept confidential. Leaking out information to the media is wrong," he said.
+However, MP Udaya Gammanpila said people should know how the MPs act and asked why the government was trying to keep it a secret, when the Right to Information Act was now functional.
+"The Presidential Commission of Inquiry is a public commission. It's proceedings should be transparent," he said. (Ajith Siriwardana)
+ 
+		
+==============================
+## Title: Sujeewa says he is disappointed with President
+## Section: Breaking News
+## Date: 21 November 2017 06:17 pm
+Sujeewa says he is disappointed with President
+	
+State Minister Sujeewa Senasinghe today while calling to appoint Presidential Commissions to inquire into ship deals, Mig deals, spectrum deals and advertising firms, said that he is badly disappointed about the President.
+He further said that he called Arjun Aloysius only to write the book about the Bond issue and challenged the CID to prove that he called to commit a fraud.
+He added that he expects to take legal action in this regard in the future and noted that appointing a commission only to probe the Bond issue from 2015 was a conspiracy to destroy the UNP.
+While addressing a press conference at the UNP headquarters Sirikotha in Pitakotte, State Minister Senasinghe said that the President should not become party to the wants of some people to destroy the young politicians of the UNP.
+He further said: I am actually badly disappointed about the President. We elected him by making sacrifices. A certain organization had told the President that he could gain power in 2020 by destroying both the Rajapaksas and the UNP. I called and told him about this a month ago. What did he do by extending this commission Mud is being slung at us by extending and extending this commission.
+Where are Presidential Commissions for the Mig deals. Where are the commissions for Ship deals, advertising deals and spectrum deals Seven billion of public money. I am telling the President that we are also of the same age as his children. If he is protecting his children, if he is being hit by E-news, in the same way its not correct for a certain media to attack us.
+When he promised to bring 20 and only brought 4 as the common candidate, many people were not in favour of giving it to him. At that moment myself and Rosy Senanayake both said that how many he came with should not be the concern, but since he took a decision and came, we should begin the campaign at that moment. If there is a wrong-doing, implement the rule of law. If he can appoint a Bond Commission and catch thieves, why cant he do it for the others.
+I am telling the President that he willfully did not start probing this from 2008, but started from 2015. He could have easily looked at how Bonds were handled from 2008. Why couldnt this be done when we asked him What was done here was a conspiracy against the UNP. I am committed to protecting the UNP.
+Also Handunnetti cannot ethically sit in the COPE committee. He is the first person who spoke against the Bond issue. If he holds a certain opinion on a certain matter he does not have an ethical right to Chair such a committee. We can have an opinion and sit as a member. We will not protect either Aloysius or Ratwatte.
+There was a big outcry against the Bond issue. A certain media due to personal reasons made this into something much bigger than what it was. I must specifically say that I opposed when Arjuna Mahendran was first appointed. At that moment I told the Prime Minister that either Arjuna Mahendran should resign or Arjun Aloysius should resign.
+When all this was happening I got a chance to get appointed as a member of the COPE. I did not have much of an idea about the Bonds. It takes about six to seven months to understand this. What I did first was to understand what these bonds were. Whatever anyone says, it was I who asked the most amount of questions from Aloysius at the COPE. His connection with Cabraals sister. How he got this after 2008. It was I who asked all these questions. Also it was I who questioned about the conflict of interest in his father-in-law being the Governor of the Central Bank. None of those in the opposition question him about these. I wrote a book about these and asked the Bond Commission to summon me.
+I dont need to get two cents of bribes to earn money. Therefore I am saying that this country cannot be run according to the requirements of a certain private channel. This cannot be done to run your business, to control the President, to get rid of officials. We cannot allow this to happen.
+I will resign if the Prime Minister asks me to or if the people ask me to, but I cannot be stopped. " (Nimala Kodituwakku and Indika Ramanayake)
+Sujeewa replies to journalists
+Excerpts from the press conference State Minister Sujeewa Senasinghe had:
+Q-Do you infer that by with this transaction the country has suffered no loss.
+A-I am stating according to what I know. Not me it is the Supreme Court that decided there was no loss.
+Q-Did the Perpetual Treasuries Company have legal right to purchase Bonds at the Primary Market.
+A- It is possible in the Primary Market.
+Q-Can they resell them in the secondary Market.
+A-Yes they can.
+Q-Has the EPF the right to purchase Bonds in the Primary Market
+A-Yes they have the right.
+Q-Can they resell them in the secondary Market
+A-Yes they can
+Q-When they could have bought them at the Primary Market, why did they opt to purchase them from the Perpetual Treasuries company on payment of 2% commission.
+A-That is what you should investigate. A State institution does not take that responsibility. It is taken only by a private institution (Nimala Kodituwakku and Indika Ramanayake)
+Video by Buddhi, RM
+ 
+		
+==============================
+## Title: The price of freedom  Sri Lankans cry out for help from  Manus Island
+## Section: Expose
+## Date: 21 November 2017 12:41 am
+The price of freedom  Sri Lankans cry out for help from  Manus Island
+	
+The crisis on Manus Island continues as 421 refugees and asylum seekers refuse to leave the refugee processing centre on Manus Island to the alternative abodes provided. Twenty one among these refugees and asylum seekers are Sri Lankans. Since 2013 Australia has denied entry to anyone reaching its shores unofficially by boat. They were sent to refugee processing centres (RPC) in Manus Island and Nauru. However, on October 31 the controversial Manus Island detention centre was closed. This was following a judgement by the Supreme Court of Papua New Guinea in April 2016. The courtheld that restricting the movement of asylum seekers who havent committed a crime was unconstitutional. Though New Zealand has made an offer to accept 150 refugees from Manus Island and Nauru, Australia has turned down the offer.
+The refugees and asylum seekers claim that the alternative abodes are not yet ready and that their lives would be at risk. Their plea is to be resettled in a third country; a country other than Papua New Guinea and Australia.
+The refugees claim that some of them were beaten up by locals. Activists claim that even the members of the local community are victims of Australias policies and that the majority of local people on Manus Island were kind and generous. 
+Unhygienic living conditions
+According to news reports, refugees are relocated to the East Lorengau Refugee Transit Centre of West Lorengau House and those found not to be refugees were relocated to Hillside Haus on Manus Island. However, the refugees and the asylum seekers have shared videos on social media which show that there was no water and air conditioners and that washing machines werent working. They also pointed out that there was no power at the West Haus centre. In the absence of water toilets are filthy. Journalist Behrouz Boochani, an Iranian refugee, tweeted that a refugee suffering from heart pain has been awaiting the arrival of a doctor for two days, at Hillside. 
+The 421 refugees and asylum seekers, who have refused to be relocated, remain at the Manus Island RPC. Water, food, electricity and medical services have been cut off as the centre has been officially shut down. The shortage of clean water and food at the Manus Island RPC has raised health concerns. Boochani tweeted that some refugees needed to see a doctor immediately. Their plea for pure water has been ignored. Immigration officials have destroyed their water tanks and contaminated water in the wells with rubbish. But the determined refugees said that they will dig a well. 
+
+The shortage of clean water and food at the Manus Island RPC has raised health concerns
+Meanwhile the UNHCR regional representation in Canberra confirmed that it had observed first-hand that refugees and asylum-seekers most basic needs of food, water and physical security arent being met in the Regional Processing Centre on Manus Island. Access to medical care is also very limited in Lorengau, and UNHCR has observed that serious cases requiring hospitalization cant be adequately treated locally, the statement read. The statement further said that the forced movement of these refugees and asylum-seekers is inappropriate and should be avoided. 
+UNHCR called on Australia to take responsibility and provide protection and safety to the refugees and asylum-seekers it has transferred to Papua New Guinea (PNG).
+Avoiding persecution
+The refugees on Manus Island have fled persecution based on their political opinion, religion and ethnicity while some are stateless. Though Australia is a signatory to the 1951 Refugee Convention asylum seekers cant resettle in Australia. They are sent to Manus island, Nauru and other detention centers instead. In 2013 Former Australian Prime Minister Kevin Rudd announced that asylum seekers who reach Australia by boat will have no chance of being settled as refugees. Accordingly Australia then gave Papua New Guinea A$400m in aid in exchange for setting up the camp and resettling the refugees there. 
+
+An Iranian asylum seeker was attacked and succumbed to his injuries while 70 other asylum seekers were left injured
+
+So far six lives have been lost at the Manus Island RPC due to suspected suicides, riots, and illnesses which didnt receive prompt and sufficient medical attention. In 2014 riots erupted and locals entered the detention centre. An Iranian asylum seeker was attacked and succumbed to his injuries while 70 other asylum seekers were left injured. 
+In 2015 some 500 detainees went on a hunger strike fearing that they would be resettled in Papua New Guinea where they believed their lives would be at risk. Some detainees swallowed razor blades, some stitched their lips and four drank detergent in protest. On Good Friday this year soldiers have fired almost 100 shots at the detention centre in response to a dispute causing injuries to nine people which includes refugees and staff members. 
+
+
+Last month a Sri Lankan refugee was found dead on Manus Island and the cause of death was suspected to be suicide. He had been facing charges for sexual assault which he had denied. He had also been suffering from mental health issues.
+When the Daillymirror inquired into the 21 Sri Lankans at the Manus Island RPC, activists told us that given the circumstances it wasnt advisable to raise their profile. Meanwhile the Government of Sri Lanka (GoSL) has promised to take measures to bring back the Sri Lankan nationals in Australian refugee camps. Minister of Foreign Affairs Tilak Marapana told Parliament that the Government will bear the cost of air tickets of the returnees.
+
+"Australia is washing its hands off international obligations"
+Lakshan Dias- Human Rights Defender
+and Attorney-at-Law
+Human Rights Defender and Attorney-at-Law Lakshan Dias said that by shutting down the detention centre on Manus Island, Australia was deviating further from its obligations under the 1951 Refugee Convention. He said that Australia was running off shore refugee processing centres which was illegal under International law. 
+He pointed out that even though some have been legally recognized to be refugees the Australian Government wouldnt accept them. They will be free people on Manus Island. But Manus Island is a small territory and you cant do anything much. If they are brought to Australia as refugees, they can work and all the facilities are available to them under the Refugee Convention, he said. 
+
+Even when Australia decides to deport them the GoSL cant do anything as these asylum seekers are out of the country. It is only once they land on Katunayake Airport that the Sri Lankan Government can get involved
+Australia is a failed state because they have failed to adhere to the International law. Australia is washing its hands off international obligations, he stressed. 
+Referring to the statement made by the Minister of Foreign Affairs Tilak Marapana in Parliament, Dias said that the statement was incomplete without much legal basis. 
+He explained that as these people were seeking asylum in another country, Sri Lanka couldnt get involved. Even when Australia decides to deport them the GoSL cant do anything as these asylum seekers are out of the country. It is only once they land on Katunayake Airport that the Sri Lankan Government can get involved,he stressed.
+Under International law asylum seekers cant be sent back to their country of origin-in this case Sri Lanka- without their consent, Dias pointed out. Under the Sri Lankan fundamental rights jurisdiction citizens have the freedom to return to Sri Lanka. 
+He said that the GoSL could both charge and detain the returnees for violating the Immigration and Emigration Act on the grounds of leaving the country through illegal means, or offer a pardon. 
+He observed that there have been occasions when refugees who returned to Sri Lanka were harassed. I have submitted to world bodies information regarding refugees facing harassment, extortion, even torture at the Sri Lankan airport by the law enforcement authorities on their return, he added. 
+"If they wish to return to Sri Lanka voluntarily, Sri Lanka would welcome their return"
+Official from the Ministryof Foreign Affairs
+According to the information received by the Ministry of Foreign Affairs from the Australian Department of Immigration and Border Protection, through the High Commission in Canberra, there were 21 Sri Lankan nationals on Manus Island as of 12 November. 
+An official from the Ministry, who didnt wish to be named, said that those recognized as refugees, can settle in Papua New Guinea, as per the arrangement between the Australians and PNG Governments. Alternatively, refugees who dont wish to resettle in PNG can apply for resettlement in the US or apply to move to Nauru, he said. 
+Those who have failed to be recognized as asylum seekers or refugees are required to return to their country of origin, and the Governments of PNG and Australia will facilitate voluntary returns, he said. 
+The Government of Sri Lanka cant force anyone to return. If they wish to return to Sri Lanka voluntarily, however, they can do so , and Sri Lanka would welcome their return, the official from the Ministry of Foreign Affairs said.
+
+"Govt. will bear the cost of air tickets of returnees"
+Tilak Marapana- Ministerof Foreign Affairs
+The Minister of Foreign Affairs Tilak Marapana told Parliament that Sri Lankan refugees held in Australian detention centres for attempting to illegally enter Australia would be brought back to Sri Lanka.
+He said that steps will be taken for the Government to bear the cost of the air tickets of the returnees. He revealed that there were 197 Sri Lankans who are held at various refugee centers in PNG, Nauru, Christmas Island etc. 
+
+
+
+"Refugees have a fundamental human right to seek freedom"
+A community workerincontactwith refugees on Manus Island
+A community worker, in contact with refugees on Manus Island, who requested anonymity, said that more than 70% of those in the detention centre have been diagnosed with post-traumatic stress disorder (PTSD). Some refugees have untreated physical war injuries, she said. She said that the lack of resettlement options was the main grievance of these refugees. They want freedom in a durable third country to re-build their lives. UNHCR has previously said that PNG isnt a durable resettlement country, she said. She stressed that people have been there for far too long and should be resettled quickly. 
+The majority have been found to meet the criteria and have been determined to be refugees. They are refugees and have a fundamental human right to seek freedom and the opportunity to re-build their lives, she said. 
+According to her until the shutdown of the detention centre people had to line up for food like in a prison. Services slowly improved with English classes, excursions, one or two equipment in the gym, she said.
+"there is new, clean, safe alternative accommodation available to the refugees and asylum seekers"
+Response from the Australian Government
+ In response to the escalating media reports, the Australian Government categorically rejected the claims that there was a humanitarian emergency on Manus Island. Refugees and failed asylum seekers staying at the RPC-site are making an informed choice to do so, and have been provided with information and assurances from the PNG Government that facilities are ready at alternative locations, the Australian Government said in a statement. 
+The statement said that there was new, clean, safe alternative accommodation available to the refugees and asylum seekers. 
+As the PNG authorities formally closed the Manus RPC on 31 October the Departments staff no longer had authority to remain on PNGs Lombrum Naval Base and departed, the statement said. 
+The PNG Supreme Court has refused legal applications to reopen and restore services at the former RPC. Its important to note that the Court was satisfied that the Government of PNG has provided suitable alternative accommodation that allows for free movement and which is of good standard and sufficient for their daily needs, the statement further said.
+The Government also said that around 150 refugees and failed asylum seekers have moved in to the alternative a ccommodation sites.
+
+
+
+
+
+Picture courtesy-Manus Alert on Telegram
+operated by refugees and asylum seekers
+
+
+
+
+
+ 
+		
+==============================
+## Title: Trains come to a halt on main line and Kelani valley line
+## Section: Breaking News
+## Date: 21 November 2017 08:41 am
+Trains come to a halt on main line and Kelani valley line
+	
+Train services on the main line had come to a standstill after a express train collided with a lorry at the Hunupitiya railway crossing this morning, the railway control room said.
+They said train services on the two rail tracks on both ways through Hunupitiya on the main line had come to a halt due to the accident.
+The lorry had been thrown to the other line after the collision while the train was halted on the other line. Only the third track was operational, they said.
+The Control Room said, the train was bound to Batticoloa from Colombo Fort at 6.05a.m.
+According to the police report the accident occurred at 6.10a.m and the driver had managed to escape from the lorry. No injuries were reported.
+Meanwhile, the train services on the Kelani valley railway line was also obstructed due to a fallen a branch of a Bo Tree on the railway line last night, the Control Room said.
+They said the relevant authorities did not take any measures to clear the railway line. However, the Disaster Management Centre (DMC) had taken the responsibility but they said that they would come to the scene after 8.30a.m, the Control room said.
+Train services are now operating up to Kelaniya and Narahenpita railway stations only, they said.
+Police said the Bo Tree branch had fallen damaging several roofs of houses near the Dematagoda police station.
+They said, no deaths and injuries were reported. (Chaturanga Pradeep)
+
+
+Video by Lal S. Kumara
+ 
+		
+==============================
+==============================
