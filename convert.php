@@ -20,8 +20,14 @@ $conn = mysqli_connect($dbhost, $dbuser, $dbpass,$db) or die("Connect failed: %s
         $tab_removed_content=preg_replace("/[\r\n]+/", "\n", $row['content']);
         //replace ,## breaks with ##
         $comma_removed_content=preg_replace("/,##/", "##", $tab_removed_content);
+        //remove leading spaces infront of paragraph
+        $text=trim($comma_removed_content);
+        //replace gibberish( <U+200B>,?)
+        $gibberish_removed_content=str_replace('<U+200B>','', $text);
+        $cleaned_content=preg_replace("/\?/", "", $gibberish_removed_content);
         $mergedFile=$row['date_result'];
-        file_put_contents('uploaded_files/'.$mergedFile.'.txt', print_r($comma_removed_content, true));
+        //add cleaned content to files ordered by date
+        file_put_contents('uploaded_files/'.'DN_'.$mergedFile.'.txt', $cleaned_content);
 
 }
 

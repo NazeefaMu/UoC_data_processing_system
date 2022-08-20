@@ -29,10 +29,11 @@ if (isset($_POST['submit'])){
             $string=fread($myfile,filesize('textfiles/'.$filename));
             fclose($myfile);
             echo $encoding=mb_detect_encoding($string, 'auto');
-            $escaped_string=mysqli_real_escape_string($conn,$string);
+            $escaped_filename=mysqli_real_escape_string($conn,$filename);//escape ' in filename
+            $escaped_string=mysqli_real_escape_string($conn,$string);//escape ' in content
             $separated_content=$escaped_string."\n"."=============================="."\n";
         }
-        $sql="insert into file_data(fname,lname,filename,content) VALUES ('$fname','$lname','$filename','$separated_content')";
+        $sql="insert into file_data(fname,lname,filename,content) VALUES ('$fname','$lname','$escaped_filename','$separated_content')";
 
         $results=mysqli_query($conn,$sql) or die($conn->error);
         if($results){
@@ -41,9 +42,7 @@ if (isset($_POST['submit'])){
             echo "form not submitted";
         }
     }
-
 }
-
 mysqli_close($conn);
 
 ?>
